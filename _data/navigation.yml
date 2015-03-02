@@ -1,0 +1,20 @@
+- title: Start
+  url: "/index.html"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archiv"
+    url: "/blog/archiv/"
+
+- title: "Suche"
+  url: "/suche/"
+  side: right
+
+- title: "Impressum"
+  url: "http://phlow.de/impressum/"
+  side: right
