@@ -1,0 +1,46 @@
+- title: Start
+  url: "/index.html"
+  side: left
+
+- title: Publizieren
+  url: "#"
+  side: left
+  dropdown:
+  - title: Texten fürs Web
+    url: "/text/"
+  - title: Bildbearbeitung
+    url: "/bild/"
+  - title: "Audiobearbeitung"
+    url: "/audio/"
+  - title: "Video &amp; Videoschnitt"
+    url: "/video/"
+  - title: Multimedia
+    url: "/multimedia/"
+  - title: Webdesign
+    url: "/webdesign/"
+
+- title: CMS
+  url: "#"
+  side: left
+  dropdown:
+  - title: WordPress
+    url: "/wordpress/"
+  - title: Jekyll
+    url: "/jekyll/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archiv"
+    url: "/blog/archiv/"
+
+- title: "Suche"
+  url: "/suche/"
+  side: right
+
+- title: "Impressum"
+  url: "http://phlow.de/impressum/"
+  side: right
