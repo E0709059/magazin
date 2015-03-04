@@ -2,8 +2,9 @@
 layout: page-fullwidth
 subheadline:
 title:
-description:
+teaser:
 meta_description:
+permalink:
 categories:
     - 
 tags:

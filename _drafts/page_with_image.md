@@ -1,15 +1,21 @@
 ---
-layout: post
-title:
-subheadline:
+layout: page
+subheadline: 
+title: 
+teaser:
 meta_description:
-description:
+permalink:
 categories:
     - 
 tags:
     - 
+image:
+    header: 
+    thumb: 
+    homepage:
+    credit:
+    url:
 ---
-
 
 
 

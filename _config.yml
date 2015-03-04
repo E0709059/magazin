@@ -217,5 +217,18 @@ collections:
   video:
     output: true
     permalink: /:path/
-
-
+  interview:
+    output: true
+    permalink: /:path/
+  webdesign:
+    output: true
+    permalink: /:path/
+  wordpress:
+    output: true
+    permalink: /:path/
+  organisation:
+    output: true
+    permalink: /:path/
+  multimedia:
+    output: true
+    permalink: /:path/
