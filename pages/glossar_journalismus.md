@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subtitle: "Begriffserklärungen rund um Journalismus und Medien"
 title: Journalismus Glossar
 teaser: 'Dieses Glossar versammelt und erklärt Begriffe aus dem Bereich <strong>Journalismus</strong>.'
 tags:
@@ -19,6 +20,8 @@ permalink: /journalismus/glossar/
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
+<small>Foto: [»Vintage typewriter, telephone, old books« von Shutterstock](http://shutterstock.com/pic-126483725/stock-photo-vintage-typewriter-telephone-old-books-on-table-desaturated-photo.html)</small>
+
 ## Darstellungsform
 Erklärung
 

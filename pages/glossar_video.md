@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subtitle: "Begriffe aus der Videoproduktion"
 title: Video Glossar
 teaser: 'Begriffe aus dem Bereich <strong>Video und Videotechnik</strong> kurz und knackig erklärt und definiert.'
 tags:
@@ -21,7 +22,7 @@ permalink: /video/glossar/
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-
+Foto: [A black film case (Shutterstock)](http://www.shutterstock.com/pic-144766738/stock-photo-a-black-film-case-reel-and-a-cinema-clap-isolated-on-white.html)
 
 ## Bauchbinde
 Eine Bauchbinde ist eine zusätzliche Information, die am unteren Bildrand eingeblendet wird – z.B. »Moderation: Esteban Faustamente«.
@@ -54,7 +55,7 @@ Als Jump Cut bezeichnet man Filmschnitte, deren Bildübergänge als »Sprung« w
 Ein Keyframe, zu Deutsch auch Schlüsselbild genannt, ist ein Begriff aus der Animationstechnik. Keyframes sind Schlüsselpunkte mit Einstellungen, die nacheinander abgearbeitet werden. Um beispielsweise einen Bildschirmausschnitt zu vergrößern, definiert der erste Keyframe die Gesamtgröße des Bildschirms. Der zweite Keyframe definiert den zu vergrößernden Bereich. Die Videoschnittsoftware berechnet anschließend für den Zeitraum von Keyframe 1 zu Keyframe 2 die Zwischenschritte, sodass eine Animation entsteht.
 
 ## Matchcut
-Erklärung
+Der Match Cut bezeichnet eine Filmmontagetechnik, bei welcher zwei Szenen so aneinandergeschnitten werden, dass die Filmstücke dem Betrachter einen kontinuierlichen Verlauf der Handlung vermitteln. Ein gelungener Match Cut zeigt einen Setwechsel und/oder Zeitsprung, indem die Bilder auf der optischen Ebene »gematcht«, also zusammengefügt werden.
 
 ## Sequenz
 Mehrere aufeinander folgende geschnittene Clips ergeben eine Filmsequenz, auch Sequenz genannt.
