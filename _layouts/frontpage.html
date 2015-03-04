@@ -47,6 +47,19 @@ format: blog-index
 </div><!-- /.row -->
 
 
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+
 {% comment %}
 *
 * First check, if there are any posts at all
@@ -94,14 +107,3 @@ format: blog-index
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
