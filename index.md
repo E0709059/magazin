@@ -13,13 +13,31 @@ header:
 <div class="row">
     <div class="small-12 text-center medium-10 medium-offset-1 columns">
         <h2 class="b30">Verpasse nicht den Start des Phlow Magazins und trage Dich in den Phlow-Newsletter ein.</h2>
-
-        <a href=""></a>
-
-<a class="radius button success" href="#" data-reveal-id="newsletter-abo">Phlow Newsletter ›</a>
-
+        <a class="radius button success" href="#" data-reveal-id="newsletter-abo">Phlow Newsletter ›</a>
     </div><!-- /.small-12 medium-8.columns -->
 </div><!-- /.row -->
+
+
+<div class="row">
+    <div class="medium-4 columns">
+        <h4>Glossare</h4>
+        <ul>
+          {% for page in site.pages %}
+              {% if page.title contains 'Glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+          {% endfor %}
+      </ul>
+
+  </div><!-- /.medium-4.columns -->
+  <div class="medium-4 columns"></div><!-- /.medium-4.columns -->
+  <div class="medium-4 columns"></div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+
+
+
+
+
+
 
 
 
