@@ -12,7 +12,7 @@ header:
 ---
 <div class="row">
     <div class="small-12 text-center medium-10 medium-offset-1 columns">
-        <h2 class="b30">Verpasse nicht den Start des Phlow Magazins und trage Dich in den Phlow-Newsletter ein.</h2>
+        <h2 class="b30">Verpasse nicht den offiziellen Start des Phlow Magazins und trage Dich in den Phlow-Newsletter ein.</h2>
         <a class="radius button success" href="#" data-reveal-id="newsletter-abo">Phlow Newsletter ›</a>
     </div><!-- /.small-12 medium-8.columns -->
 </div><!-- /.row -->
