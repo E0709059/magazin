@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page-fullwidth
 subtitle: "Begriffserklärungen rund um Journalismus und Medien"
 title: Journalismus Glossar

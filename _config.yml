@@ -78,7 +78,7 @@ defaults:
       type: "pages"
     values:
       show_meta: true 	# Show metadata beneath all pages
-      sidebar: "" 		# Possible values › left, right › by default there will be no sidebar
+      # sidebar: "" 		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
   -
@@ -87,7 +87,7 @@ defaults:
       type: "posts"
     values:
       show_meta: true   # Show metadata beneath all posts
-      sidebar: ""     # Possible values › left, right › by default there will be no sidebar
+      # sidebar: ""     # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "your_author_name"
 
@@ -220,15 +220,15 @@ collections:
   interview:
     output: true
     permalink: /:path/
-  webdesign:
-    output: true
-    permalink: /:path/
-  wordpress:
-    output: true
-    permalink: /:path/
-  organisation:
-    output: true
-    permalink: /:path/
-  multimedia:
-    output: true
-    permalink: /:path/
+#  webdesign:
+#    output: true
+#    permalink: /:path/
+#  wordpress:
+#    output: true
+#    permalink: /:path/
+#  organisation:
+#    output: true
+#    permalink: /:path/
+#  multimedia:
+#    output: true
+#    permalink: /:path/

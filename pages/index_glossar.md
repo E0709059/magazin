@@ -1,9 +1,12 @@
 ---
-layout: page-fullwidth
+layout: page
 subtitle: Begriffsdefinitionen
-title: Glossare
+title: Übersicht über unsere Glossare
 teaser: 'Phlow bietet eine kleine Auswahl an Glossaren zu verschiedenen Themen der Medienproduktion. Unsere Glossare definieren Begriffe und erklären eindeutig, was gemeint ist.'
-tags:
-    - glossar
 permalink: /glossare/
 ---
+<ul>
+  {% for page in site.pages %}
+  {% if page.title contains 'Glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+  {% endfor %}
+</ul>

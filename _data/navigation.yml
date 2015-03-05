@@ -41,6 +41,10 @@
   url: "/suche/"
   side: right
 
+- title: "Über Uns"
+  url: "/info/"
+  side: right
+
 - title: "Impressum"
   url: "http://phlow.de/impressum/"
   side: right
