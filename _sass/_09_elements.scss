@@ -18,13 +18,11 @@
 /* Panel
 ------------------------------------------------------------------- */
 
-.panel {
-    padding: $spacing-unit/2;
+.border-dotted {
+  border: 1px dotted $grey-5;
+  padding: rem-calc(20);
+  border-radius: $global-radius;
 }
-.panel.dotted-border {
-    border-radius: $global-radius;
-    border: 1px dotted $grey-4;
-} 
 
 
 /* Shadows
@@ -36,11 +34,7 @@
 
 
 
-.border-dotted {
-  border: 1px dotted $grey-5;
-  padding: rem-calc(20);
-  border-radius: $global-radius;
-}
+
 
 .alert-box {
   font-family: $font-family-sans-serif;
@@ -86,7 +80,6 @@ button, .button         { letter-spacing: 1px; }
 .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus { background: #eee; }
 
 .homepage p { margin: 0; padding: 0; color: $grey-10; }
-.caption a { border-bottom: 1px dotted $grey-4; color: $grey-10; font-size: rem-calc(13); }
 
 
 .meta-info p {

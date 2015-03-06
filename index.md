@@ -11,15 +11,16 @@ header:
     image_fullwidth: "header_unsplash_12.jpg"
 ---
 <div class="row">
-  <div class="small-12 text-center medium-10 medium-offset-1 columns">
-    <h2 class="b30">Verpasse nicht den offiziellen Start des Phlow Magazins und trage Dich in den Phlow-Newsletter ein.</h2>
-    <a class="radius button success" href="#" data-reveal-id="newsletter-abo">Phlow Newsletter ›</a>
-  </div><!-- /.small-12 medium-8.columns -->
-</div><!-- /.row -->
+<div class="medium-4 columns">
+    <h4>Social Media Special</h4>
+    <ul>
+      {% for page in site.pages %}
+      {% if page.tags contains 'social media' && 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+      {% endfor %}
+    </ul>
+  </div><!-- /.medium-4.columns -->
 
-<hr class="t30">
 
-<div class="row">
   <div class="medium-4 columns">
     <h4>Glossare</h4>
     <ul>
@@ -27,9 +28,10 @@ header:
       {% if page.tags contains 'glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
       {% endfor %}
     </ul>
+</div><!-- /.medium-4.columns -->
 
-  </div><!-- /.medium-4.columns -->
-  <div class="medium-4 columns">
+
+<div class="medium-4 columns">
     <h4>Interviews</h4>
     <p>
       Unsere Interviews befragen Webdesigner, Programmierer, Netzexperten, Blogger und Journalisten zu Themen rund um das Thema <em>digitales Publizieren</em>.
@@ -40,11 +42,26 @@ header:
       <li><a href="{{ site.url }}{{ interview.url }}">{{ interview.title }}</a></li>
       {% endfor %}
     </ul>
-  </div><!-- /.medium-4.columns -->
-  <div class="medium-2 columns"></div><!-- /.medium-2.columns -->
+</div><!-- /.medium-4.columns -->
+
+
+    
+
 </div><!-- /.row -->
 
 <hr class="t30">
+
+
+<div class="row">
+  <div class="small-12 text-center medium-10 medium-offset-1 columns">
+    <h2 class="b30">Auf dem Laufenden bleiben und keine Anleitungen und Tipps verpassen.</h2>
+    <a class="radius button success" href="#" data-reveal-id="newsletter-abo">Den Phlow Magazin Newsletter abonnieren ›</a>
+  </div><!-- /.small-12 medium-8.columns -->
+</div><!-- /.row -->
+
+<hr class="t30">
+
+
 
 
 
