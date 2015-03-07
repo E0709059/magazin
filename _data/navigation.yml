@@ -1,5 +1,5 @@
 - title: Start
-  url: "/index.html"
+  url: "/"
   side: left
 
 - title: Publizieren
@@ -44,6 +44,13 @@
 - title: "Über Uns"
   url: "/info/"
   side: right
+  dropdown:
+  - title: "Mission von Phlow Magazin"
+    url: "/info/"
+  - title: "Presskit, Logo, Phlow Brand"
+    url: "/ci/"
+  - title: "Roadmap – Unser Weg"
+    url: "/roadmap/"
 
 - title: "Impressum"
   url: "http://phlow.de/impressum/"

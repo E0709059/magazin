@@ -7,8 +7,7 @@
 layout: frontpage
 title: "Phlow Magazin – Webdesign, Journalismus &amp; Social Media"
 header:
-    title: " "
-    image_fullwidth: "header_unsplash_12.jpg"
+    image_fullwidth: header_workspace.jpg
 ---
 <div class="row">
 <div class="medium-4 columns">
