@@ -37,6 +37,10 @@
   - title: "Blog Archiv"
     url: "/blog/archiv/"
 
+- title: Videos
+  url: "/phlow-tv/"
+  side: left
+
 - title: "Suche"
   url: "/suche/"
   side: right
