@@ -25,6 +25,16 @@ format: video
 					{% if page.show_meta == true %}
 					{% include meta_information.html %}
 					{% endif %}
+					<aside class="t60">
+						<h3>Mehr Videos</h3>
+
+						<ul class="side-nav">
+							{% for phlow_tv in site.phlow_tv %}
+							<li><a href="{{ site.url }}{{ phlow_tv.url }}"><strong>{{ phlow_tv.title }}</strong></a></li>
+							{% endfor %}
+							<li>&nbsp;</li>
+						</ul>
+					</aside>
 				</div><!-- /.medium-8.columns -->
 			</div><!-- /.row -->
 		</article>

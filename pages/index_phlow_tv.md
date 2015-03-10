@@ -16,12 +16,12 @@ show_meta: false
 
 
 
-
+<ul class="no-bullet">
 {% for phlow_tv in site.phlow_tv %}
+<li class="clearfix">
 <h2><a href="{{ site.url }}{{ phlow_tv.url }}">{{ phlow_tv.title }}</a>
 </h2>
 <p>{% if phlow_tv.image.thumb %}<img class="left" src="{{ site.urlimg }}{{ phlow_tv.image.thumb }}" alt="" height="128">{% endif %}{{ phlow_tv.teaser }} <a href="{{ site.url }}{{ phlow_tv.url }}">Anschauen ›</a></p>
+</li>
 {% endfor %}
-
-
-
+</ul>

@@ -4,7 +4,7 @@ subheadline:
 title: 
 teaser: 
 meta_description:
-permalink: /video//
+permalink: /video/xxx/
 header: no
 image:
     thumb: phlow-tv-XXX-thumb.jpg
