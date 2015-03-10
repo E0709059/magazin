@@ -84,7 +84,7 @@ header:
 
 
 <div id="newsletter-abo" class="reveal-modal" data-reveal>
-  <iframe width="100%" height="480" src="http://phlow.us2.list-manage1.com/subscribe?u=acb99fb0411d067a7c7ccdb61&id=81e932aa5d" frameborder="0" allowfullscreen=""></iframe>
+  <iframe width="100%" height="580" src="http://phlow.us2.list-manage1.com/subscribe?u=acb99fb0411d067a7c7ccdb61&id=81e932aa5d" frameborder="0" allowfullscreen=""></iframe>
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
