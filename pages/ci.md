@@ -106,9 +106,9 @@ Das Phlow Magazin hat eine Farbpalette, die die verschiedenen Themenbereiche unt
 
 <div class="row t30">
 <div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #4b4b4d; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff; padding-top: 50px;color: #fff;">#4b4b4d</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #771e1e; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#771e1</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #aa0132; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#aa013</div></div>
-<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #fabb00; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#fabb0</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #771e1e; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#771e1e</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #aa0132; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#aa0132</div></div>
+<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #fabb00; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#fabb00</div></div>
 </div>
 
 
@@ -116,18 +116,18 @@ Das Phlow Magazin hat eine Farbpalette, die die verschiedenen Themenbereiche unt
 ### Text
 
 <div class="row t30">
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #6b6351; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#6b635</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #aaa296; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#aaa29</div></div>
-<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #e1dcd7; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#e1dcd</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #6b6351; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#6b6351</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #aaa296; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#aaa296</div></div>
+<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #e1dcd7; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#e1dcd7</div></div>
 </div>
 
 
 ### Audio
 
 <div class="row t30">
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #00792c; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#00792</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #6a9519; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#6a951</div></div>
-<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #acca57; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#acca5</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #00792c; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#00792c</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #6a9519; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#6a9519</div></div>
+<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #acca57; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#acca57</div></div>
 </div>
 
 
@@ -135,27 +135,27 @@ Das Phlow Magazin hat eine Farbpalette, die die verschiedenen Themenbereiche unt
 ### Video
 
 <div class="row t30">
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #e05a10; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#e05a1</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #f29400; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#f2940</div></div>
-<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #ffe444; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#ffe44</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #e05a10; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#e05a10</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #f29400; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#f29400</div></div>
+<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #ffe444; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#ffe444</div></div>
 </div>
 
 
 ### Webdesign
 
 <div class="row t30">
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #900055; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#90005</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #d4007a; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#d4007</div></div>
-<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #f5b6c9; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#f5b6c</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #900055; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#900055</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #d4007a; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#d4007a</div></div>
+<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #f5b6c9; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#f5b6c9</div></div>
 </div>
 
 
 ### Seminare
 
 <div class="row t30">
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #005380; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#00538</div></div>
-<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #0085ba; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#0085b</div></div>
-<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #82cbd0; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#82cbd</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #005380; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#005380</div></div>
+<div class="small-2 columns"><div class="shadow-black sans text-center" style="background: #0085ba; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#0085ba</div></div>
+<div class="small-2 end columns"><div class="shadow-black sans text-center" style="background: #82cbd0; border-radius: 3px; height: 137px; padding-top: 50px;color: #fff;">#82cbd0</div></div>
 </div>
 
 
