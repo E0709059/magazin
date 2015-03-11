@@ -10,7 +10,7 @@
   class: "rss-link"
   title: "RSS abonnieren"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  class: "sitemap-link"
-  title: "Sitemap für Google Webmastertools"
+- name: "Newsletter"
+  url: "/newsletter/"
+  class: "newsletter-link"
+  title: "Kostenlos abonnieren, den Phlow Magazin Newsletter!"

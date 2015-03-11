@@ -96,11 +96,16 @@ Mit dem Bildbearbeitungs-Service [Pablo](https://bufferapp.com/pablo) von Buffer
 </div><!-- /.medium-4.columns -->
 <div class="medium-4 columns" markdown="1">
         
-
-
-
-
 ### Zusatz-Apps
+
+
+#### longreply.com
+
+[![LongReply.com ermöglicht lange Antworten auf kompliziertere Kundenfragen]({{ site.urlimg }}scr-longreply.png)]({{ site.urlimg }}scr-longreply.png)
+
+
+[LongReply.com][1] ermöglicht lange Antworten auf kompliziertere Kundenfragen. Reichen 140 Zeichen für eine Antwort nicht aus, hilft LongReply mit einer URL zur ausführlichen Antwort aus – siehe Bildschirmfoto.
+
 
 #### One Shot
 
@@ -108,9 +113,13 @@ Mit dem Bildbearbeitungs-Service [Pablo](https://bufferapp.com/pablo) von Buffer
 
 Mit *One Shot* zitiert man unkompliziert Text, den man zuvor mittels Screenshot abgespeichert hat. One Shot extrahiert den Text und ermöglicht die Bearbeitung des Screenshots.
 
-Website: [One Shot](http://oneshot.link/)
+Website: [One Shot][2]
 
 
+
+
+ [1]: https://longreply.com/
+ [2]: http://oneshot.link/
 
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -161,6 +170,5 @@ Website: [One Shot](http://oneshot.link/)
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
-
 
 
