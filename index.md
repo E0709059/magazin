@@ -11,7 +11,7 @@ header:
 ---
 <div class="row">
   <div class="medium-4 columns">
-    <h4 class="b15">Social Media Specials</h4>
+    <h4 class="b15"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h4>
     <ul class="side-nav">
       {% for page in site.pages reversed %}
       {% if page.tags contains 'social media' && 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
@@ -22,7 +22,7 @@ header:
 
 
   <div class="medium-4 columns">
-    <h4 class="b15">Videoanleitungen</h4>
+    <h4 class="b15"><a href="{{ site.url }}/phlow-tv/">Videoanleitungen</a></h4>
     <ul class="side-nav">
       {% for phlow_tv in site.phlow_tv | limit:5 %}
       <li><a href="{{ site.url }}{{ phlow_tv.url }}"><strong>{{ phlow_tv.title }}</strong></a></li>
@@ -50,15 +50,23 @@ header:
 
 <div class="row">
 <div class="medium-4 columns">
+    <h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
+    <ul class="side-nav">
+      {% for webdesign in site.webdesign %}
+      <li><a href="{{ site.url }}{{ webdesign.url }}">{{ webdesign.title }}</a></li>
+      {% endfor %}
+      <li>&nbsp;</li>
+    </ul>
 </div><!-- /.medium-4.columns -->
 
 
   <div class="medium-4 columns">
     <h4 class="b15">Glossare</h4>
-    <ul>
+    <ul class="side-nav">
       {% for page in site.pages %}
       {% if page.tags contains 'glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
       {% endfor %}
+      <li>&nbsp;</li>
     </ul>
 </div><!-- /.medium-4.columns -->
 

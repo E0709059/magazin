@@ -1,10 +1,8 @@
 ---
 layout: page
 subheadline: "Newsletter"
-title: "Anleitungen, Nachrichten und Tipps & Tricks per Email"
-teaser: "Der Phlow Magazin Newsletter informiert Sie kostenlos über aktuelle Trends in Webdesign, Journalismus und Social Media. Wir schicken Ihnen Anleitungen, hilfreiche Links und Downloads, damit Sie Ihr Potential voll entfalten."
-meta_description: "Über unseren Newsletter erhalten Sie exklusive Anleitungen, Downloads und Neues zu den Themen Webdesign, Journalismus und Social Media."
-permalink: /newsletter/
+title: "Phlow Magazin Newsletter-Archiv"
+permalink: /newsletter-archiv/
 header:
     image: header_mailchimp.jpg
     background-color:  "#562F06"
@@ -13,17 +11,18 @@ tags:
 show_meta: false
 ---
 
+<script language="javascript" src="http://us2.campaign-archive1.com/generate-js/?u=acb99fb0411d067a7c7ccdb61&fid=28173&show=10" type="text/javascript"></script>
 
-<div id="mc_embed_signup">
+
+
+<div class="panel t30 radius" id="mc_embed_signup">
 <form action="//phlow.us2.list-manage.com/subscribe/post?u=acb99fb0411d067a7c7ccdb61&amp;id=81e932aa5d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <h3 class="b15">Abonnieren Sie den Phlow Magazin Newsletter</h3>
+    <p class="font-size-h3">Überzeugt? Dann kostenlos abonnieren.</p>
 
 <div class="mc-field-group">
-   
     <input type="email" value="Ihre Email Addresse" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<p><a href="{{ site.url }}/newsletter-archiv/" title="Voherige Newsletter anschauen">Newsletter Archiv</a></p>
     <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>
@@ -54,4 +53,3 @@ $.extend($.validator.messages, {
     creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
