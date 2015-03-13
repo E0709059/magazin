@@ -73,22 +73,22 @@ h1 {
 }
 h2 {
     font-size: $font-size-h2;
-    margin: 1.563em 0 0 0;
+    margin-top: 1.563em;
 }
     .blog-index h2 {
         margin-top: 0;
     }
 h3 {
     font-size: $font-size-h3;
-    margin: 1.152em 0 0 0;
+    margin-top: 1.152em;
 }
 h4 {
     font-size: $font-size-h4;
-    margin: 1.152em 0 0 0;
+    margin-top: 1.152em;
 }
 h5 {
     font-size: $font-size-h5;
-    margin: 1em 0 0 0;
+    margin-top: 1em;
 }
 
 
@@ -107,17 +107,31 @@ img { border-radius: $global-radius;}
 figure {
     margin: 0 0 rem-calc(30) 0;
 }
-figcaption {
+#masthead-with-background-color figure,
+#masthead-with-pattern figure {
+    margin: 0;
+}
+figcaption,
+.masthead-caption {
     color: $grey-10;
     font-family: $font-family-sans-serif;
     font-size: rem-calc(13);
     padding-top: rem-calc(2);
 }
-figcaption a {
+figcaption a,
+.masthead-caption a {
     border-bottom: 1px dotted $grey-4;
     color: $grey-10;
 }
-
+figcaption a:hover,
+.masthead-caption a:hover {
+    border-bottom: 2px solid $primary-color;
+    color: $primary-color;
+}
+.masthead-caption {
+    padding-right: 10px;
+    text-align: right;
+}
 
 
 /* Lists

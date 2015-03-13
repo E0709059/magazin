@@ -7,8 +7,6 @@ teaser: "Unser Facebook-Special bietet Fakten, Informationen, Tipps & Tricks, Do
 header:
     image_fullwidth: facebook_official_likesign.jpg
     title: 
-    credit: 
-    url: 
 tags:
     - social media
     - plattform

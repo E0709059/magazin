@@ -2,16 +2,12 @@
 layout: page-fullwidth
 subheadline: "Ressources und Brand Assets"
 title: "Phlow Magazin Brand"
-teaser: ""
-meta_description: ""
+teaser: "Diese Webseite informiert Sie über die Corporate Identity von Phlow Magazin. Unsere Brand Assets können Sie auch herunterladen und unseren Vorgaben entsprechen nutzen."
 permalink: /ci/
 header: no
-image:
-    title: 
-#    url: 
-    credit: 
 tags:
     - ci
+    - phlow
     - corporate identity
     - brand
     - brand assets

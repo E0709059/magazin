@@ -6,8 +6,7 @@ teaser: 'YouTube ist eine der wichtigsten Websites und Social Media-Kanäle im I
 permalink: /youtube/
 header:
     image_fullwidth: youtube-icon-full_color.png
-    title: YouTube
-    credit: "YouTube Logo"
+    title: " "
 tags:
     - social media
     - plattform

@@ -4,9 +4,9 @@ title: Twitter
 permalink: /twitter/
 header:
     image_fullwidth: header_twitter.jpg
-    title: Twitter
-    credit: "Illustration: Jeannette Corneille"
-    url: http://jcorneille.de/
+    caption: "Illustration: Jeannette Corneille"
+    caption_url: http://jcorneille.de/
+    title: " "
 tags:
     - social media
     - plattform

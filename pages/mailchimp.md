@@ -8,8 +8,8 @@ permalink: /mailchimp/
 header: no
 image:
     title: header_mailchimp.jpg
-#    url: http://mailchimp.com
-    credit: Freddie, Logo von Mailchimp
+#    caption_url: http://mailchimp.com
+    caption: Freddie, Logo von Mailchimp
 tags:
     - mailchimp
     - newsletter
