@@ -5,10 +5,12 @@ permalink: /webdesign/
 breadcrumb: true
 header: no
 ---
-<h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
 <ul class="side-nav">
   {% for webdesign in site.webdesign %}
-  <li><a href="{{ site.url }}{{ webdesign.url }}">{{ webdesign.title }}</a></li>
+    {% if webdesign.published == false %}
+    {% else %}
+    <li><a href="{{ site.url }}{{ webdesign.url }}">{{ webdesign.title }}</a></li>
+    {% endif %}
   {% endfor %}
   <li>&nbsp;</li>
 </ul>

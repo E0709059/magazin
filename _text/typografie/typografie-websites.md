@@ -27,6 +27,22 @@ Herausgeber und Autor ist der Grafikdesigner und Typograph Wolfgang Beinert. Er 
 
 
 
+## Typografie Artikel
+
+- [»Web Typography«  von Richard Rutter](http://webtypography.net/)
+- [»Compose to a Vertical Rhythm«](http://24ways.org/2006/compose-to-a-vertical-rhythm/)
+- [»Composing the New Canon«](http://24ways.org/2011/composing-the-new-canon)
+- [»More Meaningful Typography«](http://alistapart.com/article/more-meaningful-typography)
+- [Choosing the Right Font: A Guide to Typography and UX](http://www.usertesting.com/blog/2014/08/06/choosing-the-right-font-a-guide-to-typography-and-user-experience/)
+
+
+
+## Online-Werkzeuge
+
+- [Berechnen der Modular Scale](http://modularscale.com/)
+
+
+
 
 
 

@@ -1138,8 +1138,8 @@ $side-nav-list-margin: rem-calc(0 0 0 0);
 
 // We use these to control link styles.
 $side-nav-link-color: $primary-color;
-$side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%);
-$side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
+$side-nav-link-color-active: $phlow-mittel-mangenta;
+$side-nav-link-color-hover: $phlow-mittel-mangenta;
 $side-nav-font-size: rem-calc(16);
 
 // $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
