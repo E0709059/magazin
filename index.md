@@ -23,45 +23,32 @@ header:
 
   <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/phlow-tv/">Videoanleitungen</a></h4>
-    <ul class="side-nav">
-      {% for phlow_tv in site.phlow_tv | limit:5 %}
-      <li><a href="{{ site.url }}{{ phlow_tv.url }}"><strong>{{ phlow_tv.title }}</strong></a></li>
-      {% endfor %}
-      <li>&nbsp;</li>
-    </ul>
+    {% include list-collection.html collection='phlow_tv' %}
   </div><!-- /.medium-4.columns -->
 
-<div class="medium-4 columns">
+  <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
-    <ul class="side-nav">
-      {% for webdesign in site.webdesign %}
-        {% if webdesign.published == false %}
-        {% else %}
-        <li><a href="{{ site.url }}{{ webdesign.url }}">{{ webdesign.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-      <li>&nbsp;</li>
-    </ul>
-</div><!-- /.medium-4.columns -->
+    {% include list-collection.html collection='webdesign' %}
+  </div><!-- /.medium-4.columns -->
 
 
 </div><!-- /.row -->
 
 
 <div class="row">
-<div class="medium-4 columns">
+  <div class="medium-4 columns">
+    <h4 class="b15">Bildbearbeitung</h4>
+    {% include list-collection.html collection='bild' %}
+  </div><!-- /.medium-4.columns -->
+
+
+  <div class="medium-4 columns">
     <h4 class="b15">Interviews</h4>
     <p>
       Unsere Interviews befragen Webdesigner, Programmierer, Netzexperten, Blogger und Journalisten zu Themen rund um das Thema <em>digitales Publizieren</em>.
     </p>
-
-    <ul class="side-nav">
-      {% for interview in site.interview %}
-      <li><a href="{{ site.url }}{{ interview.url }}">{{ interview.title }}</a></li>
-      {% endfor %}
-      <li>&nbsp;</li>
-    </ul>
-</div><!-- /.medium-4.columns -->
+    {% include list-collection.html collection='interview' %}
+  </div><!-- /.medium-4.columns -->
 
 
   <div class="medium-4 columns">
@@ -72,26 +59,19 @@ header:
       {% endfor %}
       <li>&nbsp;</li>
     </ul>
-</div><!-- /.medium-4.columns -->
-
-
-<div class="medium-4 columns">
-</div><!-- /.medium-4.columns -->
+  </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 
 
 <div class="t30 b60" style="padding: 30px 0; background: #4b4b4d;">
-
 <div class="row">
-  <div class="small-12 text-center medium-10 medium-offset-1 columns">
-    <h2 style="color: #fff;" class="shadow-black b30">Auf dem Laufenden bleiben und keine Anleitungen und Tipps verpassen.</h2>
-    <a class="radius button success shadow-black" href="#" data-reveal-id="newsletter-abo">Den Phlow Magazin Newsletter abonnieren ›</a>
-  </div><!-- /.small-12 medium-8.columns -->
-</div><!-- /.row -->
+    <div class="small-12 text-center medium-10 medium-offset-1 columns">
+      <h2 style="color: #fff;" class="shadow-black b30">Auf dem Laufenden bleiben und keine Anleitungen und Tipps verpassen.</h2>
+      <a class="radius button success shadow-black" href="#" data-reveal-id="newsletter-abo">Den Phlow Magazin Newsletter abonnieren ›</a>
+    </div><!-- /.small-12 medium-8.columns -->
+  </div><!-- /.row -->
 </div>
-
-
 
 
 

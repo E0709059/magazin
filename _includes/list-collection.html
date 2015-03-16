@@ -1,0 +1,9 @@
+    <ul class="side-nav">
+      {% for page in site.[include.collection] %}
+        {% if page.published == false %}
+        {% else %}
+        <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      <li>&nbsp;</li>
+    </ul>
