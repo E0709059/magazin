@@ -53,4 +53,7 @@
 
 	<!-- Search Engine Optimization -->
 	{% if page.noindex == true %}<meta name="robots" content="noindex">{% endif %}
+	{% unless page.style == NULL %}
+	<style type="text/css">{{ page.style }}</style>
+	{% endunless %}
 </head>

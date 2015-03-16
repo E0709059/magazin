@@ -13,6 +13,6 @@ image:
     title: 
     thumb: 
     homepage:
-    credit:
-    url:
+    caption:
+    caption_url:
 ---
