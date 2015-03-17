@@ -33,9 +33,6 @@ tags:
 ## Fakten, Neues, Trends
 {: .m0 }
 
-
-### Weitere Quellen für Fakten und Neues
-
 - [Offizielle YouTube Statistiken](http://www.youtube.com/t/press_statistics)
 - [YouTube Charts » Beliebte Videos](http://www.youtube.com/charts)
 - [YouTube Video Trends](http://www.youtube.com/videos)

@@ -1,9 +1,8 @@
 ---
 layout: page-fullwidth
 title: WordPress
-teaser: WordPress ist das weltweit beliebteste Redaktionssystem für die Betreuung von Webseiten.
+teaser: "WordPress ist das weltweit beliebteste Redaktionssystem, mit welchem Sie leicht eine Website betreuen und aufbauen können. Ob als Firmen-Website, Profil-Seite, Blog oder für Ihr Geschäft: <strong>WordPress ist ein Allroundtalent.</strong> Eine Programmiersprache müssen Sie nicht lernen. Denn die Konstruktion der Website übernimmt WordPress."
 permalink: /wordpress/
-breadcrumb: true
 header: no
 show_meta: false
 ---
@@ -11,14 +10,9 @@ show_meta: false
 <div class="row">
 <div class="small-6 columns" markdown="1">
 
-WordPress ist ein Redaktionssystem mit welchem Sie eine Website betreuen und aufbauen können. Dazu müssen Sie keine Programmiersprache oder HTML lernen. Denn die Konstruktion der Website übernimmt das Redaktionssystem.
-Ursprünglich als Redaktionssystem für den Betrieb eines Blogs gedacht, hat sich WordPress in den letzten Jahren zu einem Allroundtalent für die Betreuung von Websites gemausert.
+Die Schwerpunkte von WordPress bilden Ästhetik, Webstandards und Benutzerfreundlichkeit. WordPress ist kostenlos nutzbar und einfach zu installieren. WordPress ermöglicht Ihnen einen professionellen Webauftritt.
 
-Die Schwerpunkte von WordPress bilden Ästhetik, Webstandards und Benutzerfreundlichkeit. WordPress ist frei als Download erhältlich, einfach zu installieren und ermöglicht einen professionellen Webauftritt.
 
-Ein Grund für den Erfolg von WordPress ist, dass Sie es kostenlose nutzen können und von einem offenen Quellcode profitieren. Diesen dürfen Sie verändern, wie Sie wollen.
-
-Das bedeutet: Sie dürfen mit WordPress machen, was Sie wollen. Ob Blog oder Unternehmens-Website, ob Portfolio oder Magazin, die Möglichkeiten für den Einsatz sind vielfältig dank eines äußerst flexiblen und offenen Systems.
 
 ## WordPress-Artikel
 
@@ -38,7 +32,18 @@ Das bedeutet: Sie dürfen mit WordPress machen, was Sie wollen. Ob Blog oder Unt
 
 </div><!-- /.small-6.columns -->
 <div class="small-6 columns" markdown="1">
-<h2 style="margin-top: 0;">Installation von WordPress</h2>
+<h2 style="margin-top: 0;">Das WordPress-Buch</h2>
+
+[![]({{ site.urlimg }}wordpress-buch-2.jpg)][3]
+
+[Bei Amazon kaufen ›](http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637)
+{: .button.radius.success }
+[Mehr zum Buch ›][3]
+{: .button.radius.success }
+
+
+
+## Installation von WordPress
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/lW820hNkXrI" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
@@ -61,7 +66,7 @@ Das bedeutet: Sie dürfen mit WordPress machen, was Sie wollen. Ob Blog oder Unt
 
  [1]: {{ site.url }}/video/wordpress-installation/
  [2]: {{ site.url }}/video/filezilla/
- [3]: #
+ [3]: {{ site.url }}/wordpress/buch/
  [4]: #
  [5]: #
  [6]: #

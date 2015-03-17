@@ -47,20 +47,175 @@ Worauf Sie bei der Wahl eines WordPress-Themes achten sollten, lesen Sie in unse
 
 
 
-
+<div class="row">
+<div class="medium-6 columns" markdown="1">
 
 ## WordPress Theme für Fotografen
 
 ![WordPress Theme Fotografie]({{ site.urlimg }}wordpress-theme-fotograf.jpg)
 
-[Touchfolio][1] ist ein exzellentes [WordPress Theme][2] für Fotografen, dass sich automatisch an die Bildschirmgröße anpasst. Das kostenlose Theme konzentriert sich auf die Darstellung großformatiger Bilder und besticht durch zahlreiche Optionen das eigene WordPress Blog anzupassen.
+[Touchfolio][1] ist ein [WordPress Theme][2] für **Fotografen**. Großzügig präsentiert man mit Touchfolio seine Bilder, die Besucher auch mit Hilfe der Pfeiltasten weiterblättern können. Fotos organisiert man mit Touchfolio über das **Theme-eigene Beitragsformat** namens Gallery.
+
+Mittels dieser Galleriefunktion lassen sich Fotos thematisch kategorisieren und anschließend in das Navigationsmenü in der Seitenleiste einbauen. Für die Präsentation seines eigenen Fotoportfolios bietet das Theme zwei Varianten. Dazu erstellt man einfach eine Seite und wählt das gewünschte Template aus. Anschließend wählt man diese Seite als Startseite unter *Einstellungen > Lesen*.
+
+Aber auch auf ein **reguläres Blog-Layout** muss man nicht verzichten. Dadurch mischt man bei Bedarf einfach Bilder mit Artikel und präsentiert diese auf einer Website.
+
+**Pro**
+
++ Navigation über Pfeiltasten möglich
++ Zwei verschiedene Arten von Portfolioseiten
++ Responsive Webdesign
+{: .plus }
+
+**Contra**
+
+- Keine deutschsprachige Version
+{: .minus }
+
+[Download](http://dimsemenov.com/themes/touchfolio/)
+{: .button.radius.success }
+[Demonstration](http://dimsemenov.com/themes/touchfolio/demo/)
+{: .button.radius.success }
+[Anleitung](http://dimsemenov.com/themes/touchfolio/installation.html)
+{: .button.radius.success }
+
+
+## Responsive Theme
+
+![]({{ site.urlimg }}theme_responsive.jpg)
+
+*Responsive* ist ein Theme, das in allen Browsern gut aussieht. Das schlicht gestaltete Theme bietet eine **große Bandbreite an Möglichkeiten** für die Gestaltung. Dazu gehören **vier Positionen für Menüs**, **elf Widget-Bereiche** sowie Optionen, um unkompliziert das Logo auszutauschen oder eigene CSS-Stylevorgaben einzugeben.
+
+Außergewöhnlich sind die Möglichkeiten die **Startseite mit verschiedenen Seitenvorlagen** zu gestalten. Sie wollen eine Startseite mit einem Call-To-Action-Button? Kein Problem. Oder soll die Website im klassischen Blog-Look daherkommen? Oder als Magazin? Mit insgesamt **neun Seiten-Vorlagen** bringt man Schwung in Start- und Unterseiten.
+
+Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Portofolios, Firmen-Websites oder ganz »normale« Blog-Vorhaben. 
+
+**Pro**
+
++ Deutschsprachig
++ Äußerst anpassungfähig mit zahlreichen Optionen
++ Neun verschiedene Vorlagen für Seiten
+{: .plus }
+
+**Contra**
+
+- Linkfarbe lässt sich nicht in den Optionen anpassen
+{: .minus }
+
+[Download](http://wordpress.org/extend/themes/responsive)
+{: .button.radius.success }
+[Demonstration](http://themeid.com/demo/responsive/)
+{: .button.radius.success }
+[Anleitung und Informationen](http://cyberchimps.com/forum/free/responsive/)
+{: .button.radius.success }
+
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+## Yoko WordPress Theme
+
+![]({{ site.urlimg }}wordpress_theme_yoko.jpg)
+
+Yoko ist ein Blog-Theme, das sich sehr gut für **Blogs und Magazine** eignet. Anstelle des typischen zweispaltigen Blog-Layout kommt Yoko mit drei Spalten daher. Zwar ist die mittlere Spalte ein wenig arg schmal, bietet aber für Social Media Links samt Icons und Kategorien mit einem Ort genügend Platz.
+
+Yoko unterscheidet sich von anderen Themes besonders durch das zweite Menu direkt unterhalb der Kopfgrafik. Über dieses Navigationselement kann man hervorragend Besucher leiten und ihnen eine hierarchische Übersicht über die angebotenen Inhalte bieten.
+
+Wie alle Themes der deutschen beiden deutschen WordPress-Entwickler [Ellen und Manuel][1] basiert auch Yoko auf einem **Responsive Webdesign**. Aber nicht nur das Theme ist in Deutsch, sondern auch die **umfangreiche Dokumentation**, die einem hilft, dass Theme passgenau auf die eigenen Bedürfnisse zuzuschneiden.
+
+Auch die kostenpflichtigen Themes von Elmastudio erfreuen sich großer Beliebtheit. Das liegt einerseits an den luftigen Designs und andererseits an wirklich anwenderfreundlichen Preisen.
+
+**Pro**
+
++ Deutsches Theme
++ [Umfangreiche PDF-Dokumentation mit Videoanleitungen]
++ Außergewöhnliche Navigationsleiste
+{: .plus }
+
+
+[Demo Yoko](http://yoko.elmastudio.de/)
+{: .button.radius.success }
+
+[1]: http://www.elmastudio.de/wer-wir-sind/
+[2]: http://www.elmastudio.de/wordpress-themes/yoko/
+
+
+
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+
+<div class="row">
+<div class="medium-6 columns" markdown="1">
+## Leaf Theme
+
+![]({{ site.urlimg }}wordpress_theme_leaf.jpg)
+
+Das Leaf-Theme nutzt z.B. das großartige deutsche Reggae-Blog [House Of Reggae](http://www.houseofreggae.de).
+
+[Leaf Theme](http://fatboythemes.com/themes/leaf/)
+{: .button.radius.success }
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+## Frank
+
+![]({{ site.urlimg }}wordpress_theme_frank.png)
+
+Schnell, flexibl, schöne Typografie, responsive und angeblich  *noch nicht fertig*, weil es konstant auf Github weiterentwicklel wird.
+
+[Download](http://somerandomdude.com/work/frank/)
+{: .button.radius.success }
+
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+<div class="row">
+<div class="medium-6 columns" markdown="1">
+
+## Noch mehr WordPress Themes
+
+Die folgenden Themes nutzt [Automattic][4], die Firma hinter WordPress, für die eigene Blogging-Plattform WordPress.com. Das garantiert hochwertige Themes, die höchstwahrscheinlich gepflegt werden und mit neuen Funktionen erweitert werden. Eine [Übersicht über alle (freien)WordPress-Themes][5] listet weitere großartige und freie Themes auf. Hier die Themes, die mir persönlich sehr zusagen:
+
+* [Catch Everest](http://catchthemes.com/theme-instructions/catch-everest/)
+* [Visual](http://themes.wptheming.com/visual/)
+* [Hatch](http://alienwp.com/themes/hatch/)
+* [Fresh & Clean](http://theme.wordpress.com/themes/fresh-and-clean/)
+* [Quintus](http://theme.wordpress.com/themes/quintus/)
+* [Sight](http://theme.wordpress.com/themes/sight/)
+* [Twenty Twelve](http://theme.wordpress.com/themes/twentytwelve/)
+* [Oxygen](http://theme.wordpress.com/themes/oxygen/)
+* [Book Lite](http://theme.wordpress.com/themes/book-lite/)
+* [Pinboard](http://www.onedesigns.com/wordpress-themes/pinboard)
+* [Origin](http://wordpress.org/themes/origin)
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+
+
+
+
 
 
  [1]: http://dimsemenov.com/themes/touchfolio/
  [2]: {{ site.url }}/wordpress/themes/
  [3]: {{ site.url }}/wordpress/checkliste/
- [4]: #
- [5]: #
+ [4]: http://automattic.com/
+ [5]: http://theme.wordpress.com/
  [6]: #
  [7]: #
  [8]: #
