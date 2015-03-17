@@ -229,9 +229,9 @@ collections:
   webdesign:
     output: true
     permalink: /:path/
-#  wordpress:
-#    output: true
-#    permalink: /:path/
+  wordpress:
+    output: true
+    permalink: /:path/
 #  organisation:
 #    output: true
 #    permalink: /:path/

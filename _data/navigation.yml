@@ -19,14 +19,15 @@
   - title: Webdesign
     url: "/webdesign/"
 
-- title: CMS
-  url: "#"
+- title: WordPress
+  url: "/wordpress/"
   side: left
-  dropdown:
-  - title: WordPress
-    url: "/wordpress/"
-  - title: Jekyll
-    url: "/jekyll/"
+# - title: CMS
+#   url: "#"
+#   side: left
+#   dropdown:
+#  - title: Jekyll
+#    url: "/jekyll/"
 
 - title: Blog
   url: "/blog/"

@@ -1,10 +1,10 @@
 ---
-layout: default
-icon: wordpress.png
-title:  "Beiträge zählen und ausgeben"
-subtitle: ""
-date: 
-description: "Dieses Code-Schnipsel gibt die Anzahl der bereits veröffentlichten WordPress-Beiträge aus."
+published: false
+layout: page
+title: "Beiträge zählen und ausgeben"
+teaser: "Dieses Code-Schnipsel gibt die Anzahl der bereits veröffentlichten WordPress-Beiträge aus."
+image:
+    thumb: wordpress.png
 tags:
   - wordpress
 ---

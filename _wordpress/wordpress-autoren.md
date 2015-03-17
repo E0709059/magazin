@@ -1,12 +1,14 @@
 ---
-layout: default
-icon: wordpress.png
+published: false
+layout: page
 title:  "Autoren-Infos ausgeben"
-subtitle: ""
-date: 
-description: "Autoreninfos unter WordPress-Beiträgen mit Links, Beschreibung und allem Pipapo anzeigen."
+teaser: "Autoreninfos unter WordPress-Beiträgen mit Links, Beschreibung und allem Pipapo anzeigen."
+image:
+    thumb: wordpress.png
 tags:
   - wordpress
+  - wordpress rezept
+  - code
 ---
 <pre><code class="lang-php">
 
