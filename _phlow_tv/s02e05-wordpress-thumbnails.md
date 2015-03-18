@@ -18,12 +18,15 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/8n6j7oqYF
 ---
 Das Problem: WordPress generiert automatisch die quadratischen Miniaturbilder/Thumbnails und geht dabei von der Mitte des hochgeladenen Bildes aus. Dadurch sehen Miniaturbilder/Thumbnails nicht immer gut aus, insbesondere bei horizontalen Bildern. 
 
-## HINWEIS
+## Schritt für Schritt zum eigenen Thumbnail
 
-Diese Videoanleitung gehört zum Buch "Das WordPress-Buch" von Moritz »mo.« Sauer.
+1. Bildhochladen
+2. Beitragsbild festlegen
+3. Beitrag speichern
+4. Bild mit WordPress nachträglich bearbeiten
+    1. Entweder über die *Medienübersicht*
+    2. oder über *Dateien hinzufügen*
+5. Neue Bildeinstellungen abspeichern
 
-<http://phlow.de/wp-buch-kaufen>
 
-## LINKS
-
-<http://phlow.de/wordpress-thumbnails-bearbeiten>
+{% include ad/das-wordpress-buch.html %}

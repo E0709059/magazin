@@ -113,7 +113,7 @@ ISBN-13: 978-3955618605
 
 
 [1]: http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637
-[2]: http://phlow.de/video/video-anleitungen/installation-wordpress.php
-[3]: http://phlow.de/ftp
+[2]: {{ site.url }}/video/wordpress-installation/
+[3]: {{ site.url }}/video/video/filezilla/
 [4]: http://www.oreilly.de/catalog/wordpressbuchger/
 
