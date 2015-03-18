@@ -42,6 +42,8 @@ Worauf Sie bei der Wahl eines WordPress-Themes achten sollten, lesen Sie in unse
 {:toc}
 </div>
 
+{% include ad/das-wordpress-buch.html %}
+
 </div><!-- /.large-5 -->
 </div><!-- /.row -->
 
