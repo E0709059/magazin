@@ -74,7 +74,7 @@ $ci-6: #A1D044;     // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: 	$ci-1;
+$primary-color: 	$phlow-dunkel-violett;
 $secondary-color: 	$phlow-dunkel-grau;
 $alert-color: 		$phlow-dunkel-rot;
 $success-color: 	$phlow-dunkel-gruen;
@@ -110,32 +110,31 @@ $grey-16: #0B0B0B;
 
 $topbar-bg-color: #fff;
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-link-bg: $phlow-dunkel-violett;
+$topbar-dropdown-link-color: #fff;
+$topbar-dropdown-link-bg-hover: $phlow-hell-pink;
+$topbar-dropdown-toggle-color: $phlow-dunkel-violett;
 
 $topbar-link-color: #000;
 $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
-$topbar-dropdown-bg: $ci-6; // Hintergrund kleine Navigation
+$topbar-dropdown-label-color: $phlow-dunkel-violett;
 
-$topbar-link-bg-active: $ci-6; // Aktiver ausgewählter Menupunkt
-$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active: $phlow-hell-pink; // Aktiver ausgewählter Menupunkt
+$topbar-link-bg-hover: $phlow-hell-pink;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Hintergrund kleine Navigation
-$topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-bg: $phlow-hell-pink; // Hintergrund kleine Navigation
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $phlow-hell-pink;
+$topbar-menu-icon-color-toggled: $phlow-hell-pink;
 
 
 
