@@ -17,6 +17,8 @@ header:
     image: bild-unsplash-foto-kostenlos-quelle.jpg
     background-color:  "#3E3E3C"
     caption: Kostenlose Quellen für hochwertige Fotos
+image:
+    thumb: bild-quellen-kostenloses-foto-bild-material-thumb.jpg
 ---
 <div class="panel radius" markdown="1">
 **Inhalt**

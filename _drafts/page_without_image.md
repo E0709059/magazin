@@ -1,9 +1,8 @@
 ---
 layout: page
-title:
 subheadline:
+title:
 teaser:
-meta_description:
 permalink:
 categories:
     - 

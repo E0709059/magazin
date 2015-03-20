@@ -11,6 +11,8 @@ tags:
     - seitenverhaeltnis
     - bildaufbau
     - bild
+image:
+    thumb: bild-nautiluscutawaylogarithmicspiral-thumb.jpg
 header:
     image_fullwidth: bild-nautiluscutawaylogarithmicspiral.jpg
     caption_url: http://commons.wikimedia.org/wiki/File:NautilusCutawayLogarithmicSpiral.jpg
