@@ -9,6 +9,10 @@ categories:
   - bild
 tags:
   - bildmaterial
+  - bilddatenbanken
+  - kostenlos
+  - bilder
+  - fotos
   - creative commons
   - creative commons zero
   - fotografie
@@ -83,6 +87,23 @@ Hinter [Death to the Stock Photo][8] steckt das amerikanische Päarchen Allie Le
 > Der Rechtsbegriff Public Domain steht im angelsächsischen Common Law für »frei von Urheberrechten«. Die Bedeutung englischer Begriffe wie »Copyright« und »Public Domain« kann nicht ohne weiteres auf die deutschen Begriffe »Urheberrecht« und »Gemeinfreiheit« übertragen werden. <cite><a href="http://de.wikipedia.org/wiki/Gemeinfreiheit#Public_Domain">Wikipedia</a></cite>
 
 In der Wikipedia findet man einen Beitrag, der [zahlreichen Quellen für Public Domain-Bilder][7] auflistet.
+
+
+
+## Noch mehr Quellen
+
+[Wikimedia](http://commons.wikimedia.org/) 
+:   Zahlreiche CC-lizensierte Bilder
+
+[flickr.com](http://flickr.com/)
+:   Weltweit größte Foto-Community mit zahlreichen CC-lizensierten Fotos
+
+[morguefile.com](http://www.morguefile.com/)
+:   Fotodatenbank mit Bildern, die für sämtliche Zwecke frei von Rechten sind, auch für kommerzielle Zwecke. Eine Namensnennung der Fotografen ist nicht notwendig.
+
+[piqs.de](http://piqs.de/)
+:   Foto-Community, die eine Bilddatenbank kontinuierlich um Creative Commons-Bilder erweitern.
+
 
 
 

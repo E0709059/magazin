@@ -1,4 +1,5 @@
 ---
+published: false
 layout: default
 subtitle: "Typografie"
 title: "Zitate von Typografen"

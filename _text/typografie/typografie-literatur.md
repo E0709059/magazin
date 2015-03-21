@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 subtitle: "Typografie"
 title: "Typografie Quellen und Literatur"
-description: "Ausgewählte Bücher und Buchempfehlungen rund um das Thema Schrift und Typografie."
+teaser: "Ausgewählte Bücher und Buchempfehlungen rund um das Thema Schrift und Typografie."
 categories: text
 tags:
     - typografie

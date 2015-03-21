@@ -10,12 +10,12 @@
     url: "/text/"
   - title: Bildbearbeitung
     url: "/bild/"
-  - title: "Audiobearbeitung"
-    url: "/audio/"
-  - title: "Video &amp; Videoschnitt"
-    url: "/video/"
-  - title: Multimedia
-    url: "/multimedia/"
+#  - title: "Audiobearbeitung"
+#    url: "/audio/"
+#  - title: "Video &amp; Videoschnitt"
+#    url: "/video/"
+#  - title: Multimedia
+#    url: "/multimedia/"
   - title: Webdesign
     url: "/webdesign/"
 

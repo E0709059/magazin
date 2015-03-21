@@ -9,6 +9,8 @@ categories:
 tags:
     - buchkritik
     - journalismus
+image:
+    thumb: text_cover_texten_fuer_das_web-thumb.jpg
 ---
 ![]({{ site.urlimg }}text_cover_texten_fuer_das_web.jpg)
 {: .right }
@@ -54,6 +56,6 @@ ISBN 978–3–89864–698–7
 {: .button.radius.success }
 
 [Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
-{: .button.radius }
+{: .button.radius.success }
 
 

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: default
 subtitle: "Download"
 title: "Freie Schriften"

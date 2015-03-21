@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline:
-title: Markdown
-teaser:
+title: Was ist Markdown?
+teaser: "Markdown-Texte können Sie in zahlreiche Formate umwandeln. Ob HTML, PDF oder Ebook: Die Markdown-Syntax ist die Brücke von einer reinen Textdatei zu zahlreichen verschiedenen Formaten. Markdown ist die Lösung, wenn Sie einen Text in verschiedenen Formaten veröffentlichen wollen. Die Formatierung übernimmt freie Software, die es auf allen Plattformen gibt.."
 permalink: /markdown/
 categories:
     - text
@@ -11,9 +11,8 @@ tags:
     - multimarkdown
     - schreiben
 ---
-## Was ist Markdown?
-
 **Markdown ist eine leichtgewichtige vereinfachte Auszeichnungssprache**, die von [John Gruber] ins Leben gerufen und mit Hilfe von Aaron Swartz weiterentwickelt wurde. Ursprünglich als Übersetzungwerkzeug von Textdateien in HTML-Dateien gedacht, erlebt Markdown und seine Erweiterung MultiMarkdown derzeit eine Rennaissance. Markdown ähnelt Auszeichnungssprachen, wie [Textile] oder der [Wikipedia Syntax], die in der Wikipedia Anwendung findet.
+
 
 
 ## Vorteile von Markdown

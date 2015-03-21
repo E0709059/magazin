@@ -3,7 +3,7 @@ published: false
 layout: page
 title: Bilder HTML
 teaser: 
-permalink:
+permalink: /html/image/
 header: no
 ---
 

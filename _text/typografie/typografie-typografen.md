@@ -1,4 +1,5 @@
 ---
+published: false
 layout: default
 subtitle: "Typografie"
 title: "Typografen und Typografie-Persönlichkeiten"
