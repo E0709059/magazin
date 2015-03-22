@@ -10,7 +10,7 @@ header:
     caption_url: http://www.shutterstock.com/pic.mhtml?id=151359191&src=id
     background-color:  "#979FAC"
 image:
-    thumb: webdesign.png
+    thumb: icon/icon-webdesign.png
 tags:
     - webdesign
 permalink: /webdesign/checkliste/

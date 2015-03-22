@@ -64,11 +64,12 @@ header:
 
 
 
-<div class="t30 b60" style="padding: 30px 0; background: #4b4b4d;">
+<div class="t30 b60" style="padding: 30px 0; background: #82cbd0;">
 <div class="row">
-    <div class="small-12 text-center medium-10 medium-offset-1 columns">
-      <h2 style="color: #fff;" class="shadow-black b30">Auf dem Laufenden bleiben und keine Anleitungen und Tipps verpassen.</h2>
-      <a class="radius button success shadow-black" href="#" data-reveal-id="newsletter-abo">Den Phlow Magazin Newsletter abonnieren ›</a>
+    <div class="small-12 text-center medium-12 columns">
+      <a href="#" data-reveal-id="newsletter-abo"><img class="left" src="{{ site.urlimg }}mailchimp-freddie-200x.png" width="200" height="200"></a>
+      <h2 class="shadow-black" style="margin: 10px 0; color: #fff;" >Keine Anleitungen und Tipps verpassen: Newsletter abonnieren.</h2>
+      <a class="radius button info shadow-black" href="#" data-reveal-id="newsletter-abo">Den Phlow Magazin Newsletter abonnieren ›</a>
     </div><!-- /.small-12 medium-8.columns -->
   </div><!-- /.row -->
 </div>

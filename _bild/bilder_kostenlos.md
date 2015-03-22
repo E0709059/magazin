@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline: "Creative Commons Zero"
-title: 'Fotos ohne Copyrights'
+subheadline: "Creative Commons Fotos"
+title: 'Fotos: Kostenloses Bildmaterial'
 meta_description: "Du suchst Bilder und Fotos frei von Copyrights für die Verwendung in eigenen Projekten, wie Websites, Präsentationen,...? Diese Links helfen weiter."
 teaser: "Quellen für freie hochwertige Bilder und Fotos nehmen zu. Wenn Sie hochwertiges Fotomaterial für eigene Projekte brauchen, finden Sie in diesem Artikel Quellen für Bilder, die unter einer  Creative Commons Zero-Lizenz frei für die Verwendung für sämtliche Zwecke zur Verfügung stehen."
 permalink: /bild/quellen-kostenloses-foto-bild-material/
@@ -82,6 +82,30 @@ Hinter [Death to the Stock Photo][8] steckt das amerikanische Päarchen Allie Le
 
 
 
+## Fotos aus der Raumfahrt: Nasa, DLF, SpaceX
+
+### Bilder von der NASA
+
+Die [Nasa][13] veröffentlicht auf [Flickr] einen großen Schatz freier Bilder. Mal als  Public Domain, mal unter Creative Commons-Lizenzen.
+
+<img src="{{ site.urlimg }}bild-nasa.jpg" alt="Space X" />
+
+### Bilder vom Deutschen Zentrum für Luft- und Raumfahrt
+
+Auch das [Deutsche Zentrum für Luft- und Raumfahrt][15] (DLR) veröffentlicht [Fotos und Videos][14] unter einer Creative-Commons-Lizenz (CC). Die Bilder – öffentlich finanziert – darf man für die Weiterverarbeitung nutzen. Lediglich eine Namensnennung der Quelle ist erforderlich.
+
+
+### Fotos von SpaceX
+
+[SpaceX][10] entwickelt, produziert und startet Raketen und Raumfahrzeuge. Die Mission von SpaceX ist, Menschen zu befähigen, um auf anderen Planeten zu leben. Die [Fotos auf Flickr von SpaceX][11] veröffentlicht das Unternehmen unter einer Creative Commons-Lizenz, die auch die kommerzielle Nutzung erlaubt. Dazu muss man lediglich den Urheber der Fotos nennen.
+
+<img src="{{ site.urlimg }}bild-spacex.jpg" alt="Space X" />
+
+
+
+
+
+
 ## Quellen für Public Domain Bilder
 
 > Der Rechtsbegriff Public Domain steht im angelsächsischen Common Law für »frei von Urheberrechten«. Die Bedeutung englischer Begriffe wie »Copyright« und »Public Domain« kann nicht ohne weiteres auf die deutschen Begriffe »Urheberrecht« und »Gemeinfreiheit« übertragen werden. <cite><a href="http://de.wikipedia.org/wiki/Gemeinfreiheit#Public_Domain">Wikipedia</a></cite>
@@ -116,3 +140,14 @@ In der Wikipedia findet man einen Beitrag, der [zahlreichen Quellen für Public 
  [7]: http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources
  [8]: http://deathtothestockphoto.com/
  [9]: https://vimeo.com/110614005
+ [10]: http://www.spacex.com/
+ [11]: https://www.flickr.com/photos/spacexphotos/
+ [12]: https://www.flickr.com/photos/nasacommons/
+ [13]: http://www.nasa.gov/
+ [14]: https://www.flickr.com/photos/dlr_de/sets/72157629481565213/
+ [15]: http://dlr.de/
+ [16]: #
+ [17]: #
+ [18]: #
+ [19]: #
+ [20]: # 

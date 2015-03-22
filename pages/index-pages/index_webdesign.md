@@ -1,16 +1,8 @@
 ---
-layout: page-fullwidth
-title: Webdesign
+layout: index-page
+collection: webdesign
+title: "Webdesign – HTML, CSS & Co."
+teaser: "Wie baut man Webseiten? Welche Software brauche ich? Was ist wichtig beim Webdesign? Wie nutzt man HTML und CSS? Und wie funktioniert Responsive Webdesign? Anleitungen rund um das Thema: Websites bauen."
 permalink: /webdesign/
-breadcrumb: true
 header: no
 ---
-<ul class="side-nav">
-  {% for webdesign in site.webdesign %}
-    {% if webdesign.published == false %}
-    {% else %}
-    <li><a href="{{ site.url }}{{ webdesign.url }}">{{ webdesign.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  <li>&nbsp;</li>
-</ul>

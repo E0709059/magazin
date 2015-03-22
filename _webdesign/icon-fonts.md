@@ -3,15 +3,15 @@ layout: page
 subheadline: "Kostenlose Icons"
 title: "Icon Fonts"
 teaser: "Icon Fonts setzt man wie eine Schrift im Webdesign ein. Diese Auswahl professioneller Icon Fonts sind kostenlos und auch für kommerzielle Projekte einsetzbar."
+category:
+    - webdesign
 header:
     image_fullwidth: header-icon-fonts.png
     title: " "
     caption: Entypo Icon-Font von Daniel Bruce
     caption_url: http://www.entypo.com
 image:
-    thumb: webdesign.png
-tags:
-    - webdesign
+    thumb: icon-fonts-thumb.png
 permalink: /icon-fonts/
 ---
 <div class="alert-box info radius" markdown="1">
