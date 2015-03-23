@@ -128,6 +128,8 @@ In der Wikipedia findet man einen Beitrag, der [zahlreichen Quellen für Public 
 [piqs.de](http://piqs.de/)
 :   Foto-Community, die eine Bilddatenbank kontinuierlich um Creative Commons-Bilder erweitern.
 
+[Barn Images](http://barnimages.com/)
+:   Noch mehr Creative Commons Zero-Fotos.
 
 
 

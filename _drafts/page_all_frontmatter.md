@@ -15,7 +15,7 @@ header:
     image:
     pattern:
     color:
-    background-color:  "#fabb00"
+    background-color: "#fabb00"
     title: header with text
 image:
     title:

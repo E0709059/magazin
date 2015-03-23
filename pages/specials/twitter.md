@@ -12,6 +12,7 @@ tags:
     - plattform
     - twitter
     - app
+    - social media special
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
