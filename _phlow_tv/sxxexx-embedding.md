@@ -3,6 +3,7 @@ layout: video
 subheadline: "Embedding: YouTube, Soundcloud &amp; Co. auf Webseiten einbauen"
 title: "Embedding: Inhalte überall einbauen"
 teaser: "Moderne Online-Dienste wie YouTube, Slideshare, Soundcloud &amp; Co. helfen bei der Verbreitung von Informationen. Mit Hilfe der »Embedding«-Funktionalität informiert man sich nicht nur über die Inhalte auf der jeweiligen Plattform, sondern bringt die Inhalte zu den Nutzern."
+permalink: /video/embedding/
 tags:
     - embed
     - einbauen
