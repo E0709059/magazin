@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: Praxisbericht für Einsteiger
+subheadline: Leitfaden für Einsteiger
 title: "Digitale Selbstvermarktung für Journalisten"
 teaser: "Dieser Leitfaden zeigt Journalisten Schritt für Schritt, wie sie sich im Internet eine rausragende Präsenz aufbauen und dazu digitale Werkzeuge nutzen."
 permalink: "/journalismus/selbstvermarktung/"
