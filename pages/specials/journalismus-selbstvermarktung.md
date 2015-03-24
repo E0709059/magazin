@@ -39,8 +39,8 @@ Bevor Sie aber Inhalte über Kanäle wie diese publizieren, lohnt es sich, zunä
 ## Branding &amp; Corporate Identity: der Journalist als Marke
 
 <figure>
-<img src="{{ site.urlimg }}social_media_shutterstock_124904123.jpg">
-<figcaption>Soziale Medien helfen bei der Vermarkung. Flickr bei Fotografie, Facebook bei der Fanbindung</figcaption>
+<img src="{{ site.urlimg }}social_media_shutterstock_189811238.jpg">
+<figcaption>Soziale Medien helfen bei der Vermarkung – <a href="http://www.shutterstock.com/pic-189811238/stock-photo-people-connecting-and-sharing-social-media.html">Foto: People Connecting and Sharing Social Media von Shutterstock</a></figcaption>
 </figure>
 
 
