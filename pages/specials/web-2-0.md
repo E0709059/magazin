@@ -1,0 +1,124 @@
+---
+layout: page
+subheadline: Zusammenfassung
+title: "Web 2.0 in einer Nussschale"
+teaser: "Dieser Artikel erklärt den Begriff Web 2.0 und fasst kurz das Manifest von Tim O'Reilly mit seinen wichtigsten Punkten zusammen."
+permalink: /web-2-0/
+tags:
+  - "web 2.0"
+  - "tom o'reilly"
+  - social media special
+header:
+    image: web-2-0-socia-media-shutterstock_189811238.jpg
+    background-color: "#906B3E"
+    caption: People Connecting and Sharing Social Media
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=189811238&src=id
+---
+Seit der amerikanische Verleger [Tim O'Reilly][1] das Web 2.0-Manifest im Internet veröffentlicht hat, ist die *2.0* aus zahlreichen Begriffen nicht mehr wegzudenken. Oft liest man immer wieder *2.0-Dies* und *2.0-Jenes*. 
+
+In der Regel haben die meisten Blogger und Journalisten das Manifest nicht gelesen. Dabei gibt es Übersetzungen in zahlreiche Sprachen, auch eine [deutsche Übersetzung][3].
+
+Wenn Sie schnell scannen wollen, was in diesem Manifest steht, dann lesen Sie weiter. Dieser Beitrag fasst die wichtigsten Kernsätze und Feststellungen des Manifests zusammen. **Ich empfehle Ihnen aber: [Lesen Sie das Original.][2]**.
+
+<div class="panel radius" markdown="1">
+**Inhalt**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
+
+##  Das Web als Plattform 
+
+* 2001 stellte einen Wendepunkt für das World Wide Web dar
+* der Wert der Software verhält sich proportional zu Ausmaß und Dynamik der Daten, die sie verwalten soll.
+* Man glaubte an die Ansicht der 90er Jahre, dass es beim Web um Verbreitung, nicht um Beteiligung geht
+* **Web 2.0-Lehre:** Kunden-Selbstbedienung und algorithmisches Datenmanagement zu Nutze machen, um jeden Winkel des Web zu erreichen, nicht nur die schmale Spitze, sondern auch die breite Masse (”The Long Tail”).
+* **Web 2.0-Lehre:** Ein Dienst wird umso besser, je mehr Leute ihn nutzen.
+
+<a id="Kollektive_Intelligenz" name="Kollektive_Intelligenz"></a>
+
+##  Kollektive Intelligenz 
+
+* Das zentrale Prinzip hinter dem Erfolg der Giganten aus der Web 1.0 Ära, die überlebt haben um nun die Web 2.0 Ära anzuführen, scheint zu sein, dass sie sich die Stärke des Web zu Eigen gemacht haben, die **kollektive Intelligenz** zu nutzen.
+  * Folksonomy - kooperatives Kategorisieren
+
+* **Web 2.0-Lehre:** Netzwerk-Effekte durch Nutzerbeteiligung sind der Schlüssel zur Marktdominanz in der Web 2.0 Ära.
+* Während manche Mainstream-Medien einzelne Blogs als Konkurrenten ansehen, ist das wirklich spannende der Wettbewerb mit der Blogosphäre als Ganzes. Dies ist nicht nur ein Wettbewerb zwischen Seiten, sondern zwischen zwei verschiedenen Geschäftsmodellen. Die Welt des Web 2.0 ist auch eine Welt dessen, was Dan Gillmor “wir, die Medien” nennt, eine Welt in der das “ehemalige Publikum”, nicht ein paar wenige Leute im Hintergrund, entscheiden was wichtig ist und was nicht.
+
+<a id="Daten_sind_der_n.C3.A4chste_.22Intel_inside.22" name="Daten_sind_der_n.C3.A4chste_.22Intel_inside.22"></a>
+
+##  Daten sind der nächste "Intel inside" 
+
+* Aber im Gegensatz zu MapQuest erweiterte Amazon diese Basis unaufhörlich, fügte Cover, Inhaltsverzeichnisse, Indizes und Samples hinzu.
+* Mashup
+* Das Rennen um die wichtigsten Daten hat begonnen, vor allem um geographische, persönliche, terminliche.
+* Free Data Movement
+    * Beispiel [www.openstreetmap.org](http://www.openstreetmap.org/)
+
+<a id="Das_Ende_des_Software_Release_Zyklus" name="Das_Ende_des_Software_Release_Zyklus"></a>
+
+##  Das Ende des Software Release Zyklus 
+
+* Betriebsabläufe werden zur Kernkompetenz.
+* Nutzer müssen, in Anlehnung an Praktiken aus der Open-Source-Entwicklung, als Mitentwickler angesehen werden (auch wenn die fragliche Software wohl nie unter einer solchen Lizenz freigegeben werden soll).
+
+<a id="Lightweight_Programming_Models" name="Lightweight_Programming_Models"></a>
+
+##  Lightweight Programming Models 
+
+* Unterstütze LPMs (Lightweight Programming Models), die lose gekoppelte Systeme ermöglichen.
+* Kooperiere ohne zu koordinieren.
+* Gestalte mit Blick auf “Hackability” und “Remixability”.
+
+<a id="Software_.C3.BCber_Ger.C3.A4tegrenzen_hinweg" name="Software_.C3.BCber_Ger.C3.A4tegrenzen_hinweg"></a>
+
+##  Software über Gerätegrenzen hinweg 
+
+* Dies ist der Bereich von Web 2.0, in dem wir einige der größten Änderungen erwarten, da mehr und mehr Gerätetypen an die neue Plattform angebunden werden.
+
+<a id="Rich_User_Experiences" name="Rich_User_Experiences"></a>
+
+## Rich User Experiences 
+
+* z.B. mit Hilfe von [AJAX](http://de.wikipedia.org/wiki/Ajax_%28Programmierung%29)
+* Wir erleben hier eine nie dagewesene Innovation im Bereich der User Interfaces, da Webentwickler nun endlich in der Lage sind, Applikationen mit der Mächtigkeit lokaler, PC-basierter Anwendungen zu erstellen.
+
+<a id="Kernkompetenzen_von_Unternehmen_im_Web_2.0" name="Kernkompetenzen_von_Unternehmen_im_Web_2.0"></a>
+
+##  Kernkompetenzen von Unternehmen im Web 2.0 
+
+* Dienste, keine Paketsoftware, mit kosteneffizienter Skalierbarkeit
+* Kontrolle über einzigartige, schwer nachzubildende Datenquellen, deren Wert proportional zur Nutzungshäufigkeit steigt
+* Vertrauen in Anwender als Mitentwickler
+* Nutzung kollektiver Intelligenz
+* Erreichen des “Long Tail” mittels Bildung von Communities etc.
+* Erstellung von Software über die Grenzen einzelner Geräte hinaus
+* Leichtgewichtige User Interfaces, Entwicklungs- und Geschäftsmodelle
+
+
+## Übersetzungen des Web 2.0-Manifests
+
+*   [„What Is Web 2.0“ - by Tim O'Reilly](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) (Original)
+*   [Chinese](http://www.enet.com.cn/article/2005/1122/A20051122474593.shtml "http://www.enet.com.cn/article/2005/1122/A20051122474593.shtml")
+*   [French](http://web2rules.blogspot.com/2006/01/what-is-web-20-par-tim-oreilly-version.html "http://web2rules.blogspot.com/2006/01/what-is-web-20-par-tim-oreilly-version.html")
+*   [German](http://twozero.uni-koeln.de/content/e14/index_ger.html "http://twozero.uni-koeln.de/content/e14/index_ger.html")
+*   [Italian](http://www.xyz.reply.it/web20/ "http://www.xyz.reply.it/web20/")
+*   [Japanese](http://japan.cnet.com/column/web20/story/0,2000054679,20090039-5,00.htm "http://japan.cnet.com/column/web20/story/0,2000054679,20090039-5,00.htm")
+*   [Korean](http://network.hanbitbook.co.kr/view.php?bi_id=1141 "http://network.hanbitbook.co.kr/view.php?bi_id=1141")
+*   [Spanish](http://sociedaddelainformacion.telefonica.es/jsp/articulos/detalle.jsp?elem=2146 "http://sociedaddelainformacion.telefonica.es/jsp/articulos/detalle.jsp?elem=2146")
+
+
+
+
+
+ [1]: http://www.oreilly.de/oreilly/tim_bio.html
+ [2]: http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html
+ [3]: http://twozero.uni-koeln.de/content/e14/index_ger.html
+ [4]: #
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
