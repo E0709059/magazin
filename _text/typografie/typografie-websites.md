@@ -8,6 +8,14 @@ categories: text
 tags:
     - typografie
 ---
+
+## Englische Typografie-Websites
+
+Exzellentes [Typography Cheatsheet][2] – »a comprehensive guide to using proper typographic characters, including correct grammatical usage.«
+
+
+
+
 ## Deutsche Typografie-Websites
 
 ### Typolexikon
@@ -49,7 +57,7 @@ Herausgeber und Autor ist der Grafikdesigner und Typograph Wolfgang Beinert. Er 
 
 
  [1]: http://www.belleslettres.eu
- [2]: #
+ [2]: http://www.typewolf.com/cheatsheet
  [3]: #
  [4]: http://www.typolexikon.de/
  [5]: http://www.typografie.info/
