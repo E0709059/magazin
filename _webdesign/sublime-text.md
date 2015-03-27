@@ -13,6 +13,12 @@ tags:
     - editor
     - programmierung
 ---
+<div class="panel radius" markdown="1">
+**Inhalt**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 Die Arbeitsumgebung von Sublime Text passt man auf Wunsch vollkommen an die eigenen Wünsche an. Ob Tastaturkürzel, Menüs, Code-Schnipsel, Farben, Macros oder Autovervollständigungen, über die JSON-Konfigurationsdateien baut man sich seinen perfekten Editor zusammen.
 
@@ -47,6 +53,18 @@ Text Pastry auf dem Mac über die Kommandozeile aufrufen:
 <div class="alert-box info radius">Mit dem Kurzbefehl <kbd>CMD + Alt + n</kbd> öffnen Sie direkt die Text Pastry-Befehlszeile und können direkt Variablen eingeben.</div>
 
 
+## Markdown Editing
+
+[Markdown Editing][2] erweitert Sublime Text um hilfreiche Funktionen, wenn man Texte mit Markdown schreibt. Neben Syntax-Highlighting, eigenen Einstellungen für Markdown-Dokumente erleichtert Markdown Editing die Arbeit auch mit Tastaturkürzeln. Hier meine Lieblingstastaturkürzel:
+
+- <kbd>⌘ ⌥ V</kbd> will paste the contents of the clipboard as an inline link on selected text
+- <kbd>⌘ ⌥ R</kbd> will paste the contents of the clipboard as a reference link
+- <kbd>⌘ ⌥ K</kbd> inserts a standard inline link, ⌘ ⇧ K inserts an inline image
+- <kbd>⌘ ^ 1</kbd> through <kbd>⌘ ^ 6</kbd> will add the corresponding number of hashmarks for headlines. Works on blank lines and selected text in tandem with the above headline tools. If you select an entire existing headline, the current hashmarks will be removed and replaced with the header level you requested. This command now respects the match_header_hashes preference setting.
+
+<small>Quelle: <http://sublimetext-markdown.github.io/MarkdownEditing/></small>
+
+
 
 
 
@@ -56,7 +74,7 @@ Text Pastry auf dem Mac über die Kommandozeile aufrufen:
  [1]: https://github.com/duydao/Text-Pastry
  [2]: http://emmet.io/
  [3]: https://github.com/sergeche/emmet-sublime#readme
- [4]: #
+ [4]: http://sublimetext-markdown.github.io/MarkdownEditing/
  [5]: #
  [6]: #
  [7]: #
