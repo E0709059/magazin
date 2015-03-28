@@ -6,9 +6,9 @@ teaser: "Im Netz offerieren zahlreiche Services die Recherche nach Trends. Diese
 permalink: /journalismus/trends-recherchieren/
 header: no
 tags:
-	- trends
-	- recherche
-	- suchen
+    - trends
+    - recherche
+    - suchen
 ---
 
 

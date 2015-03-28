@@ -32,6 +32,14 @@ tags:
 - Website: [Twitter.com](http://twitter.com)
 - Twitter Statistik-Website: [Twitter Analytics](http://analytics.twitter.com)
 
+
+Twitter bietet zwei Suchfunktionen: Eine [einfache Twitter-Suche](https://twitter.com/search-home) und eine [erweiterte Twitter-Suche](https://twitter.com/search-advanced).
+
+Neu bei Twitter? Ihnen sind Begriffe nicht ganz klar. Dann schauen Sie in den kleinen Twitter-Duden [Twittonary](http://www.twittonary.com). Das Glossar erklärt Ihnen zahlreiche wichtige und unnötige Twitter-bezogene Begriffe.
+
+
+
+
 </div><!-- /.medium-7.columns -->
 
 
@@ -70,6 +78,9 @@ tags:
 
 Mit dem Bildbearbeitungs-Service [Pablo](https://bufferapp.com/pablo) von Bufferapp.com legt man schnell und unkompliziert Texte über Bilder. Das Versprechen: Man erstellt ansprechende Bild-Beiträge für Social Media unter 30 Sekunden.
 
+##### RSS-Feed automatisch twittern
+
+Der Online-Service [Twitterfeed](http://twitterfeed.com) publiziert automatisch neue Inhalte Ihres RSS-Feeds.
 
 
 

@@ -80,6 +80,12 @@ Jessica Colaluca ist Farbspezialistin. In ihrem Blog [Design-Seeds.com][7]veröf
 Mit dem Service von [Pictaculous][4] extrahiert man Farben aus Bildern. Dazu lädt man einfach ein Bild hoch und Pictaculous generiert dann automatisch eine Farbpalette. Gleichzeitig bietet Pictaculous Links zu passenden Farbpaletten auf [Colourlovers](#colourlovers) an.
 
 
+
+## Anleitungen
+
+* [Learn the Basics of Color Theory to Know What Looks Good](http://lifehacker.com/learn-the-basics-of-color-theory-to-know-what-looks-goo-1608972072)
+
+
 ## Video: Ein harmonisches Farbschema erstellen
 
 * [Videotutorial: Creating Harmonious Color Schemes][2]
@@ -88,6 +94,10 @@ Mit dem Service von [Pictaculous][4] extrahiert man Farben aus Bildern. Dazu lä
 ## Downloads rund um das Thema Farbe
 
 * [600+ Photoshop Gradients to Download][3]
+
+
+
+
 
 
  [1]: http://www.gogocolor.com
