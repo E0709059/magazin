@@ -21,7 +21,7 @@ description: "Phlow Magazin bietet ausführliche Anleitungen, um Texte, Bilder, 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://magazin.phlow.de"
+url: "https://magazin.phlow.de"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
