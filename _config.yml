@@ -21,7 +21,7 @@ description: "Phlow Magazin bietet ausführliche Anleitungen, um Texte, Bilder, 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://magazin.phlow.de"
+url: "http://magazin.phlow.de"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -230,6 +230,9 @@ collections:
     output: true
     permalink: /:path/
   wordpress:
+    output: true
+    permalink: /:path/
+  marketing:
     output: true
     permalink: /:path/
 #  organisation:
