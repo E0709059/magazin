@@ -13,11 +13,13 @@ header:
   <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h4>
     <ul class="side-nav">
-      {% for page in site.pages reversed %}
+      {% for page in site.pages %}
       {% if page.tags contains 'social media special' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
       {% endfor %}
       <li>&nbsp;</li>
     </ul>
+    <h4 class="b15">Marketing Specials</h4>
+    {% include list-collection.html collection='marketing' %}
   </div><!-- /.medium-4.columns -->
 
 

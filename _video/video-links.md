@@ -1,10 +1,7 @@
 ---
-layout:
+published: false
+layout: page
 title: "Links zu interessanten Video-Anleitungen"
-subtitle: ""
-description: ""
-image: ""
-date: 2014-07-29 21:47
 tags:
     - quellen
     - anleitungen
@@ -13,11 +10,9 @@ categories: video
 
 ## Blogs für die Videoproduktion
 
- * [webvideoblog.de](http://webvideoblog.de/)
- * [smartfilming.com](http://smartfilming.com/)
- * [mobile-journalism.com](http://mobile-journalism.com)
- * []()
- * []()
+- [webvideoblog.de](http://webvideoblog.de/)
+- [smartfilming.com](http://smartfilming.com/)
+- [mobile-journalism.com](http://mobile-journalism.com)
 
 
 ## Deutsche Anleitungen

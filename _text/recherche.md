@@ -19,11 +19,7 @@ tags:
 
 ## Grundlegende Suchstrategien
 
-
-## 
-
-
-[Video Strategien für die Internetsuche Deutsch][4]
+Diese [Video Strategien für die Internetsuche][4] helfen Ihnen auf die Sprünge.
 
 
 
@@ -123,6 +119,28 @@ Um sich den Parameter besser zu merken, kann man sich eine Eselsbrücke bauen. a
 
 
 
+## Websites analysieren mit Website Analyse-Tools
+
+**Wer und was verbirgt sich hinter einer Website?**
+
+Hilfestellung um fremde Websites zu analysieren und herauszufinden wem die Website gehört, welche Inhalte sie präsentiert und wieviel Besucher sie hat.
+
+Um den Traffic und die »Bonität« fremder Websites zu überprüfen, eignet sich  Alexa. Mit Alexa können Sie Websites vergleichen.
+
+
+### Besitzer einer Website (Domain, Internetadresse) herausfinden
+
+![]({{ site.urlimg }}whois-domaintools.jpg)
+
+Um den Besitzer einer deutschen Domain zu recherchieren, greift man auf die Datenbank der DENIC zurück. Die [DENIC](http://www.denic.de/) ist die zentrale Registrierungsstelle für alle deutschen Domains der Top Level Domain .de. Um den Besitzer einer Domain herauszufinden, müssen Sie lediglich den Domainnamen ohne *.de* in das Suchfeld eingeben. Bei Zeit.de wäre das einfach nur `zeit`. Anschließend müssen Sie nur noch ein Captcha lösen.
+
+Um einen Besitzer einer internationalen Domain zu recherchieren – z.B. Domains mit Endungen wie .org, .com oder .net – nutzen Sie am Besten einen Whois-Service wie [whois.domaintools.com](http://whois.domaintools.com/). Dort geben Sie einfach die Domain ein, über die Sie mehr erfahren möchten und erhalten anschließend zahlreiche Informationen zur jeweiligen Domain. Mit Domaintools.com lassen sich auch Besitzer deutscher Domains recherchieren.
+
+
+
+
+
+
 
 ## Allgemeine Suchmaschinen
 
@@ -139,7 +157,7 @@ Um sich den Parameter besser zu merken, kann man sich eine Eselsbrücke bauen. a
 
 ## Blogs zum Thema Recherche
 
-http://recherche-info.de/
+- [recherche-info.de](http://recherche-info.de/)
 
 
 ## Recherche nach Musikern und Bands
