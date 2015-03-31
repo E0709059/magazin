@@ -16,7 +16,6 @@ tags:
     - social media special
 ---
 <div class="row">
-
 <div class="medium-5 medium-push-7 columns" markdown="1">
 <div class="panel sans" markdown="1">
 **Inhaltsverzeichnis**
@@ -25,8 +24,6 @@ tags:
 {:toc}
 </div>
 </div><!-- /.medium-5.columns -->
-
-
 
 
 <div class="medium-7 medium-pull-5 columns" markdown="1">
@@ -52,9 +49,6 @@ tags:
 ### Informationen für YouTube-Partner
 
 - [Erstellen eines Markenkanals](http://support.google.com/youtube/bin/static.py?hl=de&topic=30085&guide=30071&page=guide.cs&answer=1101676)
-      
-
-
 
 
    
@@ -78,21 +72,18 @@ Tippex-Kampagne mit austauschbaren Videos
 
 
 
-
-
-<div class="row t30"><div class="small-12 columns" markdown="1">
+<div class="row t30">
+<div class="small-12 columns" markdown="1">
 <hr>
 ## YouTube besser nutzen
-</div><!-- /.small-12.columns --></div><!-- /.row -->
+</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 
 
 
 <div class="row">
 <div class="small-6 columns" markdown="1">
-  
-    
-
 
 ### Anleitung »Creator Playbook«
 
@@ -101,14 +92,11 @@ Tippex-Kampagne mit austauschbaren Videos
 
 Die kostenlose englischsprachige YouTube Anleitung “Creator Playbook” liefert wertvolle Tipps, die didaktisch gut gegliedert und aufbereitet wurden. Die fast 100-seitige Anleitung kann man als PDF herunterladen. [Zum Creator Playbook »](http://youtube.com/playbook)
 
-
-
 </div><!-- /.small-6.columns -->
+
+
+
 <div class="small-6 columns" markdown="1">
-
-
-
-
 
 ### YouTube Creator Academy
 
@@ -117,35 +105,23 @@ Die kostenlose englischsprachige YouTube Anleitung “Creator Playbook” liefer
 Die [YouTube Creator Academy](https://www.youtube.com/yt/creators/de/creatoracademy.html) bietet YouTube-Produzenten ein kostenloses Kursprogramm, um den eigenen YouTube-Kanal, die eigenen Produktionen und das Marketing zu professionalisieren, um z.B. Einnahmen zu maximieren.
 
 
-
-
-
-
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
 
 
-
-
-
-
-
-
-
-
-<div class="row t30"><div class="small-12 columns" markdown="1">
+<div class="row t30">
+<div class="small-12 columns" markdown="1">
 <hr>
 ## Interessante YouTube-Kanäle
-</div><!-- /.small-12.columns --></div><!-- /.row -->
+</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 
 
 <div class="row">
 <div class="small-6 columns" markdown="1">
   
-
-
 ### Deutsche YouTube-Kanäle
 
 <a href="http://www.youtube.com/user/zqnce"><img src="{{ site.urlimg }}zqnce.jpg"></a>
@@ -154,12 +130,9 @@ Die [YouTube Creator Academy](https://www.youtube.com/yt/creators/de/creatoracad
 
 *zqnce* steht für »Sequence« und präsentiert sich als intelligenter Interview-Kanal. Besonders ist z.B. »Shore, Stein, Papier« eine Interviewreihe mit einem ehemaligen Drogensüchtigen, der offen über seine Kindheit, Jugend und anstrengende Odyssee berichtet. Die Produzenten bleiben bei zqnce vollkommen im Hintergrund und intervenieren nur in Form ihres Videoschnitts. Anders als im linearen Fernsehen ist die Möglichkeit sich die nächste Sequenz, die man schauen will, auszusuchen.
 
-
-
-
 </div><!-- /.small-6.columns -->
+
 <div class="small-6 columns" markdown="1">
-  
 
 ### Amerikanische YouTube-Kanäle
 
@@ -183,7 +156,6 @@ Die <em>Ted Talks</em> sind zehn- bis zwanzigminütige Vorträge von Menschen, d
 Kanäle wie der YouTube von <em>Jo Nakashima</em> beweisen, wie gut Nischen auf YouTube funktionieren. Die sprachlosen Origami-Videos begeistern ein weltweites Nischenpublikum. Die englischsprachigen Untertitel übersetzen Fans in zahlreiche Sprachen und erweitern so das Origami-faltende Publikum von Jo Nakashima.
 
 
-
 <a href="http://www.youtube.com/user/TheFineBros"><img src="{{ site.urlimg }}finebros.jpg" /></a>
      
 ##### Unterhaltung: <a href="http://www.youtube.com/user/TheFineBros">FineBros</a>
@@ -191,16 +163,11 @@ Kanäle wie der YouTube von <em>Jo Nakashima</em> beweisen, wie gut Nischen auf 
 Das Prinzip hinter den *TheFineBros*-Videos ist simpel: Zeige Kindern, älteren Leuten, Teenagern oder YouTube-Stars witzige und schräge Videos oder virale Clips. Filme währenddessen Ihre Reaktionen, stelle Ihnen immer wieder die gleichen Fragen und schneide die Statements humorvoll und unterhaltend zusammen. Eine Art Dingsda, aber doch anders. Wer an <a href="http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen">Internet-Memes</a> interessiert ist, entdeckt hier zahlreiche alte und neue. Eine Sendung, die süchtig macht.
 
 
-
 ![]({{ site.urlimg }}youtube_professional_russian.jpg)
   
 ##### Waffen: <a href="http://www.youtube.com/user/FPSRussia">Professional Russian</a>
 
 Unter dem YouTube-Namen bzw. Kanal *FPSRussia* veröffentlicht der Amerikaner Kyle Lamar Myers Videos, in welchen er Waffen vorstellt. Dabei erklärt er die verschiedenen Eigenschaften, um abschließend auf Melonen und Gemüse zu schießen. Ein YouTube-Kanal für Waffennarren, der ein weltweites Publikum amüsiert. Mehr über FPSRussia liest man in der <a href="http://en.wikipedia.org/wiki/FPSRussia">englischen Wikipedia</a>.
-    
-
-
-
 
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->

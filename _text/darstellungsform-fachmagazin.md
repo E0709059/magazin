@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page
 subheadline: "Fachartikel schreiben"
 title: "Wie schreibt man einen Artikel für einen Fachmagazin"

@@ -20,7 +20,7 @@ tags:
     - social media special
 ---
 <div class="row">
-<div class="large-7 columns" markdown="1">
+<div class="medium-7 columns" markdown="1">
 
 Wenn Sie Marketing in sozialen Medien betreiben wollen Sie sicherlich wissen, wieviel Zeit die Betreuung eines Kommunikationskanals kostet. Schließlich ist Zeit immer knapp und die Investition für Marketing-Aktivitäten will wohl überlegt sein.
 
@@ -38,17 +38,19 @@ Je nachdem, wie offen Sie ihre Kanäle gestalten, können auch Diskussionen übe
 
 Die verschiedenen Werkzeuge unterstützen Sie je nach Wahl mal mehr, mal weniger bei der Vernetzung. Während ein Newsletter-Werkzeug sich beispielsweise hervorragend für Abonnements und die Verbreitung gebündelter Informationen eignet, bietet es im Vergleich mit Blogs keine Möglichkeit der direkten Vernetzung.
 
-</div><!-- /.large-7 -->
-<div class="large-5 columns">
-    <h3 style="margin-top: 0;"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h3>
-    <p>Mehr Informationen, Software und Tipps und Tricks rund um soziale Netzwerke und soziale Apps in den <a href="{{ site.url }}/social-media/">Social Media Specials</a>.</p>
-    <ul class="side-nav">
-      {% for page in site.pages reversed %}
-      {% if page.tags contains 'social media special' and page.url != '/zeit-kosten-social-web/' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
-      {% endfor %}
-      <li>&nbsp;</li>
-    </ul>
-</div><!-- /.large-5 -->
+</div><!-- /.medium-7 -->
+<div class="medium-5 columns">
+  <div class="panel callout radius">
+      <h3 style="margin-top: 0;"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h3>
+      <p>Mehr Informationen, Software und Tipps und Tricks rund um soziale Netzwerke und soziale Apps in den <a href="{{ site.url }}/social-media/">Social Media Specials</a>.</p>
+      <ul class="side-nav">
+        {% for page in site.pages reversed %}
+        {% if page.tags contains 'social media special' and page.url != '/zeit-kosten-social-web/' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+        {% endfor %}
+        <li>&nbsp;</li>
+      </ul>
+  </div>
+</div><!-- /.medium-5 -->
 </div><!-- /.row -->
 
 

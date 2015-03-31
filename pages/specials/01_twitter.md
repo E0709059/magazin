@@ -17,8 +17,8 @@ tags:
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
 <div class="panel sans" markdown="1">
-**Inhaltsverzeichnis**
-{: #toc <div class=""></div>toc_levels }
+**Inhalt**
+{: #toc }
 *  TOC
 {:toc}
 </div>
@@ -41,7 +41,7 @@ Neu bei Twitter? Ihnen sind Begriffe nicht ganz klar. Dann schauen Sie in den kl
 
 
 </div><!-- /.medium-7.columns -->
-
+</div><!-- /.row -->
 
 
 

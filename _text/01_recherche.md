@@ -1,16 +1,31 @@
 ---
-# published: false
-layout: page
+layout: page-fullwidth
 subheadline: "Erfolgreich Suchen & Finden"
 title: "Recherche: Anleitungen, hilfreiche Suchmaschinen und Websites für die Recherche"
 teaser: "Welche Suchmaschinen gibt es und wie nutze ich Sie erfolgreich? Wie filtere ich Suchanfragen bereits mit der Suchmaschine? Anleitungen, Tipps und Tricks für die erfolgreiche Suche."
 permalink: /recherche/
-header: no
+header:
+    image: suche-shutterstock_248813896.jpg
+    background-color: "#589022"
+    caption: "»Search Browsing Web Internet Information Online Concept« von Shutterstock"
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=248813896&src=id
 tags:
     - trends
     - recherche
     - suchen
 ---
+<div class="row">
+<div class="medium-5 medium-push-7 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Inhalt**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-5.columns -->
+
+
+<div class="medium-7 medium-pull-5 columns" markdown="1">
 
 > Bei der Suche nach etwas, zum Beispiel im Supermarkt, entscheiden wir uns entweder direkt den Verkäufer zu befragen oder wir machen uns anhand der Schilder selbst auf den Weg. Im Web funktioniert die Suche auf eine ähnliche Weise. Entweder wir suchen selbst oder überlassen jemand anderes die Suche. Das bedeutet, dass wir entweder die Such-Funktion konsultieren oder uns über die Navigation unser Ziel suchen. <cite>Steve Krug</cite>
 
@@ -38,7 +53,7 @@ Es schadet aber nicht ihrem Gedächtnis, wenn Sie es ein wenig trainieren. Ich b
 Begriffe erläutert Google, wenn Sie `definiere` plus einen Suchbegriff in die Suchmaske eingibt.
 
 [definiere XHTML](http://www.google.de/search?q=definiere+xhtml)
-{: .button.radius.info.small }
+{: .button.radius.info.tiny }
 
 
 Mit Google können Sie auch gezielt *nur eine Website durchsuchen*. Geben Sie dazu `site:website-namen.de` plus Suchbegriffe ein. Der Paramter `site:` plus die Website-Domain befiehlt der Suchmaschine nur diese eine Domain zu durchsuchen.
@@ -46,13 +61,13 @@ Mit Google können Sie auch gezielt *nur eine Website durchsuchen*. Geben Sie da
 Finden Sie auf Phlow z.B. nicht die Seminare für Journalismus, können Sie auf die Mithilfe von Google zurückgreifen. 
 
 [site:phlow.de Seminare Journalismus Schreiben](http://www.google.de/search?q=site%3Aphlow.de+seminare+journalismus+schreiben)
-{: .button.radius.info.small }
+{: .button.radius.info.tiny }
 
 
 Mit `filetype:` sucht man gezielt nach Dateitypen. Möglich sind die Dateiendungen .pdf, .xls, .ps, .doc, .ppt oder .rtf.
 
 [filetype:pdf social media umfrage](http://www.google.de/search?q=filetype%3Apdf+social+media+umfrage)
-{: .button.radius.info.small }
+{: .button.radius.info.tiny }
 
 
 
@@ -60,15 +75,15 @@ Mit `filetype:` sucht man gezielt nach Dateitypen. Möglich sind die Dateiendung
 Mit `intitle:` durchsuchen Sie gezielt den Titel eines Dokumentes nach einem Suchbegriff. Möchten Sie nach mehreren Begriffen suchen, tippen Sie `allintitle:` in die Suchmaske.
 
 [intitle:netlabel](http://www.google.de/search?q=intitle%3Anetlabel)
-{: .button.radius.info.small }
+{: .button.radius.info.tiny }
 
 [allintitle:mp3 download musik](http://www.google.de/search?q=allintitle%3Amp3+download+musik)
-{: .button.radius.info.small }
+{: .button.radius.info.tiny }
 
 Mit `inurl:` durchsuchen Sie den Google-Index gezielt nach URL-Adressen.
 
 [inurl:netaudio](http://www.google.de/search?hl=de&q=inurl%3Anetaudio)
-{: .button.radius.info.small }
+{: .button.radius.info.tiny }
 
 
 Über den Link Cache, unterhalb eines Suchergebnisses, ruft man eine von Google zwischengespeicherte Version der Webseite auf. Diese Funktion erlaubt oftmals den Aufruf bereits gelöschter Dokumente.
@@ -76,33 +91,29 @@ Mit `inurl:` durchsuchen Sie den Google-Index gezielt nach URL-Adressen.
 
 
 
-Eingrenzen des Zeitrahmens bei der Suche mit Google
+## Zeitraum der Google-Suche eingrenzen
 
-Oft sucht man Nachrichten oder Dokumente, die in den letzten Stunden, Tagen oder Monaten stattgefunden haben – zum Beispiel nach einem Sportereignis oder nach einer politischen Wahl. Oder Sie suchen aktuelle Statistiken zur Verwendung von Social Media-Apps. 
+Oft sucht man Nachrichten oder Dokumente, die in den letzten Stunden, Tagen oder Monaten stattgefunden haben oder erschienen sind. So will man zum Beispiel nach einem Sportereignis oder nach einer politischen Wahl, die Nachrichten der letzten 24 Stunden durchsuchen. Oder Sie recherchieren aktuelle Statistiken zur Verwendung von Social Media-Apps. 
 
-Genau für diese Art von Recherche bietet Google die gezielte zeitliche Suche. Der zeitliche Rahmen spielt keine Rolle, Sie können die Suche sogar auf einen Zeitraum wie weniger als 24 Stunden begrenzen. Der Paramter mit welchem man den Zeitrahmen einengt, lautet `as_qdr`.
+Genau für diese Art von Recherche bietet Google die gezielte zeitliche Suche. Hierbei spielt der zeitliche Rahmen keine Rolle. Sie können die Suche sogar auf einen Zeitraum mit weniger als 24 Stunden begrenzen. Dazu nutzen Sie einfach den Parameter `as_qdr`, um den Zeitraum einzugrenzen.
 
 Mit `as_qdr` können Sie drei Werte für die Suche maßschneidern. Das sind:
 
-dnumber - Anzahl vergangenener Tage (z.B.: d10)
-wnumber - Anzahl vergangenener Wochen
-ynumber - Anzahl vergangenener Jahre
+- `dnumber` - Anzahl vergangenener Tage (z.B.: d10)
+- `wnumber` - Anzahl vergangenener Wochen
+- `ynumber` - Anzahl vergangenener Jahre
 
-Mit Hilfe des Suchparamter as_qdr entdeckt man somit die neuesten von Google entdeckten URLs. Möchte man zum Beispiel zu einem aktuellen Thema, wie z.B. neuen Codes zum Theme “iphone”, auf dem Laufenden bleiben, benötigt man einen Suchbefehl, der wie folgt aussehen könnte:
+Außerdem können Sie mittels des Suchparameters `as_qdr` auch die von Google zuletzt gefundenen Dokumente auflisten. Wollen Sie zum Beispiel zu einem aktuellen Thema, wie z.B. neuen Nachrichten zum Thema *absturz german wings pilot*, auf dem Laufenden bleiben, benötigen Sie einen Suchbefehl, der wie folgt aussehen könnte:
 
-http://www.google.com/search?q=iphone+source+code&as_qdr=d1
+<http://www.google.com/search?q=german+wing+absturz+pilot&as_qdr=d1>
 
-Die obige Suche zeigt alle neuen URLs zur Abfrage der Suchbegriffe “iphone source code”, des letzten Tages. Denn d1 steht für “1 day”.
+Die obige Suche zeigt alle neuen URLs zur Abfrage der Suchbegriffe *absturz german wings pilot*, des letzten Tages. Denn `d1` steht für »one day«.
 
-Hilfreich ist die Funktion auch für Webmaster und Suchmaschinenoptimierer. Möchte man z.B. sehen, welche URLS der eigenen Website in den letzten 7 Tagen von Google entdeckt wurden, würde der Suchbefehl für Phlow.net wie folgt aussehen:
+Hilfreich ist die Funktion auch für Webmaster und Suchmaschinenoptimierer. Möchten Sie z.B. sehen, welche URLs der eigenen Website in den letzten 7 Tagen von Google entdeckt wurden, würde der Suchbefehl für *magazin.phlow.de* wie folgt aussehen:
 
-http://www.google.com/search?q=site:phlow.net&as_qdr=d7
+<http://www.google.com/search?q=site:magazin.phlow.de&as_qdr=d7>
 
-Während im obigen Suchbefehl der Parameter site:phlow.net die Suche auf die die Domain Phlow.net beschränkt, grenzt man mit as_qdr=d7 die Ergebnisse auf die letzten sieben Tage ein.
-
-Um sich den Parameter besser zu merken, kann man sich eine Eselsbrücke bauen. as_qdr könnte dabei für “advanced search — query date range” stehen.
-
-
+Während im obigen Suchbefehl der Parameter `site:magazin.phlow.de` die Suche auf die die Domain *magazin.phlow.de* beschränkt, grenzen Sie mit `as_qdr=d7` die Ergebnisse auf die letzten sieben Tage ein.
 
 
 
@@ -208,6 +219,12 @@ Um einen Besitzer einer internationalen Domain zu recherchieren – z.B. Domains
 [www.alexa.com](http://www.alexa.com/)
 :   Recherche für die Auswertung von Qualität, Traffic und Verlinkung einer Website
 
+
+
+
+
+</div><!-- /.medium-7.columns -->
+</div><!-- /.row -->
 
 
 

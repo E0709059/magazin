@@ -9,8 +9,6 @@ header:
     image_fullwidth: "header_drop.jpg"
 show_meta: false
 ---
-
-
 Wenn Sie Inhalte ansprechend im Internet publizieren und präsentieren wollen, stolpern Sie schnell über zahlreiche Probleme. Das beginnt mit der grundsätzlichen Frage: *Wie schreibe ich gute Texte?* Liegen Ihnen die Texte vor, möchten Sie diese sicherlich auch bebildern. Aber wie beschneidet man Bilder? Welche Bildformate eignen sich für das Internet? Und wie optimiert man diese Bilder für das Internet?
 
 Als nächstes schlittert die Frage in den Raum: Wie baut man denn eigentlich eine Webseite? Muss ich HTML und CSS lernen? Oder benutze ich lieber ein Redaktionssystem, dass mir die technische Arbeit abnimmt? Vielleicht haben Sie bereits von WordPress gehört oder nutzen es bereits. Aber wie konfigurieren Sie das Redaktionssystem, wie stellen Sie professionell Ihre Inhalte online und wie verändern Sie das Design nach Ihrem Geschmack?

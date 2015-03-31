@@ -32,13 +32,12 @@ Eine der umwerfenden Funktionen ist die Möglichkeit per Tastaturkombination ode
 
 ## Die besten Erweiterungen für Sublime Text
 
-### Schneller mit HTML und CSS arbeiten
+### Emmet: Schneller mit HTML und CSS arbeiten
 
 [Emmet][2] erweitert den Arbeitsfluss mit HTML und CSS und beschleunigt ungemein die Arbeit.
 
 
-
-### Nummernfolgen automatisch eingeben
+### Text Pastry: Nummernfolgen automatisch eingeben
 
 [Text Pastry][1] ist ein kostenloses Plugin für Sublime Text, dass die Funktion *multiple selections* erweitert. Mit Hilfe des Plugins erstellt man z.B. unkompliziert Nummernfolgen, die sich erhöhen oder wiederholen.
 
@@ -53,7 +52,7 @@ Text Pastry auf dem Mac über die Kommandozeile aufrufen:
 <div class="alert-box info radius">Mit dem Kurzbefehl <kbd>CMD + Alt + n</kbd> öffnen Sie direkt die Text Pastry-Befehlszeile und können direkt Variablen eingeben.</div>
 
 
-## Markdown Editing
+### Markdown Editing
 
 [Markdown Editing][2] erweitert Sublime Text um hilfreiche Funktionen, wenn man Texte mit Markdown schreibt. Neben Syntax-Highlighting, eigenen Einstellungen für Markdown-Dokumente erleichtert Markdown Editing die Arbeit auch mit Tastaturkürzeln. Hier meine Lieblingstastaturkürzel:
 
@@ -65,9 +64,16 @@ Text Pastry auf dem Mac über die Kommandozeile aufrufen:
 <small>Quelle: <http://sublimetext-markdown.github.io/MarkdownEditing/></small>
 
 
+### SideBarEnhancements: Dateien bewegen, Seitenleiste erweitern
+
+![]({{ site.urlimg }}sublime_text_sidebarenhancements.png)
+{: .left }
+Mit [SideBarEnhancements][5] erweitern Sie Sublime Text um wichtige Funktionen, wie z.B. das Verschieben von Dateien über die Seitenleiste oder das Kopieren eines Pfades einer Datei.
 
 
+### Sublimerge: Code vergleichen
 
+Mit [Sublimerge][6] vergleichen Sie Code und fügen ihn zusammen. Dazu nutzt Sublimerge eine geteilte Ansicht mit zwei Fenstern, über die man den Code vergleichen kann. Starten Sie Sublimerge so markiert die Erweiterungen Änderungen bzw. Unterschiede der zwei Dokumente.
 
 
 
@@ -75,8 +81,8 @@ Text Pastry auf dem Mac über die Kommandozeile aufrufen:
  [2]: http://emmet.io/
  [3]: https://github.com/sergeche/emmet-sublime#readme
  [4]: http://sublimetext-markdown.github.io/MarkdownEditing/
- [5]: #
- [6]: #
+ [5]: https://github.com/titoBouzout/SideBarEnhancements/tree/st3
+ [6]: http://www.sublimerge.com/
  [7]: #
  [8]: #
  [9]: #
