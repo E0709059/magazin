@@ -35,6 +35,10 @@
 #   url: "#"
 #   side: left
 
+- title: Videos
+  url: "/phlow-tv/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
@@ -43,10 +47,6 @@
     url: "/blog/"
   - title: "Blog Archiv"
     url: "/blog/archiv/"
-
-- title: Videos
-  url: "/phlow-tv/"
-  side: left
 
 - title: "Suche"
   url: "/suche/"

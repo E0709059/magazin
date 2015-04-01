@@ -1,9 +1,9 @@
 ---
-published: false
 layout: page
-title: "Button einblenden mit scrollTop"
 subheadline: "Geschmeidig nach oben scrollen"
+title: "Button einblenden mit scrollTop"
 teaser: "Klein aber fein: scrollTop überwacht die vertikale Position der Scrollleiste und blendet ab einem bestimmten Punkt einen Scroll-Nach-Oben-Button ein."
+permalink: /code/javascript/scrolltop/
 tags:
     - javascript
 ---
@@ -36,7 +36,6 @@ $(window).scroll(function(){
             $('.scrollup').fadeOut();
         }
     });
-
 $('.scrollup').click(function(){
     $("html, body").animate({ scrollTop: 0 }, 700);
     return false;

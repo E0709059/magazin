@@ -30,7 +30,16 @@ header:
 
   <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
-    {% include list-collection.html collection='webdesign' %}
+
+    <ul class="side-nav">
+  {% for page in site.webdesign %}
+      {% if page.categories contains 'code' or page.published == false %}
+      {% else %}
+      <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
+  {% endfor %}
+      <li>&nbsp;</li>
+  </ul>
   </div><!-- /.medium-4.columns -->
 
 

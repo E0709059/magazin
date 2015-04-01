@@ -1,9 +1,9 @@
 ---
+published: false
 layout: page
 title: "Webdesign Links"
 description: ""
 ---
-
 
 ## Styleguides
 
