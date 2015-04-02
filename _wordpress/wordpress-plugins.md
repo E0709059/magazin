@@ -16,6 +16,18 @@ image:
 <div class="large-7 columns" markdown="1">
 
 
+
+## Link-Checker: Kaputte Links per Plugin checken
+
+![]({{ site.urlimg }}wordpress-broken_link_checker.png)
+
+Wächst eine Website, wächst mit ihr auch die Wahrscheinlickeit, dass sich ins Nirvana führende zerbrochene Links ausbreiten. Im besten Fall federt eine 404-Fehlerseiten irregeführte Besucher ab. Mit dem Linkchecker-Plugin für WordPress lässt man automatisch sein System nach kaputten Links durchsuchen. 
+
+Auf Wunsch informiert das Plugin per Email über neue zerbrochene Links. Oder es das <a href="http://wordpress.org/extend/plugins/broken-link-checker/">Link-Checker-Plugin</a> zeigt zerbrochene Links im Dashboard an. Definitiv praktisch und unkompliziert. Auch die anschließende Bearbeitung der kaputten Links über das Admin-Panel des Link-Checker-Plugins.
+
+
+
+
 ## [Contact Form 7]
 
 Kontaktformulare einfach erstellen und einbauen
