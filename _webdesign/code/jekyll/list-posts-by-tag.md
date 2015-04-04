@@ -3,7 +3,6 @@ layout: page
 subheadline: "Jekyll Code Schnipsel"
 title: "List Your Posts by Tags"
 teaser: ""
-permalink: /code/jekyll/list-posts-by-tags/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

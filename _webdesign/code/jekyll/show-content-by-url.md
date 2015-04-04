@@ -3,7 +3,6 @@ layout: page
 subheadline: "Jekyll Code Schnipsel"
 title: "Check via URL which content to show"
 teaser: ""
-permalink: /code/jekyll/content-by-url/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

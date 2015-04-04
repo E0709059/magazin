@@ -3,7 +3,6 @@ layout: page
 subheadline: "CSS Code Snippets"
 title: "Initiale(n) mit CSS"
 teaser: "Eine Initiale (auch Initial) ist ein schmückender Anfangsbuchstabe, der am Anfang eines Textes hervorgehoben wird. Mit Pseudoelementen in CSS lässt sich das leicht bewerkstelligen. Eine Auswahl verschiedenster CSS-Initialen."
-permalink: /code/css/initiale/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

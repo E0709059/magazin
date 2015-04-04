@@ -4,7 +4,6 @@ layout: page
 subheadline: "CSS Code Snippets"
 title: "Blockquote mit CSS Pseudoklassen gestalten"
 teaser: ""
-permalink: /code/css/blockquote/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

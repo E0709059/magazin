@@ -3,7 +3,6 @@ layout: page
 subheadline: "WordPress Rezepte"
 title: "Allow additional filetypes to be uploaded"
 teaser: ""
-permalink: /code/wordpress/autor-info/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

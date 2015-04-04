@@ -3,7 +3,6 @@ layout: page
 subheadline: "WordPress Rezepte"
 title: "Autoreninfos und Profilbild unter Artikel einfügen"
 teaser: ""
-permalink: /code/wordpress/autor-info/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

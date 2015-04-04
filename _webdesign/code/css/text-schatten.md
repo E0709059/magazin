@@ -3,7 +3,6 @@ layout: page
 subheadline: "CSS Code Snippets"
 title: "CSS-Schatten für Texte"
 teaser: ""
-permalink: /code/css/text-shadow/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

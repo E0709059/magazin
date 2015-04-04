@@ -3,7 +3,6 @@ layout: page
 subheadline: "PHP Rezepte"
 title: "Dateien innerhalb eines Verzeichnisses ausgeben"
 teaser: ""
-permalink: /code/php/verzeichnis-ausgeben/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

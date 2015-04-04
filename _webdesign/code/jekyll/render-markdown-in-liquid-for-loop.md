@@ -3,7 +3,6 @@ layout: page
 subheadline: "Jekyll Code Schnipsel"
 title: "Render Markdown in Liquid For Loop"
 teaser: ""
-permalink: /code/jekyll/render-markdown-liquid-for-loop/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

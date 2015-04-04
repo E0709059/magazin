@@ -3,7 +3,6 @@ layout: page
 subheadline: "HTML Code Snippets"
 title: "Index Startseite für Phlow"
 teaser: ""
-permalink: /code/html/index-startseite/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

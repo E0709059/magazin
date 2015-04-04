@@ -3,7 +3,6 @@ layout: page
 subheadline: "Jekyll Code Schnipsel"
 title: "Loop through collection"
 teaser: ""
-permalink: /code/jekyll/loop-through-collection/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"

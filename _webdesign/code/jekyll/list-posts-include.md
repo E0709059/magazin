@@ -3,7 +3,6 @@ layout: page
 subheadline: "Jekyll Code Schnipsel"
 title: "_include to List Posts by Parameters"
 teaser: ""
-permalink: /code/jekyll/list-posts-parameters/
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
