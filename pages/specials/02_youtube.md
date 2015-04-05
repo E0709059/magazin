@@ -74,7 +74,6 @@ Tippex-Kampagne mit austauschbaren Videos
 
 <div class="row t30">
 <div class="small-12 columns" markdown="1">
-<hr>
 ## YouTube besser nutzen
 </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
@@ -110,69 +109,104 @@ Die [YouTube Creator Academy](https://www.youtube.com/yt/creators/de/creatoracad
 
 
 
+
+
+
 <div class="row t30">
 <div class="small-12 columns" markdown="1">
-<hr>
 ## Interessante YouTube-Kanäle
+
+### Deutsche YouTube-Kanäle
+
+</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+
+
+
+<div class="row">
+<div class="medium-6 columns" markdown="1">
+  
+#### Satire: Neo Magazin Royale...
+
+<a href="https://www.youtube.com/channel/UCNNEMxGKV1LsKZRt4vaIbvw"><img src="{{ site.urlimg }}youtube-jan-boehmermann-neo-royale-medium.jpg" alt="youtube kanal satire"></a>
+
+...ist der Kanal zur ZDF Neo Sendung mit Jan Böhmermann. Böhmermann moderiert die satirische Late-Night-Show [Neo Magazin Royale](https://www.youtube.com/channel/UCNNEMxGKV1LsKZRt4vaIbvw) und nutzt intensiv soziale Kanäle wie YouTube, Twitter und Facebook, um das Interesse an der Sendung zu befeuern.
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+#### Interview-Kanal 
+
+<a href="http://www.youtube.com/user/zqnce"><img src="{{ site.urlimg }}zqnce.jpg" alt="youtube kanal interview"></a>
+
+<a href="http://www.youtube.com/user/zqnce">zqnce</a> steht für »Sequence« und präsentiert sich als intelligenter Interview-Kanal. Besonders ist z.B. »Shore, Stein, Papier« eine Interviewreihe mit einem ehemaligen Drogensüchtigen, der offen über seine Kindheit, Jugend und anstrengende Odyssee berichtet. Die Produzenten bleiben bei zqnce vollkommen im Hintergrund und intervenieren nur in Form ihres Videoschnitts. Anders als im linearen Fernsehen ist die Möglichkeit sich die nächste Sequenz, die man schauen will, auszusuchen.
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+
+
+<div class="row t30">
+<div class="small-12 columns" markdown="1">
+
+### Amerikanische YouTube-Kanäle
+
 </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
 
 
 <div class="row">
-<div class="small-6 columns" markdown="1">
-  
-### Deutsche YouTube-Kanäle
+<div class="medium-6 columns" markdown="1">
 
-<a href="http://www.youtube.com/user/zqnce"><img src="{{ site.urlimg }}zqnce.jpg"></a>
-  
-##### Interview: <a href="http://www.youtube.com/user/zqnce">zqnce</a>
+#### Innovative Music-Clips
 
-*zqnce* steht für »Sequence« und präsentiert sich als intelligenter Interview-Kanal. Besonders ist z.B. »Shore, Stein, Papier« eine Interviewreihe mit einem ehemaligen Drogensüchtigen, der offen über seine Kindheit, Jugend und anstrengende Odyssee berichtet. Die Produzenten bleiben bei zqnce vollkommen im Hintergrund und intervenieren nur in Form ihres Videoschnitts. Anders als im linearen Fernsehen ist die Möglichkeit sich die nächste Sequenz, die man schauen will, auszusuchen.
+<a href="https://www.youtube.com/user/PomplamooseMusic"><img src="{{ site.urlimg }}youtube-pomplamoose-medium.jpg" alt="youtube kanal musik"></a>
 
-</div><!-- /.small-6.columns -->
-
-<div class="small-6 columns" markdown="1">
-
-### Amerikanische YouTube-Kanäle
-
-<a href="http://www.youtube.com/user/gloveandboots"><img src="{{ site.urlimg }}glove_and_boots.jpg" /></a>
-
-Humor: <a href="http://www.youtube.com/user/gloveandboots">Glove and Boots</a>
-
-Die satirische Sendung <em>Glove an Boots</em> nimmt die populäre Themen und Trends in den sozialen Kanälen humorvoll und subversiv auf die Schüppe nimmt. Als Gastgeber der YouTube-Sendung dienen die beiden Portagonisten Fafa und Mario, zwei Handpuppen, die durch eine mit Details strotzende Sendung führen.
-
-<a href="http://www.youtube.com/user/tedtalksdirector"><img src="{{ site.urlimg }}tedtalks.jpg" /></a>
-
-##### Wissen: <a href="http://www.youtube.com/user/tedtalksdirector">Ted Talks</a>
-
-Die <em>Ted Talks</em> sind zehn- bis zwanzigminütige Vorträge von Menschen, die auf ihrem Gebiet zu den intelligentesten, agilsten und erfolgreichsten Spezialisten gehören. Jeder Talk entführt den Zuschauer in eine neue Welt und informiert komprimiert aber unterhaltsam zu Themen aus Technologie, Biologie, Psychologie oder Design. Das Spektrum ist breit und bietet jedem Wissbegierigen den perfekten Kanal.
-
- 
-<a href="http://www.youtube.com/user/jonakashima"><img src="{{ site.urlimg }}youtube_origami.jpg" /></a>
- 
-##### Origami: <a href="http://www.youtube.com/user/jonakashima">Jo Nakashima Origami</a>
-
-Kanäle wie der YouTube von <em>Jo Nakashima</em> beweisen, wie gut Nischen auf YouTube funktionieren. Die sprachlosen Origami-Videos begeistern ein weltweites Nischenpublikum. Die englischsprachigen Untertitel übersetzen Fans in zahlreiche Sprachen und erweitern so das Origami-faltende Publikum von Jo Nakashima.
+Das Musikerduo [Pomplamoose](https://www.youtube.com/user/PomplamooseMusic) gehört zu den individuellen Independent-Musikern, die sich nach langer Vorarbeit mittlerweile die Videos von ihren Fans finanzieren lassen. Sämtliche Videos produzieren Jack Conte und Nataly Dawn in Eigenregie.
 
 
-<a href="http://www.youtube.com/user/TheFineBros"><img src="{{ site.urlimg }}finebros.jpg" /></a>
+#### Humor & Satire: Glove and Boots
+
+<a href="http://www.youtube.com/user/gloveandboots"><img src="{{ site.urlimg }}glove_and_boots.jpg" alt="youtube kanal satire"></a>
+
+Die satirische Sendung <a href="http://www.youtube.com/user/gloveandboots">Glove and Boots</a> nimmt die populäre Themen und Trends in den sozialen Kanälen humorvoll und subversiv auf die Schüppe nimmt. Als Gastgeber der YouTube-Sendung dienen die beiden Portagonisten Fafa und Mario, zwei Handpuppen, die durch eine mit Details strotzende Sendung führen.
+
+
+#### Vorträge aus Kultur & Technologie
+
+<a href="http://www.youtube.com/user/tedtalksdirector"><img src="{{ site.urlimg }}tedtalks.jpg" alt="youtube kultur technologie"></a>
+
+Die <a href="http://www.youtube.com/user/tedtalksdirector">Ted Talks</a> sind zehn- bis zwanzigminütige Vorträge von Menschen, die auf ihrem Gebiet zu den intelligentesten, agilsten und erfolgreichsten Spezialisten gehören. Jeder Talk entführt den Zuschauer in eine neue Welt und informiert komprimiert aber unterhaltsam zu Themen aus Technologie, Biologie, Psychologie oder Design. Das Spektrum ist breit und bietet jedem Wissbegierigen den perfekten Kanal.
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+
+
+#### Pure Unterhaltung
      
-##### Unterhaltung: <a href="http://www.youtube.com/user/TheFineBros">FineBros</a>
+<a href="http://www.youtube.com/user/TheFineBros"><img src="{{ site.urlimg }}finebros.jpg" alt="youtube kanal unterhaltung"></a>
 
-Das Prinzip hinter den *TheFineBros*-Videos ist simpel: Zeige Kindern, älteren Leuten, Teenagern oder YouTube-Stars witzige und schräge Videos oder virale Clips. Filme währenddessen Ihre Reaktionen, stelle Ihnen immer wieder die gleichen Fragen und schneide die Statements humorvoll und unterhaltend zusammen. Eine Art Dingsda, aber doch anders. Wer an <a href="http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen">Internet-Memes</a> interessiert ist, entdeckt hier zahlreiche alte und neue. Eine Sendung, die süchtig macht.
+Das Prinzip hinter den Videos von <a href="http://www.youtube.com/user/TheFineBros">FineBros</a> ist simpel: Zeige Kindern, älteren Leuten, Teenagern oder YouTube-Stars witzige und schräge Videos oder virale Clips. Filme währenddessen Ihre Reaktionen, stelle Ihnen immer wieder die gleichen Fragen und schneide die Statements humorvoll und unterhaltend zusammen. Eine Art Dingsda, aber doch anders. Wer an <a href="http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen">Internet-Memes</a> interessiert ist, entdeckt hier zahlreiche alte und neue. Eine Sendung, die süchtig macht.
 
 
-![]({{ site.urlimg }}youtube_professional_russian.jpg)
+#### Nische: Origami mit Jo Nakashima
+
+<a href="http://www.youtube.com/user/jonakashima"><img src="{{ site.urlimg }}youtube_origami.jpg" alt="youtube kanal origami"></a>
+
+Kanäle wie der YouTube von <a href="http://www.youtube.com/user/jonakashima">Jo Nakashima</a> beweisen, wie gut Nischen auf YouTube funktionieren. Die sprachlosen Origami-Videos begeistern ein weltweites Nischenpublikum. Die englischsprachigen Untertitel übersetzen Fans in zahlreiche Sprachen und erweitern so das Origami-faltende Publikum von Jo Nakashima.
+
+
+#### Der Waffennarr Professional Russian
   
-##### Waffen: <a href="http://www.youtube.com/user/FPSRussia">Professional Russian</a>
+<a href="http://www.youtube.com/user/FPSRussia"><img src="{{ site.urlimg }}youtube_professional_russian.jpg" alt="youtube kanal professional russian"></a>
 
-Unter dem YouTube-Namen bzw. Kanal *FPSRussia* veröffentlicht der Amerikaner Kyle Lamar Myers Videos, in welchen er Waffen vorstellt. Dabei erklärt er die verschiedenen Eigenschaften, um abschließend auf Melonen und Gemüse zu schießen. Ein YouTube-Kanal für Waffennarren, der ein weltweites Publikum amüsiert. Mehr über FPSRussia liest man in der <a href="http://en.wikipedia.org/wiki/FPSRussia">englischen Wikipedia</a>.
+Unter dem YouTube-Namen bzw. Kanal <a href="http://www.youtube.com/user/FPSRussia">FPSRussia</a> veröffentlicht der Amerikaner Kyle Lamar Myers Videos, in welchen er Waffen vorstellt. Dabei erklärt er die verschiedenen Eigenschaften, um abschließend auf Melonen und Gemüse zu schießen. Ein YouTube-Kanal für Waffennarren, der ein weltweites Publikum amüsiert. Mehr über FPSRussia liest man in der <a href="http://en.wikipedia.org/wiki/FPSRussia">englischen Wikipedia</a>.
 
-</div><!-- /.small-6.columns -->
+</div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
-
-
-
-
-

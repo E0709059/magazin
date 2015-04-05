@@ -84,7 +84,7 @@ Mit dem Service von [Pictaculous][4] extrahiert man Farben aus Bildern. Dazu lä
 ## Anleitungen
 
 * [Learn the Basics of Color Theory to Know What Looks Good](http://lifehacker.com/learn-the-basics-of-color-theory-to-know-what-looks-goo-1608972072)
-
+* [Color Contrast for Better Readability](http://viget.com/inspire/color-contrast)
 
 ## Video: Ein harmonisches Farbschema erstellen
 
