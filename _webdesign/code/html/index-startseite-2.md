@@ -8,8 +8,8 @@ header:
     background-color: "#900055"
     caption: »Flat design vector concept« von Shutterstock
     caption_url: http://www.shutterstock.com/pic.mhtml?id=225068266&src=id
-# image:
-#     thumb: icon/icon-html.svg
+image:
+    thumb: icon/icon-html-128x.png
 style: "#masthead-with-background-color { padding: 0; }"
 categories:
     - code
@@ -18,7 +18,6 @@ tags:
     - code
 ---
 
-<a href="{{ site.url }}/page/index-startseite-weiss.html">So sieht die Startseite aus ›</a>
 
 {% highlight html %}
 <!doctype html>

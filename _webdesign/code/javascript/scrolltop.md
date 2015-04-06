@@ -6,6 +6,8 @@ teaser: "Klein aber fein: scrollTop überwacht die vertikale Position der Scroll
 tags:
     - code
     - javascript
+image:
+    thumb: icon/icon-javascript-128x.png
 ---
 
 Klein aber fein: `scrollTop` überwacht die vertikale Position der Scrollleiste und wenn diese größer als *X* ist (im Beispiel 700 Pixel), blendet das Script den *.scrollup*-Button ein.

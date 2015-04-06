@@ -8,8 +8,8 @@ header:
     background-color: "#900055"
     caption: »Flat design vector concept« von Shutterstock
     caption_url: http://www.shutterstock.com/pic.mhtml?id=225068266&src=id
-# image:
-#     thumb: icon/icon-css.svg
+image:
+    thumb: icon/icon-css-128x.png
 style: "#masthead-with-background-color { padding: 0; }"
 categories:
     - code
