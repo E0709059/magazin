@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
-title: "Loop through collection"
-teaser: ""
+title: "Tags auflisten mit For-Loop"
+teaser: "Diese For-Loop listet alle Tags auf."
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
@@ -19,20 +19,21 @@ tags:
     - liquid
     - rezept
     - code
+    - for loop
+    - tags
 ---
+Die Tags definiert man im [front-matter][1]-Bereich eines Jekyll-Beitrages mit:
+
+{% include alert terminal='tags: <br>&nbsp;&nbsp;&nbsp;&nbsp;- schlagwort-eins<br>&nbsp;&nbsp;&nbsp;&nbsp;- schlagwort-zwei' %}
 
 
+{% highlight html %}
 {% raw %}
-~~~
-{% for album in site.music limit:3 %}
-      <li>
-        <img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
-        <a href="{{ album.url }}">{{ album.title }}</a>
-        <p>{{ album.short-description }}</p>
-      </li>
+{% for tag in page.tags %}
+    <a href="{{ site.url }}/tag/{{ tag | escape }}.html">{{ tag }}</a><br />
 {% endfor %}
-~~~
 {% endraw %}
+{% endhighlight %}
 
 
-Source: [Getting Started with Jekyll Collections](http://www.sitepoint.com/getting-started-jekyll-collections/)
+ [1]: {{ site.url }}/jekyll/front-matter/

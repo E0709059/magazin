@@ -17,6 +17,7 @@ tags:
     - wordpress
     - rezept
     - code
+breadcrumb: true
 ---
 
 {% highlight php %}

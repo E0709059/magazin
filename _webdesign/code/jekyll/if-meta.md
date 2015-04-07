@@ -1,9 +1,9 @@
 ---
 layout: page
 breadcrumb: true
-subheadline: "Jekyll Code Schnipsel"
-title: "Loop through collection"
-teaser: ""
+title: "IF – Wenn Metadaten vorhanden, dann ausgeben"
+teaser: "Um mit einer IF-Abfrage zu prüfen, ob die Variable vorhanden ist, ist das folgende Code-Schnipsel hilfreich."
+date:   2014-05-27 00:00:00
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
@@ -19,20 +19,23 @@ tags:
     - liquid
     - rezept
     - code
+
 ---
 
-
+{% highlight html %}
 {% raw %}
-~~~
-{% for album in site.music limit:3 %}
-      <li>
-        <img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
-        <a href="{{ album.url }}">{{ album.title }}</a>
-        <p>{{ album.short-description }}</p>
-      </li>
-{% endfor %}
-~~~
+{% if page.author %}
+    {{ page.author }}
+{% endif %}
 {% endraw %}
+{% endhighlight %}
+
+{% highlight html %}
+{% raw %}
+{% if page.meta %}
+    {{ page.meta }}
+{% endif %}
+{% endraw %}
+{% endhighlight %}
 
 
-Source: [Getting Started with Jekyll Collections](http://www.sitepoint.com/getting-started-jekyll-collections/)

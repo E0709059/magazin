@@ -1,5 +1,6 @@
 ---
 layout: page
+breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
 title: "List Your Posts by Tags"
 teaser: ""

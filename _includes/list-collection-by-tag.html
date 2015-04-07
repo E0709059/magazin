@@ -1,0 +1,26 @@
+{% comment %}
+*   
+*  By default include.limit is a string. To convert it
+*  into a variable you have to use *assign*  and the
+*  filter | plus:0
+*  
+*  Like this › assign limit = include.limit | plus:0 
+*  
+*  
+{% endcomment %}
+
+
+  {% assign limit = include.limit | plus:0 %}
+  {% assign counter = 0 %}
+
+
+<ul class="side-nav sans">
+  {% for page in site.[include.collection] %}
+  {% if page.published == false %}
+  {% elsif page.tags contains include.tag and counter < limit %}
+  <li><span><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></span></li>
+  {% assign counter=counter | plus:1 %}
+  {% endif %}
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>

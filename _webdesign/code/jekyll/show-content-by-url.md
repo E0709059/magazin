@@ -1,5 +1,6 @@
 ---
 layout: page
+breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
 title: "Check via URL which content to show"
 teaser: ""

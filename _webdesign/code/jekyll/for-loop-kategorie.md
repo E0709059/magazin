@@ -1,7 +1,8 @@
 ---
 layout: page
+breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
-title: "For Loop"
+title: "For Loop mit Filter"
 teaser: "Diese For-Schleife findet zuerst alle Kategorien und arbeitet sie ab. Die zweite For-Schleife – innerhalb der ersten – schaut sich alle <em>posts</em> an, die zu dieser Kategorie gehören. Der if-Befehl filtert die <em>posts</em> heraus, die das Layout <em>post</em> haben (angegeben im front matter)."
 header:
     image: code_shutterstock_225068266.png

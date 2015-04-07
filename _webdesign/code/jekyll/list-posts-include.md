@@ -1,5 +1,6 @@
 ---
 layout: page
+breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
 title: "_include to List Posts by Parameters"
 teaser: ""
