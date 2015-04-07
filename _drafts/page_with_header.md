@@ -16,4 +16,6 @@ header:
     color:
     background-color: "#fabb00"
     title: header with text
+    caption: 
+    caption_url:
 ---
