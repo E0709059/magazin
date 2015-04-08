@@ -11,8 +11,10 @@ header:
     background-color:  "#979FAC"
 image:
     thumb: icon/icon-webdesign.png
-tags:
+categories:
     - webdesign
+tags:
+    - artikel
 permalink: /webdesign/checkliste/
 ---
 

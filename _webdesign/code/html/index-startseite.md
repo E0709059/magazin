@@ -16,6 +16,7 @@ categories:
 tags:
     - html
     - code
+breadcrumb: true
 ---
 
 <a href="{{ site.url }}/page/index.html">So sieht die Startseite aus ›</a>

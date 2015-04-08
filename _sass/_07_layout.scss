@@ -61,6 +61,7 @@ body.video cite { color: #fff; }
 }
 #masthead-no-image-header {
     height: 175px;
+    background: $grey-9;
 }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
@@ -243,9 +244,11 @@ body.video cite { color: #fff; }
         font-size: rem-calc(13);
         font-weight: 300;
     }
-
     #footer a {
         color: $footer-link-color;
+    }
+    #footer a:hover {
+        color: #fff;
     }
     #footer h4,
     #footer h5 {

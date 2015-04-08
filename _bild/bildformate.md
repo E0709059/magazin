@@ -25,3 +25,4 @@ sRGB-Farbraum
 ## PNG
 ## SVG
 ## TIFF
+## Base64 Bilder

@@ -6,6 +6,7 @@
 *  
 *  Like this › assign limit = include.limit | plus:0 
 *  
+*  Use › include list-collection-by-tag.html collection='webdesign' tag='jekyll' limit='5' url='code'
 *  
 {% endcomment %}
 
@@ -14,7 +15,7 @@
   {% assign counter = 0 %}
 
 
-<ul class="side-nav sans">
+<ul class="side-nav">
   {% for page in site.[include.collection] %}
   {% if page.published == false %}
   {% elsif page.tags contains include.tag and counter < limit %}
@@ -22,5 +23,9 @@
   {% assign counter=counter | plus:1 %}
   {% endif %}
   {% endfor %}
+  {% if include.url %}
+  <li class="text-right"><a href="{{ site.url }}/{{ include.url | downcase }}/{{ include.tag | downcase }}/"><strong>Mehr ›</strong></a></li>
+  {% else %}
   <li>&nbsp;</li>
+  {% endif %}
 </ul>

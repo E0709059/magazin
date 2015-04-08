@@ -5,6 +5,10 @@ title: "Icon Fonts"
 teaser: "Icon Fonts setzt man wie eine Schrift im Webdesign ein. Diese Auswahl professioneller Icon Fonts sind kostenlos und auch für kommerzielle Projekte einsetzbar."
 category:
     - webdesign
+tags:
+    - artikel
+    - icon
+    - icon fonts
 header:
     image_fullwidth: header-icon-fonts.png
     title: " "

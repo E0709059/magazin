@@ -14,7 +14,6 @@ style: "#masthead-with-background-color { padding: 0; }"
 categories:
     - code
 tags:
-    - wordpress
     - php
     - rezept
     - code

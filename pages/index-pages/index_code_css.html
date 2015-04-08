@@ -1,18 +1,19 @@
 ---
 layout: default
 subheadline: Code Beispiele
-title: "Jekyll Rezepte"
-teaser: "Jekyll ist ein Static Website Generator, der statische HTML-Webseiten erstellt. Ob Blog oder Website-Projekt, die Stärken liegen auf der Hand: Statische Webseiten bieten keine Sicherheitslücken, die Pflege eines Redaktionssystem entfällt und die Webseiten lassen sich perfekt optimieren."
+title: "CSS"
+teaser: "CSS – <em>insbesondere CSS3</em> – bietet zahlreiche Möglichkeiten HTML-Inhalte zu gestalten. In unserer CSS-Sammlung finden Sie CSS-Beispiele für die tägliche Anwendungen. Viele benutzen wir auch für unser Phlow Magazin."
+permalink: /code/css/
+header: no
+show_meta: false
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
     caption: »Flat design vector concept« von Shutterstock
     caption_url: http://www.shutterstock.com/pic.mhtml?id=225068266&src=id
 image:
-    thumb: icon/icon-jekyll.svg
+    thumb: icon/icon-css-128x.png
 style: "#masthead-with-background-color { padding: 0; }"
-permalink: /code/jekyll/
-show_meta: false
 breadcrumb: true
 ---
 <div id="blog-index">
@@ -34,7 +35,7 @@ breadcrumb: true
         {% assign counter = 1 %}
         {% for post in site.webdesign limit:1000 %}
         {% unless post.published == false %}
-        {% if post.tags contains 'jekyll' %}
+        {% if post.tags contains 'css' %}
         <dd class="accordion-navigation">
           <a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong></a>
           <div id="panel{{ counter }}" class="content">
