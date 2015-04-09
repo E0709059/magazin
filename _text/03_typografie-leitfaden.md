@@ -29,7 +29,6 @@ tags:
 
 <div class="medium-7 medium-pull-5 columns" markdown="1">
 
-
 ## Leerräume
 
 Das *Geviert* ist eine Maßeinheit in der Typo­grafie, die aus der Tradition des Schriftsetzens mit dem Bleisatz stammt. Dort entspricht ein Geviert einem Bleiblock, dessen Breite gleich der Höhe ist, der also quadratisch ist. Auf dem Bleiblock befindet sich allerdings kein Zeichen. Es dient zur Abstandhaltung, als Leerraum.
@@ -89,24 +88,24 @@ Ein **Geschützter Leerraum** steht beispielsweise…
 ## Gedanken- und Bindestrich
 
 
-Der Mittestrich “-” wird verwendet als:
+Der **Mittelstrich** »-« wird verwendet als:
 
 *   Trennstrich
 *   Geschützter Trennstrich – wird nie getrennt
 *   Bedingter Trennstrich – nicht sichtbar, wird ggf. mit Bindestrich getrennt
 *   Bindestrich
-    *   KSC-Fan
+    *   Beispiel: KSC-Fan
 *   Ergänzungsstrich
-    *   An- und Verkauf
+    *   Beispiel: An- und Verkauf
 
 
-**Halbgeviert-Strich** “–” wird verwendet als:
+Der **Halbgeviert-Strich** »–« wird verwendet als:
 
 *   Gedankenstrich – mit Leerzeichen vor und nach dem Gedankenstrich
     *   Es funktionierte – da war ich mir sicher – alles einfacher mit…
 *   Streckenstrich – ohne Leerzeichen vor und nach dem Streckenstrich
     *   Köln–Berlin
-*   Strich für „gegen“ und “bis”
+*   Strich für »gegen« und »bis«
     *   KSC–Bayern
     *   2–3 Kilogramm
 *   Minuszeichen
@@ -114,9 +113,10 @@ Der Mittestrich “-” wird verwendet als:
 
 
 ## Anführungszeichen und Apostroph
+„
+Bei den zwei geraden Strichen ", die auf der Tastatur über <kbd>Umschalt + 2</kbd> erreichbar sind, handelt es sich nicht um typografisch korrekte Anführungszeichen. In Deutschland sind dies entweder die Zeichen „ und “ – auch *kleine Tiefstehende 99* und *kleine hochstehende 66* oder die sich besser in das Schriftbild einfügenden Guillemets » und «.
 
-Bei den zwei geraden Strichen „, die auf der Tastatur über Umschalt + 2 erreichbar sind, handelt es sich nicht um typografisch korrekte Anführungszeichen. In Deutschland sind dies entweder die Zeichen „ und ‟ – auch *kleine Tiefstehende 99* und *kleine hochstehende 66* oder die sich besser in das Schriftbild einfügenden Guillemets » und «. Ent­sprechend wird für Anführungen innerhalb von Anführungen die passenden halben Anführungs­zeichen ‚ und ‛ bzw. › und ‹ verwendet. Das korrekte Zeichen für ein Apostroph ist ’ –&nbsp;auch die kleine hochstehende 9 genannt.
-
+Ent­sprechend wird für Anführungen innerhalb von Anführungen die passenden halben Anführungs­zeichen ‚ und ‘ bzw. › und ‹ verwendet. Das korrekte Zeichen für ein Apostroph ist ’ – auch die kleine hochstehende 9 genannt.
 
 
 
@@ -128,95 +128,102 @@ Das Ellipsen-Zeichen – Auslassungszeichen – besteht nicht aus drei aufeinand
 
 
 
-
 ## Abkürzungen
 
-*   Wenn eine mehrere Wörter umfassende Abkürzung am Anfang eines Satzes steht, verwendet man anstelle der Abkürzung die ausgeschriebene Version.
+Wenn eine mehrere Wörter umfassende Abkürzung am Anfang eines Satzes steht, verwendet man anstelle der Abkürzung die ausgeschriebene Version.
+
     *   Falsch ➡ Z. B.
     *   Richtig ➡ Zum Beispiel
-*   Abkürzungen wie S., Bd., Nr., Anm. benutzt man nur, wenn ihnen kein Artikel oder keine Zahl vorangeht.
+
+Abkürzungen wie S., Bd., Nr., Anm. benutzt man nur, wenn ihnen kein Artikel oder keine Zahl vorangeht.
+
     *   Richtig ➡ S. 5
     *   Richtig ➡ Bd. 8
     *   Richtig ➡ die Seite 5
     *   Richtig ➡ der Band 8
     *   Richtig ➡ die Nummer 4
-*   Bei mehrgliedrige Abkürzungen wird zwischen den einzelnen Gliedern nach dein Punkt ein geschütztes flexibles Leerzeichen gesetzt. Zum Beispiel: u.v.a.m.
+
+Bei mehrgliedrigen Abkürzungen setzt man zwischen den einzelnen Gliedern nach dem Punkt ein geschütztes flexibles Leerzeichen. Zum Beispiel: u.v.a.m.
 
 
 
 ## Et-Zeichen: &amp;, Grad-Zeichen, Paragraph-Zeichen, Prozent-Zeichen
 
-*   Das **Et-Zeichen** *&* (lat. “und”) verwendet man nur in Firmennamen und steht zwischen zwei Wortzwischenräumen. In allen anderen Fällen darf nur *u.* als Abkürzung für *und*gesetzt werden.
-    *   Scholz & Friends
-*   Bei Temperaturen muss zwischen Zahl und **Gradzeichen** ° ein geschütztes *flexibles Leerzeichen*stehen. Bei allen anderen Gradangaben steht das Gradzeichen direkt hinter der Zahl. Das Gradzeichen ist kein hochgestellter Buchstabe oder Zahl, sondern ein eigenständiges Zeichen.
-    *   ein Winkel von 360°
-*   Zwischen einem **Paragraph-Zeichen** *§* und einer Zahl muss ein geschütztes *flexibles Leerzeichen* stehen. Zwei Paragraphzeichen *§§* kennzeichnen den Plural “Paragraphen”. Ohne Zahlenangabe wird das Wort Paragraph ausgeschrieben und kann nicht durch das Zeichen *§*ersetzt werden.
-    *   § 113 a
-*   **Prozent-/Promillezeichen** nutzt man nur in Verbindung mit Zahle. Zwischen dem Prozent- bzw. Promillezeichen und der Zahl steht ein geschütztes *flexibles Leerzeichen*.
-    *   43% der Wähler entschieden sich für die CDU
+Das **Et-Zeichen** *&* (lat. »und«) verwendet man nur in Firmennamen und steht zwischen zwei Wortzwischenräumen. In allen anderen Fällen darf nur *u.* als Abkürzung für *und* gesetzt werden.
+
+Beispiel: Scholz & Friends
+
+Bei Temperaturen muss zwischen Zahl und **Gradzeichen** ° ein geschütztes *flexibles Leerzeichen* stehen. Bei allen anderen Gradangaben steht das Gradzeichen direkt hinter der Zahl. Das Gradzeichen ist kein hochgestellter Buchstabe oder Zahl, sondern ein eigenständiges Zeichen.
+
+Beispiel: ein Winkel von 360°
+
+Zwischen einem **Paragraph-Zeichen** *§* und einer Zahl muss ein geschütztes *flexibles Leerzeichen* stehen. Zwei Paragraphzeichen *§§* kennzeichnen den Plural »Paragraphen«. Ohne Zahlenangabe wird das Wort Paragraph ausgeschrieben und kann nicht durch das Zeichen *§* ersetzt werden.
+
+Beispiel: § 113 a
+
+**Prozent-/Promillezeichen** nutzt man nur in Verbindung mit Zahlen. Zwischen dem Prozent- bzw. Promillezeichen und der Zahl steht ein geschütztes *flexibles Leerzeichen*.
+
+Beispiel: 43% der Wähler entschieden sich für die CDU
 
 
 
 ## ss und ß
 
+Das ß – auch Eszett oder scharfes S bzw. Scharf-S – ist ein Buchstabe, der aus einer Ligatur des deutschen Alphabets hervorgegangen ist. Wenn in einer Schriftart das ß nicht vorhanden ist, wird das Eszett mit ss ersetzt.
 
-
-Das ß – auch Eszett oder scharfes S bzw. Scharf-S – ist ein Buchstabe, der aus einer aus einer Ligatur des deutschen Alphabets hervorgegangen ist. Wenn in einer Schriftart das ß nicht vorhanden ist, wird das Eszett mit ss ersetzt.<br>
 In der Schweiz wird das ß nicht verwendet. 2006 wurde es offiziell für den amtlichen Schriftverkehr abgeschafft.
 
-Schreibt man den Text ausschließlich in Großbuchstaben – also in Versalien –, so wird ß durch ss ersetzt – z. B. STRASSE.
+Schreibt man einen Text ausschließlich in Großbuchstaben, so wird das *ß* durch *ss* ersetzt – z. B. STRASSE.
 
 
 
 ## Nummern, Zahlen, Uhrzeit und Datum
 
-*   **Telefonnummern, Telefaxnummern und Postfachnummern** unterteilt man in Zweierglieder und zwar von der letzten Ziffer ausgehend. Die Ortsnetzkennzahl wird in Klammern gesetzt. Die Gliederung erfolgt durch *flexible Leerzeichen*. Kontonummern gliedert man von der Endziffer aus in Dreiergruppen. Bankleitzahlen bestehen aus acht Ziffern und werden von links nach rechts in zwei Dreiergruppen und eine Zweiergruppe gegliedert.
-    *   Telefonnummer ➡ 46 78 90
-    *   Telefonnummer mit Ortskennzahl ➡(0 72 31) 46 36 57
-    *   Kontonummer ➡ 7 388 499 273
-    *   Bankleitzahlen ➡ 370 100 50
+**Telefonnummern, Telefaxnummern und Postfachnummern** unterteilt man in Zweierglieder und zwar von der letzten Ziffer ausgehend. Die Ortsnetzkennzahl wird in Klammern gesetzt. Die Gliederung erfolgt durch *flexible Leerzeichen*. Kontonummern gliedert man von der Endziffer aus in Dreiergruppen. Bankleitzahlen bestehen aus acht Ziffern und werden von links nach rechts in zwei Dreiergruppen und eine Zweiergruppe gegliedert.
 
-*   Die **ISBN**(Internationale Standardbuchnummer) besteht aus Landes-, Verlags-, Artikelnummer und Reihenschlüssel. Die Ziffern werden durch einen Bindestrich getrennt.
-    *   ISBN 978-3-86680-192-9
+* Telefonnummer ➡ 46 78 90
+* Telefonnummer mit Ortskennzahl ➡(0 72 31) 46 36 57
+* Kontonummer ➡ 7 388 499 273
+* Bankleitzahlen ➡ 370 100 50
 
-*   **Postleitzahlen** werden nicht gegliedert.
-*   Für **Uhrzeiten**sind verschiedene Schreibweisen üblich
-    *   8 Uhr
-    *   0.15 Uhr
-    *   23:22 Uhr
-*   **Zahlen mit mehr als drei Stellen** links oder rechts vom Komma gliedert man mit Hilfe eines *flexiblen Leerzeichens* vom Komma ausgehend in dreistellige Gruppen. Bei vierstelligen Zahlen ist die Gliederung nicht unbedingt erforderlich.
-*   **Jahres-, Seiten-, Paragraphenangaben** werden nicht gegliedert.
-*   Besteht die **Ziffer vor oder die Einheit** nur aus einem Zeichen, wird ein *flexibles Leerzeichen* verwendet.
-*   Die **Trennung von Ziffer und Einheit** sollte vermieden werden (geschützter Leerraum).
-*   Bei der Datumsangabe setzt man einen Punkt nach der Zahl für den Tag und Monat. Jahresangaben benötigen keinen Punkt. Zwischen Tag und Monat sowie zwischen Monat und Jahr wird ein *flexibles Leerzeichen* gesetzt – siehe Beispiel 1\. Vor der Jahresangabe lässt man einen normalen Abstand, wenn der Monat ausgeschrieben wird – siehe Beispiel 2.
-    *   04.09.2006
-    *   4\. September 2006
+Die **ISBN**(Internationale Standardbuchnummer) besteht aus Landes-, Verlags-, Artikelnummer und Reihenschlüssel. Die Ziffern werden durch einen Bindestrich getrennt.
+
+Beispiel: ISBN 978-3-86680-192-9
+
+**Postleitzahlen** werden nicht gegliedert.
+
+Für **Uhrzeiten**sind verschiedene Schreibweisen üblich
+
+*   8 Uhr
+*   0.15 Uhr
+*   23:22 Uhr
+
+**Zahlen mit mehr als drei Stellen** links oder rechts vom Komma gliedert man mit Hilfe eines *flexiblen Leerzeichens* vom Komma ausgehend in dreistellige Gruppen. Bei vierstelligen Zahlen ist die Gliederung nicht unbedingt erforderlich.
+
+*Jahres-, Seiten-, Paragraphenangaben** werden nicht gegliedert.
+Besteht die **Ziffer vor oder die Einheit** nur aus einem Zeichen, wird ein *flexibles Leerzeichen* verwendet.
+
+Die **Trennung von Ziffer und Einheit** sollte vermieden werden (geschützter Leerraum).
+
+Bei der Datumsangabe setzt man einen Punkt nach der Zahl für den Tag und Monat. Jahresangaben benötigen keinen Punkt. Zwischen Tag und Monat sowie zwischen Monat und Jahr wird ein *flexibles Leerzeichen* gesetzt – siehe Beispiel 1\. Vor der Jahresangabe lässt man einen normalen Abstand, wenn der Monat ausgeschrieben wird – siehe Beispiel 2.
+
+* 04.09.2006
+* 4\. September 2006
 
 
 
 ## Klammern
 
-*   wird ein gemischter Text (z. B. gerade und kursiv) cingeklan-imert so werden die Klammern in Grundschrift (gerade) gesetzt.
-*   Beginnt und endet ein Text unterschiedlich (gerade und kursiv) so werden die Klarnrnein gerade gesetzt.
+*   wird ein gemischter Text (z. B. gerade und kursiv) eingeklammert, so werden die Klammern in Grundschrift (gerade) gesetzt.
+*   Beginnt und endet ein Text unterschiedlich (gerade und kursiv) so werden die Klammern gerade gesetzt.
 *   Bei kursiven Text werden die Klarnmern auch kursiv gesetzt.
 *   Binde- und Gedankenstrich sowie das Gleichheitszeichen werden innerhalb fetter Schrift ebenfalls fett gesetzt.
 
+
+
 ## Trennungen
 
-
-Keine Trennung erfolgen:
-
-*   in Überschriften und Inhaltsverzeichnissen
-*   in Eigennamen
-
-
-
-## Weiterführende Links, Quellen und Bücher
-
-“**Detailtypografie: Nachschlagewerk für alle Fragen zu Schrift und Satz” von Friedrich Forssman, Ralf de Jong
-
-**Verlag Hermann Schmidt Mainz, 2004, ISBN-10: 3874396428, <a href="http://www.amazon.de/gp/product/3874396428/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3874396428">Amazon-Link</a>
-
+Keine Trennung erfolgen in Überschriften und Inhaltsverzeichnissen sowie in Eigennamen.
 
 
 
