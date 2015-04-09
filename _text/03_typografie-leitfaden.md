@@ -29,33 +29,29 @@ tags:
 
 <div class="medium-7 medium-pull-5 columns" markdown="1">
 
-Diese Hilfe erläutert die grundlegenden Richtlinien bei der Typografie bzw. Schriftgestaltung und beantwortet die Frage: Wie setze ich korrekt Zeichen ein?
-
-
 
 ## Leerräume
 
 Das *Geviert* ist eine Maßeinheit in der Typo­grafie, die aus der Tradition des Schriftsetzens mit dem Bleisatz stammt. Dort entspricht ein Geviert einem Bleiblock, dessen Breite gleich der Höhe ist, der also quadratisch ist. Auf dem Bleiblock befindet sich allerdings kein Zeichen. Es dient zur Abstandhaltung, als Leerraum.
 
-Heute dient das Geviert als Maß in der Typografie insbesondere für Leerräume. Dabei entspricht ein Geviert der Schriftgröße. Bei einer 10-Punkt-Schrift ist ein Geviert demnach 10pt breit. Da Micro­soft Word das Geviert als Maßeinheit nicht kennt, wird im Folgenden eine vereinfachte Richtlinie für den Umgang mit den Leerräumen gegeben:
+Heute dient das Geviert als Maß in der Typografie insbesondere für Leerräume. Dabei entspricht ein Geviert der Schriftgröße. Bei einer 10-Pixel-Schrift ist ein Geviert demnach 10 Pixel breit. Da Micro­soft Word das Geviert als Maßeinheit nicht kennt, wird im Folgenden eine vereinfachte Richtlinie für den Umgang mit den Leerräumen gegeben:
 
-Bei den Leerräumen wird zwischen dem Wortzwischenraum und dem *flexiblen Leerzeichen* un­terschieden. Der Wortzwischenraum entspricht dem Leerzeichen, das durch Drücken der Leertaste – auch Space-Taste – erreicht werden kann.
+Bei den Leerräumen wird zwischen dem *Wortzwischenraum* und dem *flexiblen Leerzeichen* un­terschieden. Der Wortzwischenraum entspricht dem Leerzeichen, das durch Drücken der Leertaste – auch Space-Taste – erreicht werden kann.
 
-Das **flexible Leerzeichen** heißt deshalb “flexibel”, weil die Breite dieses Leerraums in professionellen Desktop-Publishing-Programmen in den Voreinstellungen wählbar ist. Meist stellt man als Größe die Hälfte des Wortzwischenraums ein. Die Breite des flexiblen Leerzeichens bleibt im Block­satz erhalten, während dort der Wortzwischenraum zum Ausgleich der Zeilen verändert wird.
+Das **flexible Leerzeichen** heißt »flexibel«, weil die Breite dieses Leerraums in professionellen Desktop-Publishing-Programmen in den Voreinstellungen wählbar ist. Meist stellt man als Größe die Hälfte des Wortzwischenraums ein. Die Breite des flexiblen Leerzeichens bleibt im Block­satz erhalten, während dort der Wortzwischenraum zum Ausgleich der Zeilen verändert wird.
 
-Beide Leerräume gibt es auch als “geschützte” Zeichen, die nicht getrennt werden (= “Geschützter Wortzwischenraum” und “Geschütztes flexibles Leerzeichen”).
+Beide Leerräume gibt es auch als *geschützte Zeichen*, die nicht getrennt werden (= »Geschützter Wortzwischenraum« und »Geschütztes flexibles Leerzeichen«).
 
 Kein **Leerraum** steht:
 
-*   vor Satzzeichen
-    *   . , ; : ?
-*   vor und nach einem Schrägstrich /
+*   vor Satzzeichen › . , ; : ?
+*   vor und nach einem Schrägstrich › /
 *   bei Winkelangaben zwischen Maßzahl und Gradzeichen
-    *   90°
+    *   Beispiel: 90°
 *   vor dem Zeichen für Zoll
-    *   ➡ 18″
+    *   Beispiel: 18″
 *   zwischen Vorzeichen und Zahl
-    *   –3
+    *   Beispiel: –3
 
 
 Ein **Wortzwischenraum** steht…
