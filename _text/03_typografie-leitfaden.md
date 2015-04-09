@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Typografie-Leitfaden für die Textgestaltung"
 title: "Typografie richtig nutzen"
 teaser: "Diese Hilfe erläutert die grundlegenden Richtlinien der Detail-Typografie bzw. Schriftgestaltung und beantwortet die Frage: Wie setze ich korrekt Zeichen ein?"
-permalink: /text/typografie-leitfaden/
 categories:
     - text
 tags:
@@ -15,6 +14,11 @@ tags:
     - Konventionen
     - Schriftbearbeitung
     - Leitfaden
+header:
+    image_fullwidth: detail-typografie-shutterstock_78090739.jpg
+    caption: "»antique letterpress printing blocks« von Shutterstock"
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=78090739&src=id
+permalink: /text/typografie-leitfaden/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
