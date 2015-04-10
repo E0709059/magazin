@@ -3,7 +3,6 @@ layout: video
 subheadline: WordPress
 title: Die Installation von WordPress
 teaser: "Die Video-Anleitung »Die Installation von WordPress« erklärt, welche ersten Schritte für die Installation und Konfiguration der Weblog-Software notwendig sind."
-permalink: /video/wordpress-installation/
 header: no
 image:
     thumb: phlow-tv-wordpress-installation-thumb.jpg
@@ -15,6 +14,7 @@ tags:
     - installation
     - wordpress installation
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/lW820hNkXrI' frameborder='0' allowfullscreen></iframe>"
+permalink: /video/wordpress-installation/
 ---
 ## Vorbereitung
 

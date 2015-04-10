@@ -6,7 +6,7 @@ teaser: "RSS ist für Journalisten, Blogger und News-Junkies das perfekte Nachri
 permalink: /was-ist-rss/
 header: no
 image:
-    thumb: icon-newspaper_feed-128x.png
+    thumb: icon/icon-newspaper-feed-128x.png
 tags:
     - suche
     - recherche
