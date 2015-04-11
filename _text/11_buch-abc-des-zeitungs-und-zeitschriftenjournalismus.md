@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Buchempfehlung
-title: "»ABC des Zeitungs- und Zeitschriftenjournalismus«"
+title: "»ABC des Zeitungs- und Zeitschriften&shy;journalismus«"
 teaser: "Wenn Sie lernen wollen, wie man Texte für verschiedene Bereiche schreibt, dann lehrt Sie das Buch von Volker Wolff, worauf es bei den zahlreichen Darstellungsformen im Zeitungs- und Zeitschriftenjournalismus ankommt."
 permalink: /buch-abc-des-zeitungs-und-zeitschriftenjournalismus/
 categories:
