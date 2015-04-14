@@ -7,7 +7,7 @@ permalink: /text/newsletter-email-marketing/
 header:
     image_fullwidth: text-newsletter-marketing-shutterstock_224796616.jpg
     caption: "»Man Reading the Definition of Email« von Shutterstock"
-    caption_url: http://www.shutterstock.com/pic.mhtml?id=224796616&src=id
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=224796616&amp;src=id
 tags:
     - artikel
     - darstellungsform
@@ -125,7 +125,7 @@ Tag 4
 
 <figure>
 <img src="{{ site.urlimg }}text-email-marketing-shutterstock_248957974.png">
-<figcaption class="text-right"><a href="http://www.shutterstock.com/pic.mhtml?id=248957974&src=id">»Newsletter illustration with laptop« von Shutterstock</a></figcaption>    
+<figcaption class="text-right"><a href="http://www.shutterstock.com/pic.mhtml?id=248957974&amp;src=id">»Newsletter illustration with laptop« von Shutterstock</a></figcaption>    
 </figure>
 
 Um die Reichweite seines eigenen Newsletters auszubauen, stehen zahlreiche Möglichkeiten zur Verfügung. Im Weiteren erkläre ich, wie Sie Ihren E-Mail-Verteiler weiter ausbauen.
