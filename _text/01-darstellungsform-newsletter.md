@@ -11,11 +11,11 @@ header:
 tags:
     - artikel
     - darstellungsform
-    - Anleitung
+    - anleitung
     - e-mail marketing
     - newsletter
-    - nnline marketing
-    - nnline pr
+    - online marketing
+    - online pr
     - marketing
     - promotion
     - guerilla marketing
