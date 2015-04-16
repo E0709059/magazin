@@ -11,6 +11,7 @@ header:
 image:
     thumb: text-darstellungsform-thumb-128x.jpg
 tags:
+    - darstellungsform
     - artikel
     - journalismus
     - textgattung

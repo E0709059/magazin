@@ -7,13 +7,12 @@ categories:
     - text
 tags:
     - typografie
-    - Richtlinien
-    - Typografie
-    - Schriftgestaltung
-    - Lesbarkeit
-    - Konventionen
-    - Schriftbearbeitung
-    - Leitfaden
+    - richtlinien
+    - schriftgestaltung
+    - lesbarkeit
+    - konventionen
+    - schriftbearbeitung
+    - leitfaden
 header:
     image_fullwidth: detail-typografie-shutterstock_78090739.jpg
     caption: "»antique letterpress printing blocks« von Shutterstock"

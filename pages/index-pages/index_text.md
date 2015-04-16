@@ -33,19 +33,43 @@ collection: text
         <li></li>
         </ul>
 
-        <h2>Journalismus</h2>
+        <h2>Texte gestalten</h2>
         <ul class="side-nav">
         {% for page in site.text %}
-            {% unless page.published == false %}
-                {% unless page.tags contains 'darstellungsform' %}
-                    {% unless page.tags contains 'buchkritik' %}
+            {% if page.tags contains 'typografie' %}
+                {% if page.published == NULL %}
                     <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-                    {% endunless %}
-              {% endunless %}
-            {% endunless %}
+                {% endif %}
+            {% endif %}
         {% endfor %}
         <li></li>
         </ul>
+
+        <h2>Recherche</h2>
+        <ul class="side-nav">
+        {% for page in site.text %}
+            {% if page.tags contains 'recherche' %}
+                {% if page.published == NULL %}
+                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        <li></li>
+        </ul>
+
+        <h2>Software & Werkzeuge</h2>
+        <ul class="side-nav">
+        {% for page in site.text %}
+            {% if page.tags contains 'software' %}
+                {% if page.published == NULL %}
+                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        <li></li>
+        </ul>
+
+
     </div><!-- /.medium-5.columns -->
 </div><!-- /.row -->
 

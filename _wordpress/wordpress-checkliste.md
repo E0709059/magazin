@@ -16,7 +16,8 @@ image:
     caption:
     caption_url:
 ---
-#### Wofür setze ich das [WordPress-Theme][1] ein?
+
+## Wofür setze ich das [WordPress-Theme][1] ein?
 
 * Blog
 * Magazin
@@ -24,15 +25,22 @@ image:
 * Dokumentation
 * Portofolio
 
-#### Ist das Theme mit der neuesten Version von WordPress kompatibel?
 
-#### Ist das Theme für Suchmaschinen optimiert?
 
-* Werden die wichtigsten Tags wie `title`, `h1; und Meta-Description für jede Seite individuell erstellt?
+## Ist das Theme mit der neuesten Version von WordPress kompatibel?
+
+![]({{ site.urlimg }}wordpress-theme-aktuell.jpg)
+{: .border-dotted }
+
+## Ist das Theme für Suchmaschinen optimiert?
+
+* Werden die wichtigsten Tags wie `title`, `h1` und Meta-Description für jede Seite individuell erstellt?
 * Handelt es sich bei dem Theme um validen HTML-Code?
 * Gibt es irgendwelche versteckten Links innerhalb des Themes?
 
-#### Welche Optionen bietet mir das Theme für die individuelle Gestaltung?
+
+
+## Welche Optionen bietet mir das Theme für die individuelle Gestaltung?
 
 * Kann ich die Navigation anpassen?
 * Kann ich das Logo schnell ersetzen? Passt mein Logo zum Theme?
@@ -48,14 +56,18 @@ image:
 * Kann ich Farben für Links und ähnliches bestimmen?
 * Bietet das Theme Extras wie Foto-Slider, Video-Einbindung oder ähnliches?
 
-#### Wenn ich Geld mit dem Theme verdienen will,...
+
+
+## Wenn ich Geld mit dem Theme verdienen will,...
 
 * ...wurden Platzhalter für Werbung eingeplant?
 * ...bietet das Theme Möglichkeiten für die Banner-Werbung?
 * ...kann ich Banner per Shortcode einbinden?
 {: .no-bullet }
 
-#### Unterstützt das Theme verschiedene Sprachen?
+
+
+## Unterstützt das Theme verschiedene Sprachen?
 
 Wenn es sich um ein Premium-Theme handelt,...
 
@@ -64,23 +76,34 @@ Wenn es sich um ein Premium-Theme handelt,...
 * ...was schreiben Nutzer/Käufer über das Theme und seinen Anbieter?
 {: .no-bullet }
 
-#### Was schreiben Blogs/Nutzer über das Theme?
 
-#### Bietet das Theme genügend Raum für das Wachstum meines Blogs?
 
-#### Basiert das Theme auf [Responsive Webdesign][7]?
+## Was schreiben Blogs/Nutzer über das Theme?
 
-#### Gibt es eine Dokumentation für das Theme?
+![]({{ site.urlimg }}wordpress-theme-bewertung.jpg)
+{: .border-dotted }
 
-#### Arbeitet der Programmierer noch an dem Theme (Changelog überprüfen)?
 
-#### Muss ich Erweiterungen installieren, damit das Theme funktioniert?
 
-#### Unterstützt das Theme [Shortcodes][2]?
+## Basiert das Theme auf [Responsive Webdesign][7]?
 
-#### Wie schnell baut sich das Theme auf (Geschwindigkeitstest)?
+Websites müssen heute auf dem PC genauso gut und übersichtlich aussehen wie auf dem Tablet oder dem Smartphone und sich überall flüssig bedienen lassen. Responsive Webdesign liefert an alle Geräte dieselben Inhalte aus. Je nach Gerät zeigt der Browser aber die Elemente einer Seite unterschiedlich angeordnet, verkleinert oder vergrößert an. Mitunter blenden sich Elemente auch komplett aus, große Banner auf kleinen Displays etwa. Viele WordPress-Themes bestehen bereits auf Responsive Webdesign – z.B. [Twenty Fourteen][9], [Twenty Thirteen][10] und andere.
 
-#### Quellen für Themes
+![]({{ site.urlimg }}wordpress-theme-responsive.jpg)
+{: .border-dotted }
+
+
+## Weitere wichtige Fragen zum Theme
+
+- Bietet das Theme genügend Raum für das Wachstum meines Blogs?
+- Gibt es eine Dokumentation für das Theme?
+- Arbeitet der Programmierer noch an dem Theme (Changelog überprüfen)?
+- Muss ich Erweiterungen installieren, damit das Theme funktioniert?
+- Unterstützt das Theme [Shortcodes][2]?
+- Wie schnell baut sich das Theme auf (Geschwindigkeitstest)?
+
+
+## Quellen für Themes
 
 * Kostenlose Themes
     * [wordpress.org/extend/themes/][3]
@@ -89,7 +112,6 @@ Wenn es sich um ein Premium-Theme handelt,...
     * [www.themeforest.net/category/wordpress][6]
     * [www.woothemes.com][5]
 
-**Welche Kriterien sind für Eure Wahl eines WordPress-Themes wichtig?**
 
 
 
@@ -101,5 +123,5 @@ Wenn es sich um ein Premium-Theme handelt,...
  [6]: http://www.woothemes.com/
  [7]: http://de.wikipedia.org/wiki/Responsive_Design
  [8]: http://codex.wordpress.org/WordPress_Widgets
- [9]: #
- [10]: #
+ [9]: https://wordpress.org/themes/twentyfourteen/
+ [10]: https://wordpress.org/themes/twentythirteen/

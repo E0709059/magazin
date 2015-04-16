@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Literatur Journalismus"
+title: "Bücher und Literatur für Journalisten"
 teaser: "Ausgewählte Literatur für (Online-)Journalisten, Blogger und Schreiber. Die Bücher beschäftigen sich mit Schreibtechniken, Darstellungsformen, der Recherche und Web-Technik."
 permalink: /journalismus/literatur/
 categories:
@@ -8,6 +8,7 @@ categories:
 tags:
     - literatur
     - journalismus
+    - buchkritik
 header: no
 ---
 <div class="alert-box info radius">Einfach auf das Buchcover für die Rezension klicken.</div>
