@@ -4,6 +4,8 @@ subheadline: "Das Interview"
 title: "Wie man ein Interview schreibt!"
 teaser: "Ein Interview ist eine Befragung mit dem Ziel, interessante, neue und spannende Dinge über und vom Interviewpartner zu erfahren. Neben der Darstellungsform, ist das Interview aber auch eine Recherchemethode."
 permalink: /text/interview/
+image:
+    thumb: text-header-interview-128x.jpg
 header:
     image_fullwidth: text-header-interview-1566459108_11ac8cb050_o.jpg
     caption: "Foto: <a href='www.flickr.com/photos/chrismrichards/'>www.flickr.com/photos/chrismrichards/</a>"

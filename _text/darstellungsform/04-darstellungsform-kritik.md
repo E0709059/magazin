@@ -4,6 +4,8 @@ subheadline: "Die Kritik"
 title: "Wie man eine Kritik schreibt!"
 teaser: "Die Kritik ist eine funktionale Mischform aus Bericht, Kommentar, Interpretation und Reportage. Sie gehört zu den meinungsbetonten Darstellungsformen."
 permalink: /text/kritik/
+image:
+    thumb: text-kritik-128x-157547696.jpg
 header:
     image_fullwidth: text-kritik.jpg
     caption: "Plattensammlung von DJ Cuebism"

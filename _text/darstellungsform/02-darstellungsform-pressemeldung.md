@@ -4,6 +4,8 @@ subheadline: "Die Pressemeldung"
 title: "Wie man eine Pressenachricht (PR-Bericht, Pressebericht) schreibt!"
 teaser: "Dieser Artikel erklärt, wie man Pressetexte für Public Relations, kurz PR genannt, aufbereitet. Eine Checkliste hilft bei der erfolgreichen Fertigstellung eines PR-Schreiben."
 permalink: /text/pr-meldung-pressemeldung/
+image:
+    thumb: pr-meldung-shutterstock-128x-140839090.jpg
 header:
     image_fullwidth: pr-meldung-shutterstock_140839090.jpg
     caption: "»Marketing concept« von Shutterstock"
