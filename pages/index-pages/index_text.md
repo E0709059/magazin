@@ -10,6 +10,7 @@ collection: text
 <div class="row">
     <div class="medium-7 columns">
         <h2>Texten Schreiben</h2>
+        <p class="teaser">Die Sprache ist das wichtigste Ausdrucks- und Gestaltungsmittel im Journalismus. Neben Artikeln, verschriftlicht der Journalist auch Radiobeiträge und Videoproduktionen. Schließlich strukturiert man mit Hilfe von Sprache und Texten die anzugehende Produktion.</p>
         {% assign counter = 1 %}
         {% for page in site.text %}
         {% if page.published == false %}
