@@ -32,7 +32,7 @@ Um die eigene WordPress-Website gegen Hackerangriffe zu sichern – und davon g
 
 ![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)
 
-Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschinen zu optimieren ist [WordPress SEO][3] des SEO-Experten Yoast. Das umfangreiche Plugin löst sämtliche Anforderungen für die Suchmaschinenoptimierung und erweitert den Editor für Beiträge und Seiten um wichtige Funktionen.
+Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschinen zu optimieren ist [WordPress SEO][3] des SEO-Experten Yoast. Das umfangreiche Plugin löst sämtliche Anforderungen für die Suchmaschinenoptimierung und erweitert den Editor für Beiträge und Seiten um wichtige Funktionen. Die Einstellungsmöglichkeiten sind superb, einfach und umfangreich. Das Plugin deckt nicht nur die schlichte Optimierung von Beiträgen und Seiten ab, sondern bietet unter anderem auch die automatische Generierung einer Sitemap, Facebook- und Google Plus-Optimierung, einen hervorragenden Editor für Beiträge und Seiten und zahlreiche weitere Möglichkeiten.
 
 
 
@@ -41,6 +41,20 @@ Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschi
 ![Kontaktformular]({{ site.urlimg }}wordpress-plugin-jetpack.jpg)
 
 Um bei einer WordPress-Website ein Kontaktformular einzubauen, gibt es zwei Varianten: Sie nutzen eine Erweiterung oder bauen einen externen Formular-Service ein. Wir empfehlen Ihnen einen Service wie [Wufoo][4]. Seit Jahren nutzen wir den Service, der in der Grundvariante kostenlos ist und völlig ausreicht. Der Vorteil: Sie müssen das System nicht pflegen und Spam haben wir noch nie erhalten. Möchten Sie lieber eine Erweiterung nutzen, dann empfehlen wir das [Multiplugin Jetpack][6] der WordPress-Macher oder den Klassiker [Contact Form 7][5].
+
+
+
+## Suchmaschinenoptimierung: Auto Tag Links
+
+Das WordPress-Plugin [Auto Tag Links][16] verlinkt automatisch Tags in Beiträgen und trägt zur sinnvollen internen Verlinkung einer WordPress-Website bei. Damit das einfach zu handhabende Plugin seine Arbeit übernimmt, muss man ein paar wenige Einstellungen vornehmen. Dazu gehört zum Beispiel der Schwellenwert, ab welchem *Auto Tag Links* benutze Schlagwörter in Artikel automatisch verlinkt.
+
+Das großartige an diesem Plugin ist es, dass es einem keine zusätzliche Arbeit beschert, sondern selbstständig im Hintergrund die Arbeit vornimmt.
+
+
+
+## Suchmaschinenoptimierung: SEO Auto Linker
+
+[SEO Auto Linker][17] ähnelt der Arbeitsweise von *Auto Tag Links*. Auch *SEO Auto Linker* arbeitet automatisch im Hintergrund. Im Gegensatz zum *Auto Tag Links*-Plugin muss man aber die Begriffe, die automatisch verlinkt werden sollen. Will man z.B., das ein Begriff wie *Twitter* innerhalb von Beiträgen automatisch mit einer Ziel-URL verlinkt wird, dann muss man diesen Filter über die Benutzeroberfläche des Plugins selbst anlegen. Während man mit *Auto Tag Links* nur intern Links setzen kann, automatisiert man mit *SEO Auto Linker* interne als auch externe Links.
 
 
 
@@ -101,13 +115,11 @@ Podcasting Erweiterung
  [13]: #
  [14]: http://wordpress.org/extend/plugins/powerpress/
  [15]: #
- [16]: #
- [17]: #
+ [16]: http://wordpress.org/plugins/auto-tag-links/
+ [17]: http://wordpress.org/plugins/seo-auto-linker/
  [18]: #
  [19]: #
  [20]: #
-
-
 
 </div><!-- /.large-7 -->
 <div class="large-5 columns" markdown="1">

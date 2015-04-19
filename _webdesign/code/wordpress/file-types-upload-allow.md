@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "WordPress Rezepte"
-title: "Allow additional filetypes to be uploaded"
-teaser: ""
+title: "Weitere Dateitypen für den Upload erlauben"
+teaser: "Mit der Methode <em>wp_check_filetype</em> verwaltet und erweitert man über die <em>functions.php</em> die Liste der zum Upload erlaubten Dateitypen. Um die Liste zu erweitern fügt man <code>'Dateiendung' => 'MIME-TYPE'</code> ein."
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
@@ -20,7 +20,7 @@ tags:
 breadcrumb: true
 ---
 
-{% highlight php %}
+{% highlight php startinline=true %}
 // Weitere Dateitypen für den Upload erlauben
 //
 // Mit der Methode *wp_check_filetype* verwaltet und erweitert man
