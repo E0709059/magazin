@@ -18,9 +18,8 @@ image:
     thumb: icon-fonts-thumb.png
 permalink: /icon-fonts/
 ---
-<div class="alert-box info radius" markdown="1">
-Anleitungen zur Nutzung von Icon Fonts, findet man [weiter unten][1].
-</div>
+{% include alert info='Anleitungen zur Nutzung von Icon Fonts, findet man <a href="#icon-fonts-einbauen--nutzen">weiter unten</a>.' %}
+
 
 <div class="panel radius" markdown="1">
 **Übersicht: Icon Fonts**
@@ -126,7 +125,7 @@ Entypo ist eine Icon-Bibliothek, die runde, harmonische Icons präsentiert. Ein 
 
 
 
- [1]: #icon-fonts-einbauen--nutzen
+ [1]: #
  [2]: #icon-font-anleitungen
  [3]: http://www.entypo.com
  [4]: http://fortawesome.github.io/Font-Awesome/

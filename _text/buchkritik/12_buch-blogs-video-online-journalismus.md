@@ -23,6 +23,15 @@ Preiswerter Webspace, leistungsfähige Software und moderne Technologien ermögl
 Das Buch beinhaltet die folgenden **Themenschwerpunkte: Weblogs, Videos, Twitter, Suchmaschinenoptimierung und Rechtliche Hintergründe**.
 
 
+## Downloads
+
+-   [Twitter-Photoshop-Template (ZIP)][]
+-   [XHTML/CSS-Dateien zum Kapitel "XHTML und CSS" (ZIP)][]
+
+  [Twitter-Photoshop-Template (ZIP)]: http://download.phlow.de/webdesign/twitter_template.zip
+  [XHTML/CSS-Dateien zum Kapitel "XHTML und CSS" (ZIP)]: http://download.phlow.de/webdesign/kapitel_xhtml_und_css.zip
+
+
 
 ## »Blogs, Video und Online-Journalismus«  
 
