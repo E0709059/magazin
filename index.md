@@ -72,8 +72,6 @@ header:
       <li>&nbsp;</li>
     </ul>
     
-    <div class="border-dotted">{% include ad/google-adsense-responsive %}</div>
-
   </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
