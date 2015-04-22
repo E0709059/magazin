@@ -18,28 +18,31 @@ header:
       {% endfor %}
       <li>&nbsp;</li>
     </ul>
-    <h4 class="b15">Marketing Specials</h4>
-    {% include list-collection.html collection='marketing' %}
   </div><!-- /.medium-4.columns -->
 
 
   <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/phlow-tv/">Videoanleitungen</a></h4>
-    {% include list-collection.html collection='phlow_tv' %}
+    {% include list-collection.html collection='phlow_tv' limit='5' %}
+    <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/phlow-tv/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-4.columns -->
 
   <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
 
     <ul class="side-nav">
-  {% for page in site.webdesign %}
+  {% assign counter = 0 %}
+{% for page in site.webdesign %}
       {% if page.categories contains 'code' or page.published == false %}
-      {% else %}
+      {% elsif counter < 5 %}
       <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+      {% assign counter=counter | plus:1 %}
       {% endif %}
+
   {% endfor %}
       <li>&nbsp;</li>
   </ul>
+    <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/webdesign/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-4.columns -->
 
 
@@ -54,11 +57,9 @@ header:
 
 
   <div class="medium-4 columns">
-    <h4 class="b15">Interviews</h4>
-    <p>
-      Unsere Interviews befragen Webdesigner, Programmierer, Netzexperten, Blogger und Journalisten zu Themen rund um das Thema <em>digitales Publizieren</em>.
-    </p>
-    {% include list-collection.html collection='interview' %}
+    <h4 class="b15">Marketing Specials</h4>
+    {% include list-collection.html collection='marketing' %}
+
   </div><!-- /.medium-4.columns -->
 
 

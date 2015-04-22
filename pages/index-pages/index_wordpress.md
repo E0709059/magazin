@@ -2,8 +2,13 @@
 layout: page-fullwidth
 title: WordPress
 teaser: "WordPress ist das weltweit beliebteste Redaktionssystem, mit welchem Sie leicht eine Website betreuen und aufbauen können. Ob als Firmen-Website, Profil-Seite, Blog oder für Ihr Geschäft: <strong>WordPress ist ein Allroundtalent.</strong> Eine Programmiersprache müssen Sie nicht lernen. Denn die Konstruktion der Website übernimmt WordPress."
+image:
+    thumb: icon/icon-wordpress.svg
+header:
+    image: icon/wordpress-logo-498x113.png
+    background-color: "#82cbd0"
+style: "#navigation > nav > section > ul.left > li.active > a { background: #82cbd0; color: #fff; }"
 permalink: /wordpress/
-header: no
 show_meta: false
 ---
 
@@ -14,12 +19,12 @@ Die Schwerpunkte von WordPress bilden Ästhetik, Webstandards und Benutzerfreund
 
 
 
-## WordPress-Artikel
+## Artikel
 
 {% include list-collection.html collection='wordpress' %}
 
 
-## WordPress-Videos
+## Videos
 
 <ul class="side-nav">
   {% for page in site.phlow_tv %}
@@ -36,19 +41,14 @@ Die Schwerpunkte von WordPress bilden Ästhetik, Webstandards und Benutzerfreund
 
 [![]({{ site.urlimg }}wordpress-buch-2.jpg)][3]
 
-[Bei Amazon kaufen ›](http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637)
-{: .button.radius.success }
-[Mehr zum Buch ›][3]
-{: .button.radius.success }
-
-
+<a style="background: #82cbd0;" class="shadow-black button radius" href="http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637">Bei Amazon kaufen ›</a>
+<a style="background: #82cbd0;" class="shadow-black button radius" href="{{ site.url }}/wordpress/buch/">Mehr zum Buch ›</a>
 
 ## Installation von WordPress
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/lW820hNkXrI" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
-[Mehr Informationen ›][1]
-{: .button.radius.success }
+<a style="background: #82cbd0;" class="shadow-black button radius" href="{{ site.url }}/video/wordpress-installation/">Mehr Informationen ›</a>
 
 
 ## Dateien hochladen mit dem FTP-Programm Filezilla

@@ -3,14 +3,18 @@ layout: page
 # sidebar: right
 title: Phlow.TV
 teaser: "Phlow.TV erklärt in unterhaltsamen und professionellen Video-Anleitungen schnell und unkompliziert, wie Sie Webdesign, Social Media, Software und Hardware optimal nutzen."
+image:
+    thumb: icon/icon-phlow_tv-128x.png
+header:
+    image: icon/icon-phlow_tv-256x.png
+    background-color: "#e05a10"
+style: "#masthead-with-background-color { padding: 0; } #navigation > nav > section > ul.left > li.active > a { background: #e05a10; color: #fff; }"
 permalink: /phlow-tv/
 show_meta: false
 ---
-[Phlow.TV auf YouTube ›](https://www.youtube.com/user/PhlowMedia/)
-{: .button.radius.success }
+<a style="background: #e05a10;" class="button radius" href="https://www.youtube.com/user/PhlowMedia/">Auf YouTube ansehen ›</a>&nbsp;&nbsp;
+<a style="background: #e05a10;" class="button radius" href="http://www.youtube.com/subscription_center?add_user=phlowmedia/">Auf YouTube abonnieren ›</a>
 
-[Phlow.TV abonnieren ›](http://www.youtube.com/subscription_center?add_user=phlowmedia)
-{: .button.radius.success }
 
 
 <ul class="no-bullet">

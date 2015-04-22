@@ -1,0 +1,36 @@
+- name: "Responsive Theme"
+  description: "
+  <p>*Responsive* ist ein Theme, das in allen Browsern gut aussieht. Das schlicht gestaltete Theme bietet eine **große Bandbreite an Möglichkeiten** für die Gestaltung. Dazu gehören **vier Positionen für Menüs**, **elf Widget-Bereiche** sowie Optionen, um unkompliziert das Logo auszutauschen oder eigene CSS-Stylevorgaben einzugeben.</p>
+  <p>Außergewöhnlich sind die Möglichkeiten die **Startseite mit verschiedenen Seitenvorlagen** zu gestalten. Sie wollen eine Startseite mit einem Call-To-Action-Button? Kein Problem. Oder soll die Website im klassischen Blog-Look daherkommen? Oder als Magazin? Mit insgesamt **neun Seiten-Vorlagen** bringt man Schwung in Start- und Unterseiten.</p>
+  <p>Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Portofolios, Firmen-Websites oder ganz »normale« Blog-Vorhaben.</p>"
+  screenshots:
+  - url: "wordpress-theme-responsive-2.jpg"
+  contra:
+  - 1: "Linkfarbe lässt sich nicht in den Optionen anpassen"
+  pro:
+  - 1: "Deutschsprachig"
+  - 2: "Äußerst anpassungfähig mit zahlreichen Optionen"
+  - 3: "Neun verschiedene Vorlagen für Seiten"
+  download: http://wordpress.org/extend/themes/responsive
+  demo: http://themeid.com/demo/responsive/
+  anleitung: http://cyberchimps.com/forum/free/responsive/
+
+
+
+- name: "WordPress Theme für Fotografen"
+  description: "
+  <p>Touchfolio ist ein WordPress Theme] für **Fotografen**. Großzügig präsentiert man mit Touchfolio seine Bilder, die Besucher auch mit Hilfe der Pfeiltasten weiterblättern können. Fotos organisiert man mit Touchfolio über das **Theme-eigene Beitragsformat** namens Gallery.</p>
+<p>Mittels dieser Galleriefunktion lassen sich Fotos thematisch kategorisieren und anschließend in das Navigationsmenü in der Seitenleiste einbauen. Für die Präsentation seines eigenen Fotoportfolios bietet das Theme zwei Varianten. Dazu erstellt man einfach eine Seite und wählt das gewünschte Template aus. Anschließend wählt man diese Seite als Startseite unter *Einstellungen > Lesen*.</p>
+<p>Aber auch auf ein **reguläres Blog-Layout** muss man nicht verzichten. Dadurch mischt man bei Bedarf einfach Bilder mit Artikel und präsentiert diese auf einer Website.</p>"
+  screenshots:
+  - url: "wordpress-theme-fotograf.jpg"
+  contra:
+  - 1: "Keine deutschsprachige Version"
+  pro:
+  - 1: "Navigation über Pfeiltasten möglich"
+  - 2: "Zwei verschiedene Arten von Portfolioseiten"
+  - 3: "Responsive Webdesign"
+  download: http://dimsemenov.com/themes/touchfolio/
+  demo: http://dimsemenov.com/themes/touchfolio/demo/
+  anleitung: http://dimsemenov.com/themes/touchfolio/installation.html
+

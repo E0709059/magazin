@@ -106,8 +106,10 @@ Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Por
 
 [Download](http://wordpress.org/extend/themes/responsive)
 {: .button.radius.success }
+
 [Demonstration](http://themeid.com/demo/responsive/)
 {: .button.radius.success }
+
 [Anleitung und Informationen](http://cyberchimps.com/forum/free/responsive/)
 {: .button.radius.success }
 
@@ -116,11 +118,36 @@ Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Por
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
 
+## Stargazer: Flexibel einsetzbar
+
+[![]({{ site.urlimg }}wordpress-theme-stargazer.jpg)][6]
+
+Justin Tadlock ist mir bereits ein Begriff seit ich vor Jahren mit seinem exzellenten [Theme Hybrid][7] herumgespielt habe und ein Jahr Mitglied in seinem *WordPress Theme Club* wurde. Auch Stargazer stammt aus seinem Editor und stellt zahlreiche Premium Themes, für die man zahlen müsste in den Schatten.
+
+Ich habe es mir installiert und Stargazer wird definitiv in meinem kommenden WordPress 4-Buch vorgeschlagen. Wunderbar sauberer Code, hervorragende Funktionen, responsive und einfach hochprofessionell. *Chapeau!*
+
+ [6]: http://themehybrid.com/themes/stargazer
+ [7]: http://themehybrid.com/
+
+
+[Download](http://wordpress.org/extend/themes/stargazer)
+{: .button.radius.success }
+
+[Demonstration](http://locallylost.com/stargazer)
+{: .button.radius.success }
+
+[Mehr zum Theme ›](http://themehybrid.com/themes/stargazer)
+{: .button.radius.success }
+
+
+
+
+
 ## Yoko WordPress Theme
 
-![]({{ site.urlimg }}wordpress_theme_yoko.jpg)
-
 Yoko ist ein Blog-Theme, das sich sehr gut für **Blogs und Magazine** eignet. Anstelle des typischen zweispaltigen Blog-Layout kommt Yoko mit drei Spalten daher. Zwar ist die mittlere Spalte ein wenig arg schmal, bietet aber für Social Media Links samt Icons und Kategorien mit einem Ort genügend Platz.
+
+![]({{ site.urlimg }}wordpress-theme-yoko.jpg)
 
 Yoko unterscheidet sich von anderen Themes besonders durch das zweite Menu direkt unterhalb der Kopfgrafik. Über dieses Navigationselement kann man hervorragend Besucher leiten und ihnen eine hierarchische Übersicht über die angebotenen Inhalte bieten.
 
@@ -154,9 +181,9 @@ Auch die kostenpflichtigen Themes von Elmastudio erfreuen sich großer Beliebthe
 <div class="medium-6 columns" markdown="1">
 ## Leaf Theme
 
-![]({{ site.urlimg }}wordpress_theme_leaf.jpg)
-
 Das Leaf-Theme nutzt z.B. das großartige deutsche Reggae-Blog [House Of Reggae](http://www.houseofreggae.de).
+
+![]({{ site.urlimg }}wordpress-theme-leaf.jpg)
 
 [Leaf Theme](http://fatboythemes.com/themes/leaf/)
 {: .button.radius.success }
@@ -166,9 +193,9 @@ Das Leaf-Theme nutzt z.B. das großartige deutsche Reggae-Blog [House Of Reggae]
 <div class="medium-6 columns" markdown="1">
 ## Frank
 
-![]({{ site.urlimg }}wordpress_theme_frank.png)
-
 Schnell, flexibl, schöne Typografie, responsive und angeblich  *noch nicht fertig*, weil es konstant auf Github weiterentwicklel wird.
+
+![]({{ site.urlimg }}wordpress-theme-frank.png)
 
 [Download](http://somerandomdude.com/work/frank/)
 {: .button.radius.success }
