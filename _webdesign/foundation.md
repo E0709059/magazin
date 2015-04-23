@@ -4,7 +4,7 @@ subheadline: Webdesign
 title: "Responsive Webdesign mit dem Foundation Framework"
 teaser: "Meine Responsive Websites baue ich mit Foundation. Foundation ist ein wunderbarer Werkzeugkasten, der aus HTML, CSS und Javascript-Funktionen besteht. Die Entwicklung von Responsive Webdesigns macht mit Foundation unglaublich Spaß und produziert professionelle Ergebnisse."
 categories:
-    - development
+    - webdesign
 tags:
     - css
     - foundation
@@ -14,14 +14,12 @@ tags:
     - sass
     - webdesign
     - webentwicklung
-tags:
     - artikel
 image:
     thumb: icon/icon-foundation-128x.png
 header:
     image_fullwidth: "webdesign-foundation-yeti.svg"
     background-color: "#335972"
-style: "#masthead-with-background-color { padding: 0; }"
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

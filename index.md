@@ -29,23 +29,19 @@ header:
 
   <div class="medium-4 columns">
     <h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
-
     <ul class="side-nav">
-  {% assign counter = 0 %}
-{% for page in site.webdesign %}
-      {% if page.categories contains 'code' or page.published == false %}
-      {% elsif counter < 5 %}
-      <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-      {% assign counter=counter | plus:1 %}
-      {% endif %}
-
-  {% endfor %}
+      {% assign counter = 0 %}
+      {% for page in site.webdesign %}
+        {% if page.categories contains 'code' or page.published == false %}
+        {% elsif counter < 5 %}
+        <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+        {% assign counter=counter | plus:1 %}
+        {% endif %}
+      {% endfor %}
       <li>&nbsp;</li>
   </ul>
     <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/webdesign/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-4.columns -->
-
-
 </div><!-- /.row -->
 
 
@@ -59,7 +55,6 @@ header:
   <div class="medium-4 columns">
     <h4 class="b15">Marketing Specials</h4>
     {% include list-collection.html collection='marketing' %}
-
   </div><!-- /.medium-4.columns -->
 
 
@@ -71,7 +66,6 @@ header:
       {% endfor %}
       <li>&nbsp;</li>
     </ul>
-    
   </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
