@@ -23,6 +23,8 @@ header:
 Die bekannteste Fehlermeldung im Internet ist der 404-Fehler. Denn ein 404 Fehler tritt irgendwann immer einmal auf. Selbst wenn alle Dokumente innerhalb einer Website korrekt verlinkt sind, provoziert nur ein Tippfehler oder ein falsch gesetzter externer Link eine 404-Fehlerseite. Zum Glück lässt sich die Fehlerseite gestalten, um den Besucher auf den richtigen Pfad zu locken. Diese Anleitung zeigt wie.
 
 
+<img src="{{ site.urlimg }}webdesign-404-fehlerseite-github.png" alt="404 Fehlerseite von GitHub">
+
 
 ## Machen Sie Besucher auf den 404-Fehler aufmerksam
 
@@ -85,6 +87,8 @@ Auflistung von Kategorienseiten
 Kontaktformular einbauen, damit Benachrichtigungen entgegengenommen werden können
 :    Nicht jeder Besucher hat Zeit zu helfen. Trotzdem gibt es Besucher, die einem gerne über ein Kontaktformular über fehlende oder falsch verlinkte Webseiten informieren. Verlinken Sie ihr Kontaktformular, um diese Rückmeldungen entgegenzunehmen.
 
+
+<img src="{{ site.urlimg }}webdesign-404-fehlerseite-a_list_apart.png" alt="404 Fehlerseite des englischsprachigen Webdesign Magazins A List Apart">
 
 
 ## Eine 404-Fehlerseite für WordPress erstellen
