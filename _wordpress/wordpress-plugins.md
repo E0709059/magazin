@@ -30,7 +30,7 @@ Um die eigene WordPress-Website gegen Hackerangriffe zu sichern – und davon g
 
 ## Suchmaschinenoptimierung
 
-![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)
+[![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)][3]
 
 Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschinen zu optimieren ist [WordPress SEO][3] des SEO-Experten Yoast. Das umfangreiche Plugin löst sämtliche Anforderungen für die Suchmaschinenoptimierung und erweitert den Editor für Beiträge und Seiten um wichtige Funktionen. Die Einstellungsmöglichkeiten sind superb, einfach und umfangreich. Das Plugin deckt nicht nur die schlichte Optimierung von Beiträgen und Seiten ab, sondern bietet unter anderem auch die automatische Generierung einer Sitemap, Facebook- und Google Plus-Optimierung, einen hervorragenden Editor für Beiträge und Seiten und zahlreiche weitere Möglichkeiten.
 
@@ -38,7 +38,7 @@ Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschi
 
 ## Kontaktformular(e)
 
-![Kontaktformular]({{ site.urlimg }}wordpress-plugin-jetpack.jpg)
+[![Kontaktformular]({{ site.urlimg }}wordpress-plugin-jetpack.jpg)][6]
 
 Um bei einer WordPress-Website ein Kontaktformular einzubauen, gibt es zwei Varianten: Sie nutzen eine Erweiterung oder bauen einen externen Formular-Service ein. Wir empfehlen Ihnen einen Service wie [Wufoo][4]. Seit Jahren nutzen wir den Service, der in der Grundvariante kostenlos ist und völlig ausreicht. Der Vorteil: Sie müssen das System nicht pflegen und Spam haben wir noch nie erhalten. Möchten Sie lieber eine Erweiterung nutzen, dann empfehlen wir das [Multiplugin Jetpack][6] der WordPress-Macher oder den Klassiker [Contact Form 7][5].
 
@@ -60,7 +60,7 @@ Das großartige an diesem Plugin ist es, dass es einem keine zusätzliche Arbeit
 
 ## WordPress mit Caching-Plugin beschleunigen
 
-![Caching]({{ site.urlimg }}wordpress-plugin-caching.jpg)
+[![Caching]({{ site.urlimg }}wordpress-plugin-caching.jpg)][7]
 
 - [Cachify][7] › Für Anfänger
 - [W3 Total Cache][8] › Für Profis
@@ -75,7 +75,7 @@ Mit [WP-Optimize][11] optimiert man WordPress, indem Sie mit Hilfe der Erweiteru
 
 ## Kaputte Links finden, reparieren und löschen
 
-![]({{ site.urlimg }}wordpress-broken_link_checker.png)
+[![]({{ site.urlimg }}wordpress-broken_link_checker.png)][10]
 {: .border-dotted }
 
 Wächst eine Website, wächst mit ihr auch die Wahrscheinlickeit, dass sich ins Nirvana führende zerbrochene Links ausbreiten. Im besten Fall federt eine 404-Fehlerseiten irregeführte Besucher ab. Mit dem Linkchecker-Plugin für WordPress lässt man automatisch sein System nach kaputten Links durchsuchen. 
