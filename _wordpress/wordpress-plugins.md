@@ -84,6 +84,16 @@ Auf Wunsch informiert das Plugin per Email über neue zerbrochene Links. Oder es
 
 
 
+## Baustellenschild oder Platzhalter-Webseite
+
+[![Erweiterung für Baustellenschild]({{ site.urlimg }}wordpress-maintenance.jpg)][13]
+
+
+Baut man seine Website auf oder um, will man nicht unbedingt immer, dass die Welt das mitbekommt. In einem solchen Falle helfen Erweiterungen, die für nicht eingeloggte Nutzer eine Platzhalter-Website anzeigen. Ein beliebtes Plugin unter den vielen Maintenance Mode-Erweiterungen ist [Maintenance][13]. Einmal aktiviert, können Sie eingeloggt die Website sehen und diese umbauen. Alle anderen sehen eine von Ihnen gestaltete Baustellen-Website.
+
+
+
+
 ## Noch mehr Erweiterungen
 
 Suchen und Ersetzen in allen Beiträgen
@@ -112,7 +122,7 @@ Podcasting Erweiterung
  [10]: http://wordpress.org/extend/plugins/broken-link-checker/
  [11]: http://wordpress.org/extend/plugins/wp-optimize/
  [12]: https://wordpress.org/plugins/subscribe-to-comments-reloaded/
- [13]: #
+ [13]: https://wordpress.org/plugins/maintenance/
  [14]: http://wordpress.org/extend/plugins/powerpress/
  [15]: #
  [16]: http://wordpress.org/plugins/auto-tag-links/
