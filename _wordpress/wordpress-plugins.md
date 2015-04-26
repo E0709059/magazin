@@ -28,19 +28,19 @@ Um die eigene WordPress-Website gegen Hackerangriffe zu sichern – und davon g
 
 
 
-## Suchmaschinenoptimierung
-
-[![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)][3]
-
-Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschinen zu optimieren ist [WordPress SEO][3] des SEO-Experten Yoast. Das umfangreiche Plugin löst sämtliche Anforderungen für die Suchmaschinenoptimierung und erweitert den Editor für Beiträge und Seiten um wichtige Funktionen. Die Einstellungsmöglichkeiten sind superb, einfach und umfangreich. Das Plugin deckt nicht nur die schlichte Optimierung von Beiträgen und Seiten ab, sondern bietet unter anderem auch die automatische Generierung einer Sitemap, Facebook- und Google Plus-Optimierung, einen hervorragenden Editor für Beiträge und Seiten und zahlreiche weitere Möglichkeiten.
-
-
-
 ## Kontaktformular(e)
 
 [![Kontaktformular]({{ site.urlimg }}wordpress-plugin-jetpack.jpg)][6]
 
 Um bei einer WordPress-Website ein Kontaktformular einzubauen, gibt es zwei Varianten: Sie nutzen eine Erweiterung oder bauen einen externen Formular-Service ein. Wir empfehlen Ihnen einen Service wie [Wufoo][4]. Seit Jahren nutzen wir den Service, der in der Grundvariante kostenlos ist und völlig ausreicht. Der Vorteil: Sie müssen das System nicht pflegen und Spam haben wir noch nie erhalten. Möchten Sie lieber eine Erweiterung nutzen, dann empfehlen wir das [Multiplugin Jetpack][6] der WordPress-Macher oder den Klassiker [Contact Form 7][5].
+
+
+
+## Suchmaschinenoptimierung
+
+[![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)][3]
+
+Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschinen zu optimieren ist [WordPress SEO][3] des SEO-Experten Yoast. Das umfangreiche Plugin löst sämtliche Anforderungen für die Suchmaschinenoptimierung und erweitert den Editor für Beiträge und Seiten um wichtige Funktionen. Die Einstellungsmöglichkeiten sind superb, einfach und umfangreich. Das Plugin deckt nicht nur die schlichte Optimierung von Beiträgen und Seiten ab, sondern bietet unter anderem auch die automatische Generierung einer Sitemap, Facebook- und Google Plus-Optimierung, einen hervorragenden Editor für Beiträge und Seiten und zahlreiche weitere Möglichkeiten.
 
 
 

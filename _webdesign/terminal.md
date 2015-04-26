@@ -94,10 +94,6 @@ Die zusätzlichen Parameter `-la` sorgen dafür, dass die Dateien als ausführli
 
 {% include alert terminal='sips -Z 150 -c 150 150 *.jpg --out thumbs' %}
 
-
-
-
-
 Mit --out bestimmt man entweder einen neuen Dateinamen oder einen Ordner, in welchen die bearbeiteten Dateien gespeichert werden.
 
 Um eine Datei zu erstellen hängt man eine Dateiendung wie *.jpg* an:
@@ -113,8 +109,13 @@ Um die Dateien in einen Ordner namens thumb zu speichern, gibt man folgendes an:
 
 
 
-
 <small>Quelle <http://www.apfelquak.de/2007/11/19/sips-bildbearbeitung-via-terminal/></small>
+
+
+### Dateiformat der Bilder konvertieren
+
+{% include alert terminal='for i in *.png; do sips -s format jpeg $i --out konvertiert/$i.jpg;done;' %}
+
 
 
 ## WordPress runterladen, entpacken und Archiv löschen
