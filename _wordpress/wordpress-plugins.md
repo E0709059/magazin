@@ -64,9 +64,9 @@ Das großartige an diesem Plugin ist es, dass es einem keine zusätzliche Arbeit
 
 Mit jedem Webseitenaufruf arbeitet WordPress. Schließlich baut WordPress in der Regel jede Webseite dynamisch zusammen, bevor Sie im HTML-Format den Besucher erreicht. Steigen die Webseiten-Aufrufe, steigen die Anforderungen an WordPress, die Datenbank und den ackernden Server-Computer.
 
-An dieser Stelle greifen Caching-Plugins WordPress unter den Arm. Fragen Besucher eine Webseite häufiger ab, speichern Caching-Plugins die jeweiligen Webseiten bereits als Datei auf dem Server. Wird die Webseite erneut abgerufen, muss die Server-CPU nicht schwitzen, sondern lediglich die bereits gebaute Webseite finden und losschicken.
+An dieser Stelle greifen Caching-Plugins WordPress unter die Arme. Fragen Besucher eine Webseite häufiger ab, speichern Caching-Plugins die jeweiligen Webseiten bereits als Datei auf dem Server. Sie fungieren als Pufferspeicher. Wird die Webseite erneut abgerufen, muss die Server-CPU nicht schwitzen und erneut die Datei zusammenbauen. Denn dank des Caching, muss lediglich die bereits gebaute Webseite auf dem Server oder Speicher gefunden losgeschickt werden.
 
-Caching ist ein komplexes Feld. Und als Anfänger kann man schnell an der Komplexität der Materie scheitern. Daher empfiehlt sich für Anfänger die deutsche Erweiterung [Cachify][7] von Sergej Müller. Flexibler und komplexer ist [W3 Total Cache][8], dafür jedoch noch um einiges mächtiger.
+[Caching][15] ist ein komplexes Feld. Und als Anfänger kann man schnell an der Komplexität der Materie scheitern. Daher empfiehlt sich für Anfänger die deutsche Erweiterung [Cachify][7] von Sergej Müller. Flexibler und komplexer ist [W3 Total Cache][8], dafür jedoch noch um einiges mächtiger.
 
 - [Cachify][7] › Für Anfänger
 - [W3 Total Cache][8] › Für Profis
@@ -130,7 +130,7 @@ Podcasting Erweiterung
  [12]: https://wordpress.org/plugins/subscribe-to-comments-reloaded/
  [13]: https://wordpress.org/plugins/maintenance/
  [14]: http://wordpress.org/extend/plugins/powerpress/
- [15]: #
+ [15]: http://de.wikipedia.org/wiki/Cache
  [16]: http://wordpress.org/plugins/auto-tag-links/
  [17]: http://wordpress.org/plugins/seo-auto-linker/
  [18]: #
