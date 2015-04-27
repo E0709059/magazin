@@ -66,10 +66,8 @@ Mit jedem Webseitenaufruf arbeitet WordPress. Schließlich baut WordPress in der
 
 An dieser Stelle greifen Caching-Plugins WordPress unter die Arme. Fragen Besucher eine Webseite häufiger ab, speichern Caching-Plugins die jeweiligen Webseiten bereits als Datei auf dem Server. Sie fungieren als Pufferspeicher. Wird die Webseite erneut abgerufen, muss die Server-CPU nicht schwitzen und erneut die Datei zusammenbauen. Denn dank des Caching, muss lediglich die bereits gebaute Webseite auf dem Server oder Speicher gefunden losgeschickt werden.
 
-[Caching][15] ist ein komplexes Feld. Und als Anfänger kann man schnell an der Komplexität der Materie scheitern. Daher empfiehlt sich für Anfänger die deutsche Erweiterung [Cachify][7] von Sergej Müller. Flexibler und komplexer ist [W3 Total Cache][8], dafür jedoch noch um einiges mächtiger.
+[Caching][15] ist ein komplexes Feld. Und als Anfänger kann man schnell an der Komplexität der Materie scheitern. Daher empfiehlt sich für Anfänger die deutsche Erweiterung [Cachify][7] von Sergej Müller. Die Erweiterung beginnt nach wenigen Klicks ihre Arbeit und bietet eine [ausführliche deutsche Anleitung][18]. Flexibler und komplexer ist [W3 Total Cache][8], dafür jedoch noch um einiges mächtiger.
 
-- [Cachify][7] › Für Anfänger
-- [W3 Total Cache][8] › Für Profis
 
 
 
@@ -133,7 +131,7 @@ Podcasting Erweiterung
  [15]: http://de.wikipedia.org/wiki/Cache
  [16]: http://wordpress.org/plugins/auto-tag-links/
  [17]: http://wordpress.org/plugins/seo-auto-linker/
- [18]: #
+ [18]: http://playground.ebiene.de/cachify-wordpress-cache/
  [19]: #
  [20]: #
 
