@@ -62,6 +62,12 @@ Das großartige an diesem Plugin ist es, dass es einem keine zusätzliche Arbeit
 
 [![Caching]({{ site.urlimg }}wordpress-plugin-caching.jpg)][7]
 
+Mit jedem Webseitenaufruf arbeitet WordPress. Schließlich baut WordPress in der Regel jede Webseite dynamisch zusammen, bevor Sie im HTML-Format den Besucher erreicht. Steigen die Webseiten-Aufrufe, steigen die Anforderungen an WordPress, die Datenbank und den ackernden Server-Computer.
+
+An dieser Stelle greifen Caching-Plugins WordPress unter den Arm. Fragen Besucher eine Webseite häufiger ab, speichern Caching-Plugins die jeweiligen Webseiten bereits als Datei auf dem Server. Wird die Webseite erneut abgerufen, muss die Server-CPU nicht schwitzen, sondern lediglich die bereits gebaute Webseite finden und losschicken.
+
+Caching ist ein komplexes Feld. Und als Anfänger kann man schnell an der Komplexität der Materie scheitern. Daher empfiehlt sich für Anfänger die deutsche Erweiterung [Cachify][7] von Sergej Müller. Flexibler und komplexer ist [W3 Total Cache][8], dafür jedoch noch um einiges mächtiger.
+
 - [Cachify][7] › Für Anfänger
 - [W3 Total Cache][8] › Für Profis
 
