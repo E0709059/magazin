@@ -17,6 +17,7 @@ header:
     pattern: "pattern/pattern_brushedmetal.jpg"
     caption:
     caption_url:
+style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
 ---
 <div class="row">
 <div class="medium-6 columns" markdown="1">

@@ -5,7 +5,7 @@ title: "Google Analytics in WordPress Theme einbauen"
 teaser: "Um das Statistik-Werkzeug Google Analytics schnell in ein WordPress Theme einzubauen, reicht das folgende Code-Schnipsel."
 header:
     image: code_shutterstock_225068266.png
-    background-color: "#900055"
+    background-color: "#82cbd0"
     caption: »Flat design vector concept« von Shutterstock
     caption_url: http://www.shutterstock.com/pic.mhtml?id=225068266&src=id
 image:

@@ -5,7 +5,7 @@ title: "FTP-Daten in wp-config.php speichern"
 teaser: "Nicht immer funktioniert die Funktion automatisches Update über das Redaktionssystem von WordPress. Die FTP-Zugangsdaten können Sie aber unkompliziert in der <em>config.php</em>-Datei speichern."
 header:
     image: code_shutterstock_225068266.png
-    background-color: "#900055"
+    background-color: "#82cbd0"
     caption: »Flat design vector concept« von Shutterstock
     caption_url: http://www.shutterstock.com/pic.mhtml?id=225068266&src=id
 image:

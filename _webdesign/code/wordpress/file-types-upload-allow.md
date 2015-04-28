@@ -5,7 +5,7 @@ title: "Weitere Dateitypen für den Upload erlauben"
 teaser: "Mit der Methode <em>wp_check_filetype</em> verwaltet und erweitert man über die <em>functions.php</em> die Liste der zum Upload erlaubten Dateitypen. Um die Liste zu erweitern fügt man <code>'Dateiendung' => 'MIME-TYPE'</code> ein."
 header:
     image: code_shutterstock_225068266.png
-    background-color: "#900055"
+    background-color: "#82cbd0"
     caption: »Flat design vector concept« von Shutterstock
     caption_url: http://www.shutterstock.com/pic.mhtml?id=225068266&src=id
 image:

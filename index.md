@@ -7,10 +7,13 @@
 layout: frontpage
 title: "Phlow Magazin – Webdesign, Journalismus &amp; Social Media"
 header:
-    image_fullwidth: header_workspace.jpg
+    image: start-webdesign-shutterstock-22768912.png
+    background-color: "#29aebc"
+style: "#masthead-with-background-color { padding: 10px; }"
 ---
 <div class="row">
   <div class="medium-4 columns">
+    <a href="{{ site.url }}/social-media/"><img src="{{ site.urlimg }}startseite-social-media-special-thumb.png" width="332" alt="Phlow Video"></a>
     <h4 class="b15"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h4>
     <ul class="side-nav">
       {% for page in site.pages %}
@@ -22,12 +25,14 @@ header:
 
 
   <div class="medium-4 columns">
+    <a href="{{ site.url }}/phlow-tv/"><img src="{{ site.urlimg }}startseite-phlow-tv-thumb.png" width="332" alt="Phlow Video"></a>
     <h4 class="b15"><a href="{{ site.url }}/phlow-tv/">Videoanleitungen</a></h4>
     {% include list-collection.html collection='phlow_tv' limit='5' %}
     <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/phlow-tv/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-4.columns -->
 
   <div class="medium-4 columns">
+    <a href="{{ site.url }}/webdesign/"><img src="{{ site.urlimg }}startseite-webdesign-thumb.png" width="332" alt="Phlow Video"></a>
     <h4 class="b15"><a href="{{ site.url }}/webdesign/">Webdesign</a></h4>
     <ul class="side-nav">
       {% assign counter = 0 %}

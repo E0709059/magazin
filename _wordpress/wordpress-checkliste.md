@@ -15,6 +15,7 @@ image:
     homepage:
     caption:
     caption_url:
+style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
 ---
 
 ## Wofür setze ich das [WordPress-Theme][1] ein?

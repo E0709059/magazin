@@ -23,12 +23,14 @@
   url: "/wordpress/"
   side: left
   dropdown:
-  - title: Das WordPress Buch
+  - title: "Das WordPress Buch"
     url: "/wordpress/buch/"
-  - title: WordPress Themes
+  - title: "WordPress Themes"
     url: "/wordpress/themes/"
-  - title: WordPress Plugins
+  - title: "WordPress Plugins"
     url: "/wordpress/plugins/"
+  - title: "WordPress Programmierung"
+    url: "/code/wordpress/"
   # - title: Jekyll
   #  url: "/jekyll/"
 # - title: CMS

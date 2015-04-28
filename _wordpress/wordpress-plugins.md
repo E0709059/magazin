@@ -10,7 +10,11 @@ tags:
     - wordpress
     - plugins
 image:
-    thumb: wordpress.png
+    thumb: icon/icon-wordpress.svg
+header:
+    image: icon/wordpress-logo-498x113.png
+    background-color: "#82cbd0"
+style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
 ---
 <div class="row">
 <div class="large-7 columns" markdown="1">
