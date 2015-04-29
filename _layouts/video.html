@@ -4,7 +4,7 @@ format: video
 ---
 <div class="row t30">
 	<div class="small-12 columns">
-		<article>
+		<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
 			<div class="flex-video">
 				{{ page.iframe}}
 			</div>
@@ -13,10 +13,15 @@ format: video
 				<div class="medium-offset-2 medium-8 end columns">
 					<header>
 						{% if page.subheadline %}<p class="subheadline t30">{{ page.subheadline }}</p>{% endif %}
-						<h1>{{ page.title }}</h1>
+						<h1 itemprop="name">{{ page.title }}</h1>
 					</header>
+
+					{% if page.video.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video.thumbnailUrl }}" />{% endif %}
+					{% if page.video.contentURL %}<meta itemprop="contentURL" content="{{ page.video.contentURL }}" />{% endif %}
+					{% if page.video.embedURL %}<meta itemprop="embedURL" content="{{ page.video.embedURL }}" />{% endif %}
+
 					{% if page.teaser %}
-					<p class="teaser">
+					<p class="teaser" itemprop="description">
 						{{ page.teaser }}
 					</p>
 					{% endif %}
@@ -25,16 +30,6 @@ format: video
 					{% if page.show_meta == true %}
 					{% include meta_information.html %}
 					{% endif %}
-					<aside class="t60">
-						<h3>Mehr Videos</h3>
-
-						<ul class="side-nav">
-							{% for phlow_tv in site.phlow_tv %}
-							<li><a href="{{ site.url }}{{ phlow_tv.url }}"><strong>{{ phlow_tv.title }}</strong></a></li>
-							{% endfor %}
-							<li>&nbsp;</li>
-						</ul>
-					</aside>
 				</div><!-- /.medium-8.columns -->
 			</div><!-- /.row -->
 		</article>

@@ -15,6 +15,10 @@ tags:
     - wordpress installation
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/lW820hNkXrI' frameborder='0' allowfullscreen></iframe>"
 permalink: /video/wordpress-installation/
+video:
+    embedURL: "https://www.youtube.com/embed/lW820hNkXrI"
+    contentURL: "https://www.youtube.com/watch?v=lW820hNkXrI"
+    thumbnailUrl: "http://img.youtube.com/vi/lW820hNkXrI/maxresdefault.jpg"
 ---
 ## Vorbereitung
 

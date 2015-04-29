@@ -74,6 +74,13 @@ An dieser Stelle greifen Caching-Plugins WordPress unter die Arme. Fragen Besuch
 
 
 
+## Datenbank automatisch sichern
+
+Auch ein Server kann mal Schluckauf haben, abstürzen und Daten versehentlich zerstören. Oder ein Programmierer liefert ein fehlerhaftes Plugin aus. Egal wann es passiert: Der Verlust von Daten ist sehr schmerzlich. Darum sichern Sie Ihre WordPress-Installation und die Datenbank am besten kontinuierlich. Dabei kann Ihnen das [Plugin WP-DBManager][19] behilflich sein.
+
+Es arbeitet im Hintergrund und verschickt automatisch eine Sicherungskopie an die E-Mail-Adresse, die Sie über den Plugin-Menüpunkt Manage Backup DB eingeben. Neben manuellen Backups können Sie auf Wunsch auch die Datenbank reparieren und optimieren.
+
+
 
 ## WordPress-Datenbank optimieren und reparieren
 
@@ -136,7 +143,7 @@ Podcasting Erweiterung
  [16]: http://wordpress.org/plugins/auto-tag-links/
  [17]: http://wordpress.org/plugins/seo-auto-linker/
  [18]: http://playground.ebiene.de/cachify-wordpress-cache/
- [19]: #
+ [19]: http://wordpress.org/plugins/wp-dbmanager/
  [20]: #
 
 </div><!-- /.large-7 -->

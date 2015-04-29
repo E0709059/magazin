@@ -14,6 +14,10 @@ tags:
     - webdesign
     - single page
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/vHlEq_5sFpM' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/vHlEq_5sFpM"
+    contentURL: "https://www.youtube.com/watch?v=vHlEq_5sFpM"
+    thumbnailUrl: "http://img.youtube.com/vi/vHlEq_5sFpM/maxresdefault.jpg"
 ---
 
 

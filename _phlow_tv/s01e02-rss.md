@@ -12,6 +12,10 @@ categories:
 tags:
     - video
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/AJxs019BscM' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/AJxs019BscM"
+    contentURL: "https://www.youtube.com/watch?v=AJxs019BscM"
+    thumbnailUrl: "http://img.youtube.com/vi/AJxs019BscM/maxresdefault.jpg"
 ---
 <a href="http://amzn.to/blog_video"><img class="right" src="{{ site.urlimg }}/blogs-video-online-journalismus-medium.jpg"></a>Der Screencast begleitet thematisch das Buch [Blogs, Video &amp; Online-Journalismus][1] von mo., in welchem es auch ein extra Kapitel über RSS und der hervorragenden Nachrichtenfunktionen gibt. Das Kapitel zeigt Tricks &amp; Tipps, wie man Themen beobachtet und RSS-Quellen zur Zeitersparnis nutzt. Das Buch ist im O’Reilly Verlag erschienen.
 

@@ -52,8 +52,20 @@ style: "#masthead-with-background-color { padding: 10px; }"
 
 <div class="row">
   <div class="medium-4 columns">
+    <a href="{{ site.url }}/bild/"><img src="{{ site.urlimg }}startseite-bild-thumb.png" width="332" alt="Bild und Bildbearbeitung"></a>
     <h4 class="b15">Bildbearbeitung</h4>
     {% include list-collection.html collection='bild' %}
+    <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/bild/"><strong>Mehr ›</strong></a></p>
+  </div><!-- /.medium-4.columns -->
+  <div class="medium-4 columns">
+    <a href="{{ site.url }}/glossar/"><img src="{{ site.urlimg }}startseite-glossar-thumb.png" width="332" alt="Bild und Bildbearbeitung"></a>
+    <h4 class="b15">Glossare</h4>
+    <ul class="side-nav">
+      {% for page in site.pages %}
+      {% if page.tags contains 'glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+      {% endfor %}
+      <li>&nbsp;</li>
+    </ul>
   </div><!-- /.medium-4.columns -->
 
 
@@ -63,15 +75,6 @@ style: "#masthead-with-background-color { padding: 10px; }"
   </div><!-- /.medium-4.columns -->
 
 
-  <div class="medium-4 columns">
-    <h4 class="b15">Glossare</h4>
-    <ul class="side-nav">
-      {% for page in site.pages %}
-      {% if page.tags contains 'glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
-      {% endfor %}
-      <li>&nbsp;</li>
-    </ul>
-  </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 

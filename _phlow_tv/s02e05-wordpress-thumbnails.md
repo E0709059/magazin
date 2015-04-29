@@ -15,6 +15,10 @@ tags:
     - thumbnails
     - miniaturbild
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/8n6j7oqYF7c' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/8n6j7oqYF7c"
+    contentURL: "https://www.youtube.com/watch?v=8n6j7oqYF7c"
+    thumbnailUrl: "http://img.youtube.com/vi/8n6j7oqYF7c/maxresdefault.jpg"
 ---
 Das Problem: WordPress generiert automatisch die quadratischen Miniaturbilder/Thumbnails und geht dabei von der Mitte des hochgeladenen Bildes aus. Dadurch sehen Miniaturbilder/Thumbnails nicht immer gut aus, insbesondere bei horizontalen Bildern. 
 

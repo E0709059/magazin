@@ -15,6 +15,10 @@ tags:
     - imageoptim
     - optimierung
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/rTZEDv1VDPU' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/rTZEDv1VDPU"
+    contentURL: "https://www.youtube.com/watch?v=rTZEDv1VDPU"
+    thumbnailUrl: "http://img.youtube.com/vi/rTZEDv1VDPU/maxresdefault.jpg"
 ---
 In meinen Tests wurden bereits mit Photoshop abgespeicherte und komprimierte Bilder noch ein weiteres Mal geschrumpft: meist zwischen 6% und 10%. Besonders für Webdesigner und Website-Besitzer ist ImageOptim interessant. Denn es kleinere Bilddateien beschleunigen den Download einer Website, was besonders bei mobilen Geräten, wie Smartphones, viel Sinn macht.
 

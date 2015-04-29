@@ -11,18 +11,25 @@ tags:
     - 
 header: no
 header:
-    image_fullwidth: ""
+    image_fullwidth: 
     image:
     pattern:
     color:
     background-color: "#fabb00"
-    title: header with text
+    title: 
+    caption: 
+    caption_url: 
 image:
     title:
     homepage:
     thumb:
-    credit:
-    url:
+    caption:
+    caption_url:
+iframe: ""
+video:
+    embedURL: ""
+    contentURL: ""
+    thumbnailUrl: ""
 show_meta: false
 sidebar: left
 comments: true

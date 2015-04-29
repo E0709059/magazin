@@ -15,6 +15,10 @@ tags:
     - jpegmini
     - optimierung
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/ShLLqbASxwk' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/ShLLqbASxwk"
+    contentURL: "https://www.youtube.com/watch?v=ShLLqbASxwk"
+    thumbnailUrl: "http://img.youtube.com/vi/ShLLqbASxwk/maxresdefault.jpg"
 ---
 Erstaunlich bei der JPEGMini Kompression ist, dass keinerlei sichtbare Artefakte in den Bildern erzeugt werden, wie Ihr im Video sehen könnt. Sicherlich gehen bei der Kompression Informationen verloren, aber wenn diese nicht sichtbar sind, kann man sich nur noch über gesparten Webspace und schnellere Übertragungsraten seiner Websites freuen.
 

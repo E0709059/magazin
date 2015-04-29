@@ -17,6 +17,10 @@ tags:
 image:
     thumb: phlow-tv-embedding-thumb.png
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/DubeBHIbwI0' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/DubeBHIbwI0"
+    contentURL: "https://www.youtube.com/watch?v=DubeBHIbwI0"
+    thumbnailUrl: "http://img.youtube.com/vi/DubeBHIbwI0/maxresdefault.jpg"
 ---
 Dazu erlauben die Online-Dienste das einbauen der Videos, Sounds, Präsentationen und Texte per Embed-Funktion. Dieses Video erklärt, wie man die Inhalte auf Reisen schickt und in Blogs und auf Facebook einbaut.
 

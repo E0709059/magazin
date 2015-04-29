@@ -16,6 +16,10 @@ tags:
     - jpegmini
     - optimierung
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/ShLLqbASxwk' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://www.youtube.com/embed/ShLLqbASxwk"
+    contentURL: "https://www.youtube.com/watch?v=ShLLqbASxwk"
+    thumbnailUrl: "http://img.youtube.com/vi/ShLLqbASxwk/maxresdefault.jpg"
 ---
 In der Grundversion können Sie mit [Wufoo][1] bis zu drei Kontaktformulare kostenlos erstellen. Wufoo ist aus drei Gründen perfekt:
 
