@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: WordPress
-teaser: "WordPress ist das weltweit beliebteste Redaktionssystem, mit welchem Sie leicht eine Website betreuen und aufbauen können. Ob als Firmen-Website, Profil-Seite, Blog oder für Ihr Geschäft: <strong>WordPress ist ein Allroundtalent.</strong> Eine Programmiersprache müssen Sie nicht lernen. Denn die Konstruktion der Website übernimmt WordPress."
+teaser: "WordPress ist das weltweit beliebteste Redaktionssystem, mit welchem Sie leicht eine Website aufbauen und betreuen können. Ob als Firmen-Website, Profil-Seite, Blog oder für Ihr Geschäft: <strong>WordPress ist ein Allroundtalent.</strong> Eine Programmiersprache müssen Sie nicht lernen. Denn die Konstruktion der Website übernimmt WordPress. Das Phlow Magazin hilft Ihnen bei der <a href="{{ site.url }}/video/wordpress-installation/">Installation</a> und stellt Ihnen die besten <a href='{{ site.url }}/wordpress/plugins/'>WordPress Erweiterungen</a> und <a href='{{ site.url }}/wordpress/themes/'>Themes</a> vor."
 image:
     thumb: icon/icon-wordpress.svg
 header:
