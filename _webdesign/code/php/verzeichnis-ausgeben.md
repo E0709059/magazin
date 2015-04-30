@@ -19,7 +19,7 @@ tags:
     - code
 ---
 
-{% highlight php %}
+{% highlight php startinline=true %}
 <!doctype html>
 <html class="no-js" lang="de">
 <head>
