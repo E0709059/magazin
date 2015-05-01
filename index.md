@@ -53,7 +53,7 @@ style: "#masthead-with-background-color { padding: 10px; }"
 <div class="row">
   <div class="medium-4 columns">
     <a href="{{ site.url }}/text/"><img src="{{ site.urlimg }}startseite-text-thumb.png" width="332" alt="Texte schreiben"></a>
-    <h4 class="b15">Texte Schreiben</h4>
+    <h4 class="b15"><a href="{{ site.url }}/text/">Texte Schreiben</a></h4>
     {% include list-collection-by-tag.html collection='text' tag='darstellungsform' limit='5' %}
     <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/text/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-4.columns -->
@@ -61,7 +61,7 @@ style: "#masthead-with-background-color { padding: 10px; }"
 
   <div class="medium-4 columns">
     <a href="{{ site.url }}/bild/"><img src="{{ site.urlimg }}startseite-bild-thumb.png" width="332" alt="Bild und Bildbearbeitung"></a>
-    <h4 class="b15">Bildbearbeitung</h4>
+    <h4 class="b15"><a href="{{ site.url }}/bild/">Bildbearbeitung</a></h4>
     {% include list-collection.html collection='bild' %}
     <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/bild/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-4.columns -->

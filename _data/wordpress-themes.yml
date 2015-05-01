@@ -1,16 +1,61 @@
-- name: "Responsive Theme"
-  description: "
-  <p>*Responsive* ist ein Theme, das in allen Browsern gut aussieht. Das schlicht gestaltete Theme bietet eine **große Bandbreite an Möglichkeiten** für die Gestaltung. Dazu gehören **vier Positionen für Menüs**, **elf Widget-Bereiche** sowie Optionen, um unkompliziert das Logo auszutauschen oder eigene CSS-Stylevorgaben einzugeben.</p>
-  <p>Außergewöhnlich sind die Möglichkeiten die **Startseite mit verschiedenen Seitenvorlagen** zu gestalten. Sie wollen eine Startseite mit einem Call-To-Action-Button? Kein Problem. Oder soll die Website im klassischen Blog-Look daherkommen? Oder als Magazin? Mit insgesamt **neun Seiten-Vorlagen** bringt man Schwung in Start- und Unterseiten.</p>
-  <p>Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Portofolios, Firmen-Websites oder ganz »normale« Blog-Vorhaben.</p>"
+#
+# Multiple-line strings can be written either as a 'literal block' (using |),
+# or a 'folded block' (using '>').
+#
+# - name: 
+#   description: |
+#     Text
+#   screenshots:
+#   - 
+#   contra:
+#   - 
+#   pro:
+#   - 
+#   download: 
+#   demo: 
+#   anleitung: 
+
+
+- name: "Stargazer: Flexibel einsetzbar"
+  description: |
+    Justin Tadlock ist mir bereits ein Begriff seit ich vor Jahren mit seinem exzellenten [Theme Hybrid][7] herumgespielt habe und ein Jahr Mitglied in seinem *WordPress Theme Club* wurde. Auch Stargazer stammt aus seinem Editor und stellt zahlreiche Premium Themes, für die man zahlen müsste in den Schatten.
+
+    Ich habe es mir installiert und Stargazer wird definitiv in meinem kommenden WordPress 4-Buch vorgeschlagen. Wunderbar sauberer Code, hervorragende Funktionen, responsive und einfach hochprofessionell. *Chapeau!*
+
+    [6]: http://themehybrid.com/themes/stargazer
+    [7]: http://themehybrid.com/
+
   screenshots:
-  - url: "wordpress-theme-responsive-2.jpg"
-  contra:
-  - 1: "Linkfarbe lässt sich nicht in den Optionen anpassen"
+  - wordpress-theme-stargazer.jpg
   pro:
-  - 1: "Deutschsprachig"
-  - 2: "Äußerst anpassungfähig mit zahlreichen Optionen"
-  - 3: "Neun verschiedene Vorlagen für Seiten"
+  - Responsive Webdesign
+  - Schöne Typografie
+  contra:
+  - Keine deutschsprachige Version
+  download: http://wordpress.org/extend/themes/stargazer
+  demo: http://locallylost.com/stargazer
+  anleitung: http://themehybrid.com/themes/stargazer
+
+
+
+
+
+
+- name: "Responsive Theme"
+  description: |
+    *Responsive* ist ein Theme, das in allen Browsern gut aussieht. Das schlicht gestaltete Theme bietet eine **große Bandbreite an Möglichkeiten** für die Gestaltung. Dazu gehören **vier Positionen für Menüs**, **elf Widget-Bereiche** sowie Optionen, um unkompliziert das Logo auszutauschen oder eigene CSS-Stylevorgaben einzugeben.
+
+    Außergewöhnlich sind die Möglichkeiten die **Startseite mit verschiedenen Seitenvorlagen** zu gestalten. Sie wollen eine Startseite mit einem Call-To-Action-Button? Kein Problem. Oder soll die Website im klassischen Blog-Look daherkommen? Oder als Magazin? Mit insgesamt **neun Seiten-Vorlagen** bringt man Schwung in Start- und Unterseiten.
+
+    Dank dieser zahlreichen Möglichkeiten eignet sich das Responsive Theme für Portofolios, Firmen-Websites oder ganz »normale« Blog-Vorhaben.
+  screenshots:
+  - "wordpress-theme-responsive-2.jpg"
+  pro:
+  - "Deutschsprachig"
+  - "Äußerst anpassungfähig mit zahlreichen Optionen"
+  - "Neun verschiedene Vorlagen für Seiten"
+  contra:
+  - "Linkfarbe lässt sich nicht in den Optionen anpassen"
   download: http://wordpress.org/extend/themes/responsive
   demo: http://themeid.com/demo/responsive/
   anleitung: http://cyberchimps.com/forum/free/responsive/
@@ -18,19 +63,68 @@
 
 
 - name: "WordPress Theme für Fotografen"
-  description: "
-  <p>Touchfolio ist ein WordPress Theme] für **Fotografen**. Großzügig präsentiert man mit Touchfolio seine Bilder, die Besucher auch mit Hilfe der Pfeiltasten weiterblättern können. Fotos organisiert man mit Touchfolio über das **Theme-eigene Beitragsformat** namens Gallery.</p>
-<p>Mittels dieser Galleriefunktion lassen sich Fotos thematisch kategorisieren und anschließend in das Navigationsmenü in der Seitenleiste einbauen. Für die Präsentation seines eigenen Fotoportfolios bietet das Theme zwei Varianten. Dazu erstellt man einfach eine Seite und wählt das gewünschte Template aus. Anschließend wählt man diese Seite als Startseite unter *Einstellungen > Lesen*.</p>
-<p>Aber auch auf ein **reguläres Blog-Layout** muss man nicht verzichten. Dadurch mischt man bei Bedarf einfach Bilder mit Artikel und präsentiert diese auf einer Website.</p>"
+  description: |
+    Touchfolio ist ein WordPress Theme] für **Fotografen**. Großzügig präsentiert man mit Touchfolio seine Bilder, die Besucher auch mit Hilfe der Pfeiltasten weiterblättern können. Fotos organisiert man mit Touchfolio über das **Theme-eigene Beitragsformat** namens Gallery.
+    
+    Mittels dieser Galleriefunktion lassen sich Fotos thematisch kategorisieren und anschließend in das Navigationsmenü in der Seitenleiste einbauen. Für die Präsentation seines eigenen Fotoportfolios bietet das Theme zwei Varianten. Dazu erstellt man einfach eine Seite und wählt das gewünschte Template aus. Anschließend wählt man diese Seite als Startseite unter *Einstellungen > Lesen*.
+    
+    Aber auch auf ein **reguläres Blog-Layout** muss man nicht verzichten. Dadurch mischt man bei Bedarf einfach Bilder mit Artikel und präsentiert diese auf einer Website.
   screenshots:
-  - url: "wordpress-theme-fotograf.jpg"
+  - "wordpress-theme-fotograf.jpg"
   contra:
-  - 1: "Keine deutschsprachige Version"
+  - "Keine deutschsprachige Version"
   pro:
-  - 1: "Navigation über Pfeiltasten möglich"
-  - 2: "Zwei verschiedene Arten von Portfolioseiten"
-  - 3: "Responsive Webdesign"
+  - "Navigation über Pfeiltasten möglich"
+  - "Zwei verschiedene Arten von Portfolioseiten"
+  - "Responsive Webdesign"
   download: http://dimsemenov.com/themes/touchfolio/
   demo: http://dimsemenov.com/themes/touchfolio/demo/
   anleitung: http://dimsemenov.com/themes/touchfolio/installation.html
 
+
+
+- name: Yoko WordPress Theme
+  description: |
+    Yoko ist ein Blog-Theme, das sich sehr gut für **Blogs und Magazine** eignet. Anstelle des typischen zweispaltigen Blog-Layout kommt Yoko mit drei Spalten daher. Zwar ist die mittlere Spalte ein wenig arg schmal, bietet aber für Social Media Links samt Icons und Kategorien mit einem Ort genügend Platz.
+
+    Yoko unterscheidet sich von anderen Themes besonders durch das zweite Menu direkt unterhalb der Kopfgrafik. Über dieses Navigationselement kann man hervorragend Besucher leiten und ihnen eine hierarchische Übersicht über die angebotenen Inhalte bieten.
+
+    Wie alle Themes der deutschen beiden deutschen WordPress-Entwickler [Ellen und Manuel][1] basiert auch Yoko auf einem **Responsive Webdesign**. Aber nicht nur das Theme ist in Deutsch, sondern auch die **umfangreiche Dokumentation**, die einem hilft, dass Theme passgenau auf die eigenen Bedürfnisse zuzuschneiden.
+    
+    Auch die kostenpflichtigen Themes von Elmastudio erfreuen sich großer Beliebtheit. Das liegt einerseits an den luftigen Designs und andererseits an wirklich anwenderfreundlichen Preisen.
+
+    [1]: http://www.elmastudio.de/wer-wir-sind/
+    [2]: http://www.elmastudio.de/wordpress-themes/yoko/
+
+  screenshots:
+  - wordpress-theme-yoko.jpg
+  contra:
+  - Etwas älteres Theme
+  pro:
+  - Deutsches Theme
+  - Umfangreiche PDF-Dokumentation mit Videoanleitungen
+  - Außergewöhnliche Navigationsleiste
+
+  download: 
+  demo: http://yoko.elmastudio.de/
+  anleitung: 
+
+
+
+- name: Leaf Theme
+  description: |
+    Das Leaf-Theme nutzt z.B. das großartige deutsche Reggae-Blog [House Of Reggae](http://www.houseofreggae.de).
+  screenshots:
+  - wordpress-theme-leaf.jpg
+  download: https://wordpress.org/themes/leaf/
+  demo: https://wp-themes.com/leaf
+
+
+
+
+- name: Frank
+  description: |
+    Schnell, flexibl, schöne Typografie, responsive und angeblich *noch nicht fertig*, weil es konstant auf Github weiterentwicklel wird.
+  screenshots:
+  - wordpress-theme-frank.png
+  download: http://somerandomdude.com/work/frank/
