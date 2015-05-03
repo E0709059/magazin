@@ -3,7 +3,7 @@ layout: page
 published: false
 title: Glossar für GitHub
 ---
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}

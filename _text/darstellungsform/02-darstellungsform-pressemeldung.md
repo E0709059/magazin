@@ -21,7 +21,7 @@ tags:
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}
@@ -40,8 +40,6 @@ tags:
 {% include alert warning='Hinweis: Bei der Pressemitteilung handelt es sich in der Regel nicht um eine journalistische Darstellungsform, sondern um eine Darstellungsform aus dem Bereich Marketing.' %}
 
 
-
-## Wirkungsvolle PR mit Presseberichten
 
 Pressetexte für Public Relations, kurz PR genannt, ähneln vom Aufbau sehr stark dem Nachrichtengenre. In erster Linie müssen PR-Texte interessante Informationen für Journalisten und Redakteure bieten, die die Pressetexte für eigene Artikel gebrauchen oder gar direkt als News verwerten. Gelingt Ihnen letzteres, sind Sie der Gewinner. Gewonnen haben Sie aber auch, wenn Sie das Hauptziel erreichen: Ihre Nachricht wurde als News in den Medien verwendet und die darin enthaltenen Nachrichten abgedruckt.
 
@@ -139,7 +137,7 @@ Ist Ihnen ein Zitat jedoch besonders wichtig, so verschicken Sie nur stark kompr
 
 
 
-## Konzeptueller Aufbau und Bestandteile einer PR-Email
+## Aufbau mit Konzept: Bestandteile einer PR-Email
 
 **Für PR-Schreiben aus der gleichen Quelle ist ein gleichförmiger Aufbau wichtig.** Ähnlich wie bei Unternehmen können auch PR-Texte in Email-Form eine Corporate Identity haben. Dazu legen Sie sich am besten eine Art Schablone an, die Sie einmal gestalten und immer wiederverwenden. Ein Vorteil dieser Methode ist die Zeitersparnis und noch viel wichtiger: Sie vergessen nichts!
 
@@ -172,6 +170,7 @@ Obendrein wirken unvollständige Pressetexte unprofessionell und werden oft dire
 - [ ] Stehen weiterführende Informationen auf Ihrer Website zur Verfügung?
 - [ ] Haben Sie zum Schluss die insgesamte Dateigröße Ihrer Email überprüft? (Richtwert 2 bis maximal 4MB)
 {: .no-bullet }
+
 
 
 ## Weitere Darstellungsformen

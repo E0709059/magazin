@@ -33,10 +33,23 @@
 /* Panel
 ------------------------------------------------------------------- */
 
+.panel {
+  font-family: $font-family-sans-serif;
+}
+
+.panel a {
+  font-weight: normal;
+}
+
 .border-dotted {
   border: 1px dotted $grey-5;
   padding: rem-calc(20);
   border-radius: $global-radius;
+}
+.panel #toc {
+  margin: rem-calc(-10) 0 rem-calc(5) 0;
+  font-weight: 300;
+  font-size: 1.563em;
 }
 
 

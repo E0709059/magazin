@@ -21,7 +21,7 @@ tags:
     - social media special
 ---
 <div class="panel radius" markdown="1">
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}

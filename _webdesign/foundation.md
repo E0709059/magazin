@@ -24,7 +24,7 @@ header:
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}

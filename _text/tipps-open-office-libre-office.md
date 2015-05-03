@@ -16,7 +16,7 @@ image:
     thumb: "icon/icon-libre-office-128x.png"
 ---
 <div class="panel radius" markdown="1">
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}

@@ -11,7 +11,7 @@ permalink: /video/glossar/
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}

@@ -25,7 +25,7 @@ tags:
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Inhalt**
+Inhalt
 {: #toc }
 *  TOC
 {:toc}
@@ -37,6 +37,7 @@ tags:
 
 
 </div><!-- /.medium-5.columns -->
+
 
 
 <div class="medium-7 medium-pull-5 columns" markdown="1">
@@ -113,7 +114,7 @@ Denken Sie vor jeder Nachricht kurz nach und fragen Sie sich:
 
 
 
-## Eine kleine Checkliste für erfolgreiche Anreisser
+## Checkliste für erfolgreiche Anreisser
 
 * Liest sich der Anreisser wie eine Rutschbahn in den Artikel?
 * Macht der Anreisser neugierig und wirkt er interessant?
