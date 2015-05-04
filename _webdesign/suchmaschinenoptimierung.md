@@ -198,6 +198,31 @@ Wenn möglich, sollte der Titel kurz und knackig sein und nur wenige Keywords un
 
 {% include alert info='Bei der Eingabe eines neuen WordPress-Artikels können Sie sowohl den Titel des Dokuments als auch die URL nach Ihren Vorlieben gestalten. Dabei setzt sich der Inhalt zwischen den &lt;title&gt;-Tags eines einzelnen Dokuments in der Regel aus dem Namen des Blogs, der Kategorie und dem Artikelnamen zusammen.<br><br>Wie und in welcher Reihenfolge die »Zutaten« angezeigt werden, hängt vom jeweiligen Theme ab. Um den Namen der URL zu ändern, müssen Sie den Artikel mindestens einmal abgespeichert haben. Dann wird der Button Bearbeiten eingeblendet, wie in Abbildung 7-6 zu sehen ist. Über einen Klick auf den Button erhalten Sie die Möglichkeit, die URL zu gestalten.' %}
 
+`<meta name=»description«/>-Description:` Neben einem exzellenten Titel liegt die große Kunst darin, eine packende und überzeugende Kurzbeschreibung des auf der Webseite angebotenen Inhalts zu verfassen. Dafür stehen Ihnen 150 bis maximal 160 Zeichen zur Verfügung. Diese Kurzbeschreibung muss Leser zum Klicken animieren, muss die wichtigsten Keywords beinhalten und auch noch gut klingen. Obendrein positioniert man auch noch die Keywords so weit vorn im Text wie möglich.
+
+Aber gerade diese Herausforderungen machen die Suchmaschinenoptimierung spannend und verbessern oftmals Ihre Schreibfähigkeiten. Sie werden einfach gezwungen, so schnell wie möglich auf den Punkt zu kommen – eine der wichtigsten Regeln im Journalismus. Haben Sie die Kurzbeschreibung getextet, muss diese im Description-Metatag auftauchen.
+
+`<meta name="description" content="Jeannette Corneille (Köln) bietet Kommunikation und Design mit den Schwerpunkten Illustration auf und mit Stoff, Collagen und Zeichnungen." />`
+
+Gleichzeitig empfehle ich, diese Kurzbeschreibung nicht nur in den Metadaten der Webseite auftauchen zu lassen, sondern auch so weit wie möglich vorn im Artikel, z.B. als Anreißer. So »sieht« die Suchmaschine, dass die Kurzbeschreibung in den Metadaten und auf der Webseite auftauchen und kein Spamming vorliegt. Je konsistenter Ihre Artikel sind, desto besser.
+
+`URL-Design` – lesbare, suchmaschinenfreundliche URLs: Das letzte und nicht zu unterschätzende Element ist die URL eines Artikels. Beobachten Sie sich einmal selbst, wenn Sie Inhalte per Google & Co. suchen. Oftmals unbewusst oder mit einem kurzen Blick überprüfen Sie als Suchender die URL. Kenne ich bereits die Website? Welche Begriffe tauchen in der URL auf? Ist die URL verständlich und logisch aufgebaut?
+
+Platzieren Sie die gleichen Keywords darum auch im Dateinamen oder der URL des Dokuments und achten Sie auf eine sinnvolle Baumstruktur Ihrer Website. Diese Struktur sollte den Aufbau Ihrer Website widerspiegeln. Vertraut Google Ihrer Website, ersetzt die Suchmaschine Links mittlerweile auch durch eine eigens generierte Breadcrumb-Navigation – siehe Abbildung 7-7. So klicken Surfer sicherlich eher auf einen verständlichen als auf einen ominösen Link, der aus einer wirren Kombination von Zeichen besteht. Aussagelos wäre beispielsweise ein solcher Link:
+
+`http://www.domain.de/arc/item=023759`
+
+Ansprechender und sinnvoller ist der folgende Link zum gleichen
+Inhalt:
+
+`http://www.domain.de/biografie/journalist-mustermann.html`
+
+Vermeiden Sie Übertreibungen – das sogenannte Keyword-Stuffing.Dieses werten Suchmaschinen möglicherweise als Spam-Versuch:
+
+`http://www.domain.de/biografie/biografie/biografie-journalistmustermann.html`
+
+
+
 
 
 

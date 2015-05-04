@@ -13,9 +13,17 @@ tags:
     - hintergrundmuster
     - kacheln
 ---
+
+## Unaufdringliche Muster und Texturen
+
+[![]({{ site.urlimg }}muster-subtlepatterns_com.png)][1]
+
+Die Website [Subtle Patterns][1] bietet hochprofessionelle und verschiedenartige Texturen und Muster. Sämtliche Muster und Texturen funktionieren als Kacheln und lassen sich einfach einfärben, um Sie einer Website anzupassen. Sämtliche Muster darf man auch für kommerzielle Projekte nutzen. Die einzige Bedingung ist eine Namensnennung. Mehr [Informationen zur Verwendung][2] der Subtle Patter-Muster lesen Sie auf der Website.
+
+
+
 ## Freie Downloads: Muster 
 
-* [Subtle Patterns](http://subtlepatterns.com/)
 * [30 Free Seamless Background Textures](http://lostandtaken.com/blog/2012/1/4/30-free-seamless-background-textures.html)
 * [Din Pattern](http://www.dinpattern.com/)
 * [The Ultimate Collection Of Free Photoshop Patterns](http://www.smashingmagazine.com/2009/02/12/the-ultimate-collection-of-free-photoshop-patterns/)
@@ -30,3 +38,19 @@ tags:
 * [How to Turn a Texture into a Seamlessly Tiled Background](http://psd.tutsplus.com/articles/how-a-turn-a-texture-into-a-seamlessly-tiled-background/)
 * [Create Seamless Web Background Textures in Minutes](http://designshack.net/articles/css/create-seamless-web-background-textures-in-minutes)
 * [YouTube Video: Photoshop: Repeat Pattern using Offset Filter](http://www.youtube.com/watch?v=KXVOAV3UGTI)
+
+
+
+
+
+
+ [1]: http://subtlepatterns.com/
+ [2]: http://subtlepatterns.com/about/
+ [3]: #
+ [4]: #
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
