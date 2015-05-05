@@ -236,6 +236,9 @@ collections:
   wordpress:
     output: true
     permalink: /:path/
+  jekyll:
+    output: true
+    permalink: /:path/
   marketing:
     output: true
     permalink: /:path/
