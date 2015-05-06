@@ -2,8 +2,14 @@
 layout: page
 title:  "YAML front-matter richtig nutzen"
 teaser: "Jekyll front-matter – Eigene Inhalte mit Metainformationen versorgen, erweitern sowie eigene Variablen für Templates und Themes definieren."
+header:
+    image: logo-jekyll.png
+    background-color: "#333333"
+image:
+    thumb: icon/icon-jekyll.svg
 chapter: "7"
 permalink: /jekyll/front-matter/
+breadcrumb: true
 ---
 Der *front-matter*-Bereich ist der Bereich eines Jekyll-Dokumentes, der Informationen zum Dokument enthält, also Metainformationen. So legt man über diese Metainformationen z.B. fest, welchen Titel und welches Layout Jekyll für das aktuelle Dokument nutzen soll. Das sieht dann z.B. so aus:
 

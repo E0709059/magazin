@@ -2,8 +2,14 @@
 layout: page
 title:  "Ein neues Jekyll-Projekt erstellen"
 teaser: "Ein Befehl reicht, um ein neues Jekyll-Profjekt zu initialisieren. Ein weiterer Befehl startet den integrierten Server."
+header:
+    image: logo-jekyll.png
+    background-color: "#333333"
+image:
+    thumb: icon/icon-jekyll.svg
 chapter: "3"
 permalink: /jekyll/projekt-erstellen/
+breadcrumb: true
 ---
 
 ## #1 Neues Jekyll-Projekt initieren

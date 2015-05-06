@@ -2,10 +2,14 @@
 layout: page
 title: "Includes (mit Parametern)"
 teaser: ""
+header:
+    image: logo-jekyll.png
+    background-color: "#333333"
 image:
     thumb: icon/icon-jekyll.svg
 chapter: "12"
 permalink: /jekyll/includes/
+breadcrumb: true
 ---
 Quelle für die folgenden Parameter siehe unten Links.
 

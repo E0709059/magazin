@@ -2,8 +2,14 @@
 layout: page
 title:  "Erste Schritte zum eigenen Jekyll-Theme"
 teaser: "Der einfachste Weg mit einem neuen CMS eine eigene Website zu bauen, ist die Modifizierung des bestehenden Themes."
+header:
+    image: logo-jekyll.png
+    background-color: "#333333"
+image:
+    thumb: icon/icon-jekyll.svg
 chapter: "4"
 permalink: /jekyll/jekyll-theme/
+breadcrumb: true
 ---
  Das pure Jekyll-Theme eignet sich gut als Ausgangspunkt für die ersten Schritte.
 

@@ -2,8 +2,14 @@
 layout: page
 title:  "Die Jekyll-Website konfigurieren"
 teaser: "Die Jekyll-Website konfiguiert man mit Hilfe der _config.yml-Datei. Und diese Optionen stehen zur Verfügung."
+header:
+    image: logo-jekyll.png
+    background-color: "#333333"
+image:
+    thumb: icon/icon-jekyll.svg
 chapter: "5"
 permalink: /jekyll/konfiguration/
+breadcrumb: true
 ---
 
 Der nächste Schritt ist die Individualisierung der Jekyll-Website. Dazu öffnet man die Konfigurationsdatei `_config.yml`.

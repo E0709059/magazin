@@ -2,8 +2,14 @@
 layout: page
 title:  "Jekyll auf Windows-Rechnern installieren"
 teaser: "Eine Schritt für Schritt-Anleitung, um den Website Generator Jekyll auf Windows-Rechnern zu installieren."
+header:
+    image: logo-jekyll.png
+    background-color: "#333333"
+image:
+    thumb: icon/icon-jekyll.svg
 chapter: "2.2"
 permalink: /jekyll/installation-windows/
+breadcrumb: true
 ---
 <div class="alert-box radius warning" markdown="1">
 Dieser Beitrag ist eine modifizierte Übersetzung von [»Learn how to run Jekyll, the blog-aware, static site generator in Ruby on Windows.«][8]. Die folgenden Schritte habe ich selbst nicht ausprobiert. Ich garantiere nicht dafür, dass diese Anleitung vollständig oder korrekt ist.
