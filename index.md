@@ -68,7 +68,7 @@ style: "#masthead-with-background-color { padding: 10px; }"
 
 
   <div class="medium-4 columns">
-    <a href="{{ site.url }}/glossar/"><img src="{{ site.urlimg }}startseite-glossar-thumb.png" width="332" alt="Bild und Bildbearbeitung"></a>
+    <img src="{{ site.urlimg }}startseite-glossar-thumb.png" width="332" alt="Bild und Bildbearbeitung">
     <h4 class="b15">Glossare</h4>
     <ul class="side-nav">
       {% for page in site.pages %}
