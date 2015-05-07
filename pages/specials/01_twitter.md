@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: Twitter
+meta_title: "Twitter – Fakten, Statistiken, Anleitungen, Beispiele"
 permalink: /twitter/
 header:
     image_fullwidth: header_twitter.jpg

@@ -14,7 +14,7 @@ permalink: /jekyll/was-ist-jekyll/
 breadcrumb: true
 ---
 <div class="row top-60">
-<div class="medium-8 medium-offset-2 end columns" markdown="1">
+<div class="medium-7 columns" markdown="1">
 
 [Jekyll][1] ist ein so genannter *Static Website Generator*. Das Kommandozeilenprogramm bietet keine [WYSIWYG][2]-Oberfläche, sondern Sie starten Jekyll über die Kommandozeile – z.B. über das [Terminal][5] beim Mac.
 
@@ -52,7 +52,11 @@ Jekyll bietet als Static Website Generator zahlreiche Vorteile, die Systeme wie 
 
 
 
-</div><!-- /.medium-8 medium-offset-2 end.columns -->
+</div><!-- /.medium-7.columns -->
+<div class="medium-5 columns" markdown="1">
+<h3 class="m0">Jekyll Anleitung</h3>
+{% include list-collection.html collection='jekyll' %}
+</div><!-- /.medium-5.columns -->
 </div><!-- /.row -->
 
 

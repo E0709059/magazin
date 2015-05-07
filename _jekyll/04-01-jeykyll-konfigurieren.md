@@ -12,9 +12,9 @@ permalink: /jekyll/konfiguration/
 breadcrumb: true
 ---
 
-Der nächste Schritt ist die Individualisierung der Jekyll-Website. Dazu öffnet man die Konfigurationsdatei `_config.yml`.
+Der nächste Schritt ist die Individualisierung der Jekyll-Website. Dazu öffnet man die Konfigurationsdatei *_config.yml*.
 
-Um dem Projekt einen eigenen Namen zu geben, ändert man `name`. Da sämtliche Textdateien durch einen Markdown-Filter fließen, was einfach wunderbar ist, sollte man `markdown: redcarpet` erst einmal belassen. Wer weiss, dass er definitiv keine Code-Schnipsel auf seiner Jekyll-Site anzeigen lassen will, der stellt den Konverter *pygments* einfach aus. Das geschieht mit dem Wert `false`, als `pygments: false`.
+Um dem Projekt einen eigenen Namen zu geben, ändert man `name`. Da sämtliche Textdateien durch einen Markdown-Filter fließen, was einfach wunderbar ist, sollte man `markdown: kramdown` erst einmal belassen. Wer weiss, dass er definitiv keine Code-Schnipsel auf seiner Jekyll-Site anzeigen lassen will, der stellt den Konverter *pygments* einfach aus. Das geschieht mit dem Wert `false`, als `highlight: false`.
 
 Bei mir sieht das dann so aus:
 
@@ -23,6 +23,7 @@ name: Webseiten bauen mit Jekyll
 markdown: kramdown
 highlighter: true
 {% endhighlight %}
+
 
 
 ## Voreinstellungen für Beiträge festlegen
@@ -58,7 +59,7 @@ defaults:
 
 
  [1]: http://de.wikipedia.org/wiki/Utf-8
- [2]: {{ site.url }}/anleitung/front-matter/
+ [2]: {{ site.url }}/jekyll/front-matter/
  [3]: #
  [4]: #
  [5]: #

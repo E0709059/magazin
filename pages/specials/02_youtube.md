@@ -2,6 +2,7 @@
 layout: page-fullwidth
 subtitle: Alles über die Videoplattform
 title: YouTube
+meta_title: "YouTube – Fakten, Statistiken, Anleitungen, Beispiele"
 teaser: 'YouTube ist eine der wichtigsten Websites und Social Media-Kanäle im Internet. An dieser Stelle findet man aktuelle Nachrichten, Hintergrundinformationen, Anleitungen, Tipps &amp; Tricks und Downloads rund um die Videoplattform. Wir pflegen diese Informationen rund um die Uhr.'
 permalink: /youtube/
 header:
