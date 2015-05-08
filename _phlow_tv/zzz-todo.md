@@ -13,6 +13,13 @@ tags:
     - todo
 ---
 
+- Publizieren Übersichtsseite
+- Suchmaschinenoptimierung fertigstellen
+
+
+
+
+
 ## Bilder bearbeiten mit Vorschau
 
 - [Bilder in anderes Format konvertieren mit Vorschau](http://osxdaily.com/2010/01/24/convert-images-in-mac-os-x-jpg-to-gif-psd-to-jpg-gif-to-jpg-bmp-to-jpg-png-to-pdf-and-more/)

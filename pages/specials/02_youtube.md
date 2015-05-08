@@ -19,7 +19,7 @@ tags:
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
 <div class="panel sans" markdown="1">
-**Inhaltsverzeichnis**
+Inhaltsverzeichnis
 {: #toc <div class=""></div>toc_levels }
 *  TOC
 {:toc}
