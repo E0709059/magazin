@@ -14,6 +14,7 @@ tags:
 ---
 
 - Publizieren Übersichtsseite
+- Tumblr Blog integrieren
 - Suchmaschinenoptimierung fertigstellen
 
 

@@ -1,15 +1,19 @@
 ---
 layout: page-fullwidth
 subheadline: "Suchmaschinenoptimierung (SEO)"
-title: "Anleitung für die Suchmaschinenoptimierung"
-teaser: "Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genannt – erklärt verständlich wie Sie Ihre Website für Suchmaschinen optimieren."
+title: "Keyword-Recherche: die richtigen Schlagwörter für einen Artikel"
+meta_description: "»Suchmaschinenoptimierung Teil 3« zeigt Ihnen, wie Sie optimale Keywords (Suchworte, Schlagwörter) für Ihre Artikel recerchieren, aussuchen und nutzen."
+teaser: "Generell gilt: Je spezieller die Inhalte, desto größer ist die Wahrschein&shy;lichkeit, eine gute Platzierung in den Suchmaschinen zu erreichen. Das sogenannte »Ranking« beeinflussen Sie maßgeblich, indem Sie Ihr Material sinnvoll aufarbeiten. Denn ein Dokument wird nur dann Teil eines Suchergebnisses, wenn es das gesuchte Wort als Begriff enthält.Darum gehört zu den wichtigsten Aufgaben die Wahl der geeigneten Schlüsselwörter."
 categories:
     - webdesign
 tags:
     - artikel
     - suchmaschinenoptimierung
+    - keyword recherche
+    - schlagwörter
+    - keywords
     - seo
-permalink: /suchmaschinenoptimierung/
+permalink: /keyword-recherche-suchmaschinenoptimierung/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
@@ -22,107 +26,9 @@ Inhalt
 </div><!-- /.medium-5.columns -->
 
 
-
 <div class="medium-7 medium-pull-5 columns" markdown="1">
 
-Das Wort Suchmaschinenoptimierung klingt kühl, kalt und herzlos. Es klingt, als ob es sich dabei um die Bedienung einer Maschine handelt. Es klingt mechanisch, langweilig und allzu technisch. Aber auch wenn es sich hier erst einmal um Technik dreht, so dreht es sich bei der Suchmaschinenoptimierung um viel mehr: den Geist in
-der Maschine.
-
-Schließlich sucht ein anderer Mensch Inhalte über die Maschine, und dieser Mensch ist der eigentliche Adressat der Suchmaschinenoptimierung. Suchmaschinenoptimierung bedeutet darum auch – und vielleicht vielmehr – die gekonnte Optimierung von Inhalten, ein psychologisches Gespür für die Suchenden und oft einfach nur besser aufbereitete Texte.
-
-Hinzu kommt, dass suchmaschinenoptimierte Websites in der Regel auch bessere Websites für Besucher sind. Denn optimierte Webseiten sind besser strukturiert und folgen einer inneren Logik. Optimierte Websites kommen außerdem Menschen mit Behinderungen entgegen, weil sie auf Webstandards setzen und besser von Ausgabegeräten wie zum Beispiel der [Braillezeile][1] dargestellt werden können. 
-
-Suchmaschinenoptimierung ist darum ein optimales Betätigungsfeld für Journalisten, Schreiber und Blogger. Und mit Suchmaschinenoptimierung lässt sich obendrein gutes Geld verdienen, wenn man für Kunden und Unternehmen textet. Dieses Kapitel zeigt Ihnen, wie Suchmaschinenoptimierung funktioniert. 
-
-
-
-## Wie funktionieren Suchma&shy;schi&shy;nen?
-
-**Eine Suchmaschine besteht in der Regel aus drei Komponenten.** Während ein Programmteil Daten sammelt und speichert, analysiert und sortiert ein anderes Programm die Daten in der Datenbank. Die dritte Komponente des Programms ist die Suchmaske. Sie dient als Schnittstelle zwischen Suchendem und Suchmaschine und nimmt die Anfragen entgegen.
-
-Damit eine Suchmaschine funktioniert, benötigt sie Daten. Um die eigene Datenbank mit neuen Inhalten zu befüllen, schickt die Suchmaschine sogenannte Webcrawler, auch Crawler, Spider oder Searchbot genannt, ins Internet. Wie eine Spinne krabbelt der **Webcrawler** bei dieser Operation von einem Link zum nächsten und speichert die gefundenen Dokumente in einer Datenbank ab. Bei den Dokumenten handelt es sich zwar hauptsächlich um Webseiten, aber auch Bilder oder PDF-Dateien und ähnliche Dokumente wie z.B. Powerpoint-Präsentationen speichert das Programm ab.
-
-Große Suchmaschinen schicken oft mehrere Webcrawler auf die Suche. Die Aufgabe der Koordination übernimmt dann der **Scheduler**, das zentrale Verwaltungsorgan im Webcrawler-System. Das Scheduler-Programm organisiert die Pflege der Daten und sorgt für die Vergrößerung der Datenbestände.
-
-Im ersteren Fall schickt der Scheduler den Webcrawler zu alten Webseiten, um zu schauen, ob diese noch vorhanden sind oder eine neue Version vorliegt. Liegt der Fokus der Suchmaschine aber auf der weiteren Erschließung des Internets, schickt der Scheduler den Webcrawler auf weitere Expeditionen in unbekanntes Internet-Terrain, um den Datenbestand zu vergrößern.
-
-Während die Spinne weiter Daten sammelt und in der Datenbank abspeichert, kümmert sich der **Indexer** darum, dass die Daten analysiert und sortiert werden. Grob gesagt, liest das Indexer-Programm eine Webseite und versucht, anhand von Computeralgorithmen herauszufinden, worum es sich bei der Webseite handelt und wie wertvoll die gefundenen Informationen einzustufen sind.
-
-Taucht zum Beispiel das Wort »Relativitätstheorie« häufig im gefundenen Dokument auf, handelt es sich bei der Webseite womöglich um eben genau dieses Thema. In diesem Fall speichert der Indexer das Dokument unter dem Begriff »Relativitätstheorie« im Index ab. Sucht jetzt ein Benutzer nach Webseiten zum Thema »Relativitätstheorie«, liefert der Index die Webseite als Suchergebnis aus.
-
-Beim Suchvorgang erhalten Sie in der Regel nicht nur ein Ergebnis, sondern mehrere Suchergebnisse zum jeweiligen Begriff. Auch hierfür ist der Indexer zuständig, denn er nimmt die Gewichtung der Dokumente vor.
-
-Um die Suchergebnisse zu sortieren, greifen die Suchmaschinen auf eine Logik aus der Wissenschaft zurück, die besagt: Wer in der Wissenschaft häufig zitiert wird, ist wichtig. Für das Internet lautet die Regel umformuliert: **Wer viel verlinkt wird, ist wichtiger als andere.** Wichtigere Webseiten reiht der Indexer weiter oben in den Suchergebnissen ein.
-
-Werden zwei Webseiten zu einem Thema gleich oft zitiert, überprüft der Indexer, wer die Webseiten verlinkt, sprich zitiert. Wenn also ein führender Wissenschaftler einen anderen Wissenschaftler zum Thema »Relativitätstheorie« zitiert, verspricht das mehr Lob als die Anerkennung von zahlreichen noch unbekannten Studenten.
-
-Deswegen ist ein Link von einer hochrangigen Website wie z.B. einer Nachrichtenseite wie Zeit.de, Spiegel.de oder ähnlichen Wikipedia aussagekräftiger als zehn unbekannte Blogs. Als Erste nutzten die Google-Gründer Larry Page und Sergey Brin diese Logik für ihre Suchmaschine. Der Erfolg von Google zeigt, wie intelligent der Ansatz ist.
-
-Hat der Indexer das neue Dokument einsortiert, liegt es eingereiht im Index der Datenbank. Jetzt kommt die Suchmaske der Suchmaschine zum Einsatz. Über diese stellen die Suchenden ihre Suchanfragen an die Datenbank. Die Suchmaske erlaubt dem Suchenden in der Regel drei verschiedene Kommandos: UND, ODER und
-NICHT.
-
-Gibt der Suchende in die Suchmaske zwei Begriffe ein, z.B. »Einstein« und »Relativitätstheorie«, versteht die Suchmaschine die Anfrage wie folgt: »Bitte zeige mir alle Dokumente aus deinem Index zum Thema ›Einstein‹ und ›Relativitätstheorie‹ an.
-
-Es funktioniert aber auch die Anfrage: Such mir alles zum Thema »Relativitätstheorie«, aber nichts von »Einstein« heraus. In die Suchmaske tippt man dann in der Regel ein Minuszeichen vor das Wort, beispielsweise: »Relativitätstheorie -Einstein«. Ausführliche Erklärungen zur Recherche bietet unser [Recherche mit Suchmaschinen-Beitrag][2].
-
-
-
-## Wie man suchmaschinen&shy;opti&shy;mierte Artikel schreibt
-
-Wer sich mit der Suchmaschinenoptimierung auseinandersetzt, stellt schnell fest, dass sie vor allem auch einen Zugewinn für den Leser bedeutet. Denn die Lesegewohnheiten ändern sich derzeit rasant, und Leser scannen zunehmend Texte, um möglichst schnell ihren Inhalt zu erfassen. Gut strukturierte Texte mit Zwischenüberschriften, fett formatierten Wörtern und einer logischen Anordnung helfen dem Leser bei seiner Informationssuche und -aufnahme.
-
-Um Inhalte in Suchmaschinen zu positionieren, sind folgende Fähigkeiten von Ihnen gefordert:
-
-1. Elementare HTML-Kenntnisse, um Inhalte korrekt aufzubereiten.
-2. Empathie, um sich in Informationssuchende hineinversetzen zu können und ihre Suchanfragen zu erahnen.
-3. Spannende Inhalte, um die Leser zu informieren, zu überzeugen und zum Wiederkommen zu bewegen.
-
-**Sie sehen, dass bis auf den ersten Punkt die Suchmaschinen&shy;optimierung erst einmal mit dem Inhalt beginnt.**
-
-
-
-## Grundlegender Aufbau eines Artikels
-
-Der Aufbau von Artikeln im Internet ist eigentlich nichts Neues, denn HTML orientiert sich stark an der Strukturierung von Büchern und Texten. Den grundsätzlichen Unterschied zum Buch machen die Links aus. Schließlich zeigen Sie der Suchmaschine mithilfe der Links, in welcher thematischen Umgebung sich der Artikel befindet. Sie verknüpfen mit den Links auf externe Seiten Ihren Artikel mit der Onlinewelt und stellen Beziehungen her.
-
-An dieser Stelle zeigt sich wieder, dass suchmaschinenoptimierte Artikel auch dem Leser zugute kommen, denn mithilfe der Links werten Sie Ihren eigenen Artikel auf. Was wären die Artikel der Wikipedia wert, wenn man nicht weiterführende Links auf externe Quellen zur Verifizierung und Informationsgewinnung vorfinden würde?
-
-Grundsätzlich beinhalten suchmaschinenoptimierte Artikel folgende wichtige Elemente:
-
-1. Überschrift
-2. ZwischenÜberschriften
-3. drei bis neun Such- bzw. Schlagwörte (Keywords)
-4. Kurzbeschreibung mit maximal 160 Zeichen
-5. weiterfÜhrende Links zu ähnlichen Inhalten
-6. gefettete wichtige SchlÜsselwörter im Text
-7. Bilder
-
-
-
-## Gezielte Aufbereitung von Inhalten
-
-Um Artikel gezielt für das Web aufbereiten zu können, sollten Sie sich mit HTML ein wenig auskennen. Im Folgenden behandele ich nur die wichtigsten Tags für die Suchmaschinenoptimierung und gehe davon aus, dass das gesamte Dokument einwandfrei aufgebaut wurde. Denn einwandfreien HTML-Code verarbeiten die Suchmaschinen problemloser und »verstehen«, analysieren und indizieren ihn besser. **Einwandfreier HTML-Code ist darum der erste Schritt zur Suchmaschinen&shy;optimierung.**
-
-
-### Grundlegende Schritte bei der Produktion eines neuen Artikels
-
-Wenn Sie einen neuen, längeren Artikel planen, lohnt sich folgende Vorgehensweise:
-
-1. Recherchieren und wählen Sie die richtigen Schlagwörter für den Artikel.
-2. Strukturieren Sie den Artikel bereits im Vorhinein.
-3. Schreiben Sie den Artikel in Ruhe und überprüfen Sie abschließend Grammatik und Rechtschreibung.
-4. Verfeinern Sie den Artikel und zeichnen Sie ihn mit HTML-Tags aus.
-5. Vermarkten Sie Ihren Artikel.
-
-Insbesondere der letzte Punkt ist äußerst wichtig für die Suchmaschinen&shy;optimierung. Teilen Sie der Welt per Twitter, Newsletter oder E-Mail mit, dass es ihn gibt. Schreiben Sie Freunden und anderen Bloggern und bitten Sie sie um ein Urteil. Setzen Sie Links zum Artikel in Social Communities, Foren und überall dort ab, wo es Interessierte gibt. Diese Maßnahmen erzeugen in der Regel bei guten Inhalten Links für Ihre Inhalte. Das Wichtigste bei der Suchmaschinen&shy;optimierung sind Links, Links, Links auf Ihre Inhalte!
-
-
-
-## Keyword-Recherche: die richtigen Schlagwörter für einen Artikel
-
-Generell gilt: Je spezieller die Inhalte, desto größer ist die Wahrschein&shy;lichkeit, eine gute Platzierung in den Suchmaschinen zu erreichen. Das sogenannte »Ranking« beeinflussen Sie maßgeblich, indem Sie Ihr Material sinnvoll aufarbeiten. Denn ein Dokument wird nur dann Teil eines Suchergebnisses, wenn es das gesuchte Wort als Begriff enthält.
-
-Darum gehört zu den wichtigsten Aufgaben die Wahl der geeigneten Schlüsselwörter. Im Suchmaschinenoptimierer-Slang heißen diese *Keywords*. Damit Keywords Aufmerksamkeit erzeugen, müssen sie den Inhalt optimal wiedergeben. Gleichzeitig müssen sie aber genau den Schlagwörtern entsprechen, die vom Surfer in das Suchfeld der Suchmaschine eingegeben werden. Um geeignete Keywords zu finden, sollten Sie sich die folgenden Fragen stellen:
+**Im Suchmaschinenoptimierer-Slang heißen diese *Keywords*.** Damit Keywords Aufmerksamkeit erzeugen, müssen sie den Inhalt optimal wiedergeben. Gleichzeitig müssen sie aber genau den Schlagwörtern entsprechen, die vom Surfer in das Suchfeld der Suchmaschine eingegeben werden. Um geeignete Keywords zu finden, sollten Sie sich die folgenden Fragen stellen:
 
 * Welche Ziele verfolgt meine Website?
 * Welche Informationen, Produkte oder Dienstleistungen biete ich an?
