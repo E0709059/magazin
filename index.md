@@ -87,7 +87,7 @@ style: "#masthead-with-background-color { padding: 10px; }"
 <div class="t30 b60" style="padding: 30px 0; background: #82cbd0;">
 <div class="row">
     <div class="small-12 text-center medium-12 columns">
-      <a href="http://magazin.phlow.de/newsletter/"><img class="left" src="{{ site.urlimg }}mailchimp-freddie-200x.png" width="200" height="200"></a>
+      <a href="http://magazin.phlow.de/newsletter/"><img class="left" src="{{ site.urlimg }}mailchimp-freddie-200x.png" width="200" height="200" alt="Newsletter"></a>
       <h2 class="shadow-black" style="margin: 10px 0; color: #fff;" >Keine Anleitungen und Tipps verpassen: Newsletter abonnieren.</h2>
       <a class="radius button info shadow-black" href="http://magazin.phlow.de/newsletter/">Den Phlow Magazin Newsletter abonnieren ›</a>
     </div><!-- /.small-12 medium-8.columns -->
