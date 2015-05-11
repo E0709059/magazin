@@ -16,10 +16,10 @@
 
 
 <ul class="side-nav">
-  {% for page in site.[include.collection] %}
-  {% if page.published == false %}
-  {% elsif page.tags contains include.tag and counter < limit %}
-  <li><span><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></span></li>
+  {% for item in site.[include.collection] %}
+  {% if item.published == false %}
+  {% elsif item.tags contains include.tag and counter < limit %}
+  <li{% if item.url == page.url %} class="active"{% endif %}><span><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></span></li>
   {% assign counter=counter | plus:1 %}
   {% endif %}
   {% endfor %}

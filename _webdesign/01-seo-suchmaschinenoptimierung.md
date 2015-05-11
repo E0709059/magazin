@@ -7,23 +7,29 @@ categories:
     - webdesign
 tags:
     - artikel
+    - seo-special
     - suchmaschinenoptimierung
     - seo
 permalink: /suchmaschinenoptimierung/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
+
+<h3 class="m0">Suchmaschinen-Special</h3>
+
+{% include list-collection-by-tag.html collection='webdesign' tag='seo-special' limit='25' %}
+
+</div><!-- /.medium-5.columns -->
+
+
+
+<div class="medium-7 medium-pull-5 columns" markdown="1">
 <div class="panel radius" markdown="1">
 Inhalt
 {: #toc }
 *  TOC
 {:toc}
 </div>
-</div><!-- /.medium-5.columns -->
-
-
-
-<div class="medium-7 medium-pull-5 columns" markdown="1">
 
 Das Wort Suchmaschinenoptimierung klingt kühl, kalt und herzlos. Es klingt, als ob es sich dabei um die Bedienung einer Maschine handelt. Es klingt mechanisch, langweilig und allzu technisch. Aber auch wenn es sich hier erst einmal um Technik dreht, so dreht es sich bei der Suchmaschinenoptimierung um viel mehr: den Geist in
 der Maschine.
