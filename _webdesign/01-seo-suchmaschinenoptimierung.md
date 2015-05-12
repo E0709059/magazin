@@ -2,9 +2,15 @@
 layout: page-fullwidth
 subheadline: "Suchmaschinenoptimierung (SEO)"
 title: "Anleitung für die Suchmaschinenoptimierung"
-teaser: "Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genannt – erklärt verständlich wie Sie Ihre Website für Suchmaschinen optimieren."
+teaser: "Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genannt – erklärt verständlich wie Sie Ihre Website für Suchmaschinen optimieren. Auch wenn <em>Suchmaschinenoptimierung</em> zuerst kühl und herzlos klingt, so ist Suchmaschinenoptimierung vielmehr die Optimierung Ihrer Inhalte für Besucher. Für die Suchmaschinenoptimierung benötigen Sie Empathie. Das Gefühl für die Suchenden und die Begriffe, die diese in die Suchmaske eingeben. Kombinieren Sie diese Empathie mit technischem Know-How, so sind Ihnen gute Platzierungen auf Suchseiten sicher. Dieser mehrteilige Leitfaden hilft Ihnen dabei."
+meta_description: "Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genannt – erklärt verständlich wie Sie Ihre Website für Suchmaschinen optimieren."
 categories:
     - webdesign
+header:
+    image: seo-suchmaschinenoptimierung-shutterstock_231565993.png
+    background-color: "#fbcd03"
+    caption: "»SEO« von Shutterstock"
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=231565993&src=id
 tags:
     - artikel
     - seo-special
@@ -24,15 +30,6 @@ permalink: /suchmaschinenoptimierung/
 
 
 <div class="medium-7 medium-pull-5 columns" markdown="1">
-<div class="panel radius" markdown="1">
-Inhalt
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
-Das Wort Suchmaschinenoptimierung klingt kühl, kalt und herzlos. Es klingt, als ob es sich dabei um die Bedienung einer Maschine handelt. Es klingt mechanisch, langweilig und allzu technisch. Aber auch wenn es sich hier erst einmal um Technik dreht, so dreht es sich bei der Suchmaschinenoptimierung um viel mehr: den Geist in
-der Maschine.
 
 Schließlich sucht ein anderer Mensch Inhalte über die Maschine, und dieser Mensch ist der eigentliche Adressat der Suchmaschinenoptimierung. Suchmaschinenoptimierung bedeutet darum auch – und vielleicht vielmehr – die gekonnte Optimierung von Inhalten, ein psychologisches Gespür für die Suchenden und oft einfach nur besser aufbereitete Texte.
 

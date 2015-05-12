@@ -4,6 +4,11 @@ subheadline: "Suchmaschinenoptimierung (SEO)"
 title: "Artikel für Suchmaschinen optimieren"
 meta_description: "»Suchmaschinenoptimierung Teil 2« zeigt Ihnen, wie Sie Artikel strukturieren und schreiben, damit diese weit nach oben in Google & Co.klettern."
 teaser: "Wer sich mit der Suchmaschinenoptimierung auseinandersetzt, stellt schnell fest, dass sie vor allem auch einen Zugewinn für den Leser bedeutet. Denn die Lesegewohnheiten ändern sich derzeit rasant, und Leser scannen zunehmend Texte, um möglichst schnell ihren Inhalt zu erfassen. Gut strukturierte Texte mit Zwischenüberschriften, fett formatierten Wörtern und einer logischen Anordnung helfen dem Leser bei seiner Informationssuche und -aufnahme."
+header:
+    image: seo-suchmaschinenoptimierung-shutterstock_226628683 Kopie.jpg
+    background-color: "#fbcd03"
+    caption: "»SEO Concepts« von Shutterstock"
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=226628683&src=id
 categories:
     - webdesign
 tags:

@@ -111,6 +111,50 @@
 
 
 
+- name: Theme für Events
+  description: |
+    Mit [Eventbrite Multi Event WordPress Theme][1] realisieren Sie eine Event-Website. Das responsive Theme gibt es auch noch in einer Variante für einzelne Veranstaltungen. Dieses heißt dann konsequenterweise [Eventbrite Single Event][2] schimpft.
+
+    Wenn Sie ein kostenloses Theme für eine Event-Website benötigen, probieren Sie dieses hier einmal aus. Die Idee hinter dem Theme ist die Verknüpfung mit der Ticket-Plattform selbigen namens: [Eventbrite][3].
+
+    [1]: http://theme.wordpress.com/themes/eventbrite-multi/
+    [2]: http://theme.wordpress.com/themes/eventbrite-single/
+    [3]: https://www.eventbrite.com
+  screenshots:
+  - wordpress-theme-event-brite.jpg
+  contra:
+  - Nutzt nur die Eventbrite-Ticket-Plattform
+  pro:
+  - Responsive Webdesign
+  - Integrierter Event Kalender
+  - Event List-Seite
+  download: https://wordpress.org/themes/eventbrite-venue/
+  demo: https://eventbritevenuedemo.wordpress.com/
+  anleitung: https://theme.wordpress.com/themes/eventbrite-venue/
+
+
+
+- name: Revera
+  description: |
+    »Revera« basiert auf [Bootstrap][2] 3, dem CSS Framework von Twitter. Das Theme kommt mit einem großen Slider daher, der den gesamten Browser-Bildschirm einnimmt. Das Theme eignet sich für elegante Blogs als auch als Portofolio-Website.
+
+    Das einzige was mir auf den ersten Blick nicht so gut gefällt, ist das Menü auf kleinen Bildschirmen. Das verwandelt sich in ein Ausklappmenü. Nicht schlecht für die Navigation der Besucher, aber keine edel wirkendes Webdesign.
+
+    [2]: http://getbootstrap.com/
+    [3]: http://demo.fabthemes.com/revera/
+  screenshots:
+  - wordpress-theme-revera.jpg
+  contra:
+  - Für kommerzielle Zwecke ist eine Lizenz erforderlich
+  pro:
+  - Responsive Webdesign
+  - Individuelle Startseite
+  download: http://www.fabthemes.com/revera/
+  demo: http://demo.fabthemes.com/revera/
+
+
+
+
 - name: Leaf Theme
   description: |
     Das Leaf-Theme nutzt z.B. das großartige deutsche Reggae-Blog [House Of Reggae](http://www.houseofreggae.de).

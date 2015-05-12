@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Jekyll-Befehle: Aktualisieren, Hilfe aufrufen, Importieren..."
+title: "Jekyll-Befehle: Aktualisieren, Hilfe aufrufen, Importieren..."
 teaser: "Dieses Tutorial erklärt die wichtigsten Jekyll-Befehle für die Konsole, um z.B. Jekyll zu aktualisieren, oder ein Blog zu importieren."
 header:
     image: logo-jekyll.png
@@ -24,17 +24,3 @@ Aktualisiert wird Jekyll dann mit.
 <div class="alert-box radius terminal" markdown="1">
 $ sudo gem update jekyll
 </div>
-
-
-
-
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
