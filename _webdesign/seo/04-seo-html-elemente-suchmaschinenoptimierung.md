@@ -97,7 +97,7 @@ Vermeiden Sie Übertreibungen – das sogenannte Keyword-Stuffing.Dieses werten 
 
 `http://www.domain.de/biografie/biografie/biografie-journalistmustermann.html`
 
-{% include alert terminal='WordPress eignet sich hervorragend für die Suchmaschinenoptimierung. Die Struktur der Permalinks beeinflussen Sie im Backend in den Einstellungen unter Permalinks.' %}
+{% include alert info='WordPress eignet sich hervorragend für die Suchmaschinenoptimierung. Die Struktur der Permalinks beeinflussen Sie im Backend in den Einstellungen unter Permalinks.' %}
 
 Merken Sie sich auch die folgenden Richtlinien zum URLDesign:
 
@@ -105,64 +105,8 @@ Merken Sie sich auch die folgenden Richtlinien zum URLDesign:
 * Überschreiten Sie nicht eine Verzeichnistiefe von mehr als drei Unterverzeichnissen. Je weiter unten ein Dokument in der Baumstruktur angeordnet ist, desto weniger Bedeutung wird ihm beigemessen.
 * Vermeiden Sie PHP-Parameterangaben in der URL, denn Zeichen wie »?« oder »&« verschlechtern das Ergebnis, weil Google diese Dokumente als dynamisch einstuft. Das bedeutet: je statischer eine Webseite, desto besser.
 
-
-## Aufbau und Struktur einer suchmaschinenoptimierten Webseite
-
-Im Folgenden erläutere ich Ihnen weitere wichtige HTML-Tags für den Aufbau eines Dokumentes. Diese Liste von Tags stammt aus einer Umfrage unter SEO-Experten, die Sie bei [Search Engine Ranking Factors][6] finden.
-
-**Jede Webseite braucht eine Überschrift per `<h1>`-Tag:** Neben der Überschrift im `<title>`-Tag muss die Webseite auch eine Überschrift im `<body>`-Bereich der Webseite haben. Zuständig dafür ist das `<h1>`- Tag. Für das `<h1>`-Tag gelten die gleichen Regeln wie für das `<title>`-Tag: Je weiter vorne sich wichtige Keywords befinden, desto besser werden sie bewertet. Empfehlenswert ist es, sowohl im `<title>` als auch in der `<h1>` die gleiche Überschrift zu nutzen.
-
-**`<h2>`- und `<h3>`-Tags:** Längere Artikel strukturiert man mithilfe von Zwischenüberschriften. Zwischenüberschriften helfen dem Leser beim Scannen des Texts und dienen als Orientierungspunkt beim Scrollen. Texte, die länger als 1.000 Zeichen lang sind, sollten Sie deswegen nicht nur aus SEO-Gründen mit Zwischenüberschriften versehen. Auch hier platzieren Sie die gewünschten Schlagwörter, diesmal vielleicht im Plural, wenn bereits weiter vorne der Begriff im Singular verwendet wurde. Mal vorne, mal hinten. Wie bei den URLs gilt: Finger weg vom Keyword-Stuffing! Und vergraulen Sie nicht Ihre Leser.
-
-**Keyword Use in Alt-Tags und Bildtiteln benutzen:** Noch können Suchmaschinen Bilder nicht analysieren und feststellen, was auf einem Bild zu sehen ist. Vielleicht ist auch dies eines Tages möglich, aber bis dahin dauert es sicherlich noch ein wenig. Darum lesen Suchmaschinen wie auch Browser für Blinde den Namen und die Bezeichnung des Bilds aus. Sie sehen, hier ist die Suchmaschinenoptimierung nicht nur Suchmaschinenmarketing, sondern verbessert Ihre Webseite auch direkt für den Besucher der Site. Obendrein zeigt ein Browser bei einem verloren gegangenen Bild eine Beschreibung an. Geben Sie darum Ihren Bildern aussagekräftige Namen, in denen die Keywords ein weiteres Mal auftauchen, und betiteln Sie Ihre Bilder mithilfe des alt- und title-Attributs. Optimal sieht das dann so aus:
-
-{% highlight html %}
-<img src="twitter-robot-automaton.jpg" alt="twitter-robot-automaton"
-title="twitter-robot-automaton" height="276" width="597"/>
-{% endhighlight %}
-
-**`<em>` und `<strong>`-Schlagworte fett und kursiv schreiben:** Ein weiteres
-hilfreiches Stilmittel, um Texte zu gestalten, die schnell erfassbar sind, ist die Methode fette Schrift zu nutzen. Exzellent nutzt zum Beispiel das englischsprachige Smashing Magazine – *sowieso eine tolle Adresse für Webdesigntipps* – diese Textauszeichnung – unter anderem in diesem Artikel: [»Getting Started With Content Management Systems«][7].
-
-Wie Sie sehen, lesen Sie schon anhand der URL, worum es sich in diesem Artikel handelt.
-
-
-
-## Links richtig setzen
-
-Findet der Webcrawler einen Link auf einer Webseite, ist der Suchmaschine in der Regel erst einmal nicht klar, worum es sich bei der verlinkten Webseite handelt. Außerdem weiß die Suchmaschine nicht, ob es sich um eine Linkempfehlung handelt. Darum analysiert die Suchmaschine den Text des Links und die Linkattribute. Anschließend vergleicht die Maschine die verlinkte Webseite mit dem Linktext. Ein Beispiel:
-
-Wenn man eine externe oder interne Webseite verlinkt, vermeidet man am besten aussagelose Begriffe wie »hier«, »weiterlesen« oder »mehr«. Verlinkt man zum Beispiel einen Interview-Podcast, sollte mindestens einer der beiden Begriffe im Linktext auftauchen. Findet die Suchmaschine im nächsten Schritt auch noch die gleichen Wörter auf der jeweiligen Webseite, wird diese mit hoher Wahrscheinlichkeit zu diesen beiden Keywords indexiert.
-
-Das bedeutet, dass es wichtiger für Ihre Webseite ist, wenn sie jemand mit guten Keywords im Linktext verlinkt als z.B. mit unbedeutenden Wörtern oder Eigennamen.
-
-Werden Bilder als Links benutzt – z.B. in einer Navigation –, nutzt man das Universalattribut `title="Keywords"` sowohl im Link-Tag als auch im `<img>`-Tag. Das sieht dann so aus:
-
-{% highlight html %}
-<a title="Kunden und Netzwerk" href="http://link.de/kunden.html">
-<img src="navigation_kunden_netzwerk.gif" alt="Kunden und Netzwerk"
-title="Kunden und Netzwerk" /></a>
-{% endhighlight %}
-
-Aber auch auf Ihrer eigenen Website hilft eine gute interne Verlinkung den Suchmaschinen und erleichtert diesen, Ihre Webseite thematisch einzuordnen. Wächst der Umfang Ihrer Website, unterstützt die Ausgestaltung einer internen Verlinkung das Ranking in den Suchmaschinen.
-
-Ein weiterer wichtiger Faktor für die Anerkennung einer Website sind korrekte Links. Prüfen Sie Ihre Seite darum regelmäßig auf defekte Links. Sowohl Besucher als auch Suchmaschinen-Crawler werden Ihrer Seite schnell den Rücken kehren, wenn die Anzahl defekter Links überhandnimmt.
-
-{% include alert info='Für WordPress empfehle ich Ihnen das <a href="http://magazin.phlow.de/wordpress/plugins/#kaputte-links-finden-reparieren-und-lschen">Plug-in Broken Link Checker</a>. Dieses untersucht automatisch Ihre Links in Artikeln auf Aktualität.' %}
-
-Vermeiden Sie es auch, Links mithilfe von JavaScript zu setzen. Diese Links entdecken Suchmaschinen womöglich nicht oder bewerten sie geringer. Links in Flash kann eine Suchmaschine überhaupt nicht erkennen und weiterverfolgen.
-
-
-### Die Linkattribute nofollow und follow
-
-Wie aber verlinke ich eine Webseite, die thematisch für meinen Beitrag wichtig ist, deren Inhalte ich aber nicht in den Suchmaschinen »promoten« möchte? Stellen Sie sich vor, Sie schreiben einen Artikel über Rechtsextremismus. In diesem Artikel möchten Sie eine Webseite von Nazis verlinken, jedoch nicht deren Sichtbarkeit in Suchmaschinen unterstützen.
-
-Für diese Art von Links haben sich die Suchmaschinenbetreiber die beiden Linkattribute `nofollow` und `follow` ausgedacht. Während `follow` eigentlich  obsolet ist, weil man mit einem normalen Link eine Empfehlung ausspricht, so spricht man **mit `nofollow` explizit keine Empfehlung** aus.
-
-{% highlight html %}
-<a href="http://bloeder-nazi.de" rel=“nofollow“>Nazi-Seite</a>
-{% endhighlight %}
-
+[Teil 5: Aufbau und Struktur einer suchmaschinenoptimierten Webseite ›]({{ site.url }}/struktur-suchmaschinenoptimierte-website/)
+{: .button.radius }
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
