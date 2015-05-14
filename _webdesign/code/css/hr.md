@@ -3,7 +3,6 @@ layout: page
 subheadline: "CSS Code Snippets"
 title: "&lt;hr&gt; – Horizontale Linien und Trenner"
 teaser: ""
-breadcrumb: true
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
@@ -17,6 +16,7 @@ categories:
 tags:
     - css
     - code
+breadcrumb: true
 ---
 
 {% highlight css %}

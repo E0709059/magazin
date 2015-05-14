@@ -2,7 +2,7 @@
 layout: page
 subheadline: "CSS Code Snippets"
 title: "CSS-Schatten für Texte"
-teaser: ""
+teaser: "Diese Anleitung erklärt das CSS-Element <code>text-shadow</code> vor und zeigt nützliche und außergewöhnliche Beispiele."
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
@@ -16,7 +16,29 @@ categories:
 tags:
     - css
     - code
+breadcrumb: true
 ---
+## Aufbau von text-shadow
+
+{% highlight css %}
+div { text-shadow: 3px 3px 4px #777 }
+      ^            ^   ^   ^   ^  
+      |            |   |   |   |  
+      |            |   |   |   |
+      |            |   |   |   +- Schattenfarbe
+      |            |   |   |
+      |            |   |   +- Verlaufs-Radius des Schattens
+      |            |   |
+      |            |   +- Vertikaler Versatz
+      |            |
+      |            +- Horizontaler Versatz
+      | 
+      +- CSS3-Eigenschaft text-shadow 
+{% endhighlight %}
+
+
+## Beispiele
+
 <p style="text-shadow: 0 2px 3px rgba(0,0,0,.4);">Black Shadow</p>
 {% highlight css %}
 .shadow-black-2   {text-shadow: 0 2px 3px rgba(0,0,0,.4); }

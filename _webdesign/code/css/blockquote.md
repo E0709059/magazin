@@ -1,9 +1,8 @@
 ---
-published: false
 layout: page
 subheadline: "CSS Code Snippets"
 title: "Blockquote mit CSS Pseudoklassen gestalten"
-teaser: ""
+teaser: "Mit dem HTML-Befehl <code>&lt;blockquote&gt;</code> hebt man Zitate hervor und setzt diese meist als Block im Fließtext ein."
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
@@ -17,8 +16,9 @@ categories:
 tags:
     - css
     - code
+breadcrumb: true
 ---
-Den HTML-Befehl `<blockquote>` nutzt man in der Regel, um in einem Block ein Zitat im Fließtext unterzubringen. Es gibt elegante Möglichkeiten `<blockquote>` mit CSS und seinen Pseudoklassen zu gestalten, um dem ganzen einen typografischen »Kick« zu geben. So zum Beispiel.
+Es gibt elegante Möglichkeiten `<blockquote>` mit CSS und seinen Pseudoklassen zu gestalten, um dem ganzen einen typografischen »Kick« zu geben. So zum Beispiel.
 
 > Ich bin für die Todesstrafe. Wer schreckliche Dinge getan hat, muss eine angemessene Strafe bekommen. So lernt er seine Lektion für das nächste Mal. <cite>Britney Spears</cite>
 
