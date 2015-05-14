@@ -5,10 +5,15 @@
   class: "services-contact"
   title: "Contact"
 
-- name: "RSS"
+- name: "Artikel RSS"
   url: "/feed.xml"
   class: "rss-link"
   title: "RSS abonnieren"
+
+- name: "Blog RSS"
+  url: "http://blog.phlow.de/rss"
+  class: "rss-link"
+  title: "RSS Feed vom Phlow Magazin Blog abonnieren"
 
 - name: "Newsletter"
   url: "/newsletter/"

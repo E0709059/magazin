@@ -42,13 +42,13 @@
   side: left
 
 - title: Blog
-  url: "/blog/"
+  url: "http://blog.phlow.de/"
   side: left
   dropdown:
   - title: Blog
-    url: "/blog/"
+    url: "http://blog.phlow.de/"
   - title: "Blog Archiv"
-    url: "/blog/archiv/"
+    url: "http://blog.phlow.de/archive"
 
 - title: "Suche"
   url: "/suche/"
