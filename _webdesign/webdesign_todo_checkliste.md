@@ -15,6 +15,7 @@ categories:
     - webdesign
 tags:
     - artikel
+    - checkliste
 permalink: /webdesign/checkliste/
 ---
 

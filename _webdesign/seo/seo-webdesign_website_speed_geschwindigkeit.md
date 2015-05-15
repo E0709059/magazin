@@ -4,6 +4,8 @@ layout: page
 subheadline: Webdesign Speed
 title: "Geschwindigkeit der Website testen"
 teaser: "Optimierung von Websites: Online-Services und Beiträge, um die eigenen Website auf Geschwindigkeit zu testen."
+image:
+    thumb: seo-thumb.jpg
 tags:
     - webdesign
 permalink: /webdesign/website-geschwindigkeitspeed/

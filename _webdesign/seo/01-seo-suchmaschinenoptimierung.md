@@ -6,6 +6,8 @@ teaser: "Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genann
 meta_description: "Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genannt – erklärt verständlich wie Sie Ihre Website für Suchmaschinen optimieren."
 categories:
     - webdesign
+image:
+    thumb: seo-thumb.jpg
 header:
     image: seo-suchmaschinenoptimierung-shutterstock_231565993.png
     background-color: "#fbcd03"

@@ -4,6 +4,8 @@ subheadline: "Suchmaschinenoptimierung (SEO)"
 title: "Die wichtigsten HTML-Befehle für die Suchmaschinenoptimierung"
 meta_description: "»Suchmaschinenoptimierung Teil 3« zeigt Ihnen, wie Sie optimale Keywords (Suchworte, Schlagwörter) für Ihre Artikel recerchieren, aussuchen und nutzen."
 teaser: "Generell gilt: Je spezieller die Inhalte, desto größer ist die Wahrschein&shy;lichkeit, eine gute Platzierung in den Suchmaschinen zu erreichen. Das sogenannte »Ranking« beeinflussen Sie maßgeblich, indem Sie Ihr Material sinnvoll aufarbeiten. Denn ein Dokument wird nur dann Teil eines Suchergebnisses, wenn es das gesuchte Wort als Begriff enthält.Darum gehört zu den wichtigsten Aufgaben die Wahl der geeigneten Schlüsselwörter."
+image:
+    thumb: seo-thumb.jpg
 header:
     image: seo-suchmaschinenoptimierung-shutterstock_227734471.png
     background-color: "#56b8d1"

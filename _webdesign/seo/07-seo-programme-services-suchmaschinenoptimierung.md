@@ -3,6 +3,8 @@ layout: page-fullwidth
 subheadline: "Suchmaschinenoptimierung (SEO)"
 title: "Programme und Services für die Suchmaschinen&shy;optimierung"
 teaser: "Zahlreiche Services und Programme buhlen um die Aufmerksamkeit der Suchmaschinenoptimierer im Netz. Es gibt sowohl Desktopprogramme als auch hilfreiche Onlineservices. Nicht alle sind kostenlos. Im Folgenden stelle ich Ihnen eine hilfreiche Auswahl kostenloser Programme und Services für die Suchmaschinenoptimierung vor."
+image:
+    thumb: seo-thumb.jpg
 header:
     image: seo-suchmaschinenoptimierung-shutterstock_227734471.png
     background-color: "#56b8d1"

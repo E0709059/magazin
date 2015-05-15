@@ -3,6 +3,8 @@ layout: page-fullwidth
 subheadline: "Suchmaschinenoptimierung (SEO)"
 title: "Aufbau und Struktur einer suchmaschinenoptimierten Webseite"
 teaser: "Im Folgenden erläutere ich Ihnen weitere wichtige HTML-Tags für den Aufbau eines Dokumentes. Diese Liste von Tags stammt aus einer Umfrage unter SEO-Experten, die Sie bei <a href='https://moz.com/search-ranking-factors'>Search Engine Ranking Factors</a> finden."
+image:
+    thumb: seo-thumb.jpg
 header:
     image: seo-suchmaschinenoptimierung-shutterstock_227734471.png
     background-color: "#56b8d1"
