@@ -3,13 +3,19 @@ layout: page-fullwidth
 subheadline: 
 title: Social Media
 teaser: "Unsere Social Media-Specials vermitteln Ihnen einen schnellen Eindruck über die jeweiligen sozialen Netzwerke. Neben einer Einführung bieten wir Statistiken und hilfreiche Werkzeuge für soziale Netzwerke."
-meta_description:
-permalink: /social-media/
-show_meta: false
+header:
+    image_fullwidth: "header-social-media.jpg"
+    caption: Foto von Death To The Stock Photography
+    caption_url: "http://deathtothestockphoto.com/"
 categories:
     - social media
 tags:
-    - 
+    - twitter
+    - facebook
+    - soundcloud
+    - youtube
+permalink: /social-media/
+show_meta: false
 ---
 <div class="row">
 <div class="small-6 columns" markdown="1">
