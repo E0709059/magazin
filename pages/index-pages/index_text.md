@@ -4,7 +4,9 @@ title: "Texte Schreiben für das Internet"
 teaser: Worauf kommt es beim Texten an? Wie schreibe ich eine Nachricht und wie ein Interview? Wie formuliere ich meine Texte für soziale Medien? Welche Werkzeuge und Software bringen mich weiter? Unsere Anleitungen, Videos und Tipps unterstützen Sie beim digitalen Publizieren.
 permalink: /text/
 header:
-    image_fullwidth: header_typewriter.jpg
+    image_fullwidth: "schreibmaschine_flat_shutterstock_188293811.png"
+    caption: "»Schreibmaschine« von Shutterstock"
+    caption_url: "http://www.shutterstock.com/pic.mhtml?id=225068266&src=id"
 collection: text
 ---
 <div class="row">

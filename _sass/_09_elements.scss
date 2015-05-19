@@ -137,6 +137,9 @@ button, .button         { letter-spacing: 1px; }
 /* Meta
 ------------------------------------------------------------------- */
 
+.meta-info {
+  font-family: $font-family-sans-serif;
+}
 .meta-info p {
   font-size: rem-calc(13);
   color: scale-color($grey-1, $lightness: 40%);
