@@ -3,7 +3,7 @@ published: false
 layout: page
 subheadline: Webdesign Speed
 title: "Geschwindigkeit der Website testen"
-teaser: "Optimierung von Websites: Online-Services und Beiträge, um die eigenen Website auf Geschwindigkeit zu testen."
+teaser: "Die Geschwindigkeit einer Website misst Google besondere Bedeutung zu. Denn eine schnelle Website bedeutet auch Benutzerfreundlichkeit. Optimierung von Websites: Online-Services und Beiträge, um die eigenen Website auf Geschwindigkeit zu testen."
 image:
     thumb: seo-thumb.jpg
 tags:
