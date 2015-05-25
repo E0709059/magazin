@@ -73,13 +73,13 @@ Vor allem portraitiert er Menschen, die er in New York auf der Straße trifft. N
 
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
-### Wunderschöne Fotos von 
+### Profifotografie von Reuters und CNN
 
 [![]({{ site.urlimg }}instagram-reuters-600x.jpg)][6]
 
-[![]({{ site.urlimg }}instagram-cnn-600x.jpg)][7]
-
 Sowohl die [Nachrichtenagentur Reuters][6] als auch [CNN][7] pflegen ein Instagram-Profil. Während Reuters ausgewählte und hochwertige Fotos veröffentlicht, die jedes für sich eine Geschichte erzählt, experimentiert CNN auch mit Kurzvideos. Beide Nachrichtenlieferanten nutzen das Beschreibungsfeld, um die Fotos mit Nachrichtenmaterial weiter aufzuwerten.
+
+[![]({{ site.urlimg }}instagram-cnn-600x.jpg)][7]
 
 
 
@@ -122,7 +122,7 @@ Sowohl die [Nachrichtenagentur Reuters][6] als auch [CNN][7] pflegen ein Instagr
 </div><!-- /.row -->
 <div class="row">
 <div class="medium-6 columns" markdown="1">
-## Fotocollagen erstellen
+### Fotocollagen erstellen
 
 [![]({{ site.urlimg }}instagram-app-pic-stitch.jpg)][3]
 
@@ -132,7 +132,7 @@ Mit der kostenlosen und werbefinanzierten Software Pic Stitch können Sie auf ei
 * [Pic Stitch für Windows][4]
 
 
-### Weitere Apps
+#### Weitere Apps
 
 - Bildbearbeitungssoftware [VSCO Cam][12]
 - [Layout from Instagram][14]
@@ -140,7 +140,7 @@ Mit der kostenlosen und werbefinanzierten Software Pic Stitch können Sie auf ei
 
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
-## Seitenverhältnisse beibehalten
+### Seitenverhältnisse beibehalten
 
 [![]({{ site.urlimg }}instagram-app-squareready.jpg)][5]
 

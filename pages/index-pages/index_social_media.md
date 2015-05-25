@@ -23,7 +23,7 @@ show_meta: false
 ## Social Media Specials
 
 <ul class="side-nav">
-{% for page in site.pages reversed %}
+{% for page in site.pages %}
 {% if page.tags contains 'social media' && 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
 {% endfor %}
 <li>&nbsp;</li>

@@ -15,4 +15,5 @@ image:
     homepage:
     caption:
     caption_url:
+style: "#masthead-with-background-color > div > figure { text-align: center };"
 ---
