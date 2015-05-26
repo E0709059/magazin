@@ -3,13 +3,14 @@ layout: page
 subheadline: Interview
 title: "Stefan Schmidt: Wie wichtig sind Blogs für die Gesellschaft?"
 teaser: 'Das ist eins von vier Interviews, dass der Frage nachgeht: Wie wichtig sind Blogs für die Gesellschaft?'
-permalink: "/interview/stefan-schmidt-blogs-und-gesellschaft/"
+categories:
+    - interview
 tags:
     - journalist
     - interview
     - bloggers
     - gesellschaft
-date: 2011-12-08
+permalink: "/interview/stefan-schmidt-blogs-und-gesellschaft/"
 ---
 Befragt wurden die vier Blogger <a href="{{ site.url }}/interview/marcel-weiss-blogs-und-gesellschaft">Marcel Weiß</a>, <a href="{{ site.url }}/interview/marcus-boesch-blogs-und-gesellschaft">Marcus Bösch</a>, <a href="{{ site.url }}/interview/stefan-schmidt-blogs-und-gesellschaft">Stefan Schmidt</a> und <a href="{{ site.url }}/interview/martin-wisniowski-blogs-und-gesellschaft">Martin Wisniowski</a>
 

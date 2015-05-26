@@ -221,9 +221,6 @@ collections:
   video:
     output: true
     permalink: /:path/
-  interview:
-    output: true
-    permalink: /:path/
   video:
     output: true
     permalink: /:path/
