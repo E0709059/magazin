@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
-title: "Check via URL which content to show"
+title: "Dieses Code-Schnipsel filtert den Inhalt mittels eine IF-Abfrage, in welcher die URL abgefragt und mit einer Variable überprüft wird."
 teaser: ""
 header:
     image: code_shutterstock_225068266.png
@@ -20,7 +20,7 @@ tags:
     - rezept
     - code
 ---
-If you want to check against an exact URL use `==`.
+Wenn Sie Inhalte anhand einer exakten URL überprüfen wollen, dann nutzen Sie in der IF-Abfarge `==`.
 
 {% highlight ruby %}
 {% raw %}{% if page.url == "/ticket.html" %}{% endraw %}
@@ -28,7 +28,7 @@ If you want to check against an exact URL use `==`.
 {% raw %}{% endif %}{% endraw %}
 {% endhighlight %}
 
-If you don’t want to use an exact URL choose `contains` instead.
+Wenn Sie nicht die exakte URL abfragen wollen, sondern nur einen Teil der URL überprüfen wollen, nutzen Sie `contains`.
 
 {% highlight ruby %}
 {% raw %}{% if page.url contains "ticket.html" %}{% endraw %}

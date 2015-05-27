@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 subheadline: "Jekyll Code Schnipsel"
-title: "Loop through collection"
-teaser: ""
+title: "For-Loop: Inhalte einer collection auflisten"
+teaser: "Diese For-Loop listet die Inhalte einer collection auf – hier <em>music</em> – und greift auf die Informationen im front matter-Bereich zu."
 header:
     image: code_shutterstock_225068266.png
     background-color: "#900055"
