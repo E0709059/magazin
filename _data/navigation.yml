@@ -44,11 +44,10 @@
 - title: Blog
   url: "http://blog.phlow.de/"
   side: left
-  dropdown:
-  - title: Blog
-    url: "http://blog.phlow.de/"
-  - title: "Blog Archiv"
-    url: "http://blog.phlow.de/archive"
+
+- title: Feature
+  url: "/feature/"
+  side: left
 
 - title: "Suche"
   url: "/suche/"

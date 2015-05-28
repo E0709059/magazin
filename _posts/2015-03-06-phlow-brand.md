@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline: "#3 Aufbau Phlow Magazin"
-title: "Corporate Identity und Brand"
+subheadline: "Corporate Identity"
+title: "Der Phlow Magazin Brand"
 teaser: "In meinen Seminaren empfehle ich zum Start eines Projektes immer, dass man zuerst einmal den eigenen Brand herausarbeitet, um anschließend eine Corporate Identity zu erstellen. Auch das Phlow Magazin hat einen Brand."
 categories: blog
 ---
