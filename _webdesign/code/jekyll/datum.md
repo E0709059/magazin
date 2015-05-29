@@ -18,6 +18,11 @@ tags:
     - liquid
     - rezept
     - code
+#
+# Das Datum muss unbedingt drinbleiben, damit die Code
+# Beispiele funktionieren
+#
+date: 2008-11-07T13:07:54-08:00
 ---
 {% highlight html %}
 {% raw %}{{ page.date | date: "%d.%m.%Y" }}{% endraw %}
@@ -31,18 +36,15 @@ Beispiel: Dieser Beitrag wurde am `{{ page.date | date: "%d.%m.%Y" }}` erstellt.
 
 ### Datum nach dem XML Schema 
 
-{% highlight html %}
-{% raw %}{{ page.date | date_to_xmlschema }}{% endraw %}
-{% endhighlight %}
+{% highlight html %}{% raw %}{{ page.date | date_to_xmlschema }}{% endraw %}{% endhighlight %}
+
 
 Beispiel: `{{ page.date | date_to_xmlschema }}`
 
 
 ### Datum nach dem RFC-822 Format
 
-{% highlight html %}
-{% raw %}{{ page.date | date_to_rfc822 }}{% endraw %}
-{% endhighlight %}
+{% highlight html %}{% raw %}{{ page.date | date_to_rfc822 }}{% endraw %}{% endhighlight %}
 
 Beispiel: `{{ page.date | date_to_rfc822 }}`
 
