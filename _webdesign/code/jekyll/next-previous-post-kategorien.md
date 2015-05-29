@@ -18,9 +18,7 @@ tags:
     - liquid
     - rezept
     - code
-
 ---
-
 Den Kategoriennamen eines Beitrages gibt man mit `{% raw %}{{ post.categories }}{% endraw %}` aus. Da ein Beitrag auch in mehreren Kategorien einsortiert werden kann, schnappt sich im unteren Beispiel der Parameter `first` lediglich die erste Kategorie. Anschließend verwandelt der zweite Parameter `capitalize` den Kategoriennamen so um, dass der erste Buchstabe der Kategorie großgeschrieben wird. Der Befehl sieht dann so aus: `{% raw %}{{ post.categories | first | capitalize }}{% endraw %}`
 
 

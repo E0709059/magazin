@@ -92,6 +92,7 @@ Inhalt
 * [Code-Schnipsel: »Jekyll includes tip: contains«](http://wolfslittlestore.be/2013/10/jekyll-includes-tip-contains/)
 * [»Rendering markdown includes in Jekyll«](http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/)
 * [Dirty Tricks: Building an Article Series List With Jekyll](http://realjenius.com/2012/11/03/jekyll-series-list/)
+* [Generate a dynamic archive page using Jekyll, Liquid and a bit of CSS](http://schoewilliam.fr/2015/02/10/jekyll-pro-tip-awesome-archive-page.html)
 
 
 ### eBooks mit Jekyll erstellen

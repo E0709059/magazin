@@ -20,8 +20,6 @@ tags:
     - rezept
     - code
 ---
-
-
 {% raw %}
 ~~~
 {% for album in site.music limit:3 %}

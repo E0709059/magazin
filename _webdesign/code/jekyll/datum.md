@@ -18,7 +18,6 @@ tags:
     - liquid
     - rezept
     - code
-date: 2008-11-07T13:07:54-08:00
 ---
 {% highlight html %}
 {% raw %}{{ page.date | date: "%d.%m.%Y" }}{% endraw %}
@@ -29,7 +28,6 @@ Beispiel: Dieser Beitrag wurde am `{{ page.date | date: "%d.%m.%Y" }}` erstellt.
 
 
 ## Weitere Datumsausgabe für RSS, XML und so...
-
 
 ### Datum nach dem XML Schema 
 
@@ -47,3 +45,9 @@ Beispiel: `{{ page.date | date_to_xmlschema }}`
 {% endhighlight %}
 
 Beispiel: `{{ page.date | date_to_rfc822 }}`
+
+
+
+## Super-Tutorial zum Thema Datum formatieren
+
+Zahlreiche weitere Möglichkeiten das Datum zu formatieren, erklärt der ausführliche Artikel [»Jekyll Date Formatting Examples«](http://alanwsmith.com/jekyll-liquid-date-formatting-examples).
