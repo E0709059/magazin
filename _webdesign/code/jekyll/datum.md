@@ -32,9 +32,7 @@ Beispiel: Dieser Beitrag wurde am `{{ page.date | date: "%d.%m.%Y" }}` erstellt.
 
 
 
-## Weitere Datumsausgabe für RSS, XML und so...
-
-### Datum nach dem XML Schema 
+## Datum nach dem XML Schema 
 
 {% highlight html %}{% raw %}{{ page.date | date_to_xmlschema }}{% endraw %}{% endhighlight %}
 
@@ -42,7 +40,8 @@ Beispiel: Dieser Beitrag wurde am `{{ page.date | date: "%d.%m.%Y" }}` erstellt.
 Beispiel: `{{ page.date | date_to_xmlschema }}`
 
 
-### Datum nach dem RFC-822 Format
+
+## Datum nach dem RFC-822 Format
 
 {% highlight html %}{% raw %}{{ page.date | date_to_rfc822 }}{% endraw %}{% endhighlight %}
 
@@ -50,6 +49,4 @@ Beispiel: `{{ page.date | date_to_rfc822 }}`
 
 
 
-## Super-Tutorial zum Thema Datum formatieren
-
-Zahlreiche weitere Möglichkeiten das Datum zu formatieren, erklärt der ausführliche Artikel [»Jekyll Date Formatting Examples«](http://alanwsmith.com/jekyll-liquid-date-formatting-examples).
+Wenn Sie noch mehr über die Formatierung des Datums und auch die Möglichkeiten für eine deutsche Anpassung erfahren möchten, dann hilft ihnen der Artikel [»Jekyll Date Formatting Examples«](http://alanwsmith.com/jekyll-liquid-date-formatting-examples) weiter. Der Artikel deckt alle erdenklichen Möglichkeiten ab, das Datum ihren Wünschen entsprechend zu formatieren.
