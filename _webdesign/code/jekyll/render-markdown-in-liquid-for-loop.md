@@ -21,7 +21,7 @@ tags:
     - code
 ---
 
-## YAML
+## YAML Front Matter
 
 {% highlight ruby %}
 additional_sidebar:
