@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Erfolgreich Suchen & Finden"
 title: "Recherche: Anleitungen, hilfreiche Suchmaschinen und Websites für die Recherche"
 teaser: "Welche Suchmaschinen gibt es und wie nutze ich Sie erfolgreich? Wie filtere ich Suchanfragen bereits mit der Suchmaschine? Anleitungen, Tipps und Tricks für die erfolgreiche Suche."
-permalink: /recherche/
 header:
     image: suche-shutterstock_248813896.jpg
     background-color: "#589022"
@@ -13,6 +12,7 @@ tags:
     - trends
     - recherche
     - suchen
+permalink: /recherche/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

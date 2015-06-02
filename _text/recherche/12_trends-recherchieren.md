@@ -2,12 +2,12 @@
 layout: page
 title: Trend-Recherche mit Online-Services
 teaser: "Im Netz offerieren zahlreiche Services die Recherche nach Trends. Diese Werkzeuge helfen Trends zu recherchieren und zu beobachten."
-permalink: /journalismus/trends-recherchieren/
 header: no
 tags:
     - trends
     - recherche
     - suchen
+permalink: /journalismus/trends-recherchieren/
 ---
 ## Google Trends
 

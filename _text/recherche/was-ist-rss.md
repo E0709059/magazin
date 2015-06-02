@@ -3,7 +3,6 @@ layout: page
 subheadline: "RSS für die Recherche nutzen"
 title: "Was ist RSS? Und wozu nutzt man es?"
 teaser: "RSS ist für Journalisten, Blogger und News-Junkies das perfekte Nachrichtenformat. Denn mit Hilfe von RSS arbeiten sie effizienter, verfügen Sie über einen schnellen Nachrichtenüberblick in Echtzeit, und informieren Sie sich perfekt und übersichtlich über das News-Geschehen."
-permalink: /was-ist-rss/
 header: no
 image:
     thumb: icon/icon-newspaper-feed-128x.png
@@ -13,6 +12,7 @@ tags:
     - suchen
     - rss
     - feed
+permalink: /was-ist-rss/
 ---
 RSS ist ein strukturiertes Mikroformat für das Speichern von Inhalten nach einem exakten Schema/Protokoll. **Mit RSS kommen die Nachrichten zu Ihnen.** Denn auf zahlreichen Webseiten können Sie RSS-Feeds abonnieren, um diese über Programme oder Online-Services – die News-Aggregatoren – zu lesen. Wie das z.B. mit dem kostenlosen Online-Service Netvibes.com funktioniert, lernen Sie in unserer [Video-Anleitung »RSS Abonnieren«]({{ site.url }}/video/rss/).
 
