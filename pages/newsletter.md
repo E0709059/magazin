@@ -12,18 +12,15 @@ tags:
     - newsletter
 show_meta: false
 ---
-
-
 <div id="mc_embed_signup">
 <form action="//phlow.us2.list-manage.com/subscribe/post?u=acb99fb0411d067a7c7ccdb61&amp;id=81e932aa5d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
     <h3 class="b15">Abonnieren Sie den Phlow Magazin Newsletter</h3>
 
 <div class="mc-field-group">
-   
     <input type="email" value="Ihre Email Addresse" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<p><a href="{{ site.url }}/newsletter-archiv/" title="Voherige Newsletter anschauen">Newsletter Archiv</a></p>
+
     <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>
@@ -54,4 +51,8 @@ $.extend($.validator.messages, {
     creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<h2>Phlow Magazin Newsletter-Archiv</h2>
+
+<script language="javascript" src="http://us2.campaign-archive1.com/generate-js/?u=acb99fb0411d067a7c7ccdb61&fid=28173&show=10" type="text/javascript"></script>
 
