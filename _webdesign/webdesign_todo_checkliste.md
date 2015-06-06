@@ -104,7 +104,7 @@ permalink: /webdesign/checkliste/
 
 - [ ] Email-Adressen angelegt
 - [ ] Suchmaschinenoptimierung
-- [ ] Links überprüfen ([WordPress Broken Link Checker][2])
+- [ ] Links überprüfen ([www.brokenlinkcheck.com][3] oder [WordPress Broken Link Checker][2])
 - [ ] Inhalte überprüfen (Rechtschreibung und Grammatik)
 - [ ] HTML-Code validieren
 - [ ] Webdesign ohne Bilder checken
@@ -123,7 +123,7 @@ permalink: /webdesign/checkliste/
 
  [1]: {{ site.url }}/video/imageoptim/
  [2]: {{ site.url }}/wordpress/plugins/#kaputte-links-finden-reparieren-und-lschen
- [3]: #
+ [3]: http://www.brokenlinkcheck.com/
  [4]: #
  [5]: #
  [6]: #
