@@ -76,9 +76,8 @@ class="color: #fff" style="background: #0f0;"
 ### Weiterführende Informationen zu regulären Ausdrücken
 
 *   [Wikipedia: Regulärer Ausdruck](http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck)
-*   [ooowiki.de: Suchen Und Ersetzen/Formatieren](http://www.ooowiki.de/SuchenUndErsetzen/Formatieren)
+*   [ooowiki.de: Suchen Und Ersetzen/Formatieren](http://www.ooowiki.de/SuchenUndErsetzen.html)
 *   [Anwendungsbereich: Regulärer Ausdruck](http://www.ooowiki.de/Regul%C3%A4rerAusdruck)
-*   [Praxisbeispiele für die Anwendung regulärer Ausdrücke](http://www.ooowiki.de/SuchenUndErsetzen/Regul%C3%A4reAusdr%C3%BCcke)
 *   [Amazon: Standardwerk "Reguläre Ausdrücke" (O'Reilly Verlag)](http://www.amazon.de/gp/product/3897217201/ref=as_li_ss_tl?ie=UTF8&tag=phlow-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3897217201)
 
 

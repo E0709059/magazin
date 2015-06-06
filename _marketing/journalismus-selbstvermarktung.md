@@ -207,7 +207,7 @@ Machen Sie sich mit den Funktionen der verschiedenen Dienste vertraut und experi
 
  [1]: http://de.wikipedia.org/wiki/Corporate_Identity
  [2]: {{ site.url }}/video/rss/
- [3]: Slideshare
+ [3]: http://www.slideshare.net/
  [4]: {{ site.url }}/soundcloud/
  [5]: http://facebook.com
  [6]: http://wordpress.org/

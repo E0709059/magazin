@@ -83,7 +83,7 @@ ISBN-13: 978-3955618605
 
 > In Kapitel zwölf stellte er eine tolle Auswahl für die unterschiedlichsten Bedürfnisse und Zielgruppen vor. Klasse!
 
-[Silke Brügel von Inspire PR](http://inspire-pr.de/blog/buchtipp-von-inspire-pr-das-wordpress-buch/)
+Silke Brügel von Inspire PR
 
 > Angefangen mit einer genauen Anleitung zur Installation und einer ersten Einführung in das Redaktionssystem geht das Buch Schritt für Schritt in die Tiefe. Besonders auffallend sind die detaillierten Graphiken und Bilder, die sich das ganze Buch über mit den reinen Textstellen abwechseln. [...] Für Neueinsteiger lesenswert – die übersichtliche Einführung zeigt den Weg zu einem erfolgreichen Internetauftritt mit WordPress.
 
@@ -103,7 +103,7 @@ ISBN-13: 978-3955618605
 
 > »Das WordPress Buch« ist ein wichtiger und ausführlicher Ratgeber zu einem weltweit anerkannten und beliebten Redaktionssystem.  [...] Jedem, der mit WordPress zu tun hat, egal ob als Betreiber einer Website oder eines Blogs, ob im Business oder privat, ob als Light- oder Heavy-User, ob als Laie oder Profi: Ihm sei dieses Werk von Moritz Sauer wärmstens empfohlen.
 
-[Siegmar Gebele auf siegmargebele.com](http://siegmargebele.com/2013/12/17/rezension-das-wordpress-buch/)
+Siegmar Gebele auf siegmargebele.com
 
 > Diesmal keine Textkritik, sondern eine [Videorezension von Siegmar Gebele auf YouTube](http://www.youtube.com/watch?v=zgXE9V7eV08).
 
@@ -115,6 +115,6 @@ ISBN-13: 978-3955618605
 
 [1]: http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637
 [2]: {{ site.url }}/video/wordpress-installation/
-[3]: {{ site.url }}/video/video/filezilla/
+[3]: {{ site.url }}/video/filezilla/
 [4]: http://www.oreilly.de/catalog/wordpressbuchger/
 

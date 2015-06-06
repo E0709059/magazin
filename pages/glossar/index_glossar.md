@@ -3,7 +3,7 @@ layout: page
 subtitle: Begriffsdefinitionen
 title: Übersicht über unsere Glossare
 teaser: 'Phlow bietet eine kleine Auswahl an Glossaren zu verschiedenen Themen der Medienproduktion. Unsere Glossare definieren Begriffe und erklären eindeutig, was gemeint ist.'
-permalink: /glossare/
+permalink: /glossar/
 ---
 <ul>
   {% for page in site.pages %}

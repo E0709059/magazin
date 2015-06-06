@@ -51,13 +51,4 @@ Damit Jekyll mehrere Kategorienamen nicht einfach ohne Leerzeichen in einem Ruts
 {% endhighlight %}
 
 
- [1]: {{ site.url}}/anleitung/front-matter
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+ [1]: http://magazin.phlow.de/jekyll/front-matter/

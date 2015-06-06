@@ -12,7 +12,7 @@ header:
     image: icon/terminal-256x.png
     background-color: "#f5b6c9"
 style: "#masthead-with-background-color { padding: 0; }"
-permalink: /webdesign/terminal/
+permalink: /terminal/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

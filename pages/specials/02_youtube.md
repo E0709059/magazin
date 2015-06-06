@@ -57,9 +57,6 @@ Inhaltsverzeichnis
 
 Dies ist eine Sammlung bzw. Auswahl erfolgreicher, viraler<br /> Video-Kampagnen auf YouTube.
 
-Virale Kampagne von Samsung mit eigener YouTube-Seite
-:   <a href="http://www.youtube.com/ninjaunboxing2">Ninja Unboxing2’s Channel</a>
-
 Kampagne mit Jennifer Aniston
 :   <a href="http://www.youtube.com/watch?v=IV1tg9k9tXA">YouTube - Jennifer Aniston Sex Tape</a>
 

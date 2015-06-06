@@ -44,6 +44,7 @@ permalink: /webdesign/checkliste/
 - [ ] Kontaktseite
 - [ ] RSS
 - [ ] Sitemap
+- [ ] robots.txt
 - [ ] humans.txt
 {: .no-bullet }
 
@@ -101,7 +102,17 @@ permalink: /webdesign/checkliste/
 
 ## Qualitätscheck
 
+- [ ] Email-Adressen angelegt
+- [ ] Suchmaschinenoptimierung
 - [ ] Links überprüfen ([WordPress Broken Link Checker][2])
+- [ ] Inhalte überprüfen (Rechtschreibung und Grammatik)
+- [ ] HTML-Code validieren
+- [ ] Webdesign ohne Bilder checken
+- [ ] Typografie
+- [ ] Kontrast der Farben
+
+
+
 
 
 
