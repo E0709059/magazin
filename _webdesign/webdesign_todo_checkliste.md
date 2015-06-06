@@ -18,7 +18,6 @@ tags:
     - checkliste
 permalink: /webdesign/checkliste/
 ---
-
 ## HTML
 
 - [ ] Header
@@ -29,8 +28,6 @@ permalink: /webdesign/checkliste/
 	- [ ] Adresse
 	- [ ] Links › Kontakt, Sitemap, Services
 {: .no-bullet }
-
-
 
 
 
@@ -55,11 +52,12 @@ permalink: /webdesign/checkliste/
 ## Funktionen
 
 - [ ] Suchfunktion
+- [ ] Statistik-Script installiert (z.B. Google Analytics)
 {: .no-bullet }
 
 
 
-### Icons
+## Icons
 
 - [ ] Favicon
 - [ ] Apple-Touch-Icons
@@ -95,7 +93,16 @@ permalink: /webdesign/checkliste/
 
 - [ ] Newsletter eingebaut
 - [ ] Social Media-Profile verlinkt
+- [ ] Kontaktformular-Service (Wufoo,...)
+- [ ] Statistiken: Google Analytics 
 {: .no-bullet }
+
+
+
+## Qualitätscheck
+
+- [ ] Links überprüfen ([WordPress Broken Link Checker][2])
+
 
 
 
@@ -104,7 +111,7 @@ permalink: /webdesign/checkliste/
 
 
  [1]: {{ site.url }}/video/imageoptim/
- [2]: #
+ [2]: {{ site.url }}/wordpress/plugins/#kaputte-links-finden-reparieren-und-lschen
  [3]: #
  [4]: #
  [5]: #
