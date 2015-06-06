@@ -46,5 +46,3 @@ tags:
     {% endif %}
 {% endraw %}
 {% endhighlight %}
-
-Source: <https://github.com/jekyll/jekyll/issues/260a>
