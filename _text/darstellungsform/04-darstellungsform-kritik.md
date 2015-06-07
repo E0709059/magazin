@@ -131,6 +131,49 @@ Liegen die Musik-Downloads jedoch au den Websites der Musik-Labels dann verlinke
 
 
 
+## Aufbau und Elemente einer Kritik für eine Website
+
+Mit Hilfe der folgenden Elemente bauen Sie eine perfekte Kritikwebseite auf.
+
+- Überschrift
+- Unterüberschrift
+    - Interpret, Regisseur, Band, Autor
+- Zusätzliche Informationen
+    - Genrebezeichnung
+    - Schauspieler, Regisseur
+    - Veröffentlichungsdatum
+    - Land
+- Bild
+    - Plattencover
+    - Filmposter
+    - Buchcover
+    - Screenshot(s) aus dem Spiel
+    - Bilder der Live-Aufführung (Konzert, Theater,…)
+- Bewertung
+
+    - Sterne
+    - Prozentzahl
+    - Punktesystem
+- Text
+    - Anreisser (Teaser) in Form eines Satzes
+    - Inhaltsangabe
+    - Links zu verwandtem Material
+    - Fazit
+- Name des Autor der Kritik
+- Servicedienstleistung
+    - Kaufenlink
+    - Videomaterial (Trailer/Single/Interview)
+    - Themenverwandte Links unter der Kritik
+    - Links zu
+        - Künstler-Website
+        - Label-Website
+        - Kostenlosen Downloads
+        - Facebook, Twitter und anderen sozialen Medien
+- Kommentare
+
+
+
+
 ## Weitere Darstellungsformen
 
 {% include list-collection-by-tag.html collection='text' tag='darstellungsform' limit='10' %}

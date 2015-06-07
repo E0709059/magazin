@@ -1,0 +1,121 @@
+#
+#  Empfehlenswerte Literatur Datenbank
+#
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+
+
+# -----------------------------------------------
+#
+- title: "Wir amüsieren uns zu Tode"
+  author: "Neil Postman"
+  publisher: Fischer
+  isbn: 9783596242856
+  date_published:
+  amazon_link: 
+  download_link:
+  website:
+  category:
+  tags:
+
+# -----------------------------------------------
+#
+- title: "Here comes everybody"
+  author: "Clay Shirky"
+  isbn: 9780143114949
+  publisher: Penguin
+  date_published: 2009
+  amazon_link: 
+  download_link:
+  website:
+  category:
+  tags:
+
+# -----------------------------------------------
+#
+- title: "The Cognitive Surplus"
+  author: "Clay Shirky"
+  publisher: Penguin Press HC
+  isbn: 9781594202537
+  date_published: 2010
+  amazon_link: 
+  download_link:
+  website:
+  category:
+  tags:
+
+# -----------------------------------------------
+#
+- title: "Das Medium ist die Botschaft"
+  author: "Marshall McLuhan"
+  publisher: Philo Fine Arts Verlag
+  isbn: 3364004005
+  date_published: 2001
+  amazon_link: 
+  download_link:
+  website:
+  category:
+  tags:
+
+# -----------------------------------------------
+#
+- title: "We the Media"
+  author: "Dan Gillmor"
+  publisher: O’Reilly
+  isbn: 9780596102272
+  date_published: 2006
+  amazon_link: 
+  download_link:
+  website:
+  category:
+  tags:
+
+# -----------------------------------------------
+#
+# - title: "Free!"
+#   author: "Chris Anderson"
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+
+# -----------------------------------------------
+#
+# - title: "The Longtail"
+#   author: "Chris Anderson"
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+
+# -----------------------------------------------
+#
+# - title: "What would Google do!"
+#   author: "Jeff Jarvis"
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+
