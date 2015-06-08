@@ -13,6 +13,8 @@
 #   website: 
 #   category: 
 #   tags: 
+#   review_url: 
+#   language: 
 
 
 # -----------------------------------------------
@@ -118,4 +120,276 @@
 #   website: 
 #   category: 
 #   tags: 
+
+# -----------------------------------------------
+#
+- title: ""
+  author: "Moritz »mo.« Sauer"
+  publisher: O’Reilly Verlag
+  isbn: 978-3-89721-973-1  
+  date_published: 2010
+  amazon_link: https://www.amazon.de/dp/3897219735?tag=phlow-21&amp;camp=2906&amp;creative=19474&amp;linkCode=as4&amp;creativeASIN=3897219735&amp;adid=0ZS0JSGHEPP9MJ5D28YB&amp;
+  download_link: 
+  website: 
+  category: Journalismus
+  tags: 
+  review_url: 
+
+# -----------------------------------------------
+#
+- title: "Deutsch für Profis"
+  author: "Wolf Schneider"
+  publisher: Goldmann Verlag
+  isbn: 3-442-16175-4
+  date_published: 1999  
+  amazon_link: http://www.amazon.de/dp/3442161754?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3442161754&amp;adid=1BXW3T42DZYT3CFRPN7Z&amp;
+  download_link: 
+  website: 
+  category: Journalismus
+  tags: 
+  review_url: 
+
+# -----------------------------------------------
+#
+- title: "Das neue Handbuch des Journalismus"
+  author: "Wolf Schneider und Paul-Josef Raue "
+  publisher: rororo
+  isbn: 978-3499615696
+  date_published: 1999
+  amazon_link: 
+  download_link: 
+  website: 
+  category: 
+  tags: 
+  review_url: 
+
+# -----------------------------------------------
+#
+- title: "Journalistisches Schreiben"
+  author: "Rene J. Cappon"
+  publisher: Autorenhaus Verlag
+  isbn: 3-93290-925-9  
+  date_published: 2005
+  amazon_link: http://www.amazon.de/dp/3932909259?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3932909259&amp;adid=1H74XS0VEH8QW01Z8W5R&amp;
+  download_link: 
+  website: 
+  category: 
+  tags: 
+  review_url: 
+
+# -----------------------------------------------
+#
+- title: "ABC des Zeitungs- und Zeitschriftenjournalismus"
+  author: "Volker Wolff"
+  publisher: UVK
+  isbn: 3-89669-578-9
+  date_published: 2006
+  amazon_link: http://www.amazon.de/dp/3896695789?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3896695789&amp;adid=1GZAEEK2FV5X22F517YK&amp;
+  download_link: 
+  website: 
+  category: 
+  tags: 
+  review_url: 
+
+# -----------------------------------------------
+#
+- title: "Texten fürs Web: Planen, schreiben, multimedial erzählen"
+  author: "Stefan Heinjk"
+  publisher: "dpunkt.verlag"
+  date_published: "2011 (2., überarbeitete und erweiterte Auflage)"
+  isbn: 978–3–89864–698–7  
+  amazon_link: http://www.amazon.de/gp/product/389864698X/ref=as_li_ss_tl?ie=UTF8&tag=phlow-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=389864698X
+  category: Journalismus
+  language: Deutsch
+
+
+# -----------------------------------------------
+#
+- title: "Einführung in den praktischen Journalismus"
+  author: "Walther LaRoche"
+  publisher: Econ Verlag
+  date_published: 2006  
+  isbn: 3-430-17681-6  
+  amazon_link: http://www.amazon.de/gp/product/3430200458/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3430200458
+  category: Journalismus
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Das Interview"
+  author: "Michael Haller"
+  publisher: UVK Medien
+  date_published: 2001  
+  isbn: 9783896693044  
+  amazon_link: http://www.amazon.de/gp/product/3896693042/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693042
+  category: Journalismus
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Recherchieren"
+  author: "Michael Haller"
+  publisher: UVK Medien
+  date_published: 2004  
+  isbn: 9783896694348  
+  amazon_link: http://www.amazon.de/gp/product/3896694340/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896694340
+  category: Journalismus
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Die Reportage"
+  author: "Michael Haller"
+  publisher: UVK Medien
+  date_published: 2006  
+  isbn: 9783896693051
+  amazon_link: http://www.amazon.de/gp/product/3896693050/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693050
+  category: Journalismus
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Der Relaunch"
+  author: "Markus Reiter, Eva-Maria Waas"
+  publisher: UVK Medien
+  date_published: 2009  
+  isbn: 978-3-86764-040-4
+  amazon_link: http://www.amazon.de/gp/product/3867640408/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3867640408
+  category: Journalismus
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Die 50 Werkzeuge für gutes Schreiben"
+  author: "Roy Peter Clark"
+  publisher: Autorenhaus Verlag
+  date_published: 2009  
+  isbn:: 3866710313
+  amazon_link: http://www.amazon.de/gp/product/3866710313/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3866710313
+  category: Journalismus
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Elements of Style"
+  author: "E. B. White, William I. Strunk"
+  publisher: Pearson Longman
+  date_published: 1999  
+  isbn: 978-0205309023
+  amazon_link: http://www.amazon.de/gp/product/020530902X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=020530902X&linkCode=as2&tag=phlow-21&linkId=6EN7EQEABYYVFJPF">Amazon-Link</a>
+  category: Journalismus
+  language: Englisch
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
+# -----------------------------------------------
+#
+# - title: ""
+#   author: ""
+#   publisher: 
+#   isbn: 
+#   date_published: 
+#   amazon_link: 
+#   download_link: 
+#   website: 
+#   category: 
+#   tags: 
+#   review_url: 
+
 
