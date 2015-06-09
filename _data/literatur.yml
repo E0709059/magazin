@@ -282,17 +282,20 @@
 
 # -----------------------------------------------
 #
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
+- title: "Responsive Typography: Using Type Well on the Web"
+  author: "Jason Pamental"
+  publisher: O'Reilly Media
+  isbn: 978-1491907092
+  date_published: 2014
+  amazon_link: 
+  download_link: 
+  website: 
+  category:
+    - Typografie
+    - Webdesign
+  tags: webdesign
+  review_url: 
+  language: Englisch
 
 # -----------------------------------------------
 #
@@ -307,89 +310,34 @@
 #   category: 
 #   tags: 
 #   review_url: 
+#   language: 
 
 # -----------------------------------------------
 #
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
+- title: "Tschichold – na und?"
+  author: "Gerd Fleischmann"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1353-8
+  date_published: 2013
+  amazon_link: 
+  download_link: 
+  website: 
+  category: 
+  tags: 
+  review_url: 
+  language: Deutsch
 
 # -----------------------------------------------
 #
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
-
-# -----------------------------------------------
-#
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
-
-# -----------------------------------------------
-#
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
-
-# -----------------------------------------------
-#
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
-
-# -----------------------------------------------
-#
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
-
-
+- title: "Meisterbuch der Schrift"
+  author: "Jan Tschichold"
+  publisher: Nikol Verlag
+  isbn: 978-3868201079
+  date_published: 2011
+  amazon_link: 
+  download_link: 
+  website: 
+  category: 
+  tags: 
+  review_url: 
+  language: 
