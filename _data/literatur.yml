@@ -299,21 +299,6 @@
 
 # -----------------------------------------------
 #
-# - title: ""
-#   author: ""
-#   publisher: 
-#   isbn: 
-#   date_published: 
-#   amazon_link: 
-#   download_link: 
-#   website: 
-#   category: 
-#   tags: 
-#   review_url: 
-#   language: 
-
-# -----------------------------------------------
-#
 - title: "Tschichold – na und?"
   author: "Gerd Fleischmann"
   publisher: Wallstein Verlag
@@ -322,7 +307,7 @@
   amazon_link: 
   download_link: 
   website: 
-  category: 
+  category: Typografie
   tags: 
   review_url: 
   language: Deutsch
@@ -337,7 +322,68 @@
   amazon_link: 
   download_link: 
   website: 
-  category: 
+  category: Typografie
   tags: 
   review_url: 
-  language: 
+  language: Deutsch
+
+
+# -----------------------------------------------
+#
+- title: "Erste Hilfe in Typografie"
+  author: "Hans Peter Willberg und Friedrich Forssman"
+  publisher: Schmidt (Hermann) Verlag
+  isbn: 3-87439-474-3
+  date_published: 
+  amazon_link: 
+  download_link: 
+  website: 
+  category: Typografie
+  tags: 
+  review_url: 
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "normal regular book roman"
+  author: "Hans Andree"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1354-5
+  date_published: 2013
+  amazon_link: 
+  download_link: 
+  website: 
+  category: Typografie
+  tags: 
+  review_url: 
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Das Ende einer Last – Die Befreiung von den Büchern"
+  author: "Günter Karl Bose"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1355-2
+  date_published: 2013
+  amazon_link: 
+  download_link: 
+  website: 
+  category: Typografie
+  tags: 
+  review_url: 
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "Die perfekte Lesemaschine – Zur Ergonomie des Buches"
+  author: "Roland Reuß"
+  publisher: Wallstein Verlag
+  isbn: 978-3-8353-1435-1
+  date_published: 2014
+  amazon_link: 
+  download_link: 
+  website: 
+  category: Typografie
+  tags: 
+  review_url: 
+  language: Deutsch

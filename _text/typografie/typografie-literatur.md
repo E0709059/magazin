@@ -34,11 +34,6 @@ tags:
 :   Wallstein Verlag, 2014
 :   ISBN: 978-3-8353-1435-1
 
-»Die perfekte Lesemaschine – Zur Ergonomie des Buches«
-:   Roland Reuß
-:   Wallstein Verlag, 2014
-:   ISBN: 978-3-8353-1435-1
-
 »Das Ende einer Last – Die Befreiung von den Büchern«
 :   Günter Karl Bose
 :   Wallstein Verlag, 2013
