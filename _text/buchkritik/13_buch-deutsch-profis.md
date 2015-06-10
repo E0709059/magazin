@@ -3,7 +3,6 @@ layout: page
 subheadline: Buchempfehlung
 title: "»Deutsch für Profis« von Wolfgang Schneider"
 teaser: "»Deutsch für Profis« ist ein Klassiker unter den Journalismusbüchern, der humorvoll und gewitzt geschrieben wurde."
-permalink: /buch-deutsch-profis/
 categories:
     - text
 tags:
@@ -12,6 +11,7 @@ tags:
     - darstellungsformen
 image:
     thumb: text_cover_deutsch_fuer_profis-thumb.jpg
+permalink: /buch-deutsch-profis/
 ---
 ![]({{ site.urlimg }}text_cover_deutsch_fuer_profis.jpg)
 {: .right }

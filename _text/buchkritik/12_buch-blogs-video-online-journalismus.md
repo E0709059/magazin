@@ -3,7 +3,6 @@ layout: page
 subheadline: Buchempfehlung
 title: "»Blogs, Video & Online-Journa&shy;lis&shy;mus«"
 teaser: "»Blogs, Video & Online-Journalismus« von Moritz »mo.« Sauer erklärt wie man professionell mit WordPress ein Blog betreibt, eigene Videos mit wenig Mitteln produziert und auf YouTube hochlädt und die eigenen Inhalte für Suchmaschinen optimiert und über Twitter und Newsletter bewirbt."
-permalink: /buch-blogs-video-online-journalismus/
 categories:
     - text
 tags:
@@ -12,6 +11,7 @@ tags:
     - darstellungsformen
 image:
     thumb: text_cover_blogs_video_online_journalismus-thumb.jpg
+permalink: /buch-blogs-video-online-journalismus/
 ---
 ![]({{ site.urlimg }}text_cover_blogs_video_online_journalismus.jpg)
 {: .right }

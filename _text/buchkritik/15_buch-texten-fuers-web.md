@@ -3,7 +3,6 @@ layout: page
 subheadline: Buchempfehlung
 title: "»Texten fürs Web« von Stefan Heinjk"
 teaser: "Mit der komplett überarbeiteten und erweiterten Neuauflage von »Texten fürs Web« knüpft Stefan Heijnk erfolgreich an sein erstes Online-Journalismus-Standardwerk an."
-permalink: /buch-texten-fuers-web/
 categories:
     - text
 tags:
@@ -11,6 +10,7 @@ tags:
     - journalismus
 image:
     thumb: text_cover_texten_fuer_das_web-thumb.jpg
+permalink: /buch-texten-fuers-web/
 ---
 ![]({{ site.urlimg }}text_cover_texten_fuer_das_web.jpg)
 {: .right }

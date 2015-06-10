@@ -3,7 +3,6 @@ layout: page
 subheadline: Buchempfehlung
 title: "»Journalistisches Schreiben« von René Capon"
 teaser: "»Journalistisches Schreiben« ist ein praxisorientiertes Buch, um die eigenen Kenntnisse und Schreibtechniken im Angesicht eines News-Journalismus zu verbessern."
-permalink: /buch-journalistisches-schreiben/
 categories:
     - text
 tags:
@@ -12,6 +11,7 @@ tags:
     - darstellungsformen
 image:
     thumb: text_cover_journalistisches_schreiben-thumb.jpg
+permalink: /buch-journalistisches-schreiben/
 ---
 ![]({{ site.urlimg }}text_cover_journalistisches_schreiben.jpg)
 {: .right }
