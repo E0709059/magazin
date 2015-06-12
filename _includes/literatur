@@ -23,16 +23,13 @@
                     {% else %}»{{ book.title }}«{% endif %}
                 </span><br>
                 Autor: {{ book.author | join: ', '}}<br>
-                {% if book.publisher %}Verlag: {{ book.publisher }}<br>{% endif %}
-                {% if book.isbn %}{{ book.isbn }}<br>{% endif %}
-                {% if book.date_published %}Erscheinungsdatum: {{ book.date_published }}<br>{% endif %}
-                Thema: {{ book.category | join: ', '}}<br>
-                {% if book.amazon_link %}<a href="{{ book.amazon_link }}">Bei Amazon kaufen</a><br>{% endif %}
+                {% if book.publisher %}Verlag: {{ book.publisher }}{% if book.date_published %}, {{ book.date_published }}{% endif %}<br>{% endif %}
+                {% if book.isbn %}ISBN: {{ book.isbn }}<br>{% endif %}
                 {% if book.download_link %}{{ book.download_link }}<br>{% endif %}
                 {% if book.website %}{{ book.website }}<br>{% endif %}
-                {% if book.tags %}{{ book.tags }}<br>{% endif %}
-                {% if book.language %}Sprache: {{ book.language }}<br>{% endif %}
+                {% if book.tags %}Schlagworte: {{ book.tags | join: ', '}}<br>{% endif %}
                 {% if book.review_url %}<a href="{{ book.review_url }}">Buchbesprechung</a><br>{% endif %}
+                {% if book.amazon_link %}<a target="_blank" class="t15 button radius tiny" href="{{ book.amazon_link }}">Bei Amazon kaufen ›</a><br>{% endif %}
             </li>
         {% endif %}
     {% endif %}

@@ -94,6 +94,9 @@
     - Medientheorie
     - Journalismus
   tags:
+    - Grasswurzeljournalismus
+    - Journalismus
+    - Self-Publishing
   language: Englisch
 
 # -----------------------------------------------
@@ -149,7 +152,14 @@
   download_link: 
   website: 
   category: Journalismus
-  tags: 
+  tags:
+    - WordPress
+    - Journalismus
+    - Blog
+    - Twitter
+    - Recherche
+    - Videoschnitt
+    - Screencasting
   review_url: /buch-blogs-video-online-journalismus/
   language: "Deutsch"
 
@@ -164,7 +174,11 @@
   download_link: 
   website: 
   category: Journalismus
-  tags: 
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
   review_url: /buch-deutsch-profis/
   language: "Deutsch"
 
@@ -181,7 +195,11 @@
   download_link: 
   website: 
   category: Journalismus
-  tags: 
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
   review_url: 
   language: "Deutsch"
 
@@ -196,7 +214,11 @@
   download_link: 
   website: 
   category: Journalismus
-  tags: 
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
   review_url: /buch-journalistisches-schreiben/
   language: "Deutsch"
 
@@ -211,6 +233,12 @@
   download_link: 
   website: 
   category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+    - Darstellungsformen
   tags: 
   review_url: /buch-abc-des-zeitungs-und-zeitschriftenjournalismus/
   language: "Deutsch"
@@ -224,6 +252,12 @@
   isbn: 978–3–89864–698–7  
   amazon_link: http://www.amazon.de/gp/product/389864698X/ref=as_li_ss_tl?ie=UTF8&tag=phlow-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=389864698X
   category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Digital Publizieren
+    - Storytelling
+    - Journalismus
   language: "Deutsch"
   review_url: /buch-texten-fuers-web/
 
@@ -237,6 +271,11 @@
   isbn: 3-430-17681-6  
   amazon_link: http://www.amazon.de/gp/product/3430200458/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3430200458
   category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -248,6 +287,12 @@
   isbn: 9783896693044  
   amazon_link: http://www.amazon.de/gp/product/3896693042/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693042
   category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
+    - Interview
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -294,6 +339,11 @@
   isbn:: 3866710313
   amazon_link: http://www.amazon.de/gp/product/3866710313/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3866710313
   category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -305,8 +355,13 @@
   publisher: Pearson Longman
   date_published: 1999  
   isbn: 978-0205309023
-  amazon_link: http://www.amazon.de/gp/product/020530902X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=020530902X&linkCode=as2&tag=phlow-21&linkId=6EN7EQEABYYVFJPF">Amazon-Link</a>
+  amazon_link: http://www.amazon.de/gp/product/020530902X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=020530902X&linkCode=as2&tag=phlow-21&linkId=6EN7EQEABYYVFJPF
   category: Journalismus
+  tags:
+    - Schreiben
+    - Sprache
+    - Schreibregeln
+    - Journalismus
   language: Englisch
 
 # -----------------------------------------------
@@ -322,7 +377,10 @@
   category:
     - Typografie
     - Webdesign
-  tags: webdesign
+  tags:
+    - Webdesign
+    - Responsive Webdesign
+    - Typografie
   review_url: 
   language: Englisch
 
@@ -337,7 +395,8 @@
   download_link: 
   website: 
   category: Typografie
-  tags: 
+  tags:
+    - Gedanken zum Medium Buch
   review_url: 
   language: "Deutsch"
 
@@ -352,7 +411,8 @@
   download_link: 
   website: 
   category: Typografie
-  tags: 
+  tags:
+    - Typografie
   review_url: 
   language: "Deutsch"
 
@@ -370,7 +430,8 @@
   download_link: 
   website: 
   category: Typografie
-  tags: 
+  tags:
+    - Typografie
   review_url: 
   language: "Deutsch"
 
@@ -385,7 +446,9 @@
   download_link: 
   website: 
   category: Typografie
-  tags: 
+  tags:
+    - Typografie
+    - Gedanken zum Medium Buch
   review_url: 
   language: "Deutsch"
 
@@ -400,7 +463,10 @@
   download_link: 
   website: 
   category: Typografie
-  tags: 
+  tags:
+    - Typografie
+    - Entwicklungsgeschichte
+    - Medium Buch
   review_url: 
   language: "Deutsch"
 
@@ -415,6 +481,9 @@
   download_link: 
   website: 
   category: Typografie
-  tags: 
+  tags:
+    - Typografie
+    - Entwicklungsgeschichte
+    - Medium Buch
   review_url: 
   language: "Deutsch"
