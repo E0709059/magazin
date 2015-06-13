@@ -24,7 +24,7 @@
   publisher: Fischer
   isbn: 9783596242856
   date_published:
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/3596242851/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3596242851&linkCode=as2&tag=phlow-21&linkId=7KA3HWFQHBQ3AFZO
   download_link:
   website:
   category:
@@ -40,7 +40,7 @@
   isbn: 9780143114949
   publisher: Penguin
   date_published: 2009
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/0143114948/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0143114948&linkCode=as2&tag=phlow-21&linkId=IRDY6HUFFRXYNHMH
   download_link:
   website:
   category:
@@ -56,7 +56,7 @@
   publisher: Penguin Press HC
   isbn: 9781594202537
   date_published: 2010
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/0141030623/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0141030623&linkCode=as2&tag=phlow-21&linkId=COLYE7HVDBAWE7E7
   download_link:
   website:
   category:
@@ -72,7 +72,7 @@
   publisher: Philo Fine Arts Verlag
   isbn: 3364004005
   date_published: 2001
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/3364004005/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3364004005&linkCode=as2&tag=phlow-21&linkId=734HVJIJVAC3Y66Y
   download_link:
   website:
   category:
@@ -88,7 +88,7 @@
   isbn: 9780596102272
   date_published: 2006
   amazon_link: 
-  download_link:
+  download_link: http://www.oreilly.com/openbook/wemedia/book/
   website:
   category:
     - Medientheorie
@@ -103,29 +103,35 @@
 #
 - title: "Free!"
   author: "Chris Anderson"
-  publisher: 
-  isbn: 
-  date_published: 
-  amazon_link: 
+  publisher: Campus Verlag
+  isbn: 978-3593390888
+  date_published: 2009
+  amazon_link: http://www.amazon.de/gp/product/3593390884/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3593390884&linkCode=as2&tag=phlow-21&linkId=LCBID6GKJQ5CD4EM
   download_link: 
   website: 
   category: Medientheorie
   tags: 
-  language: Englisch
+    - Medientheorie
+    - digitale Ökonomie
+    - eCommerce
+  language: Deutsch
 
 # -----------------------------------------------
 #
 - title: "The Longtail"
   author: "Chris Anderson"
-  publisher: 
-  isbn: 
-  date_published: 
-  amazon_link: 
+  publisher: Deutscher Taschenbuch Verlag
+  isbn: 978-3423345316
+  date_published: 2009
+  amazon_link: http://www.amazon.de/gp/product/3423345314/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3423345314&linkCode=as2&tag=phlow-21&linkId=JMJER45XY6TUONIU
   download_link: 
   website: 
   category: Medientheorie
   tags: 
-  language: Englisch
+    - Medientheorie
+    - digitale Ökonomie
+    - eCommerce
+  language: Deutsch
 
 # -----------------------------------------------
 #
