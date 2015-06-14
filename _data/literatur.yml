@@ -23,13 +23,14 @@
   author: "Neil Postman"
   publisher: Fischer
   isbn: 9783596242856
-  date_published:
+  date_published: 1988
   amazon_link: http://www.amazon.de/gp/product/3596242851/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3596242851&linkCode=as2&tag=phlow-21&linkId=7KA3HWFQHBQ3AFZO
-  download_link:
-  website:
   category:
     - Medientheorie
   tags:
+    - Fernsehen
+    - Massenmedien
+    - Buch
   language: "Deutsch"
 
 
@@ -41,12 +42,11 @@
   publisher: Penguin
   date_published: 2009
   amazon_link: http://www.amazon.de/gp/product/0143114948/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0143114948&linkCode=as2&tag=phlow-21&linkId=IRDY6HUFFRXYNHMH
-  download_link:
-  website:
   category:
     - Medientheorie
     - Social Media
   tags:
+    - Social Media
   language: Englisch
 
 # -----------------------------------------------
@@ -57,12 +57,11 @@
   isbn: 9781594202537
   date_published: 2010
   amazon_link: http://www.amazon.de/gp/product/0141030623/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0141030623&linkCode=as2&tag=phlow-21&linkId=COLYE7HVDBAWE7E7
-  download_link:
-  website:
   category:
     - Medientheorie
     - Social Media
   tags:
+    - Social Media
   language: Englisch
 
 # -----------------------------------------------
@@ -73,11 +72,10 @@
   isbn: 3364004005
   date_published: 2001
   amazon_link: http://www.amazon.de/gp/product/3364004005/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3364004005&linkCode=as2&tag=phlow-21&linkId=734HVJIJVAC3Y66Y
-  download_link:
-  website:
   category:
     - Medientheorie
   tags:
+    - Medientheorie
   language: Deutsch
 
 # -----------------------------------------------
@@ -118,45 +116,13 @@
 
 # -----------------------------------------------
 #
-- title: "The Longtail"
-  author: "Chris Anderson"
-  publisher: Deutscher Taschenbuch Verlag
-  isbn: 978-3423345316
-  date_published: 2009
-  amazon_link: http://www.amazon.de/gp/product/3423345314/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3423345314&linkCode=as2&tag=phlow-21&linkId=JMJER45XY6TUONIU
-  download_link: 
-  website: 
-  category: Medientheorie
-  tags: 
-    - Medientheorie
-    - digitale Ökonomie
-    - eCommerce
-  language: Deutsch
-
-# -----------------------------------------------
-#
-- title: "What would Google do!"
-  author: "Jeff Jarvis"
-  publisher: 
-  isbn: 
-  date_published: 
-  amazon_link: 
-  download_link: 
-  website: 
-  category: Medientheorie
-  tags: 
-  language: Englisch
-
-# -----------------------------------------------
-#
 - title: "Blogs, Video & Online-Journalismus"
   author: "Moritz »mo.« Sauer"
   publisher: O’Reilly Verlag
   isbn: 978-3-89721-973-1  
   date_published: 2010
   amazon_link: https://www.amazon.de/dp/3897219735?tag=phlow-21&amp;camp=2906&amp;creative=19474&amp;linkCode=as4&amp;creativeASIN=3897219735&amp;adid=0ZS0JSGHEPP9MJ5D28YB&amp;
-  download_link: 
-  website: 
+  website: http://magazin.phlow.de/buch-blogs-video-online-journalismus/
   category: Journalismus
   tags:
     - WordPress
@@ -177,8 +143,6 @@
   isbn: 3-442-16175-4
   date_published: 1999  
   amazon_link: http://www.amazon.de/dp/3442161754?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3442161754&amp;adid=1BXW3T42DZYT3CFRPN7Z&amp;
-  download_link: 
-  website: 
   category: Journalismus
   tags:
     - Schreiben
@@ -197,9 +161,7 @@
   publisher: rororo
   isbn: 978-3499615696
   date_published: 1999
-  amazon_link: 
-  download_link: 
-  website: 
+  amazon_link: http://www.amazon.de/gp/product/3499628252/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3499628252&linkCode=as2&tag=phlow-21&linkId=6UCP2C4OVHRLEZXV
   category: Journalismus
   tags:
     - Schreiben
@@ -217,8 +179,6 @@
   isbn: 3-93290-925-9  
   date_published: 2005
   amazon_link: http://www.amazon.de/dp/3932909259?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3932909259&amp;adid=1H74XS0VEH8QW01Z8W5R&amp;
-  download_link: 
-  website: 
   category: Journalismus
   tags:
     - Schreiben
@@ -267,7 +227,6 @@
   language: "Deutsch"
   review_url: /buch-texten-fuers-web/
 
-
 # -----------------------------------------------
 #
 - title: "Einführung in den praktischen Journalismus"
@@ -300,6 +259,15 @@
     - Journalismus
     - Interview
   language: "Deutsch"
+
+
+
+
+
+
+
+
+
 
 # -----------------------------------------------
 #
@@ -377,9 +345,8 @@
   publisher: O'Reilly Media
   isbn: 978-1491907092
   date_published: 2014
-  amazon_link: 
-  download_link: 
-  website: 
+  amazon_link: http://www.amazon.de/gp/product/1491907096/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1491907096&linkCode=as2&tag=phlow-21&linkId=O2CZXA7HHZ2RBLTU
+  website: http://rwt.io/
   category:
     - Typografie
     - Webdesign
@@ -493,3 +460,34 @@
     - Medium Buch
   review_url: 
   language: "Deutsch"
+
+# -----------------------------------------------
+#
+- title: "The Longtail"
+  author: "Chris Anderson"
+  publisher: Deutscher Taschenbuch Verlag
+  isbn: 978-3423345316
+  date_published: 2009
+  amazon_link: http://www.amazon.de/gp/product/3423345314/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3423345314&linkCode=as2&tag=phlow-21&linkId=JMJER45XY6TUONIU
+  download_link: 
+  website: 
+  category: Medientheorie
+  tags: 
+    - Medientheorie
+    - digitale Ökonomie
+    - eCommerce
+  language: Deutsch
+
+# -----------------------------------------------
+#
+- title: "What would Google do!"
+  author: "Jeff Jarvis"
+  publisher: 
+  isbn: 
+  date_published: 
+  amazon_link: 
+  download_link: 
+  website: 
+  category: Medientheorie
+  tags: 
+  language: Englisch
