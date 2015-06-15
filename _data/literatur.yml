@@ -260,15 +260,6 @@
     - Interview
   language: "Deutsch"
 
-
-
-
-
-
-
-
-
-
 # -----------------------------------------------
 #
 - title: "Recherchieren"
@@ -278,6 +269,10 @@
   isbn: 9783896694348  
   amazon_link: http://www.amazon.de/gp/product/3896694340/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896694340
   category: Journalismus
+  tags:
+    - Recherche
+    - Suchen
+    - Journalismus
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -289,19 +284,10 @@
   isbn: 9783896693051
   amazon_link: http://www.amazon.de/gp/product/3896693050/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693050
   category: Journalismus
-  language: "Deutsch"
-
-# -----------------------------------------------
-#
-- title: "Der Relaunch"
-  author:
-    - "Markus Reiter"
-    - "Eva-Maria Waas"
-  publisher: UVK Medien
-  date_published: 2009  
-  isbn: 978-3-86764-040-4
-  amazon_link: http://www.amazon.de/gp/product/3867640408/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3867640408
-  category: Journalismus
+  tags:
+    - Reportage
+    - Schreiben
+    - Journalismus
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -354,6 +340,7 @@
     - Webdesign
     - Responsive Webdesign
     - Typografie
+    - Responsive Typography
   review_url: 
   language: Englisch
 
@@ -364,12 +351,15 @@
   publisher: Wallstein Verlag
   isbn: 978-3-8353-1353-8
   date_published: 2013
-  amazon_link: 
-  download_link: 
-  website: 
+  amazon_link: http://www.amazon.de/gp/product/3835313533/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3835313533&linkCode=as2&tag=phlow-21&linkId=CPYZWAJCXQHPHFD5
+  website: http://www.wallstein-verlag.de/9783835313538-gerd-fleischmann-tschichold-na-und.html
   category: Typografie
   tags:
     - Gedanken zum Medium Buch
+    - Tschichold
+    - Typograf
+    - Typografiegesetze
+    - Typografie
   review_url: 
   language: "Deutsch"
 
@@ -380,15 +370,13 @@
   publisher: Nikol Verlag
   isbn: 978-3868201079
   date_published: 2011
-  amazon_link: 
-  download_link: 
-  website: 
+  amazon_link: http://www.amazon.de/gp/product/3868201076/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3868201076&linkCode=as2&tag=phlow-21&linkId=P56MV7PFJUNRRHRN
   category: Typografie
   tags:
     - Typografie
+    - Typografiegesetze
   review_url: 
   language: "Deutsch"
-
 
 # -----------------------------------------------
 #
@@ -398,10 +386,8 @@
     - "Friedrich Forssman"
   publisher: Schmidt (Hermann) Verlag
   isbn: 3-87439-474-3
-  date_published: 
-  amazon_link: 
-  download_link: 
-  website: 
+  date_published: 1999
+  amazon_link: http://www.amazon.de/gp/product/3874394743/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3874394743&linkCode=as2&tag=phlow-21&linkId=Q3UYXWCMEJCUAIHC
   category: Typografie
   tags:
     - Typografie
