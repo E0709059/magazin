@@ -80,6 +80,7 @@ Inhalt
 ### Navigation
 
 * [Jekyll Post Navigation Within a Category](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/)
+* [How to create data-driven navigation in Jekyll](http://www.tournemille.com/blog/How-to-create-data-driven-navigation-in-Jekyll/)
 
 
 ## Coding-Tipps
