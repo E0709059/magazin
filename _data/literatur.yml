@@ -401,9 +401,9 @@
   publisher: Wallstein Verlag
   isbn: 978-3-8353-1354-5
   date_published: 2013
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/3835313541/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3835313541&linkCode=as2&tag=phlow-21&linkId=AMOLQEKA3HQPLCBF
   download_link: 
-  website: 
+  website: http://www.wallstein-verlag.de/9783835313545-hans-andree-normal-regular-book-roman.html
   category: Typografie
   tags:
     - Typografie
@@ -418,15 +418,15 @@
   publisher: Wallstein Verlag
   isbn: 978-3-8353-1355-2
   date_published: 2013
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/383531355X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=383531355X&linkCode=as2&tag=phlow-21&linkId=F72BMCSDR6YRNCSS
   download_link: 
-  website: 
+  website: http://www.wallstein-verlag.de/9783835313552-guenter-karl-bose-das-ende-einer-last.html
   category: Typografie
   tags:
     - Typografie
     - Entwicklungsgeschichte
     - Medium Buch
-  review_url: 
+  review_url: http://mo.phlow.de/buch-das-ende-einer-last/
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -436,9 +436,9 @@
   publisher: Wallstein Verlag
   isbn: 978-3-8353-1435-1
   date_published: 2014
-  amazon_link: 
+  amazon_link: http://www.amazon.de/gp/product/3835314351/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3835314351&linkCode=as2&tag=phlow-21&linkId=KU3TVTDIDUKSA2CE
   download_link: 
-  website: 
+  website: http://www.wallstein-verlag.de/9783835314351-roland-reuss-die-perfekte-lesemaschine.html
   category: Typografie
   tags:
     - Typografie
@@ -468,12 +468,15 @@
 #
 - title: "What would Google do!"
   author: "Jeff Jarvis"
-  publisher: 
-  isbn: 
-  date_published: 
-  amazon_link: 
+  publisher: Harper
+  isbn: 978-0062063359
+  date_published: 2010
+  amazon_link: http://www.amazon.de/gp/product/0062063359/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0062063359&linkCode=as2&tag=phlow-21&linkId=OAP33NGTGI2PS4YV
   download_link: 
-  website: 
+  website: http://buzzmachine.com/wwgd/
   category: Medientheorie
   tags: 
+    - Google
+    - Social Media
+    - Medientheorie
   language: Englisch
