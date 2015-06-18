@@ -23,10 +23,66 @@ Inhalt
 {:toc}
 </div>
 </div><!-- /.medium-5.columns -->
-
-
-
 <div class="medium-7 medium-pull-5 columns" markdown="1">
+
+
+
+## Die wichtigsten Terminal Befehle
+
+Der schnellste Weg das Terminal zu starten ist [Spotlight][1]. Einfach die Tastenkombination <kbd>CMD + Space</kbd> plus die Anfangsbuchstaben <kbd>ter</kbd> eingeben und <kbd>Enter</kbd> drücken. 
+
+### Wichtige Begrifflichkeiten zuerst
+
+directory
+:    Verzeichnisse werden *directory* genannt.
+
+home directory
+:    Als *home directory* wird das Arbeitsverzeichnis, in welchem das Terminal startet – in der Regel `/Users/Name/`.
+
+
+## Schneller mit dem Terminal arbeiten
+
+### Pfeiltasten rauf und runter
+
+Die Rauf- und Runterpfeiltasten wechseln zwischen den zuletzt eingetippten Befehlen
+
+### Autovervollständigen mit der Tabulatortaste
+
+Um schneller in Verzeichnisse zu springen, tippt man <kbd>cd</kbd> und dann die Anfangsbuchstaben des Verzeichnisses und mittendrin die Tabulatortaste. Das Terminal vervollständigt automatisch die Eingabe, sofern nicht mehrere Verzeichnisse mit der gleichen Zeichenfolge existieren.
+
+### Wiederkehrende Befehlsketten als Stapelverarbeitung speichern
+
+Will man eine Kette von Befehlen nacheinander vom Terminal abarbeiten lassen, legt man dazu am Besten eine so genannte *Batch-Datei* an. Hierbei handelt es sich um eine einfache Textdatei **ohne Dateiendung**.
+
+In jede Zeile kopiert man einen Befehl, der abgearbeitet werden soll. Damit diese Datei ausgeführt werden kann, müssen die Rechte geändert werden.
+
+Lautet die Batch-Datei z.B. *stapelverarbeitung* muss man die Rechte mit Hilfe des *chmod*-Befehls auf 755 stelle.
+
+Der Befehl wäre dann <kbd>chmod 755 stapelverarbeitung</kbd>. Soll die Batch-Datei ausgeführt werden, springt man in das Verzeichnis, in welcher die Datei liegt und tippt vor dem Batch-Dateinamen noch <kbd>./</kbd> ein. In diesem Beispiel <kbd>./stapelverarbeitung</kbd>. Ohne <kbd>./</kbd> würde das Terminal den Befehl *stapelverarbeitung* suchen.
+
+
+
+## Terminal individualisieren und verbessern
+
+### Farbschemata ändern
+
+Die Farbschemata für das Terminal ändert man über <kbd>CMD + ,</kbd> bzw. über das Menü *Terminal › Einstellungen › Einstellungen*. Um ein neues Farbschemata samt Typografieeinstellungen als Standard festzulegen, klickt man unten links auf *Standard*. Spannende Farbschemata sind z.B. diese hier:
+
+* [Solarized](http://ethanschoonover.com/solarized)
+* [Tomorrow Night (Terminal Version)](https://github.com/chriskempson/tomorrow-theme/blob/master/OS%20X%20Terminal/Tomorrow%20Night.terminal)
+
+Um die obigen Farbschemata abzuspeichern, geht man wie folgt vor:
+
+1. Datei herunterladen, die auf `.terminal` endet.
+2. In einem Ordner abspeichern (wo man es bei Bedarf wiederfindet) und dann Doppelklicken.
+3. Eventuell muss man die Sicherheitseinstellungen des Rechners kurz für die Installation außer Kraft setzen.
+4. Nachdem sich das Terminal-Fenster mit dem neuen Farbschemata geöffnet hat, öffnet man die Einstellungen (siehe oben).
+5. Ein Klick auf *Standard* macht es zum neuen Standardfarbschemata.
+
+
+
+
+
 
 ## Verzeichnis mit Inhalt löschen
 
