@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Grundlegende Terminal Befehle"
-teaser: "Webdesigner, die sich mit dem Terminal beschäftigen – <em>insbesondere auf Mac-Rechnern</em> – werden schnell feststellen, wie flexibel, schnell und komfortabel die Arbeit mit der Kommandozeile sein kann. Und wenn Sie einen Befehl vergessen haben, müssen Sie nur wissen, wo Sie nachschauen müssen. Genau hier :)"
+teaser: "Mit Hilfe des Mac Terminals arbeiten Sie oft schneller, automatisieren nervige Prozesse und erledigen lästige Arbeit mit ein paar wenigen eingetippten Befehlen anstelle von Klickorgien. Vor allem als  Webdesigner werden Sie schnell feststellen, wie flexibel, schnell und komfortabel die Arbeit mit der Kommandozeile sein kann."
 categories:
     - development
 tags:
