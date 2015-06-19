@@ -6,6 +6,8 @@ categories:
     - development
 tags:
     - artikel
+    - terminal
+    - produktivität
 image:
     thumb: icon/icon-terminal-128x.png
 header:
@@ -24,7 +26,6 @@ Inhalt
 </div>
 </div><!-- /.medium-5.columns -->
 <div class="medium-7 medium-pull-5 columns" markdown="1">
-
 
 
 ## Die wichtigsten Terminal Befehle
@@ -180,7 +181,16 @@ Um die Dateien in einen Ordner namens thumb zu speichern, gibt man folgendes an:
 {% include alert terminal='wget http://wordpress.org/latest.tar.gz && tar xfz latest.tar.gz && rm -f latest.tar.gz' %}
 
 
-
+ [1]: http://support.apple.com/kb/HT2531?viewlocale=de_DE&locale=de_DE
+ [2]: #
+ [3]: #
+ [4]: #
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
 
 
 </div><!-- /.medium-7.columns -->
