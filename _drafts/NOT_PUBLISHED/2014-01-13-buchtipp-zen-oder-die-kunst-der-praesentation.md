@@ -1,9 +1,12 @@
 ---
-title: Erfolgreich Präsentationen konzipieren, erstellen und halten
 layout: post
+subheadline: Präsentationstechnik
+title: Erfolgreich Präsentationen konzipieren, erstellen und halten
+teaser: "Garr Reynolds gehört weltweit zu den besten Präsentationsprofis. Mit seinem Buch »Zen oder die Kunst der Präsentation« veröffentlichte er ein Standardwerk, dass sich sagenhafte 150.000 Mal verkaufte. Jetzt erscheint das Buch in einer zweiten überarbeiteten Auflage. Ein Grund reinzuschauen und das Buch und Garr Reynolds Präsentation-Philosophie vorzustellen."
 permalink: /buchtipp-zen-oder-die-kunst-der-praesentation/
+image:
+    title: zen-kunst-praesentation.jpg
 categories:
-  - Ah...!
 tags:
   - buchkritik
   - garr reynolds
@@ -13,17 +16,13 @@ tags:
   - präsentationstechnik
   - präsentieren
 ---
-<img src="{{ site.url }}/images/zen-kunst-präsentation.jpg" alt="ZEN oder die Kunst der Präsentation" width="538" height="665" class="alignnone size-full wp-image-2096" />
-
-**Präsentationstechnik** // [Garr Reynolds][1] gehört weltweit zu den besten Präsentationsprofis. Mit seinem Buch [»Zen oder die Kunst der Präsentation«][2] veröffentlichte er ein Standardwerk, dass sich sagenhafte 150.000 Mal verkaufte. Jetzt erscheint das Buch in einer zweiten überarbeiteten Auflage. Ein Grund reinzuschauen und das Buch und Garr Reynolds Präsentation-Philosophie vorzustellen.<!--more-->
-
-Das spannende an Garr Reynolds Buch ist die Tatsache, dass das Buch erst einmal in Ruhe erklärt, warum heutige Präsentationen oft einfach nur schlimme Zeitverschwendung sind. Auf den ersten 25 Seiten erläutert der Autor, dass das Ziel einer Präsentation Einfachheit im positiven Sinne sein sollte. Anstelle von Textwüsten geht es um die Reduktion und damit erst einmal auch einen Schritt weg vom Computer.
+Das spannende an [Garr Reynolds][1] Buch ist die Tatsache, dass das Buch erst einmal in Ruhe erklärt, warum heutige Präsentationen oft einfach nur schlimme Zeitverschwendung sind. Auf den ersten 25 Seiten erläutert der Autor, dass das Ziel einer Präsentation Einfachheit im positiven Sinne sein sollte. Anstelle von Textwüsten geht es um die Reduktion und damit erst einmal auch einen Schritt weg vom Computer.
 
 > Um kreativ zu sein, braucht man keinen schwarzen Rollkragenpullover zu tragen oder capuccinoschlürfend in Jazzcafés herumzuhängen. Es geht vielmehr darum Ihren gesamten Geist zum Auffinden von Lösungen einzusetzen. Kreativität bedeutet, sich nicht von seinen Methoden und seinem Wissen lähmen zu lassen, sondern auch über den Tellerrand hinaus zu denken (manchmal sehr schnell), um Lösungen für unvorhergesehene Probleme zu finden. <cite>Garr Reynolds</cite> 
 
 So ist es nicht verwunderlich, dass Garr Reynolds den Leser in der Vorbereitungsphase dazu anregt sich aus seiner normalen Umgebung zu entfernen, den Computer hinter sich zu lassen und erst einmal mit analogen Mitteln die Präsentation vorzubereiten. Besonderes Augenmerk – und da schlägt er den gleichen Ton von Nancy Duarte an – gilt der Geschichte. Denn eine gute Präsentation braucht eine Geschichte. Eine Geschichte die trägt, einen Satz, der das Ziel der Präsentation zusammenfasst.
 
-Was mir persönlich am Buch gefällt, ist die Reduktion. Garr Reynolds versucht den Blick des Lesers zu schärfen. Den Blick für das Wesentliche. Dabei macht der Präsentationsexperte immer wieder Schlenker in die japanische Kultur, die er absorbiert und lieben gelernt hat.
+Was mir persönlich an [»Zen oder die Kunst der Präsentation«][2] gefällt, ist die Reduktion. Garr Reynolds versucht den Blick des Lesers zu schärfen. Den Blick für das Wesentliche. Dabei macht der Präsentationsexperte immer wieder Schlenker in die japanische Kultur, die er absorbiert und lieben gelernt hat.
 
 Das Buch selbst ist sehr luftig gestaltet, bietet zahlreiche Bilder und Beispiele, die die Idee hinter *Presentation Zen* verdeutlichen. Wer wirklich die Arme hochkrempeln und gelungene Präsentationen halten will, dem empfehle ich dieses Buch herzlichst. Wer auf eingetretenen Pfaden weiter wandeln will, und lediglich einen Leitfaden für die Verschönerung seiner Präsentationen sucht, dem rate ich von diesem Buch ab. Garr Reynolds geht es nämlich um nichts anderes als um die Revolutionierung und Abschaffung des alten Systems »Langweilige, Langatmige Powerpoint Präsentation«.
 
@@ -49,10 +48,10 @@ In diesem aktuellen Video sprechen die beiden Präsentationsexperten Nancy Duart
  [1]: http://www.garrreynolds.com/
  [2]: http://www.dpunkt.de/buecher/4563/zen-oder-die-kunst-der-pr%26auml%3Bsentation.html
  [3]: http://www.presentationzen.com/
- [4]: /leseproben/4563/1_Inhaltsverzeichnis.pdf
- [5]: /leseproben/4563/2_Danksagung.pdf
- [6]: /leseproben/4563/3_Einführung.pdf
- [7]: /leseproben/4563/4_Verbindung%20mit%20dem%20Publikum.pdf
+ [4]: http://www.dpunkt.de/leseproben/4563/1_Inhaltsverzeichnis.pdf
+ [5]: http://www.dpunkt.de/leseproben/4563/2_Danksagung.pdf
+ [6]: http://www.dpunkt.de/leseproben/4563/3_Einführung.pdf
+ [7]: http://www.dpunkt.de/leseproben/4563/4_Verbindung%20mit%20dem%20Publikum.pdf
  [8]: http://garrreynolds.com/preso-tips/prepare/
  [9]: http://garrreynolds.com/preso-tips/design/
  [10]: http://garrreynolds.com/preso-tips/deliver/
