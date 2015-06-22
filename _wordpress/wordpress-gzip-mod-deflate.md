@@ -1,9 +1,8 @@
 ---
-title: WordPress-Websites beschleunigen mit gzip und mod_deflate
-subheadline: "Webdesign"
-meta_description: "Die beiden Module gzip (mod\_gzip) und mod\_deflate beschleunigen WordPress-Websites mittels Kompression enorm. Die Installation ist denkbar einfach."
-layout: post
-permalink: /wordpress-gzip-mod-deflate/
+layout: page
+subheadline: Webdesign
+title: "WordPress-Websites beschleunigen mit gzip und mod_deflate"
+teaser: "Die beiden Module gzip (mod\_gzip) und mod\_deflate beschleunigen WordPress-Websites mittels Kompression enorm. Die Installation ist denkbar einfach."
 categories:
   - webdesign
 tags:
@@ -12,9 +11,15 @@ tags:
   - mod_deflate
   - webdesign
   - wordpress
+image:
+    title: komprimieren_shutterstock_72987988.jpg
+    thumb: wordpress.png
+    caption: "Kompression – Foto von Shutterstock"
+    caption_url: http://www.shutterstock.com/pic.mhtml?id=72987988&src=id
+style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
+-
+permalink: /wordpress-gzip-mod-deflate/
 ---
-<img src="{{ site.url }}/images/komprimieren_shutterstock_72987988-604x340.jpg" alt="komprimieren_shutterstock_72987988" width="604" height="340" class="alignnone size-large wp-image-2581" />
-
 ## Was ist gzip?
 
 *gzip* ist ein Kompressionsprogramm, das für alle Computerbetriebssysteme verfügbar ist. 90% der Browser unterstützen die gzip-Kompression. Dank der Kompression lassen sich HTML, Javascript, CSS-, Text-, PHP- oder Bilddateien komprimieren.
