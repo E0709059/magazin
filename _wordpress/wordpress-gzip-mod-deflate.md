@@ -17,8 +17,7 @@ image:
     caption: "Kompression – Foto von Shutterstock"
     caption_url: http://www.shutterstock.com/pic.mhtml?id=72987988&src=id
 style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
--
-permalink: /wordpress-gzip-mod-deflate/
+permalink: /wordpress/beschleunigen/
 ---
 ## Was ist gzip?
 
@@ -40,8 +39,8 @@ Logisch, dass dadurch die an den Empfänger gesendeten Daten weniger und die ein
 
 Ist gibt einige Websites, über die man schnell testen kann, ob die eigene (oder eine andere) Website bereits gzip aktiviert hat und komprimierte Daten ausliefert.
 
-*   <http://www.feedthebot.com/tools/gzip/>
-*   <http://www.whatsmyip.org/http-compression-test/>
+* <http://www.feedthebot.com/tools/gzip/>
+* <http://www.whatsmyip.org/http-compression-test/>
 
 ## Was muss ich tun, um mod\_gzip und mod\_deflate zu nutzen?
 
@@ -75,11 +74,11 @@ AddOutputFilterByType DEFLATE application/x-javascript
 
 ## Tiefergehende Informationen zu gzip und mod_deflate
 
-*   [Enable Gzip][1]
-*   [Compressing Web Content with mod\_gzip and mod\_deflate][2]
-*   [Das gzip-Projekt][3]
+* [Enable Gzip][1]
+* [Compressing Web Content with mod\_gzip and mod\_deflate][2]
+* [Das gzip-Projekt][3]
 
-<small>Foto: <a href="http://www.shutterstock.com/pic.mhtml?id=72987988&src=id">»Man holding an old rusty coil spring in his hands« von Shutterstock</a></small>
+
 
  [1]: http://www.feedthebot.com/pagespeed/enable-compression.html
  [2]: http://www.linuxjournal.com/article/6802
