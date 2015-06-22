@@ -11,6 +11,9 @@ tags:
   - mod_deflate
   - webdesign
   - wordpress
+header:
+    image: icon/wordpress-logo-498x113.png
+    background-color: "#82cbd0"
 image:
     title: komprimieren_shutterstock_72987988.jpg
     thumb: wordpress.png
@@ -35,7 +38,7 @@ Logisch, dass dadurch die an den Empfänger gesendeten Daten weniger und die ein
 
 ## Websites auf Kompression testen
 
-<img src="{{ site.url }}/images/gzip_kompression.png" alt="gzip_kompression" width="585" height="204" class="alignnone size-full wp-image-2580" />
+<img src="{{ site.urlimg }}gzip_kompression.png" alt="gzip_kompression" width="585" height="204" />
 
 Ist gibt einige Websites, über die man schnell testen kann, ob die eigene (oder eine andere) Website bereits gzip aktiviert hat und komprimierte Daten ausliefert.
 
