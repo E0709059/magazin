@@ -1,42 +1,40 @@
 ---
-title: 'Durchstarten mit Gulp.js – Websites optimieren, Arbeitsabläufe automatisieren'
+layout: page
 subheadline: "Webentwicklung"
-meta_description: "Mit Gulp.js automatisiert man Webdesign-Prozesse, wie die Minifizierung von Javascript, CSS und HTML oder optimiert verlustlos Bilder. Eine Anleitung."
+title: 'Durchstarten mit Gulp.js – Websites optimieren, Arbeitsabläufe automatisieren'
 teaser: "Mit Gulp.js automatisiert man Prozesse. Ob Minifizierung von Javascript, CSS und HTML, verlustlose Optimierung von Bildern oder z.B. die Kompilierung von Sass-Dateien: Gulp erledigt diese Prozesse in einem Rutsch, überwacht Veränderungen und revolutioniert die eigene Webentwicklung."
-layout: post
-permalink: /gulp/
+meta_description: "Mit Gulp.js automatisiert man Webdesign-Prozesse, wie die Minifizierung von Javascript, CSS und HTML oder optimiert verlustlos Bilder. Eine Anleitung."
 categories:
-  - Ah...!
+  - webdesign
 tags:
+  - artikel
   - building tool
   - grunt
   - gulp
   - task runner
   - webdesign
   - webentwicklung
+header:
+  image: gulp-building-tool.png
+  background-color: "#ffffff"
+  caption: Gulp Beispiel Prozess
 image:
-  title: gulp-building-tool-604x229.png
-  credit: Gulp Beispiel Prozess
+  thumb: icon/icon-gulp-128x.png
+permalink: /webdesign/gulp/
 ---
 Obendrein operiert Gulp schneller als [Grunt][1] und ist leichter zu programmieren. Eine ausführliche Anleitung für den Taskrunner und das Building Tool Gulp.
 
-## Inhalt
+<div class="panel radius" markdown="1">
+Inhalt
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
-*   [Wie funktioniert das Building Tool Gulp.js?][2]
-*   [Gulp installieren][3]
-*   [Gulp samt Plugins in gulpfile.js einbauen][4]
-*   [Gulp Plugins installieren][5]
-*   [Komprimieren von Bildern und Vektorgrafiken – PNG, SVG, JPG, GIF][6]
-*   [Grundlegende Links][7]
-*   [Gulp Tutorials (Text)][8]
-*   [Gulp Video Tutorials][9]
-*   [Grunt.js vs. Gulp.js &#8211; Interview mit Stefan Baumgartner][10]
-
-<img src="{{ site.url }}/images/gulp-2x-134x300.png" alt="gulp-2x" width="134" height="300" class="aligncenter size-medium wp-image-3262" />
 
 ## Wie funktioniert das Building Tool Gulp.js? {#was-ist-gulp}
 
-[Gulp.js][11] ist ein so genannter Task Runner basierend auf Node.js. Verglichen mit seinem Verwandten [Grunt][1], lässt sich Gulp verständlicher und schlanker programmieren. Vor allem liegt das am Konzept der Ströme, bzw. »Streams«.
+<img class="left" src="{{ site.urlimg }}gulp-2x.png" alt="gulp-2x" width="134" height="300">[Gulp.js][11] ist ein so genannter Task Runner basierend auf Node.js. Verglichen mit seinem Verwandten [Grunt][1], lässt sich Gulp verständlicher und schlanker programmieren. Vor allem liegt das am Konzept der Ströme, bzw. »Streams«.
 
 Denn Aufgaben leitet man bei Gulp durch Kanäle, die »Pipes« – siehe Abbildung. Das hilft beim logischen Aufbau eines Arbeitsablaufes (Task) und beschleunigt den Prozess. Im Vergleich mit Grunt erledigt Gulp die gleiche Arbeit schneller, da nicht nach jedem Arbeitsprozess ein Schreibprozess notwendig ist. Dieser erfolgt erst bei Beendigung des Prozesses oder, wenn er ausdrücklich gewollt ist.
 
@@ -44,11 +42,14 @@ Außerdem arbeitet Gulp asynchron und arbeitet gleichzeit mehrere Aufgaben ab. E
 
 > Unter asynchroner Kommunikation versteht man in der Informatik und Netzwerktechnik einen Modus der Kommunikation, bei dem das Senden und Empfangen von Daten zeitlich versetzt und ohne Blockieren des Prozesses durch bspw. Warten auf die Antwort des Empfängers (wie bei synchroner Kommunikation der Fall) stattfindet. <cite><a href="http://de.wikipedia.org/wiki/Asynchrone_Kommunikation">WikiPedia</a></cite> 
 
+
 ### Vorteile von Gulp.js in einer Nussschale
 
 *   **Schneller** dank dem Konzept der asynchronen »Streams«
 *   **Einfacher** zu programmieren
 *   **Übersichtlichere** Konfigurationsdateien
+
+
 
 ## Tutorial–Zielsetzung: Was Gulp für uns erledigen soll
 
@@ -79,30 +80,29 @@ Nach der Installation testet man sowohl Node.js als auch den dazugehörigen Pake
 
 Mit&#8230;
 
-    $ node -v
-    
+{% include alert terminal='node -v' %}
 
 &#8230;testet man, ob Node.js installiert ist und erhält die aktuelle Versionsnummer. Den Paketmanager überprüft man anschließend mit:
 
-    npm -v
+{% include alert terminal='npm -v' %}
+
+
     
 
 ### #2 Gulp installieren
 
 Arbeiten beide Prozesse, installiert man Gulp mit dem folgenden Befehl:
 
-    $ npm install gulp -g
-    
+{% include alert terminal='npm install gulp -g' %}
 
 Der Parameter `-g` ist wichtig, um Gulp global auf dem System zu installieren. Auf Mac oder Linux-Rechnern kann es sein, dass man als Admin erst einmal ein Passwort für die Installation eingeben muss. Das erledigt man mit `sudo`. Wer sich nicht so gut mit dem Terminal auf dem Mac auskennt, der findet weitere hilfreiche Tipps in meinem [Terminal-Artikel][12]
 
-    $ sudo npm install gulp -g
-    
+{% include alert terminal='node -v' %}
 
 Ob und welche Version von Gulp installiert ist, erfährt man über&#8230;
 
-    $ gulp -v
-    
+{% include alert terminal='gulp -v' %}
+
 
 ### #3 Initialzündung für das erste Projekt
 
@@ -110,8 +110,9 @@ Für diese Anleitung legen wir einen Ordner namens `foundation` an und springen 
 
 Zuvor legen wir noch eine `package.json`-Datei an. In dieser notiert der Packetmanager automatisch, welche Version der Module und welche Module installiert wurden. Die `package.json`-Datei ist nicht für den Betrieb notwendig, ist aber schnell über `npm init` oder `echo '{}' > package.json` angelegt. Anschließend installiert man Gulp. Und so sehen die Befehle dann aus:
 
-    $ npm init
-    $ npm install gulp --save-dev
+{% include alert terminal='npm init' %}
+
+{% include alert terminal='npm install gulp --save-dev' %}
     
 
 Jetzt muss man nur noch die Steuerungsdatei `gulpfile.js` für Gulp anlegen. In diese Datei tippt man sämtliche Aufgaben, die das Building Tool für uns erledigen soll.
@@ -122,44 +123,48 @@ Plugins installiert man über den Befehl `npm install plugin-name --save-dev`. D
 
 Für dieses Tutorial installieren wir die folgenden Plugins.
 
-    $ npm install gulp-imagemin --save-dev
-    $ npm install gulp-changed --save-dev
-    $ npm install gulp-minify-html --save-dev
-    $ npm install gulp-jshint --save-dev
-    $ npm install gulp-concat
-    $ npm install gulp-uglify --save-dev 
-    $ npm install gulp-sass
-    $ npm install gulp-autoprefixer --save-dev 
-    $ npm install gulp-minify-css --save-dev 
+{% include alert terminal='npm install gulp-imagemin --save-dev' %}
+{% include alert terminal='npm install gulp-changed --save-dev' %}
+{% include alert terminal='npm install gulp-minify-html --save-dev' %}
+{% include alert terminal='npm install gulp-jshint --save-dev' %}
+{% include alert terminal='npm install gulp-concat' %}
+{% include alert terminal='npm install gulp-uglify --save-dev ' %}
+{% include alert terminal='npm install gulp-sass' %}
+{% include alert terminal='npm install gulp-autoprefixer --save-dev ' %}
+{% include alert terminal='npm install gulp-minify-css --save-dev ' %}
     
-
 Anstelle jeden Befehl einzeln einzugeben, kann man sämtliche Plugins auch über einen Befehl installieren. Dazu reiht man die Namen einfach aneinander. Der folgende Befehl installiert drei Plugins nacheinander in einem Rutsch und notiert sie in `package.json`.
 
-    $ npm install gulp-imagemin gulp-uglify gulp-minify-css --save-dev 
+{% include alert terminal='npm install gulp-imagemin gulp-uglify gulp-minify-css --save-dev' %}
     
+
 
 ## Gulp samt Plugins in gulpfile.js einbauen {#gulpfile}
 
 Hat man die Plugins installiert – man kann weitere später nachrüsten –, öffnet man als nächstes `gulpfile.js`. Dort registriert man jetzt sämtliche benötigten Plugins und zuallererst natürlich Glulp selbst. Das geschieht mit&#8230;
 
-    // gulp.js einbauen
-    var gulp = require('gulp'); 
-    
+{% highlight javascript %}
+// gulp.js einbauen
+var gulp = require('gulp'); 
+{% endhighlight %}
 
 Im nächsten Schritt baut man die Plugins ein. Um nicht jede Zeile mit `var` zu beginnen, kann man auch alle Plugins über ein Komma nacheinander definieren. Nur zum Schluss darf man das Semikolon nicht vergessen.
 
-    // Plugins einbauen
-    var changed = require('gulp-changed'),
-        jshint = require ('gulp-jshint'),
-        concat = require ('gulp-concat'),
-        uglify = require ('gulp-uglify'),
-        rename = require('gulp-rename'),
-        imagemin = require ('gulp-imagemin'),
-        clean = require('gulp-clean'),
-        minifyhtml = require ('gulp-minify-html'),
-        autoprefixer = require ('gulp-autoprefixer '),
-        minifyCSS = require ('gulp-minify-css');
-    
+{% highlight javascript %}
+// Plugins einbauen
+var changed = require('gulp-changed'),
+    jshint = require ('gulp-jshint'),
+    concat = require ('gulp-concat'),
+    uglify = require ('gulp-uglify'),
+    rename = require('gulp-rename'),
+    imagemin = require ('gulp-imagemin'),
+    clean = require('gulp-clean'),
+    minifyhtml = require ('gulp-minify-html'),
+    autoprefixer = require ('gulp-autoprefixer '),
+    minifyCSS = require ('gulp-minify-css');
+{% endhighlight %}
+
+
 
 ## Komprimieren von Bildern und Vektorgrafiken – PNG, SVG, JPG, GIF {#images}
 
@@ -167,17 +172,18 @@ Zur einfachsten und oft auch wirkungsvollsten Methode die eigene Website zu besc
 
 Und so sieht dann der Task aus:
 
-    // Komprimiere Bilder
-    gulp.task('images', function() {
-      var imgSrc = './src/images/**/*',
-          imgDst = './build/images';
-    
-      gulp.src(imgSrc)
-        .pipe(changed(imgDst))
-        .pipe(imagemin())
-        .pipe(gulp.dest(imgDst));
-    });
-    
+{% highlight javascript %}
+// Komprimiere Bilder
+gulp.task('images', function() {
+  var imgSrc = './src/images/**/*',
+      imgDst = './build/images';
+
+  gulp.src(imgSrc)
+    .pipe(changed(imgDst))
+    .pipe(imagemin())
+    .pipe(gulp.dest(imgDst));
+});
+{% endhighlight %}
 
 In der ersten Zeile definiert man die Aufgabe und benennt sie, hier `images`. Die darauffolgenden Zeilen definieren zwei Variablen, mit denen man das Quellverzeichnis `imgSrc` der noch nicht optimierten Bilder definiert und das Zielverzeichnis `imgDst`, in welches Gulp die optimierten Bilder speichern soll.
 
@@ -185,8 +191,7 @@ Mit `gulp.src(imgSrc)` startet man den Task und übergibt das in Variable `imgSr
 
 Jetzt speichert man `gulpfile.js` ab und startet die Aufgabe über die Konsole mit `gulp` + `Name der Aufgabe`, also:
 
-    $ gulp images
-    
+{% include alert terminal='gulp images' %}
 
 Jetzt sollte Gulp nach Bildern im Quellverzeichnis `./src/images/**/*` suchen, bearbeiten und im Zielverzeichnis `./build/images` speichern. Damit auch alle Bilddateien erwischt werden, befehlen wir Gulp mit dem Sternchen `*` sämtliche Dateien zu bearbeiten. Mit `*.jpg` würden wir z.B. nur die JPG-Dateien aussuchen.
 
@@ -202,13 +207,14 @@ gulp-changed
 :   <https://www.npmjs.org/package/gulp-changed>
 :   <https://github.com/sindresorhus/gulp-changed>
 
-### Nächste Woche kümmern wir uns dann um die anderen Aufgaben :) Wer nicht warten kann, dem empfehle ich die folgenden Quellen.
 
 ## Grundlegende Links {#gulp-links}
 
 *   [Gulp Website][11]
 *   [gulp API docs][13]
 *   [Gulp Cheatsheet][14]
+
+
 
 ## Hilfreiche Gulp-Plugins
 
@@ -218,21 +224,27 @@ Mit *gulp-ftp* lädt man Dateien hoch. Kombiniert man *gulp-ftp* mit der *watch*
 
 <https://github.com/sindresorhus/gulp-ftp>
 
+
+
 ## Gulp Tutorials (Text) {#tuts-text}
+
 
 ### Deutsche Tutorials
 
 *   [Front-end Workflow mit Gulp][16]
 
+
 ### Englische Tutorials
 
-*   Mark Goodyear: [»Getting started with gulp«][17]
-*   Sitepoint: [»An Introduction to Gulp.js«][18]
-*   Smashing Magazine: [»Building With Gulp«][19]
-*   Julien Renaux: [»Introduction to Gulp.js with practical examples«][20]
-*   Justin McCandless: [»A Tutorial for Getting Started with Gulp«][21]
-*   [9 gulp.js plugins for a great build system][22]
-*   [Deploying via rsync with Gulp][15]
+* Mark Goodyear: [»Getting started with gulp«][17]
+* Sitepoint: [»An Introduction to Gulp.js«][18]
+* Smashing Magazine: [»Building With Gulp«][19]
+* Julien Renaux: [»Introduction to Gulp.js with practical examples«][20]
+* Justin McCandless: [»A Tutorial for Getting Started with Gulp«][21]
+* [9 gulp.js plugins for a great build system][22]
+* [Deploying via rsync with Gulp][15]
+
+
 
 ## Gulp Video Tutorials {#tuts-video}
 
@@ -242,36 +254,28 @@ Die LevelUpTuts-Videoanleitungen holen auch Anfänger mit grundlegenden Webdesig
 
 <div class="flex-video"><iframe width="1280" height="720" src="//www.youtube.com/embed/videoseries?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
-<div class="flex-video"><iframe width="1280" height="720" src="//www.youtube.com/embed/videoseries?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
-
 
 
 ### Gulp Tutorials von Maximilian Schmitt
 
 Diese Serie ist für Fortgeschrittene und Kenner von Javascript und Node.js geeignet.
 
-*   [Get started with gulp Part 1: Workflow overview and jade templates][23]
-*   [Get started with gulp Part 2: gulp & Browserify][24]
-*   [Get started with gulp Part 3: Uglify & environment variables][25]
-*   [Get started with gulp Part 4: SASS & CSS minification][26]
-*   [Get started with gulp Part 5: gulp.watch for true automation][27]
-*   [Get started with gulp Part 6: LiveReload and web server  
+* [Get started with gulp Part 1: Workflow overview and jade templates][23]
+* [Get started with gulp Part 2: gulp & Browserify][24]
+* [Get started with gulp Part 3: Uglify & environment variables][25]
+* [Get started with gulp Part 4: SASS & CSS minification][26]
+* [Get started with gulp Part 5: gulp.watch for true automation][27]
+* [Get started with gulp Part 6: LiveReload and web server  
     ][28]
+
+
 
 ## Grunt.js vs. Gulp.js &#8211; Interview mit Stefan Baumgartner {#gulp-grunt}
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/watch?v=NyQHh3HkcZE" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/NyQHh3HkcZE" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+
 
  [1]: http://mo.phlow.de/grunt/
- [2]: #was-ist-gulp
- [3]: #gulp-install
- [4]: #gulpfile
- [5]: #gulp-plugins
- [6]: #images
- [7]: #gulp-links
- [8]: #tuts-text
- [9]: #tuts-video
- [10]: #gulp-grunt
  [11]: http://gulpjs.com/
  [12]: http://mo.phlow.de/terminal/
  [13]: https://github.com/gulpjs/gulp/blob/master/docs/API.md
