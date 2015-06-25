@@ -4,6 +4,7 @@ subheadline: "Automatisierung & Web-Entwicklung"
 title: "Webdesign-Prozesse mit Grunt automatisieren"
 meta_description: "Mit Grunt automatisiert man sich wiederholende Aufgaben bei der Webentwicklung. Grunt ist ein JavaScript-basierter Taskrunner und hilft unter anderem bei der Code-Minifizierung, Code-Kontrolle, Kompilierung, Unit Testing und so weiter."
 teaser: "Der Einstieg in den Javascript-Taskrunner Grunt gestaltet sich ein wenig holprig, da die Dokumentation des Werkzeuges nicht ganz so strukturiert daherkommt. Das erledigt das 70-seitige Expressbuch <em>»Automate with Grunt: The Build Tool for JavaScript«</em> eleganter. Anhand von nachvollziehbaren Beispielen gelingt der Einstieg viel einfacher und strukturierter."
+header: no
 image:
     title: webdesign-buchkritik-automate_with_grunt_the_build_tool_for_javascript.jpg
 categories:
