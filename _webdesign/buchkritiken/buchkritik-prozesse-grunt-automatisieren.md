@@ -4,6 +4,8 @@ subheadline: "Automatisierung & Web-Entwicklung"
 title: "Webdesign-Prozesse mit Grunt automatisieren"
 meta_description: "Mit Grunt automatisiert man sich wiederholende Aufgaben bei der Webentwicklung. Grunt ist ein JavaScript-basierter Taskrunner und hilft unter anderem bei der Code-Minifizierung, Code-Kontrolle, Kompilierung, Unit Testing und so weiter."
 teaser: "Der Einstieg in den Javascript-Taskrunner Grunt gestaltet sich ein wenig holprig, da die Dokumentation des Werkzeuges nicht ganz so strukturiert daherkommt. Das erledigt das 70-seitige Expressbuch <em>»Automate with Grunt: The Build Tool for JavaScript«</em> eleganter. Anhand von nachvollziehbaren Beispielen gelingt der Einstieg viel einfacher und strukturierter."
+image:
+    title: webdesign-buchkritik-automate_with_grunt_the_build_tool_for_javascript.jpg
 categories:
   - webdesign
 tags:
@@ -16,8 +18,6 @@ permalink: /webdesign/buchkritik-prozesse-grunt-automatisieren/
 Über Grunt habe ich bereits [letzten November berichtet][1]. Mit Grunt automatisiert man sich wiederholende Aufgaben bei der [Webentwicklung][2]. Grunt ist ein JavaScript-basierter Taskrunner und hilft unter anderem bei der Code-Minifizierung, Code-Kontrolle, Kompilierung, Unit Testing und so weiter.
 
 Grunt beherrscht aber auch neben den verschiedenen Modulen grundlegende Funktionen, um mit dem Dateisystem zu arbeiten. Sprich, Grunt erledigt auch Aufgaben wie Verzeichnisse löschen, wieder anlegen, Dateien kopieren und so weiter. Diese grundlegenden Funktionen habe ich erst über das gerade erschienene [»Automate with Grunt: The Build Tool for JavaScript«][3] erfahren.
-
-[![]({{ site.urlimg }}webdesign-buchkritik-automate_with_grunt_the_build_tool_for_javascript.jpg)][4]
 
 Denn Autor Brian P. Hogan befasst sich Grunt-legend mit dem Taskrunner und baut kontinuierlich die Automation mit Grunt aus. Die meisten Tutorials über Grunt, die ich im Netz gefunden habe, springen oft in die großartigen Funktionen anstelle vorne zu beginnen, wie der Autor. Ein weiterer Pluspunkt des Buches ist, dass es auch die Programmierung von Grunt-Aufgaben erläutert. Diese Funktionalität erwähnen auch die wenigsten Tutorials, die eher die Verwendung von Modulen erklären.
 
@@ -35,6 +35,7 @@ Persönlich bin ich an der Automatisierung von sich wiederholenden Prozessen int
 
 ## Details zum Buch »Automate with Grunt: The Build Tool for JavaScript«
 
+Brian P. Hogan
 Paper Book ($17.00)  
 eBook ($11.00)  
 80 pages  

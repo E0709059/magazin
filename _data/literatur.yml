@@ -480,3 +480,19 @@
     - Social Media
     - Medientheorie
   language: Englisch
+
+# -----------------------------------------------
+#
+- title: "Automate with Grunt: The Build Tool for JavaScript"
+  author: "Brian P. Hogan"
+  publisher: Pragmatic Bookshelf
+  isbn: 978-1-94122-211-9
+  date_published: 2014
+  amazon_link: http://www.amazon.de/gp/product/B00KQVXD20/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00KQVXD20&linkCode=as2&tag=phlow-21&linkId=LR6EZXXTBQRIQ75I
+  category: Webdesign
+  tags:
+    - Automatisierung
+    - Grunt
+    - Web-Entwicklung
+  review_url: http://magazin.phlow.de/webdesign/buchkritik-prozesse-grunt-automatisieren/
+  language: Englisch
