@@ -9,11 +9,12 @@ tags:
     - typografie
     - buchkritik
     - responsive webdesign
+header: no
 image:
     title: buchkritik-responsive_typography_buch.jpg
 permalink: /webdesign/responsive-typography-buch/
 ---
-Liest man ein Buch über Typografie, ist das Auge höchstwahrscheinlich bereits geschult. Unbewusst inspiziert man den Fluss der Buchstaben, nimmt vorhandene oder abwesende Proportionen wahr und so weiter. Gräbt man sich dann – *so wie ich gerade* – in das Thema [Ästhetik des Buches][2] ein – fällt einem leider sofort die schlechte Druckqualität des O’Reilly Buches auf.
+Liest man ein Buch über Typografie, ist das Auge höchstwahrscheinlich bereits geschult. Unbewusst inspiziert man den Fluss der Buchstaben, nimmt vorhandene oder abwesende Proportionen wahr und so weiter. Gräbt man sich dann in das Thema Ästhetik des Buches ein – fällt einem leider sofort die schlechte Druckqualität des O’Reilly Buches auf.
 
 Dieses hat erstaunlicherweise eine außergewöhnlich schlechte Auflösung. Vielleicht fällt es dem ein oder anderen nicht direkt auf, wie ausgefranst die Buchstaben auf dem Papier aussehen, aber spätestens die gerasterten Abbildungen und Icons in schwarzweiss fallen negativ auf. Ist der Designer-Bluthund in einem dann erst einmal erwacht, entdeckt man immer mehr Mängel – wie z.B. krumme Linien über den Kapiteltiteln, senkrechte Linien in den Abbildungen und mehr. Ich möchte nicht böse sein, aber ein wenig sieht der Druck aus, wie die mäßigen Ergebnisse meines alten Tintenstrahldruckers anno 1998.
 
@@ -45,3 +46,7 @@ Sprache: Englisch
 ISBN-13 978-1491907092  
 Taschenbuch: 108 Seiten  
 
+ [1]: https://twitter.com/jpamental
+ [2]: http://mo.phlow.de/buch-das-ende-einer-last/
+ [3]: http://www.paulirish.com/2009/fighting-the-font-face-fout/
+ [4]: http://www.amazon.de/gp/product/B00NH1JM4E/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00NH1JM4E&linkCode=as2&tag=phlow-21&linkId=YJNWVBM7I3PEU4U5
