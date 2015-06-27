@@ -12,7 +12,7 @@ tags:
 header: no
 image:
     title: buchkritik-responsive_typography_buch.jpg
-permalink: /webdesign/responsive-typography-buch/
+permalink: /webdesign/responsive-typography/
 ---
 Liest man ein Buch über Typografie, ist das Auge höchstwahrscheinlich bereits geschult. Unbewusst inspiziert man den Fluss der Buchstaben, nimmt vorhandene oder abwesende Proportionen wahr und so weiter. Gräbt man sich dann in das Thema Ästhetik des Buches ein – fällt einem leider sofort die schlechte Druckqualität des O’Reilly Buches auf.
 

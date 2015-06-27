@@ -496,3 +496,20 @@
     - Web-Entwicklung
   review_url: http://magazin.phlow.de/webdesign/buchkritik-prozesse-grunt-automatisieren/
   language: Englisch
+
+# -----------------------------------------------
+#
+- title: "Responsive Typography: Using Type Well on the Web"
+  author: "Jason Pamental"
+  publisher: O'Reilly Verlag
+  isbn: 978-1491907092
+  date_published: 2014
+  amazon_link: http://www.amazon.de/gp/product/B00NH1JM4E/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00NH1JM4E&linkCode=as2&tag=phlow-21&linkId=YJNWVBM7I3PEU4U5
+  website: http://rwt.io/
+  category: Webdesign
+  tags: 
+    - Typografie
+    - Webdesign
+    - Responsive Webdesign
+  review_url: http://magazin.phlow.de/webdesign/responsive-typography/
+  language: Englisch
