@@ -39,7 +39,13 @@ format: blog-index
             <li><a href="{{ site.url }}/code/php/">PHP</a></li>
             <li><a href="{{ site.url }}/code/gulp/">Gulp</a></li>
             <li>&nbsp;</li>
-        </ul>    
+        </ul>
+
+        <h2>Buchtipps</h2>
+        <h3>Deutsche Titel</h3>
+        {% include literatur thema='Webdesign' sprache='Englisch' %}
+        <h3>Englische Titel</h3>
+        {% include literatur thema='Webdesign' sprache='Englisch' %}
     </div><!-- /.medium-5.columns -->
 </div><!-- /.row -->
 

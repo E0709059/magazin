@@ -324,25 +324,6 @@
     - Journalismus
   language: Englisch
 
-# -----------------------------------------------
-#
-- title: "Responsive Typography: Using Type Well on the Web"
-  author: "Jason Pamental"
-  publisher: O'Reilly Media
-  isbn: 978-1491907092
-  date_published: 2014
-  amazon_link: http://www.amazon.de/gp/product/1491907096/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1491907096&linkCode=as2&tag=phlow-21&linkId=O2CZXA7HHZ2RBLTU
-  website: http://rwt.io/
-  category:
-    - Typografie
-    - Webdesign
-  tags:
-    - Webdesign
-    - Responsive Webdesign
-    - Typografie
-    - Responsive Typography
-  review_url: 
-  language: Englisch
 
 # -----------------------------------------------
 #
@@ -489,6 +470,7 @@
   isbn: 978-1-94122-211-9
   date_published: 2014
   amazon_link: http://www.amazon.de/gp/product/B00KQVXD20/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00KQVXD20&linkCode=as2&tag=phlow-21&linkId=LR6EZXXTBQRIQ75I
+  website: 
   category: Webdesign
   tags:
     - Automatisierung
@@ -506,10 +488,14 @@
   date_published: 2014
   amazon_link: http://www.amazon.de/gp/product/B00NH1JM4E/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00NH1JM4E&linkCode=as2&tag=phlow-21&linkId=YJNWVBM7I3PEU4U5
   website: http://rwt.io/
-  category: Webdesign
+  category:
+    - Typografie
+    - Webdesign
   tags: 
     - Typografie
     - Webdesign
     - Responsive Webdesign
+    - Responsive Typography
   review_url: http://magazin.phlow.de/webdesign/responsive-typography/
   language: Englisch
+

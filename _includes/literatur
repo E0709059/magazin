@@ -2,7 +2,7 @@
 #
 #  Mit Capture erst in einen einzigen String verwandeln
 #
-#  Benutzen › {% include literatur thema='Typografie' %}
+#  Benutzen › {% include literatur thema='Typografie' sprache='Deutsch' %}
 #
 {% endcomment %}
 
@@ -26,7 +26,7 @@
                 {% if book.publisher %}Verlag: {{ book.publisher }}{% if book.date_published %}, {{ book.date_published }}{% endif %}<br>{% endif %}
                 {% if book.isbn %}ISBN: {{ book.isbn }}<br>{% endif %}
                 {% if book.download_link %}{{ book.download_link }}<br>{% endif %}
-                {% if book.website %}{{ book.website }}<br>{% endif %}
+                {% if book.website %}<a href="{{ book.website }}">Website zum Buch</a><br>{% endif %}
                 {% if book.tags %}Schlagworte: {{ book.tags | join: ', '}}<br>{% endif %}
                 {% if book.review_url %}<a href="{{ book.review_url }}">Buchbesprechung</a><br>{% endif %}
                 {% if book.amazon_link %}<a target="_blank" class="t15 button radius tiny" href="{{ book.amazon_link }}">Bei Amazon kaufen ›</a><br>{% endif %}
