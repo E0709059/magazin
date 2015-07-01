@@ -1,34 +1,38 @@
 ---
+layout: page
+subheadline: Web-Entwicklung
 title: Meine Webdesign Werkzeugkiste
-layout: post
-permalink: /webdesign-werkzeuge/
+teaser: "Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäßig nutze. Die aufgeführten Programme und Online-Services sind superb und empfehlenswert."
 categories:
-  - Ah...!
+  - webdesign
 tags:
   - software
   - webdesign
   - webentwicklung
   - werkzeuge
+permalink: /webdesign/werkzeuge/
 ---
 <img src="{{ site.url }}/images/webdesign_shutterstock_151359191.png" alt="webdesign_shutterstock_151359191" width="1000" height="592" class="alignnone size-full wp-image-1260" />
 
-Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäßig nutze. Die aufgeführten Programme und Online-Services sind superb und empfehlenswert.<!--more-->
+<small>Foto: <a href="http://www.shutterstock.com/pic-151359191/stock-vector-flat-design-vector-illustration-of-mobile-and-desktop-website-design-development-process-with.html">»Flat design vector illustration of mobile and desktop website«</a></small>
 
-**Inhaltsverzeichnis**
+<div class="panel radius" markdown="1">
+Inhalt
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
-*   [HTML & Texte][1]
-*   [CSS][2]
-*   [Redaktionssysteme/CMS][3]
-*   [Webdesign][4]
-*   [Bildbearbeitung][5]
-*   [Online-Services][6]
 
-## HTML & Texte {#html}
+
+## HTML & Texte
 
 [Sublime Text][7]
 :   Sublime Text ist *der* Editor, um mit Code und Text zu arbeiten. Keine Software für die Programmierung hat mir bis jetzt so unter die Arme gegriffen, wie dieser Texteditor. Basierend auf Python stehen für Sublime Text zahlreiche kostenlosen Erweiterungen zur Verfügung. Diese beschleunigen die Arbeit. Ein weiteres herausragendes Feature von Sublime Text ist die Möglichkeit das Programm maximal an seine Bedürfnisse anzupassen.
 
-## CSS {#css}
+
+
+## CSS
 
 [Sass][8] & [Compass][9]
 :   Die beiden Terminal-Programme Sass und Compass ermöglichen dynamische Stylesheets, in welchen man Variablen definieren kann, Bausteine inkludieren kann,&#8230;
@@ -36,7 +40,9 @@ Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäß
 [Foundation Framework][10]
 :   Foundation ist kein Werkzeug, sondern eher ein Werkzeugkasten. Foundation besteht aus HTML, CSS und Javascript-Elementen, alle einsetzbar für Responsive Webdesigns. Die Entwicklung von Responsive Webdesign macht mit Foundation unglaublich Spaß. Besonders dann, wenn man Sass bzw. Compass für die Entwicklung nutzt.
 
-## Redaktionssystem/CMS {#cms}
+
+
+## Redaktionssystem/CMS
 
 [WordPress][11]
 :   Seit ich [mein erstes Buch 2005][12] veröffentlicht habe, arbeite ich mit WordPress. Letztes Jahr kam das vielgelobte [»Das WordPress-Buch«][13] dazu, das ich dieses Jahr aktualisieren werde. Mit WordPress baue ich nicht nur eigene Websites, sondern auch die von zahlreichen Kunden. Es ist einfach das führende CMS.
@@ -44,7 +50,9 @@ Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäß
 [Jekyll][14]
 :   Viele Kunden und viele kleine Projekte benötigen eigentlich nur fertige HTML-Seiten. Seit einem halben Jahr sammel ich immer mehr Erfahrungen mit Jekyll dem Static Website Generator und die Arbeit gefällt mir immer besser. Mit keinem Werkzeug baue ich derzeit so perfekte, ultra-schnelle und aufs Maximum optimierte Website, wie mit Jekyll. Die Arbeit mit Jekyll, Ruby und Foundation lässt mich die derzeit – für mein Können – besten Websites bauen.
 
-## Webdesign {#webdesign}
+
+
+## Webdesign
 
 [MAMP][15]
 :   MAMP ermöglicht den Betrieb eines Servers auf dem eigenen Rechner. Mit Hilfe von MAMP kann man PHP-Dateien samt MySQL-Anbindung direkt auf dem eigenen Rechner programmieren, testen und ausprobieren. Sehr hilfreich bei der Entwicklung von WordPress-Websites.
@@ -58,6 +66,8 @@ Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäß
 [FileZilla][18]
 :   Mein derzeitiges – seit Jahren genutztes – FTP-Programm, dass ich in Zukunft gerne durch eine komfortablere Variante ersetzen möchte – zum Beispiel [Transmit][19]. Derzeit bin ich aber zu knauserig, um den Sprung zu wagen. Dickes Minus von FileZilla ist der Fakt, dass man die Server-Einträge nicht in einer geschützten Daten abspeichern kann, sondern als XML-Datei im Klartext. Nicht sehr sicher, wenn jemand auf den eigenen Rechner zugreifen kann.
 
+
+
 ## Bildbearbeitung {#bildbearbeitung}
 
 [Photoshop][20]
@@ -70,6 +80,8 @@ Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäß
 [JPEGMini][23]
 :   JPEGmini komprimiert Bilder ohne sichtbare Verluste. Die kostenlose App JPEGMini Lite komprimiert 20 Bilder pro Tag und eignet sich hervorragend für Blogger. Bilder, die ich mit Photoshop exportiere, lasse ich dann noch einmal in einer zweiten Runde mit der kleinen App verkleinern. Das beschleunigt die Website.
 :   **Mehr »** [Phlow.TV – Videotutorial zu JPEGMini][23]
+
+
 
 ## Online-Services {#online-services}
 
@@ -86,7 +98,7 @@ Dies ist eine Liste meiner Webdesign-Werkzeuge, die ich täglich oder regelmäß
 [X-Icon Editor][30]
 :   Mit dem Online-Editor X-Icon Editor erstellt man per Upload oder über den Editor ein [Favicon][31] für die eigene Website.
 
-<small>Foto: <a href="http://www.shutterstock.com/pic-151359191/stock-vector-flat-design-vector-illustration-of-mobile-and-desktop-website-design-development-process-with.html">»Flat design vector illustration of mobile and desktop website«</a></small>
+
 
  [1]: #html
  [2]: #css

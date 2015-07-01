@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline: Datenimport
 title: WordPress-Beiträge in Frontmatter-Beiträge konvertieren
 teaser: "Der WordPress-Aus- und Umstieg zu Jekyll erleichtert das Plugin <em>WordPress to Jekyll Exporter</em> enorm. Es konviertiert WordPress-Beiträge unkompliziert in Frontmatter-Textdateien."
