@@ -11,18 +11,17 @@ tags:
   - webentwicklung
   - werkzeuge
 permalink: /webdesign/werkzeuge/
+header:
+    image_fullwidth: "webdesign_shutterstock_151359191.png"
+    caption: "»Flat Design Vektoren Illustration« von Shutterstock"
+    caption_url: http://www.shutterstock.com/pic-151359191/stock-vector-flat-design-vector-illustration-of-mobile-and-desktop-website-design-development-process-with.html
 ---
-<img src="{{ site.url }}/images/webdesign_shutterstock_151359191.png" alt="webdesign_shutterstock_151359191" width="1000" height="592" class="alignnone size-full wp-image-1260" />
-
-<small>Foto: <a href="http://www.shutterstock.com/pic-151359191/stock-vector-flat-design-vector-illustration-of-mobile-and-desktop-website-design-development-process-with.html">»Flat design vector illustration of mobile and desktop website«</a></small>
-
 <div class="panel radius" markdown="1">
 Inhalt
 {: #toc }
 *  TOC
 {:toc}
 </div>
-
 
 
 ## HTML & Texte

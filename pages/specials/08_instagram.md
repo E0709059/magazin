@@ -73,7 +73,7 @@ Vor allem portraitiert er Menschen, die er in New York auf der Straße trifft. N
 
 </div><!-- /.medium-6.columns -->
 <div class="medium-6 columns" markdown="1">
-### Profifotografie von Reuters und CNN
+### Profifotografie von Reuters & CNN
 
 [![]({{ site.urlimg }}instagram-reuters-600x.jpg)][6]
 
