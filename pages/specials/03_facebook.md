@@ -80,14 +80,14 @@ Im Zentrum der Bücher von [Jürgen Todenhoefer][5] steht der Einsatz für Fried
 
 ## Quellen, Websites, Blogs
 
-[Socialmediainsights.de](http://socialmediainsights.de/)
-:   ...dokumentiert die Ergebnisse der Hochschule für Wirtschaft und Recht in Berlin und trägt zahlreiche Informationen zusammen, die zum Einsatz von Social Media in der Unternehmens-kommunikation verfügbar sind. Die Website versteht sich als Informations-Hub.
-
 [Allfacebook.de](http://allfacebook.de/)
 :   Exzellentes deutsches Blog mit Nachrichten und Hilfestellungen rund um Facebook
 
 [Thomas Hutter](http://www.thomashutter.com/?s=facebook)
 :   Blog über Facebook-Entwicklungen und Marketing mit jeder Menge Statistiken und Nachrichten.
+
+[Socialmediainsights.de](http://socialmediainsights.de/)
+:   ...dokumentiert die Ergebnisse der Hochschule für Wirtschaft und Recht in Berlin und trägt zahlreiche Informationen zusammen, die zum Einsatz von Social Media in der Unternehmens-kommunikation verfügbar sind. Die Website versteht sich als Informations-Hub.
 
 </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

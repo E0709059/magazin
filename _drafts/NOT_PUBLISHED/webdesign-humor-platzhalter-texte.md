@@ -8,6 +8,7 @@ tags:
   - lorem ipsum
   - platzhalter
   - webdesign
+permalink: webdesign-humor-platzhalter-texte
 ---
 <img src="http://baconmockup.com/604/340" alt="Tasty Bacon" width="604" height="340" />
 
