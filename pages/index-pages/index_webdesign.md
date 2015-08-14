@@ -38,6 +38,7 @@ format: blog-index
             <li><a href="{{ site.url }}/code/javascript/">Javascript</a></li>
             <li><a href="{{ site.url }}/code/php/">PHP</a></li>
             <li><a href="{{ site.url }}/code/gulp/">Gulp</a></li>
+            <li><a href="{{ site.url }}/code/ruby-on-rails/">Ruby On Rails</a></li>
             <li>&nbsp;</li>
         </ul>
 

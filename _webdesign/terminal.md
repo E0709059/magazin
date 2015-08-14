@@ -175,10 +175,29 @@ Um die Dateien in einen Ordner namens thumb zu speichern, gibt man folgendes an:
 {% include alert terminal='for i in *.png; do sips -s format jpeg $i --out konvertiert/$i.jpg;done;' %}
 
 
+## Dateien runterladen
 
-## WordPress runterladen, entpacken und Archiv löschen
+### Downloads mit curl
+
+{% include alert terminal='wget https://archive.org/compress/kpu001' %}
+
+
+### WordPress runterladen, entpacken und Archiv löschen
 
 {% include alert terminal='wget http://wordpress.org/latest.tar.gz && tar xfz latest.tar.gz && rm -f latest.tar.gz' %}
+
+
+
+## Sonderzeichen eingeben
+
+Die Tilde, also <kbd>~</kbd>, gibt man mit der Tastenkombination <kbd>Alt</kbd> + <kbd>n</kbd> gefolgt von einmal anschließend <kbd>Leertaste</kbd> drücken.
+
+Das Backslash-Zeichen <kbd>\</kbd> erhalten Sie, wenn Sie <kbd>Umschalten</kbd> + <kbd>Alt</kbd> + <kbd>7</kbd> drücken.
+
+Die geschwungenen Klammern <kbd>{</kbd> und <kbd>}</kbd> liegen auf den normalen Klammern. Über die Tastatur geben Sie diese mit <kbd>alt</kbd> + <kbd>8</kbd> oder <kbd>9</kbd> ein.
+
+
+
 
 
  [1]: http://support.apple.com/kb/HT2531?viewlocale=de_DE&locale=de_DE

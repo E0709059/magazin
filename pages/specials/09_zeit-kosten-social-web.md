@@ -320,44 +320,39 @@ Die verschiedenen Werkzeuge unterstützen Sie je nach Wahl mal mehr, mal weniger
       </td>
       <td>
         Portofolio<br>
-
         Experimente
       </td>
       <td>
         Überblick<br>
-
         Produkte anbieten<br>
-
         Informieren
       </td>
       <td>
         Portofolio<br>
-
         Experimente
       </td>
       <td>
         Portofolio<br>
-
         Experimente
       </td>
       <td>
         Portofolio<br>
-
         Experimente
       </td>
       <td>
         Portofolio<br>
-
         Experimente
       </td>
       <td>
         Expertise<br>
-
         Portofolio
       </td>
     </tr>
 
     <tr>
+      <td colspan="9">
+        Legende › Sterne erklären den Grad der Intensität (Beispiel: Drei Sterne bei Twitter/Diskussion bedeuten, dass sich das Netzwerk für Diskussionen sehr eignet. Newsletter ermöglichen dahingegen keine Diskussionen.)
+      </td>
       <td colspan="9">
         © 2015 by Phlow.de
       </td>

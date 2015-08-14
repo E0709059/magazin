@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Ressources und Brand Assets"
 title: "Phlow Magazin Brand"
 teaser: "Diese Webseite informiert Sie über die Corporate Identity von Phlow Magazin. Unsere Brand Assets können Sie auch herunterladen und unseren Vorgaben entsprechen nutzen."
-permalink: /ci/
 header: no
 tags:
     - ci
@@ -11,6 +10,7 @@ tags:
     - corporate identity
     - brand
     - brand assets
+permalink: /ci/
 ---
 
 ## Einfache Richtlinien
