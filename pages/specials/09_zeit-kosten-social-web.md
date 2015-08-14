@@ -353,6 +353,8 @@ Die verschiedenen Werkzeuge unterstützen Sie je nach Wahl mal mehr, mal weniger
       <td colspan="9">
         Legende › Sterne erklären den Grad der Intensität (Beispiel: Drei Sterne bei Twitter/Diskussion bedeuten, dass sich das Netzwerk für Diskussionen sehr eignet. Newsletter ermöglichen dahingegen keine Diskussionen.)
       </td>
+    </tr>
+    <tr>
       <td colspan="9">
         © 2015 by Phlow.de
       </td>
