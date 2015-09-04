@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Grundlegende Terminal Befehle"
-teaser: "Mit Hilfe des Mac Terminals arbeiten Sie oft schneller, automatisieren nervige Prozesse und erledigen lästige Arbeit mit ein paar wenigen eingetippten Befehlen anstelle von Klickorgien. Vor allem als  Webdesigner werden Sie schnell feststellen, wie flexibel, schnell und komfortabel die Arbeit mit der Kommandozeile sein kann."
+teaser: "Mit Hilfe des Mac Terminals arbeiten Sie oft schneller, automatisieren nervige Prozesse und erledigen lästige Arbeit mit ein paar wenigen eingetippten Befehlen anstelle von Klickorgien. Vor allem als  Webdesigner werden Sie schnell feststellen, wie flexibel, schnell und komfortabel die Arbeit mit der Kommandozeile sein kann."
 categories:
     - development
 tags:
@@ -38,7 +38,7 @@ directory
 :    Verzeichnisse werden *directory* genannt.
 
 home directory
-:    Als *home directory* wird das Arbeitsverzeichnis, in welchem das Terminal startet – in der Regel `/Users/Name/`.
+:    Als *home directory* wird das Arbeitsverzeichnis, in welchem das Terminal startet – in der Regel `/Users/Name/`.
 
 
 ## Schneller mit dem Terminal arbeiten
@@ -91,8 +91,16 @@ Um die obigen Farbschemata abzuspeichern, geht man wie folgt vor:
 
 
 
+## Versteckte Ordner & Dateien mit Terminal anzeigen
 
-## Versteckte Ordner & Dateien anzeigen
+Mit <kbd>ls</kbd> listet man die Dateien in einem Ordner auf. Um auch versteckte Dateien anzeigen zu lassen, muss man den Parameter <kbd>-all</kbd> oder in der Kurzvariante <kbd>-a</kbd> hinzufügen. Der Befehl lautet dann:
+
+{% include alert terminal='ls -a' %}
+
+
+
+
+## Versteckte Ordner & Dateien mit Finder anzeigen
 
 Damit Finder alle versteckten Dateien und Ordner anzeigt, gibt man über das Terminal den folgenden Befehl ein.
 
