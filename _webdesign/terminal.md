@@ -154,24 +154,21 @@ Die zusätzlichen Parameter `-la` sorgen dafür, dass die Dateien als ausführli
 
 
 
-
-
 ### Bilder passgenau zuschneiden und in angelegten Ordner thumbs speichern
 
-{% include alert terminal='sips -Z 150 -c 150 150 *.jpg --out thumbs' %}
+Mit `--out` bestimmt man entweder einen neuen Dateinamen oder einen Ordner, in welchen die bearbeiteten Dateien gespeichert werden.
 
-Mit --out bestimmt man entweder einen neuen Dateinamen oder einen Ordner, in welchen die bearbeiteten Dateien gespeichert werden.
+Um die Dateien in einen Ordner namens *thumbnails* zu speichern, gibt man folgendes an:
 
-Um eine Datei zu erstellen hängt man eine Dateiendung wie *.jpg* an:
+{% include alert terminal='sips -Z 150 -c 150 150 *.jpg --out thumbnails' %}
+
+Wenn Sie nur eine Datei mit einer neuen Dateiendung zu erstellen – z.B. *.jpg* – dann hängen Sie die Endung einfach so an:
 
 {% include alert terminal='sips -Z 150 -c 150 150 bild.jpg --out bild_thumb.jpg' %}
 
 
 
 
-Um die Dateien in einen Ordner namens thumb zu speichern, gibt man folgendes an:
-
-{% include alert terminal='sips -Z 150 -c 150 150 *.jpg --out thumbnails' %}
 
 
 
