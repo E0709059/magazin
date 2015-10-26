@@ -31,21 +31,28 @@ Inhalt
 {:toc}
 </div>
 
+## Freie Bildplattformen auf einer Site
+
+![Startseite von TheStocks.im]({{ site.urlimg }}screenshot_thestocks_im.jpg)
+
+Die Website the [TheStocks.im][16] ist clever und einfach: Sie versammelt zahlreiche Quellen mit freien Bilder auf einer Website. Fast alle weiter unten folgenden Quellen, findet Ihr auch über TheStocks.im – Man könnte die Website als eine Art Google-Suchmaschine für freie Bilder betiteln.
+
+
 ## Fotos von Unsplash.com
 
 [Unsplash][1] ist eine großartige Quelle für hochwertige Fotos, die unter einer [Creative Commons Zero-Lizenz][2] frei für die Verwendung für sämtliche Zwecke zur Verfügung stehen. Die Bandbreite der Fotos reicht von Architektur über Menschen über Gegenstände bis hin zur Naturfotografie. Eine Fundgrube für Blogger, anstehende Präsentationen und Medien. Lediglich eine Kategorisierung, Verschlagwortung oder jedewede andere Form der Sortierung fehlt. Vier weitere schöne Fotobeispiele&#8230;
 
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
-  <li><a href="{{ site.urlimg }}bild-unsplash-1.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}bild-unsplash-1.jpg"></a></li>
-  <li><a href="{{ site.urlimg }}bild-unsplash-2.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}bild-unsplash-2.jpg"></a></li>
-  <li><a href="{{ site.urlimg }}bild-unsplash-3.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}bild-unsplash-3.jpg"></a></li>
+  <li><a href="{{ site.urlimg }}bild-unsplash-1.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}bild-unsplash-1.jpg"></a></li>
+  <li><a href="{{ site.urlimg }}bild-unsplash-2.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}bild-unsplash-2.jpg"></a></li>
+  <li><a href="{{ site.urlimg }}bild-unsplash-3.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}bild-unsplash-3.jpg"></a></li>
 </ul>
 
 
 
 ## Aus alt mach neu: Vintage Fotos
 
-![Katze Kostenloses Bildmaterial]({{ site.urlimg }}bild-katze-kostenlose-foto-quelle.jpg)
+![Katze Kostenloses Bildmaterial]({{ site.urlimg }}bild-katze-kostenlose-foto-quelle.jpg)
 
 [New Old Stock][6] sammelt Bilder deren Copyrights aufgrund der Zeit verfallen sind. Die Bilder stammen von Flickr, wo man mehr Informationen zu den Fotografen und den Quellen erhält. Angefangen bei obligatorischen Katzenbildern von 1940 über finnische Milchmädchen bis hin zu Bildern aus dem Weltall kann man reichlich Bildmaterial entdecken.
 
@@ -54,7 +61,7 @@ Inhalt
 
 ## Pexels.com: Mehr als 1.300 Fotos
 
-<img src="{{ site.urlimg }}bild-pexels-kostenlose-foto-quelle.jpg" alt="Symbolische Bilder" />
+<img src="{{ site.urlimg }}bild-pexels-kostenlose-foto-quelle.jpg" alt="Symbolische Bilder" />
 
 [Pexels.com][3] ist eine kleine Suchmaschine mit Archiv, dass ausschießlich Creative Commons-Bilder sammelt, die man für alles kostenlos nutzen kann. Die Betreiber legen dabei wert auf hochwertige Fotos und wollen den Katalog jede Woche um weitere 30 Fotos bereichern.
 
@@ -62,7 +69,7 @@ Inhalt
 
 ## Pixabay: 270.000+ kostenlose Fotos, Vektoren und Illustrationen
 
-<img src="{{ site.urlimg }}bild-pixabay-kostenlose-bilder-quelle.jpg" alt="Symbolische Bilder" />
+<img src="{{ site.urlimg }}bild-pixabay-kostenlose-bilder-quelle.jpg" alt="Symbolische Bilder" />
 
 > Auf Pixbay kannst Du urheberrechtsfreie Bilder finden und teilen. Alle Bilder sind unter Creative Commons CC0 als Public Domain bzw. als gemeinfrei veröffentlicht.
 
@@ -72,7 +79,7 @@ Website › [pixabay.com][4]
 
 ## Foto-Abo von Little Visuals
 
-Ähnlich wie Unsplash versammelt auch [Little Visuals][5] Bilder unter einer Creative Commons Zero-Lizenz in Form eines Blogs. Alle sieben Tage – *so verspricht die Website* – kann man sich sieben Bilder in Form einer ZIP-Datei herunterladen. Leider bietet die Website keinerlei Informationen über die Quelle bzw. die Fotografen der Bilder. Auch erhählt man keinerlei Informationen über die Website selbst. Vorsicht ist angemahnt.
+Ähnlich wie Unsplash versammelt auch [Little Visuals][5] Bilder unter einer Creative Commons Zero-Lizenz in Form eines Blogs. Alle sieben Tage – *so verspricht die Website* – kann man sich sieben Bilder in Form einer ZIP-Datei herunterladen. Leider bietet die Website keinerlei Informationen über die Quelle bzw. die Fotografen der Bilder. Auch erhählt man keinerlei Informationen über die Website selbst. Vorsicht ist angemahnt.
 
 
 
@@ -88,18 +95,18 @@ Hinter [Death to the Stock Photo][8] steckt das amerikanische Päarchen Allie Le
 
 Die [Nasa][13] veröffentlicht auf [Flickr] einen großen Schatz freier Bilder. Mal als  Public Domain, mal unter Creative Commons-Lizenzen.
 
-<img src="{{ site.urlimg }}bild-nasa.jpg" alt="Space X" />
+<img src="{{ site.urlimg }}bild-nasa.jpg" alt="Space X" />
 
 ### Bilder vom Deutschen Zentrum für Luft- und Raumfahrt
 
-Auch das [Deutsche Zentrum für Luft- und Raumfahrt][15] (DLR) veröffentlicht [Fotos und Videos][14] unter einer Creative-Commons-Lizenz (CC). Die Bilder – öffentlich finanziert – darf man für die Weiterverarbeitung nutzen. Lediglich eine Namensnennung der Quelle ist erforderlich.
+Auch das [Deutsche Zentrum für Luft- und Raumfahrt][15] (DLR) veröffentlicht [Fotos und Videos][14] unter einer Creative-Commons-Lizenz (CC). Die Bilder – öffentlich finanziert – darf man für die Weiterverarbeitung nutzen. Lediglich eine Namensnennung der Quelle ist erforderlich.
 
 
 ### Fotos von SpaceX
 
 [SpaceX][10] entwickelt, produziert und startet Raketen und Raumfahrzeuge. Die Mission von SpaceX ist, Menschen zu befähigen, um auf anderen Planeten zu leben. Die [Fotos auf Flickr von SpaceX][11] veröffentlicht das Unternehmen unter einer Creative Commons-Lizenz, die auch die kommerzielle Nutzung erlaubt. Dazu muss man lediglich den Urheber der Fotos nennen.
 
-<img src="{{ site.urlimg }}bild-spacex.jpg" alt="Space X" />
+<img src="{{ site.urlimg }}bild-spacex.jpg" alt="Space X" />
 
 
 
@@ -148,7 +155,7 @@ In der Wikipedia findet man einen Beitrag, der [zahlreichen Quellen für Public 
  [13]: http://www.nasa.gov/
  [14]: https://www.flickr.com/photos/dlr_de/sets/72157629481565213/
  [15]: http://dlr.de/
- [16]: #
+ [16]: http://thestocks.im/
  [17]: #
  [18]: #
  [19]: #
