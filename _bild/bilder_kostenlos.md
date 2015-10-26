@@ -93,7 +93,7 @@ Hinter [Death to the Stock Photo][8] steckt das amerikanische Päarchen Allie Le
 
 ### Bilder von der NASA
 
-Die [Nasa][13] veröffentlicht auf [Flickr] einen großen Schatz freier Bilder. Mal als  Public Domain, mal unter Creative Commons-Lizenzen.
+Die [Nasa][13] veröffentlicht auf [Flickr][12] einen großen Schatz freier Bilder. Mal als  Public Domain, mal unter Creative Commons-Lizenzen.
 
 <img src="{{ site.urlimg }}bild-nasa.jpg" alt="Space X" />
 
