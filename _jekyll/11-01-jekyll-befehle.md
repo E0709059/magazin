@@ -15,12 +15,8 @@ breadcrumb: true
 
 Erscheint eine neue Version von Jekyll, sollte man schleunigst Jekyll auf den neuesten Stand bringen. Um herauszufinden, welche Version auf dem System installiert ist, ruft man einfach Jekyll mit dem Parameter `-v` für Version auf.
 
-<div class="alert-box radius terminal" markdown="1">
-$ jekyll -v
-</div>
+{% include alert terminal='jekyll -v' %}
 
 Aktualisiert wird Jekyll dann mit.
 
-<div class="alert-box radius terminal" markdown="1">
-$ sudo gem update jekyll
-</div>
+{% include alert terminal='sudo gem update jekyll' %}
