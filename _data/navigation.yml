@@ -41,9 +41,9 @@
   url: "/phlow-tv/"
   side: left
 
-- title: Blog
-  url: "http://blog.phlow.de/"
-  side: left
+# - title: Blog
+#   url: "http://blog.phlow.de/"
+#   side: left
 
 - title: Feature
   url: "/feature/"
