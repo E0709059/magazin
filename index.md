@@ -10,6 +10,7 @@ header:
     image: start-webdesign-shutterstock-22768912.png
     background-color: "#29aebc"
 style: "#masthead-with-background-color { padding: 10px; }"
+homepage: true
 ---
 <div class="row">
   <div class="medium-4 columns">
