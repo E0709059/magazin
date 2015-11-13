@@ -8,37 +8,12 @@ tags:
     - typografie
 permalink: /typografie/freie-schriften/
 ---
-## Gentium Basic
-
-Download: <http://www.fontsquirrel.com/fonts/gentium-basic>
-
-## Charis Sil
-
-Download: <http://www.fontsquirrel.com/fonts/charis-sil>
-
-## Adelle
-
-<https://typekit.com/fonts/adelle-web>
-<http://www.type-together.com/Adelle>
-
-Angewandt: <http://git-scm.com/book/en/Getting-Started-Git-Basics>
-
 
 
 ## Headline Fonts
 
-### Archistico
-
-Mehr › <http://www.fontsquirrel.com/fonts/archistico>
-
-
-
-
-## Monospace Fonts
-
-### PT Mono
-<http://www.google.com/fonts/specimen/PT+Mono>
-
+* [Archistico](http://www.fontsquirrel.com/fonts/archistico>) (fontsquirrel)
+* [Pacifico][12] – Schreibschrift (Google Fonts)
 
 
 
@@ -48,27 +23,33 @@ Mehr › <http://www.fontsquirrel.com/fonts/archistico>
 * [Cantarell][3]
 * [Lato][4]
 * [Source Sans Pro][5]
-* [Playfair Display][6]
 * [Orienta][7]
-* [Merriweather Sans][17]
-
-## Serif Schriften (Google Fonts)
-
-* [Droid Serif][8]
-* [Neuton][9]
-* [Arvo][10]
 * [Jura][11]
-* [Quattrocento][13]
-* [EB Garamond][14]
-* [Merriweather][15]
-* [Source Serif Pro][16]
-* [Libre Baskerville][19]
-* [Noto Serif][20]
+* [Adelle](http://www.type-together.com/index.php?action=portal/viewContent&cntId_content=3000&id_section=166) – [Beispiel](http://git-scm.com/book/en/Getting-Started-Git-Basics)
 
 
-## Schreibschriften (Google Fonts)
+## Serif Schriften
 
-* [Pacifico][12]
+* [Playfair Display][6] (Google Fonts)
+* [Gentium Basic](http://www.fontsquirrel.com/fonts/gentium-basic) (fontsquirrel)
+* [Merriweather Sans][17] (Google Fonts)
+* [Droid Serif][8] (Google Fonts)
+* [Neuton][9] (Google Fonts)
+* [Arvo][10] (Google Fonts)
+* [Quattrocento][13] (Google Fonts)
+* [EB Garamond][14] (Google Fonts)
+* [Merriweather][15] (Google Fonts)
+* [Source Serif Pro][16] (Google Fonts)
+* [Libre Baskerville][19] (Google Fonts)
+* [Noto Serif][20] (Google Fonts)
+* [Charis Sil](http://www.fontsquirrel.com/fonts/charis-sil) (fontsquirrel)
+
+
+## Monospace Fonts
+
+* [PT Mono](http://www.google.com/fonts/specimen/PT+Mono)
+
+
 
  [1]: http://mo.phlow.de/schlagwort/google-fonts/
  [2]: http://www.google.com/fonts/specimen/Maven+Pro
