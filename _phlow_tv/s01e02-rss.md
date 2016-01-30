@@ -1,5 +1,4 @@
 ---
-layout: video
 subheadline: RSS Newsreader
 title: RSS Abonnieren Videoanleitung 
 teaser: "Dieser Screencast stellt den beliebten RSS-Newsreader Netvibes vor. Die Video-Anleitung zeigt, wie man Netvibes startet und einrichtet. Moritz »mo.« Sauer erklärt dabei die verschiedenen Bestandteile des Web 2.0-Services wie Widgets, Tabs und die Einstellungen des RSS-Newsreader."
@@ -7,8 +6,6 @@ permalink: /video/rss/
 header: no
 image:
     thumb: phlow-tv-rss-thumb.jpg
-categories:
-    - video
 tags:
     - video
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/AJxs019BscM' frameborder='0' allowfullscreen></iframe>"

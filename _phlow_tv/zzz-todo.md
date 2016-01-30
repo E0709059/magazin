@@ -1,13 +1,10 @@
 ---
 published: false
-layout: video
 subheadline: Video ToDo-Liste
 title: Themen für neue Videos
 teaser: ""
 permalink: /video/todo/
 header: no
-categories:
-    - video
 tags:
     - video
     - todo

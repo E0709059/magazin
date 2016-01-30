@@ -1,5 +1,4 @@
 ---
-layout: video
 subheadline: Bildkompression
 title: Bilder verlustfrei komprimieren mit kostenlosem ImageOptim
 teaser: "Bilddateien wie JPG, PNG und GIF komprimiert man mit der kostenlosen Open Source-Software ImageOptim verlustfrei. Die Videoanleitung erklärt das Programm und wie man es für Bilder anwendet."
@@ -7,8 +6,6 @@ permalink: /video/imageoptim/
 header: no
 image:
     thumb: phlow-tv-imageoptim-thumb.jpg
-categories:
-    - video
 tags:
     - video
     - bildkompression

@@ -1,5 +1,4 @@
 ---
-layout: video
 subheadline: WordPress
 title: "Miniaturbilder/Thumbnails nachträglich mit WordPress bearbeiten"
 teaser: "Diese Videoanleitung erklärt, wie man mit WordPress selbst den Ausschnitt bestimmt und ein neues Miniaturbild bzw. einen Thumbnail erstellt."
@@ -7,8 +6,6 @@ permalink: /video/wordpress-thumbnails/
 header: no
 image:
     thumb: phlow-tv-wordpress-thumbnails.jpg
-categories:
-    - video
 tags:
     - video
     - wordpress

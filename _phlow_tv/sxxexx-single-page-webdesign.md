@@ -1,5 +1,4 @@
 ---
-layout: video
 subheadline: Webdesign
 title: Single Page Webdesign 
 teaser: Single Page Webdesign sammelt und zeigt alle Informationen auf einer einzigen Webseite, meist ordentlich mit Javascript gepfeffert. Oft toben sich Designer auf solchen Single Page-Webseiten richtig aus. Single Page-Webseiten werden im Netz für Portfolios, Events, kleine Themen, Splash Pages, Promotion- und Produkt-Websites eingesetzt. Eine kleine Einführung.
@@ -7,8 +6,6 @@ permalink: /video/single-page-webdesign/
 header: no
 image:
     thumb: phlow-tv-single-page-webdesign-thumb.jpg
-categories:
-    - video
 tags:
     - video
     - webdesign

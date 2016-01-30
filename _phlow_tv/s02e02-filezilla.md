@@ -1,5 +1,4 @@
 ---
-layout: video
 subheadline: FTP
 title: "Filezilla - Anleitung: Dateien hochladen per FTP-Programm"
 teaser: Diese Videoanleitung erklärt, wie man mit dem kostenlosen FTP-Programm FileZilla  Dateien auf einen Server hochlädt. 
@@ -8,8 +7,6 @@ permalink: /video/filezilla/
 header: no
 image:
     thumb: phlow-tv-filezilla-thumb.jpg
-categories:
-    - video
 tags:
     - video
     - ftp

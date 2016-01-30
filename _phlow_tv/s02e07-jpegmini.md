@@ -1,5 +1,4 @@
 ---
-layout: video
 subheadline: Bildkompression
 title: Bilder mit kostenlosem JPEGmini ohne sichtbare Verluste komprimieren 
 teaser: "JPEGmini komprimiert Bilder ohne sichtbare Verluste und spart Anwendern Webspace und beschleunigt Websites durch kürzere Download-Zeiten. Die Videoanleitung stellt JPEGMini und die dazugehörige kostenlose JPEGMini Lite-App vor."
@@ -7,8 +6,6 @@ permalink: /video/jpegmini/
 header: no
 image:
     thumb: phlow-tv-jpegmini-thumb.jpg
-categories:
-    - video
 tags:
     - video
     - bildkompression

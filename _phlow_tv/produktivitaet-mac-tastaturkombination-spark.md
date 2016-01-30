@@ -1,14 +1,11 @@
 ---
-layout: video
 subheadline:    'Produktivität'
 title:          'Tastenkombinationen auf dem Mac erstellen und verwalten'
 teaser:         'Videoanleitung: Spark ist ein Manager zum Erstellen und Verwalten von Tastenkombinationen, mit denen sich Anwendungen sowie Skripte direkt ausführen lassen.'
 permalink: /video/produktivitaet-mac-tastaturkombination-spark/
 header: no
 image:
-    thumb: produktivitaet-mac-tastaturkombination-spark.jpg
-categories:
-    - video
+    thumb: https://img.youtube.com/vi/SV4B3boVNmc/mqdefault.jpg
 tags:
     - video
     - tastenkombination
