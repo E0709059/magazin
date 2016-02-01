@@ -15,9 +15,9 @@ collection: video
 <ul class="no-bullet">
 {% for phlow_tv in site.phlow_tv %}
 <li class="clearfix">
-<h2><a href="{{ site.url }}{{ phlow_tv.url }}">{{ phlow_tv.title }}</a>
+<h2><a href="{{ site.url }}{{ phlow_tv.url }}">{{ phlow_tv.title }}</a>
 </h2>
-<p>{% if phlow_tv.image.thumb %}<a href="{{ site.url }}{{ phlow_tv.url }}"><img class="left" src="{{ site.urlimg }}{{ phlow_tv.image.thumb }}" alt="" width="228" height="128"></a>{% endif %}{{ phlow_tv.teaser }} <a href="{{ site.url }}{{ phlow_tv.url }}">Anschauen ›</a></p>
+<p>{% if phlow_tv.image.thumb %}<a href="{{ site.url }}{{ phlow_tv.url }}"><img class="left" src="{% if phlow_tv.image.thumb contains 'http' %}{{ phlow_tv.image.thumb }}{% else %}{{ site.urlimg }}{{ phlow_tv.image.thumb }}{% endif %}" alt="" width="228"></a>{% endif %}{{ phlow_tv.teaser }} <a href="{{ site.url }}{{ phlow_tv.url }}">Anschauen ›</a></p>
 </li>
 {% endfor %}
 </ul>
