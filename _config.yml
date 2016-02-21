@@ -256,14 +256,12 @@ collections:
 
 
 #      ______
-#     / ____/__  ____ ___
-#    / / __/ _ \/ __ `__ \
-#   / /_/ /  __/ / / / / /
-#   \____/\___/_/ /_/ /_/
+#     / ____/__  ____ ___  _____
+#    / / __/ _ \/ __ `__ \/ ___/
+#   / /_/ /  __/ / / / / (__  )
+#   \____/\___/_/ /_/ /_/____/
 #
-
 gems:
-  - jekyll
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-paginate
+    - jekyll-gist
+    - jekyll-sitemap
+    - jekyll-paginate
