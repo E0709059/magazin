@@ -1,27 +1,9 @@
 ---
-subheadline:    'Produktivität'
-title:          'Tastenkombinationen auf dem Mac erstellen und verwalten'
-teaser:         'Videoanleitung: Spark ist ein Manager zum Erstellen und Verwalten von Tastenkombinationen, mit denen sich Anwendungen sowie Skripte direkt ausführen lassen.'
-permalink: /video/produktivitaet-mac-tastaturkombination-spark/
-header: no
-image:
-    thumb: https://img.youtube.com/vi/SV4B3boVNmc/mqdefault.jpg
-tags:
-    - video
-    - tastenkombination
-    - tastaturkürzel
-    - produktivität
-    - manager
-    - mac osx
-    - software
-    - kostenlos
-    - app
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/SV4B3boVNmc' frameborder='0' allowfullscreen></iframe>"
-video:
-    embedURL: "https://www.youtube.com/embed/SV4B3boVNmc"
-    contentURL: "https://www.youtube.com/watch?v=SV4B3boVNmc"
-    thumbnailUrl: "http://img.youtube.com/vi/SV4B3boVNmc/maxresdefault.jpg"
+# This layout is used to redirect pages, if you moved them.
+# Use the following settings in front matter:
+# 
+layout: redirected
+sitemap: false
+permalink: permalink: /video/produktivitaet-mac-tastaturkombination-spark/
+redirect_to:  http://phlow.tv/video/produktivitaet-mac-tastaturkombination-spark/
 ---
-Mit Spark erstellt man unkompliziert und schnell Tastenkombinationen auf dem Mac, um z.B. Programme zu starten oder Ordner zu öffnen. Das Video erklärt Dir, wie Du die Tastenkombinationen erstellst und einfach behältst und nicht wieder vergisst.
-
-Download › [Website Spark](http://www.shadowlab.org/softwares/spark.php)
