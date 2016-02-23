@@ -24,53 +24,51 @@ Die Schwerpunkte von WordPress bilden Ästhetik, Webstandards und Benutzerfreund
 {% include list-collection.html collection='wordpress' %}
 
 
-## Videos
-
-<ul class="side-nav">
-  {% for page in site.phlow_tv %}
-    {% if page.url contains 'wordpress' %}
-    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  <li>&nbsp;</li>
-</ul>
 
 </div><!-- /.small-6.columns -->
 <div class="small-6 columns" markdown="1">
 <h2 style="margin-top: 0;">Das WordPress-Buch</h2>
 
-[![]({{ site.urlimg }}wordpress-buch-2.jpg)][3]
+[![]({{ site.urlimg }}wordpress-buch-2.jpg)][3]
 
 <a style="background: #82cbd0;" class="shadow-black button radius" href="http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637">Bei Amazon kaufen ›</a>
-<a style="background: #82cbd0;" class="shadow-black button radius" href="{{ site.url }}/wordpress/buch/">Mehr zum Buch ›</a>
-
-## Installation von WordPress
-
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/lW820hNkXrI" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
-
-<a style="background: #82cbd0;" class="shadow-black button radius" href="{{ site.url }}/video/wordpress-installation/">Mehr Informationen ›</a>
-
-
-## Dateien hochladen mit dem FTP-Programm Filezilla
-
-<div class="flex-video"><iframe width='970' height='546' src='//www.youtube.com/embed/ystpUgSaPrA' frameborder='0' allowfullscreen></iframe></div><!-- /.flex-video -->
-
-
-[Mehr Informationen ›][2]
-{: .button.radius.success }
-
+<a style="background: #82cbd0;" class="shadow-black button radius" href="{{ site.url }}/wordpress/buch/">Mehr zum Buch ›</a>
 
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
 
- [1]: {{ site.url }}/video/wordpress-installation/
- [2]: {{ site.url }}/video/filezilla/
- [3]: {{ site.url }}/wordpress/buch/
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+<div class="row">
+<div class="medium-6 columns" markdown="1">
+
+
+## Installation von WordPress
+
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/lW820hNkXrI" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+
+<a style="background: #82cbd0;" class="shadow-black button radius" href="{{ site.url }}/video/wordpress-installation/">Mehr Informationen ›</a>
+
+
+</div><!-- /.medium-6.columns -->
+<div class="medium-6 columns" markdown="1">
+
+
+## FTP-Upload mit Filezilla
+
+<div class="flex-video"><iframe width='970' height='546' src='//www.youtube.com/embed/ystpUgSaPrA' frameborder='0' allowfullscreen></iframe></div><!-- /.flex-video -->
+
+
+<a style="background: #82cbd0;" class="shadow-black button radius" href="http://phlow.tv/video/wordpress-installation/">Mehr Informationen ›</a>
+
+
+</div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+
+
+
+
+ [1]: {{ site.url }}/video/wordpress-installation/
+ [2]: http://phlow.tv/video/filezilla/
+ [3]: {{ site.url }}/wordpress/buch/

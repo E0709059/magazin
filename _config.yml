@@ -232,9 +232,6 @@ collections:
   video:
     output: true
     permalink: /:path/
-  phlow_tv:
-    output: true
-    permalink: /:path/
   webdesign:
     output: true
     permalink: /:path/
