@@ -43,6 +43,18 @@ home directory
 
 ## Schneller mit dem Terminal arbeiten
 
+### Cursor mit der Maus positionieren
+
+Um schnell an eine Stelle eines Befehls im Terminal zu springen hält man die <kbd>alt</kbd>-Taste fest und klickt an die Stelle mit der Maus.
+
+### Springen zum Anfang und Ende einer Zeile
+
+Zum Anfang der Zeile springt man mit <kbd>ctrl</kbd> + <kbd>a</kbd> und mit <kbd>CTRL</kbd> + <kbd>e</kbd> zum Ende.
+
+## Um die Zeile sofort zu löschen…
+
+…klickt man <kbd>ctrl</kbd> + <kbd>u</kbd>.
+
 ### Pfeiltasten rauf und runter
 
 Die Rauf- und Runterpfeiltasten wechseln zwischen den zuletzt eingetippten Befehlen
