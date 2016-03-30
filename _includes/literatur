@@ -19,7 +19,7 @@
                     {% if book.review_url contains = 'http' %}
                         <a href="{{ book.review_url }}">»{{ book.title }}«</a>
                     {% elsif book.review_url %}
-                        <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
+                        <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
                     {% else %}»{{ book.title }}«{% endif %}
                 </span><br>
                 Autor: {{ book.author | join: ', '}}<br>
