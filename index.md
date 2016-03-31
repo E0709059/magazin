@@ -22,6 +22,7 @@ homepage: true
       {% endfor %}
       <li>&nbsp;</li>
     </ul>
+    <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/social-media/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-6.columns -->
 
   <div class="medium-6 columns">
