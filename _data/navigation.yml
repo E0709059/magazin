@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Publizieren
+- title: Themen
   url: "#"
   side: left
   dropdown:
@@ -10,14 +10,12 @@
     url: "/text/"
   - title: Bildbearbeitung
     url: "/bild/"
-#  - title: "Audiobearbeitung"
-#    url: "/audio/"
-#  - title: "Video &amp; Videoschnitt"
-#    url: "/video/"
-#  - title: Multimedia
-#    url: "/multimedia/"
   - title: Webdesign
     url: "/webdesign/"
+  - title: Social Media Special
+    url: "/social-media/"
+  - title: Specials
+    url: "/feature/"
 
 - title: WordPress
   url: "/wordpress/"
@@ -31,22 +29,9 @@
     url: "/wordpress/plugins/"
   - title: "WordPress Programmierung"
     url: "/code/wordpress/"
-  # - title: Jekyll
-  #  url: "/jekyll/"
-# - title: CMS
-#   url: "#"
-#   side: left
 
 - title: Videos
   url: "http://phlow.tv"
-  side: left
-
-# - title: Blog
-#   url: "http://blog.phlow.de/"
-#   side: left
-
-- title: Feature
-  url: "/feature/"
   side: left
 
 - title: "Suche"

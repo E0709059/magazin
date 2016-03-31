@@ -26,7 +26,7 @@ homepage: true
 
   <div class="medium-6 columns">
     <a href="{{ site.url }}/text/"><img src="{{ site.urlimg }}startseite-text-thumb.png" width="332" alt="Texte schreiben"></a>
-    <h4 class="b15"><a href="{{ site.url }}/text/">Texte Schreiben</a></h4>
+    <h4 class="b15"><a href="{{ site.url }}/text/">Texte Schreiben für das Internet</a></h4>
     {% include list-collection-by-tag.html collection='text' tag='darstellungsform' limit='5' %}
     <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/text/"><strong>Mehr ›</strong></a></p>
   </div><!-- /.medium-6.columns -->
