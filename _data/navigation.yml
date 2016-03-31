@@ -6,13 +6,13 @@
   url: "#"
   side: left
   dropdown:
-  - title: Texten fürs Web
+  - title: Texten Schreiben für das Web
     url: "/text/"
   - title: Bildbearbeitung
     url: "/bild/"
   - title: Webdesign
     url: "/webdesign/"
-  - title: Social Media Special
+  - title: Social Media Specials
     url: "/social-media/"
   - title: Specials
     url: "/feature/"
