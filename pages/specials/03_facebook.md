@@ -16,6 +16,7 @@ tags:
     - plattform
     - facebook
     - app
+    - soziales netzwerk
 permalink: /facebook/
 ---
 <div class="row">

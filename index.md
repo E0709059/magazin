@@ -18,7 +18,7 @@ homepage: true
     <h4 class="b15"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h4>
     <ul class="side-nav">
       {% for page in site.pages %}
-      {% if page.tags contains 'social media special' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+      {% if page.tags contains 'soziales netzwerk' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
       {% endfor %}
       <li>&nbsp;</li>
     </ul>

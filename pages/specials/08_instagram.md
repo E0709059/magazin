@@ -16,6 +16,7 @@ tags:
     - instagram
     - app
     - social media special
+    - soziales netzwerk
 permalink: /instagram/
 ---
 <div class="row">
