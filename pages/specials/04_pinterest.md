@@ -30,7 +30,7 @@ permalink: /pinterest/
 
 - Website: []()
 
-Pinterest Presse Informationen › [](https://)
+Pinterest Presse Informationen › [about.pinterest.com/de/press/press](https://about.pinterest.com/de/press/press)
 
 
 
