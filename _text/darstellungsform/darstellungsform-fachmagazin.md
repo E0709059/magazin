@@ -4,11 +4,11 @@ layout: page
 subheadline: "Fachartikel schreiben"
 title: "Wie schreibt man einen Artikel für einen Fachmagazin"
 teaser: " "
-permalink: /text/fachartikel-schreiben/
 categories:
   - text
 tags:
   - journalismus
+permalink: /text/fachartikel-schreiben/
 ---
 
 # Fachmagazinartikel

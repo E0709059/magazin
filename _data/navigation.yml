@@ -6,7 +6,9 @@
   url: "#"
   side: left
   dropdown:
-  - title: Texten Schreiben für das Web
+  - title: WordPress
+    url: "/wordpress/"
+  - title: Texte Schreiben für das Web
     url: "/text/"
   - title: Bildbearbeitung
     url: "/bild/"
@@ -14,28 +16,17 @@
     url: "/webdesign/"
   - title: Social Media Specials
     url: "/social-media/"
-  - title: Specials
-    url: "/feature/"
-
-- title: WordPress
-  url: "/wordpress/"
-  side: left
-  dropdown:
-  - title: "Das WordPress Buch"
-    url: "/wordpress/buch/"
-  - title: "WordPress Themes"
-    url: "/wordpress/themes/"
-  - title: "WordPress Plugins"
-    url: "/wordpress/plugins/"
-  - title: "WordPress Programmierung"
-    url: "/code/wordpress/"
 
 - title: Videos
   url: "http://phlow.tv"
   side: left
 
+- title: Blog
+  url: "/blog/"
+  side: left
+
 - title: "Suche"
-  url: "/suche/"
+  url: "http://suche.phlow.de/"
   side: right
 
 - title: "Über Uns"
@@ -46,9 +37,3 @@
     url: "/info/"
   - title: "Presskit, Logo, Phlow Brand"
     url: "/ci/"
-  - title: "Roadmap – Unser Weg"
-    url: "/roadmap/"
-
-- title: "Impressum"
-  url: "http://phlow.de/impressum/"
-  side: right

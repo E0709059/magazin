@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: Interview
+subheadline: Blogs
 title: "Marcel Weiß: Wie wichtig sind Blogs für die Gesellschaft?"
 teaser: 'Das ist eins von vier Interviews, dass der Frage nachgeht: Wie wichtig sind Blogs für die Gesellschaft?'
 categories:

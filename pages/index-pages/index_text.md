@@ -17,8 +17,8 @@ collection: text
         {% for page in site.text %}
         {% if page.published == false %}
         {% elsif page.tags contains 'darstellungsform' and counter < 15 %}
-        <h3><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h3>
-        <p class="clearfix">{% if page.image.thumb %}<a href="{{ site.url }}{{ page.url }}"><img class="left" src="{{ site.urlimg }}{{ page.image.thumb }}" alt="" width="128" height="128"></a>{% endif %}{{ page.teaser }} <a href="{{ site.url }}{{ page.url }}">Lesen&nbsp;›</a></p>
+        <h3><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h3>
+        <p class="clearfix">{% if page.image.thumb %}<a href="{{ site.url }}{{ page.url }}"><img class="left" src="{{ site.urlimg }}{{ page.image.thumb }}" alt="" width="128" height="128"></a>{% endif %}{{ page.teaser }} <a href="{{ site.url }}{{ page.url }}">Lesen&nbsp;›</a></p>
         {% assign counter=counter | plus:1 %}
         {% endif %}
         {% endfor %}
@@ -30,7 +30,7 @@ collection: text
         <ul class="side-nav">
         {% for page in site.text %}
             {% if page.tags contains 'buchkritik' %}
-            <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+            <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
           {% endif %}
         {% endfor %}
         <li></li>
@@ -41,7 +41,7 @@ collection: text
         {% for page in site.text %}
             {% if page.tags contains 'typografie' %}
                 {% if page.published == NULL %}
-                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endif %}
             {% endif %}
         {% endfor %}
@@ -53,7 +53,7 @@ collection: text
         {% for page in site.text %}
             {% if page.tags contains 'recherche' %}
                 {% if page.published == NULL %}
-                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endif %}
             {% endif %}
         {% endfor %}
@@ -65,7 +65,7 @@ collection: text
         {% for page in site.text %}
             {% if page.tags contains 'software' %}
                 {% if page.published == NULL %}
-                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+                    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
                 {% endif %}
             {% endif %}
         {% endfor %}
