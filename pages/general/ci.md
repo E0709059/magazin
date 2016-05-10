@@ -174,7 +174,7 @@ Mehr Informationen und Bilder unter [moritz.sauer.io](http://moritz.sauer.io)
 
 ## Typografie
 
-Für den Fließtext des Phlow Magazins nutzen wir derzeit das Arbeitspferd [Georgia][3]. Für Überschriften, Buttons und kleine Schrift kommt [Open Sans][4] zum Einsatz.
+Für den Fließtext des Phlow Magazins nutzen wir das Arbeitspferd [Georgia][3]. Für Überschriften, Buttons und kleine Schrift kommen [Open Sans][4] und [Open Sans Condensed][5] zum Einsatz. Für Code-Beispiele setzen wir die wunderschöne[Inconsolata][6]-Monospace-Schrift ein.
 
 
 - - - - -
@@ -204,8 +204,8 @@ Mailchimp, YouTube, Twitter, Facebook, Tumblr, WordPress, Jekyll
  [2]: #
  [3]: http://de.wikipedia.org/wiki/Georgia_%28Schriftart%29
  [4]: https://www.google.com/fonts/specimen/Open+Sans
- [5]: #
- [6]: #
+ [5]: https://www.google.com/fonts/specimen/Open+Sans+Condensed
+ [6]: https://www.google.com/fonts/specimen/Inconsolata
  [7]: #
  [8]: #
  [9]: #
