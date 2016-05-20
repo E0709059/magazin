@@ -3,7 +3,6 @@ layout: page-fullwidth
 title: "Darstellungsformen im Journalismus"
 subheadline: "Die verschiedenen Darstellungsformen und -gruppen"
 teaser: "Informationen zu den verschiedenen Darstellungsformen im Journalismus und die drei Gruppen der Darstellungsformen."
-permalink: /text/darstellungsform/
 header:
     image_fullwidth: text-darstellungsform-5522195438_7aae1f068c_o.jpg
     caption: "arnoKath – INK"
@@ -16,6 +15,8 @@ tags:
     - journalismus
     - textgattung
     - textform
+permalink:      /text/darstellungsform/
+breadcrumb:     true
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

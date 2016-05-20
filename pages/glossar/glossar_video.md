@@ -69,6 +69,9 @@ Als Off-Text bezeichnet man den gesprochenen Text, dessen Quelle man nicht sieht
 ## Trailer
 Ein Trailer ist ein aus Filmszenen zusammengeschnittener Programmhinweis. Der häufig ca. 30 Sekunden lange Film soll Zuschauer informieren und neugierig machen und bietet eine Vorschau mit Kernaussagen zur beworbenen Sendung oder einem Film.
 
+## VSEO
+VSEO steht für »Video Search Engine Optimization« auch »Video SEO« genannt. VSEO ähnelt der klassischen Suchmaschinenoptimierung, bringt aber ein paar spezialisierte Techniken mit, die insbesondere auf die optimierte Platzierung von Videos innerhalb von Video-Communities abzielen.
+
 ## Wipe
 Ein Wipe, auch Wischblende genannt, ist ein Übergang von einem Bild zum nächsten, oft in Form eines vorgefertigten Musters.
 

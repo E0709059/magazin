@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Die Kritik"
 title: "Wie man eine Kritik schreibt!"
 teaser: "Die Kritik ist eine funktionale Mischform aus Bericht, Kommentar, Interpretation und Reportage. Sie gehört zu den meinungsbetonten Darstellungsformen."
-permalink: /text/kritik/
 image:
     thumb: text-kritik-128x-157547696.jpg
 header:
@@ -19,6 +18,8 @@ tags:
     - journalismus
     - onlinejournalismus
     - anleitung
+permalink:      /text/kritik/
+breadcrumb:     true
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

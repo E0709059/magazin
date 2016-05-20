@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Die Pressemeldung"
 title: "Wie man eine Pressenachricht (PR-Bericht, Pressebericht) schreibt!"
 teaser: "Dieser Artikel erklärt, wie man Pressetexte für Public Relations, kurz PR genannt, aufbereitet. Eine Checkliste hilft bei der erfolgreichen Fertigstellung eines PR-Schreiben."
-permalink: /text/pr-meldung-pressemeldung/
 image:
     thumb: pr-meldung-shutterstock-128x-140839090.jpg
 header:
@@ -17,6 +16,8 @@ tags:
     - pr-bericht
     - pressebericht
     - schreiben
+breadcrumb:     true
+permalink: /text/pr-meldung-pressemeldung/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

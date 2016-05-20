@@ -24,6 +24,28 @@ format: blog-index
 
 
     <div class="medium-6 columns">
+
+        <h2>Videos: HTML & CSS Lernen</h2>
+        <ul class="side-nav">
+        {% assign counter = 1 %}
+        {% for page in site.webdesign %}
+        {% if page.published == false %}
+        {% elsif page.categories contains 'html' and counter < 15 %}
+        <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
+        {% assign counter=counter | plus:1 %}
+        {% endif %}
+        {% endfor %}
+        </ul>
+
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+
+<div class="row">
+
+    <div class="medium-6 columns">
+
         <h2>Artikel</h2>
         <ul class="side-nav">
         {% assign counter = 1 %}
@@ -36,14 +58,21 @@ format: blog-index
         {% endfor %}
         </ul>
 
-
-
+        <h2>Buchtipps</h2>
+        <ul class="side-nav">
+        {% for book in site.data.literatur %}
+            {% if book.category contains "Webdesign" %}
+                {% if book.review_url %}
+                    <li>
+                        <a href="{{ book.review_url }}">{{ book.language }} | »{{ book.title }}«</a>
+                    </li>
+                {% endif %}
+            {% endif %}
+            {% if forloop.last %}<li class="b30"></li>{% endif %}
+        {% endfor %}
+        </ul>
     </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
 
-
-
-<div class="row">
 
     <div class="medium-6 columns">
         <h2><a href="{{ site.url }}/code/">Code-Schnipsel</a></h2>
@@ -63,21 +92,6 @@ format: blog-index
     </div><!-- /.medium-6.columns -->
 
 
-    <div class="medium-6 columns">
 
-        <h2>Buchtipps</h2>
-        <ul class="side-nav">
-        {% for book in site.data.literatur %}
-            {% if book.category contains "Webdesign" %}
-                {% if book.review_url %}
-                    <li>
-                        <a href="{{ book.review_url }}">{{ book.language }} | »{{ book.title }}«</a>
-                    </li>
-                {% endif %}
-            {% endif %}
-            {% if forloop.last %}<li class="b30"></li>{% endif %}
-        {% endfor %}
-        </ul>
-    </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 

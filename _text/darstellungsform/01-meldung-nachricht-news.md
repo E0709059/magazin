@@ -1,9 +1,8 @@
 ---
-layout: page-fullwidth
-subheadline: "Die Nachricht"
-title: "Wie man eine Nachricht (Meldung, News) schreibt!"
-teaser: "Dieser Artikel erklärt, wie man eine Nachricht (Meldung, News) professionell aufbaut und journalistisch verfasst."
-permalink: /text/meldung-nachricht-news/
+layout:         page-fullwidth
+subheadline:    "Die Nachricht"
+title:          "Wie man eine Nachricht (Meldung, News) schreibt!"
+teaser:         "Dieser Artikel erklärt, wie man eine Nachricht (Meldung, News) professionell aufbaut und journalistisch verfasst."
 image:
     thumb: text-news-nachricht-meldung-128x-158718434.jpg
 header:
@@ -21,6 +20,8 @@ tags:
     - journalismus
     - anleitung
     - howto
+breadcrumb:     true
+permalink:      /text/meldung-nachricht-news/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

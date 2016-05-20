@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Das Interview"
 title: "Wie man ein Interview schreibt!"
 teaser: "Ein Interview ist eine Befragung mit dem Ziel, interessante, neue und spannende Dinge über und vom Interviewpartner zu erfahren. Neben der Darstellungsform, ist das Interview aber auch eine Recherchemethode."
-permalink: /text/interview/
 image:
     thumb: text-header-interview-128x.jpg
 header:
@@ -22,6 +21,8 @@ tags:
     - textgattung
     - dialog
     - schreiben
+permalink:      /text/interview/
+breadcrumb:     true
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">

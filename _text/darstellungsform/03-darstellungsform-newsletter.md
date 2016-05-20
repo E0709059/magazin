@@ -3,7 +3,6 @@ layout: page-fullwidth
 subheadline: "Der Newsletter"
 title: "Wie man einen Newsletter für das E-Mail Marketing schreibt!"
 teaser: "»E-Mail Marketing per Newsletter« ist ein Leitfaden für professionelles Online-Marketing. Neben einem E-Mail-Marketing-Plan erläutert das HowTo technische Hürden und typische Anfängerfehler."
-permalink: /text/newsletter-email-marketing/
 image:
     thumb: text-newsletter-marketing-128x-224796616.jpg
 header:
@@ -23,6 +22,8 @@ tags:
     - guerilla marketing
     - howto
     - schreiben
+permalink:      /text/newsletter-email-marketing/
+breadcrumb:     true
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
