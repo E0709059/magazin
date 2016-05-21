@@ -35,6 +35,7 @@ format: blog-index
         {% assign counter=counter | plus:1 %}
         {% endif %}
         {% endfor %}
+        <li></li>
         </ul>
 
     </div><!-- /.medium-6.columns -->

@@ -1,13 +1,14 @@
 ---
-layout:         page
-subheadline:    'Webdesign Grundlagen'
-title:          '#002 Impressum erstellen für Deine Website'
-video:          'https://www.youtube.com/watch?v=vIMav9vvQek'
-categories:     html
-image:          '002-impressum-website-erstellen.jpg'
-header:         no
-permalink:      '/webdesign/impressum-website-erstellen/'
-breadcrumb:     true
+layout:             page
+subheadline:        'Webdesign Grundlagen'
+title:              '#002 Impressum erstellen für Deine Website'
+meta_description:   'Jede Website muss ein Impressum vorweisen. In diesem Video-Tutorial zeige ich Dir, wie Du eine rechtskonforme Impressum-Webseite anlegst.'
+video:              'https://www.youtube.com/watch?v=vIMav9vvQek'
+categories:         html
+image:              '002-impressum-website-erstellen.jpg'
+header:             no
+permalink:          '/webdesign/impressum-website-erstellen/'
+breadcrumb:         true
 ---
 Jede Website muss ein Impressum vorweisen. In diesem Video-Tutorial zeige ich Dir, wie Du eine rechtskonforme Impressum-Webseite anlegst.
 <!--more-->
