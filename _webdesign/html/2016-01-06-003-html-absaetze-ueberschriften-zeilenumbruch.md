@@ -1,4 +1,5 @@
 ---
+layout:        page
 subheadline:   'Webdesign Grundlagen'
 title:         '#003 HTML: Texte gliedern mit &lt;p&gt;, &lt;h1&gt; bis &lt;h6&gt; und &lt;br&gt;'
 video:          'https://www.youtube.com/watch?v=54Nd3otI1ds'
