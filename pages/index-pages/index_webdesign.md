@@ -30,7 +30,7 @@ format: blog-index
         {% assign counter = 1 %}
         {% for page in site.webdesign %}
         {% if page.published == false %}
-        {% elsif page.categories contains 'html' and counter < 15 %}
+        {% elsif page.categories contains 'html' and counter < 25 %}
         <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
         {% assign counter=counter | plus:1 %}
         {% endif %}
