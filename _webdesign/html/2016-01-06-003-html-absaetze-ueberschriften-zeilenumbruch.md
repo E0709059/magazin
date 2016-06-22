@@ -5,7 +5,7 @@ title:         '#003 HTML: Texte gliedern mit &lt;p&gt;, &lt;h1&gt; bis &lt;h6&g
 video:          'https://www.youtube.com/watch?v=54Nd3otI1ds'
 categories:     html
 image:          'html-absaetze-ueberschriften-zeilenumbruch.jpg'
-permalink:      '/html/absaetze-ueberschriften-zeilenumbruch/'
+permalink:      '/webdesign/html/absaetze-ueberschriften-zeilenumbruch/'
 ---
 Dieses Video stellt die grundlegenden HTML-Befehle für die Gliederung von Text vor: Absätze &lt;p&gt;, Überschriften &lt;h1&gt; bis &lt;h6&gt; und Zeilenumbrüche &lt;br&gt;.
 <!--more-->

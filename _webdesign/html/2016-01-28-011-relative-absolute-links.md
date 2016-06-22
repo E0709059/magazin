@@ -5,7 +5,7 @@ title:          '#011 HTML: Relative und Absolute Links'
 video:          'https://www.youtube.com/watch?v=PhTp17k5hFY'
 image:          '011-html-relative-absolute-links.jpg'
 categories:     html
-permalink:      '/html-relative-absolute-links/'
+permalink:      '/webdesign/html/relative-absolute-links/'
 ---
 Es gibt mehrere Arten Dateien, Dokumente und Bilder in HTML-Dokumenten zu verlinken. Was absolute und relative Links sind, erklärt das Video.
 <!--more-->
