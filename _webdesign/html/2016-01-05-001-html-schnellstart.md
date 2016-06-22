@@ -7,7 +7,7 @@ video:              'https://www.youtube.com/watch?v=_P9hcbMrnpk'
 categories:         html
 image:              '001-html schnellstart.jpg'
 header:             no
-permalink:          '/webdesign/html-schnellstart/'
+permalink:          '/webdesign/html/schnellstart/'
 breadcrumb:         true
 ---
 Um Webseiten zu erstellen, muss Du nichts installieren. Das Video zeigt, wie Du deine ersten Webseiten mit Bordmitteln von Windows, Mac oder Linux baust.

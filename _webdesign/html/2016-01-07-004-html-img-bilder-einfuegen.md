@@ -5,7 +5,7 @@ title:          '#004 HTML: Bilder einfügen mit &lt;img&gt;'
 video:          'https://www.youtube.com/watch?v=V9ia1GlWC8c'
 categories:     html
 image:          '004-bilder-einfuegen-mit-img.jpg'
-permalink:      '/html-img-bilder-einfuegen/'
+permalink:      '/webdesign/html/img-bilder-einfuegen/'
 ---
 Mit &lt;img&gt; baust Du Grafikdateien in ein HTML-Dokument ein. img ist ein sogenanntes Standalone-Tag ohne Elementinhalt und ohne End-Tag.
 <!--more-->
