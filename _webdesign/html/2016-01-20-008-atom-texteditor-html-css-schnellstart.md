@@ -4,7 +4,9 @@ subheadline:    'Texteditor'
 title:          '#008 Atom Texteditor für HTML & CSS'
 video:          'https://www.youtube.com/watch?v=lsUYArGTcWU'
 image:          '008-atom-texteditor-html-css-schnellstart.jpg'
-categories:     texteditor
+categories:
+    - html
+    - texteditor
 permalink:      /webdesign/atom-texteditor-html-css-schnellstart/
 ---
 Der Texteditor Atom  ist kostenloser, gehört zu den Besten und unterstützt Dich beim Erstellen von Website. Wie er funktioniert, erklärt das Video.

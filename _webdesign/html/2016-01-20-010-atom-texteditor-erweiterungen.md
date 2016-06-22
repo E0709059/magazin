@@ -4,7 +4,9 @@ subheadline:    'Texteditor'
 title:          '#010 Atom Texteditor Erweiterungen'
 video:          'https://www.youtube.com/watch?v=Jt_9gF5GXIw'
 image:          '010-atom-texteditor-erweiterungen.jpg'
-categories:     texteditor
+categories:
+    - html
+    - texteditor
 permalink:      /webdesign/atom-texteditor-erweiterungen/
 ---
 Mehr Komfort und einen besseren Arbeitsfluss in Atom Texteditor ermöglichen die Erweiterungen Minimap, Open Recent und Beautify. Mehr im Video…
