@@ -159,7 +159,7 @@ var changed = require('gulp-changed'),
     imagemin = require ('gulp-imagemin'),
     clean = require('gulp-clean'),
     minifyhtml = require ('gulp-minify-html'),
-    autoprefixer = require ('gulp-autoprefixer '),
+    autoprefixer = require ('gulp-autoprefixer'),
     minifyCSS = require ('gulp-minify-css');
 {% endhighlight %}
 
