@@ -34,9 +34,9 @@ Inhalt
 
 ## Wie funktioniert das Building Tool Gulp.js? {#was-ist-gulp}
 
-<img class="left" src="{{ site.urlimg }}gulp-2x.png" alt="gulp-2x" width="134" height="300">[Gulp.js][11] ist ein so genannter Task Runner basierend auf Node.js. Verglichen mit seinem Verwandten [Grunt][1], lässt sich Gulp verständlicher und schlanker programmieren. Vor allem liegt das am Konzept der Ströme, bzw. »Streams«.
+<img class="left" src="{{ site.urlimg }}gulp-2x.png" alt="gulp-2x" width="134" height="300">[Gulp.js][11] ist ein so genannter Task Runner basierend auf Node.js. Verglichen mit seinem Verwandten [Grunt][1], lässt sich Gulp verständlicher und schlanker programmieren. Vor allem liegt das am Konzept der Ströme, bzw. »Streams«.
 
-Denn Aufgaben leitet man bei Gulp durch Kanäle, die »Pipes« – siehe Abbildung. Das hilft beim logischen Aufbau eines Arbeitsablaufes (Task) und beschleunigt den Prozess. Im Vergleich mit Grunt erledigt Gulp die gleiche Arbeit schneller, da nicht nach jedem Arbeitsprozess ein Schreibprozess notwendig ist. Dieser erfolgt erst bei Beendigung des Prozesses oder, wenn er ausdrücklich gewollt ist.
+Denn Aufgaben leitet man bei Gulp durch Kanäle, die »Pipes« – siehe Abbildung. Das hilft beim logischen Aufbau eines Arbeitsablaufes (Task) und beschleunigt den Prozess. Im Vergleich mit Grunt erledigt Gulp die gleiche Arbeit schneller, da nicht nach jedem Arbeitsprozess ein Schreibprozess notwendig ist. Dieser erfolgt erst bei Beendigung des Prozesses oder, wenn er ausdrücklich gewollt ist.
 
 Außerdem arbeitet Gulp asynchron und arbeitet gleichzeit mehrere Aufgaben ab. Ein weiteres zugrundliegendes Konzept sind »einfache Plugins«. Gulp-Plugins werden für eine Aufgabe designt, nicht für mehrere. Grundlegende Funktionen, z.B. die Überwachung von Prozessen, sind in Gulp bereits implementiert.
 
@@ -113,7 +113,6 @@ Zuvor legen wir noch eine `package.json`-Datei an. In dieser notiert der Packetm
 {% include alert terminal='npm init' %}
 
 {% include alert terminal='npm install gulp --save-dev' %}
-    
 
 Jetzt muss man nur noch die Steuerungsdatei `gulpfile.js` für Gulp anlegen. In diese Datei tippt man sämtliche Aufgaben, die das Building Tool für uns erledigen soll.
 
@@ -132,11 +131,11 @@ Für dieses Tutorial installieren wir die folgenden Plugins.
 {% include alert terminal='npm install gulp-sass' %}
 {% include alert terminal='npm install gulp-autoprefixer --save-dev ' %}
 {% include alert terminal='npm install gulp-minify-css --save-dev ' %}
-    
+
 Anstelle jeden Befehl einzeln einzugeben, kann man sämtliche Plugins auch über einen Befehl installieren. Dazu reiht man die Namen einfach aneinander. Der folgende Befehl installiert drei Plugins nacheinander in einem Rutsch und notiert sie in `package.json`.
 
 {% include alert terminal='npm install gulp-imagemin gulp-uglify gulp-minify-css --save-dev' %}
-    
+
 
 
 ## Gulp samt Plugins in gulpfile.js einbauen {#gulpfile}

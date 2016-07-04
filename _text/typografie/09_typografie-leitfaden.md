@@ -77,11 +77,10 @@ Ein **Flexibles Leerzeichen**…
 *   nutzt man zur Gliederung von Zahlen.
     *   1 000 000
 *   fügt man bei Datumsangaben ein.
-    *   28.07\. 2006
+    *   28.07.2006
 
 
 Ein **Geschützter Leerraum** steht beispielsweise…
-
 
 * …zwischen einer Maßzahl und der Maßeinheit.
 * …nach den Wörtern Seite, Nummer usw. und der dazugehörigen Ziffer.
@@ -197,9 +196,9 @@ Beispiel: ISBN 978-3-86680-192-9
 
 Für **Uhrzeiten**sind verschiedene Schreibweisen üblich
 
-*   8 Uhr
-*   0.15 Uhr
-*   23:22 Uhr
+* 8 Uhr
+* 0.15 Uhr
+* 23:22 Uhr
 
 **Zahlen mit mehr als drei Stellen** links oder rechts vom Komma gliedert man mit Hilfe eines *flexiblen Leerzeichens* vom Komma ausgehend in dreistellige Gruppen. Bei vierstelligen Zahlen ist die Gliederung nicht unbedingt erforderlich.
 
@@ -211,16 +210,16 @@ Die **Trennung von Ziffer und Einheit** sollte vermieden werden (geschützter Le
 Bei der Datumsangabe setzt man einen Punkt nach der Zahl für den Tag und Monat. Jahresangaben benötigen keinen Punkt. Zwischen Tag und Monat sowie zwischen Monat und Jahr wird ein *flexibles Leerzeichen* gesetzt – siehe Beispiel 1\. Vor der Jahresangabe lässt man einen normalen Abstand, wenn der Monat ausgeschrieben wird – siehe Beispiel 2.
 
 * 04.09.2006
-* 4\. September 2006
+* 4. September 2006
 
 
 
 ## Klammern
 
-*   wird ein gemischter Text (z. B. gerade und kursiv) eingeklammert, so werden die Klammern in Grundschrift (gerade) gesetzt.
-*   Beginnt und endet ein Text unterschiedlich (gerade und kursiv) so werden die Klammern gerade gesetzt.
-*   Bei kursiven Text werden die Klarnmern auch kursiv gesetzt.
-*   Binde- und Gedankenstrich sowie das Gleichheitszeichen werden innerhalb fetter Schrift ebenfalls fett gesetzt.
+* wird ein gemischter Text (z. B. gerade und kursiv) eingeklammert, so werden die Klammern in Grundschrift (gerade) gesetzt.
+* Beginnt und endet ein Text unterschiedlich (gerade und kursiv) so werden die Klammern gerade gesetzt.
+* Bei kursiven Text werden die Klarnmern auch kursiv gesetzt.
+* Binde- und Gedankenstrich sowie das Gleichheitszeichen werden innerhalb fetter Schrift ebenfalls fett gesetzt.
 
 
 
