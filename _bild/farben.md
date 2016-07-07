@@ -81,8 +81,9 @@ Mit dem Service von [Pictaculous][4] extrahiert man Farben aus Bildern. Dazu lä
 
 
 
-## Anleitungen
+## Grundlagen, Psychologie und Lesbarkeit von Farben
 
+* [The Psychology of Color in Marketing and Branding](https://www.helpscout.net/blog/psychology-of-color/)
 * [Learn the Basics of Color Theory to Know What Looks Good](http://lifehacker.com/learn-the-basics-of-color-theory-to-know-what-looks-goo-1608972072)
 * [Color Contrast for Better Readability](http://viget.com/inspire/color-contrast)
 * [Color Theory For Designers: Creating Your Own Color Palettes](http://www.smashingmagazine.com/2010/02/08/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
