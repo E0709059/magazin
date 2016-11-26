@@ -42,20 +42,25 @@ Pinterest Presse Informationen › [about.pinterest.com/de/press/press](https://
 
 ## Pinterest Beispiele
 
-<dl>
-<dt>Karen Nyberg – Astronaut by day. Aspiring artist, quilter, crafter, runner by night. Wife and Mommy 24/7.</dt>
-<dd><a href"http://de.pinterest.com/knyberg/">http://de.pinterest.com/knyberg/</a></dd>
-<dt>NASA EDGE – The show that takes an inside and outside look at all things NASA!</dt>
-<dd><a href="https://de.pinterest.com/nasaedge/">https://de.pinterest.com/nasaedge/</dd>
-<dt>NASA Goddard Space Flight Center enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration & Astrophysics.</dt>
-<dd><a href="https://de.pinterest.com/nasagoddard/">https://de.pinterest.com/nasagoddard/</dd>
-<dt>Dietrich Pflüger – Digital Marketeer</dt>
-<dd><a href="http://www.pinterest.com/dpflueger/poster-design/">www.pinterest.com/dpflueger/poster-design/</a></dd>
-<dt>WWF Deutschland – Der World Wide Fund For Nature ist eine der größten unabhängigen Naturschutzorganisationen der Welt.</dt>
-<dd><a href="https://www.pinterest.com/wwf_deutschland/">https://www.pinterest.com/wwf_deutschland/</a></dd>
-<dt>Kraft Recipes – Delicious and easy Kraft Foods recipes, cooking tips, and more for every meal and occasion.</dt>
-<dd><a href="https://de.pinterest.com/kraftrecipes/">https://de.pinterest.com/kraftrecipes/</a></dd>
-<dt>Four Seasons Hotels and Resorts</dt>
-<dd><a href="https://de.pinterest.com/fourseasons/">https://de.pinterest.com/fourseasons/</a></dd>
-</dl>
+Karen Nyberg – Astronaut by day. Aspiring artist, quilter, crafter, runner by night. Wife and Mommy 24/7.
+:    <http://de.pinterest.com/knyberg/>
+
+NASA EDGE – The show that takes an inside and outside look at all things NASA!
+:    <https://de.pinterest.com/nasaedge/>
+
+NASA Goddard Space Flight Center enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration & Astrophysics.
+:    <https://de.pinterest.com/nasagoddard/>
+
+Dietrich Pflüger – Digital Marketeer
+:    <http://www.pinterest.com/dpflueger/poster-design/>
+
+WWF Deutschland – Der World Wide Fund For Nature ist eine der größten unabhängigen Naturschutzorganisationen der Welt.
+:    <https://www.pinterest.com/wwf_deutschland/>
+
+Kraft Recipes – Delicious and easy Kraft Foods recipes, cooking tips, and more for every meal and occasion.
+:    <https://de.pinterest.com/kraftrecipes/>
+
+Four Seasons Hotels and Resorts
+:    <https://de.pinterest.com/fourseasons/>
+
 

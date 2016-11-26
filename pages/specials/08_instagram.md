@@ -21,13 +21,13 @@ permalink: /instagram/
 ---
 <div class="row">
 <div class="medium-5 medium-push-7 columns" markdown="1">
-![Instagram App]({{ site.urlimg }}instagram_app.jpg)
+![Instagram App]({{ site.urlimg }}instagram_app.jpg)
 </div><!-- /.medium-5.columns -->
 <div class="medium-7 medium-pull-5 columns" markdown="1">
 
 Typisch für Instagram-Bilder ist das quadratische an Polaroid-Fotos angelehnte Format. Instagram gehörte gemeinsam mit Pinterest zu den am schnellsten wachsenden sozialen Medien im Jahre 2014.
 
-Instagram bietet – ähnlich wie z.B. [Twitter]({{ site.url }}/twitter/) – die typischen Funktionen für soziale Netzwerke. Bilder können kommentiert, weiterverbreitet und mit einem Herzen favorisiert werden. Weiterhin verfügt jeder Nutzer über einen individuellen Nutzernamen an welchen eine Profilseite gebunden ist.
+Instagram bietet – ähnlich wie z.B. [Twitter]({{ site.url }}/twitter/) – die typischen Funktionen für soziale Netzwerke. Bilder können kommentiert, weiterverbreitet und mit einem Herzen favorisiert werden. Weiterhin verfügt jeder Nutzer über einen individuellen Nutzernamen an welchen eine Profilseite gebunden ist.
 
 - Website: [Instagram.com](http://instagram.com)
 
@@ -43,7 +43,7 @@ Instagram Presse Informationen › [instagram.com/press/](https://instagram.com/
 </div><!-- /.row -->
 <div class="row">
 <div class="small-12 columns" markdown="1">
-        
+
 ## Interessante Instagram-Profile
 
 
@@ -54,7 +54,7 @@ Instagram Presse Informationen › [instagram.com/press/](https://instagram.com/
 
 ### Marie, 19, Instagram-Star
 
-[![]({{ site.urlimg }}marie_von_behrens_instagram-600x.jpg)][1]
+[![]({{ site.urlimg }}marie_von_behrens_instagram-600x.jpg)][1]
 
 Marie von Behrens ist jung, schön – und sehr erfolgreich auf Instagram. Mehr als 86.000 Instagram-Nutzern haben ihren Kanal abonniert. [Mehr im Gruenderszene-Interview ›][1]
 
@@ -76,20 +76,20 @@ Vor allem portraitiert er Menschen, die er in New York auf der Straße trifft. N
 <div class="medium-6 columns" markdown="1">
 ### Profifotografie von Reuters & CNN
 
-[![]({{ site.urlimg }}instagram-reuters-600x.jpg)][6]
+[![]({{ site.urlimg }}instagram-reuters-600x.jpg)][6]
 
 Sowohl die [Nachrichtenagentur Reuters][6] als auch [CNN][7] pflegen ein Instagram-Profil. Während Reuters ausgewählte und hochwertige Fotos veröffentlicht, die jedes für sich eine Geschichte erzählt, experimentiert CNN auch mit Kurzvideos. Beide Nachrichtenlieferanten nutzen das Beschreibungsfeld, um die Fotos mit Nachrichtenmaterial weiter aufzuwerten.
 
-[![]({{ site.urlimg }}instagram-cnn-600x.jpg)][7]
+[![]({{ site.urlimg }}instagram-cnn-600x.jpg)][7]
 
 
 
 
 ### Streetart
 
-[![]({{ site.urlimg }}instagram-banksy-600x.jpg)][10]
+[![]({{ site.urlimg }}instagram-banksy-600x.jpg)][10]
 
-[Banksy][11] ist der weltweit bekannteste Streetart-Künstler. Kein Wunder, dass der medienaffine und politisch motivierte [Banksy auch auf Instagram][10] ein Profil pflegt. Dort finden Sie – *Überrachung* – Streetart.
+[Banksy][11] ist der weltweit bekannteste Streetart-Künstler. Kein Wunder, dass der medienaffine und politisch motivierte [Banksy auch auf Instagram][10] ein Profil pflegt. Dort finden Sie – *Überrachung* – Streetart.
 
 
 
