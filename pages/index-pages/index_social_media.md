@@ -24,7 +24,7 @@ show_meta: false
 
 <ul class="side-nav">
 {% for page in site.pages %}
-{% if page.tags contains 'social media' && 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+{% if page.tags contains 'social media' && 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
 {% endfor %}
 <li>&nbsp;</li>
 </ul>
@@ -37,6 +37,9 @@ show_meta: false
 ## Social Media Nachrichten
 
 ### Deutsche Quellen
+
+[upload-magazin.de][7]
+:   Das UPLOAD Magazin bietet hilfreiche Artikel, um das Internet als professionelles Werkzeug zu nutzen. Die Themen behandeln E-Business, Social Media, Online-Marketing und Internetwirtschaft.
 
 [allfacebook.de][1]
 :   AllFacebook.de gehört zu den bekanntesten deutschsprachigen Quellen und berichtet Neues rund um Facebook und Social Media Marketing.
@@ -61,7 +64,7 @@ show_meta: false
  [4]: https://blog.bufferapp.com/
  [5]: http://feeds.feedburner.com/bufferapp
  [6]: http://www.socialmediaexaminer.com/
- [7]: #
+ [7]: http://upload-magazin.de/
  [8]: #
  [9]: #
  [10]: #

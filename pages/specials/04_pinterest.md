@@ -1,5 +1,4 @@
 ---
-published: false
 layout: page-fullwidth
 subheadline: "Statistiken, Apps, Anleitungen, Beispiele"
 title: "Pinterest"
@@ -34,7 +33,7 @@ permalink: /pinterest/
 * Speicherort für Erinnerungen (Fotos, Postkarten, Konzertkarten, Eintrittskarten)
 * Nutzer können eigene oder im Netz gefundene Bilder an virtuelle Pinnwand anheften („pinnen“) und spannende Ideen entdecken/aufheben/teilen
 * Insgesamt in 30 Sprachen verfügbar
-* 100 Millionen Nutzer monatlich
+* 150 Millionen Nutzer monatlich ([Quelle](https://blog.pinterest.com/en/150-million-people-finding-ideas-pinterest))
 * Pinterest Nutzer (2014): 44% männlich und 56% weiblich (aktive Nutzer 80% weiblich)
 * Beliebteste Kategorien: Food, Fashion, Home, DIY (Do-it-Yourself), Technik
 * 88% der Pinterest-Nutzer kaufen tendenziell das Produkt welches sie pinnen
