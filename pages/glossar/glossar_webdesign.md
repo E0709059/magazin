@@ -130,6 +130,6 @@ Eine *XML-Sitemap* ist eine maschinenlesbare Auflistung der einzelnen Webseiten 
 
 
 
-[1]: {{ site.url }}/glossar/ "Liste aller Phlow Glossare"
+[1]: {{ site.url }}/glossar/ "Liste aller Phlow Glossare"
 [2]: http://compass-style.org/
 [3]: http://sass-lang.com/

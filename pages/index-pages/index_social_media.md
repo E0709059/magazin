@@ -24,7 +24,7 @@ show_meta: false
 
 <ul class="side-nav">
 {% for page in site.pages %}
-{% if page.tags contains 'social media' && 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+{% if page.tags contains 'social media' and 'plattform' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
 {% endfor %}
 <li>&nbsp;</li>
 </ul>

@@ -39,10 +39,10 @@ Worauf Sie bei der Wahl eines WordPress-Themes achten sollten, lesen Sie in unse
 ## {{ theme.name }}
 
 {% for screenshot in theme.screenshots %}
-<img src="{{ site.urlimg }}{{ screenshot }}" alt="WordPress Theme {{ theme.name }}">
+<img src="{{ site.urlimg }}{{ screenshot }}" alt="WordPress Theme {{ theme.name }}">
 {% endfor %}
 
-{{ theme.description | markdownify }}
+{{ theme.description | markdownify }}
 
 
 {% unless theme.pro == NULL %}
@@ -66,9 +66,9 @@ Worauf Sie bei der Wahl eines WordPress-Themes achten sollten, lesen Sie in unse
 
 
 
-{% if theme.download %}<a class="button radius success" href="{{ theme.download }}">Download</a>{% endif %}
-{% if theme.demo %}<a class="button radius success" href="{{ theme.demo }}">Demo</a>{% endif %}
-{% if theme.anleitung %}<a class="button radius success" href="{{ theme.anleitung }}">Anleitung</a>{% endif %}
+{% if theme.download %}<a class="button radius success" href="{{ theme.download }}">Download</a>{% endif %}
+{% if theme.demo %}<a class="button radius success" href="{{ theme.demo }}">Demo</a>{% endif %}
+{% if theme.anleitung %}<a class="button radius success" href="{{ theme.anleitung }}">Anleitung</a>{% endif %}
 
 {% endfor %}
 
@@ -96,8 +96,8 @@ Die folgenden Themes nutzt [Automattic][4], die Firma hinter WordPress, für die
 
 
  [1]: http://dimsemenov.com/themes/touchfolio/
- [2]: {{ site.url }}/wordpress/themes/
- [3]: {{ site.url }}/wordpress/checkliste/
+ [2]: {{ site.url }}/wordpress/themes/
+ [3]: {{ site.url }}/wordpress/checkliste/
  [4]: http://automattic.com/
  [5]: http://theme.wordpress.com/
  [6]: #

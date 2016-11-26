@@ -51,7 +51,7 @@ Beispielbild: <code>666x412 Pixel</code>
 
 </div><!-- /.small-6.columns -->
 <div class="small-6 columns" markdown="1">
-<img src="{{ site.urlimg }}bild-goldenes-rechteck.png">
+<img src="{{ site.urlimg }}bild-goldenes-rechteck.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
@@ -66,7 +66,7 @@ Beispielbild: <code>666x285 Pixel</code>
 </div><!-- /.small-6.columns -->
 <div class="small-6 columns" markdown="1">
 
-<img src="{{ site.urlimg }}bild-21-9.png">
+<img src="{{ site.urlimg }}bild-21-9.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
@@ -79,7 +79,7 @@ Beispielbild: <code>666x333 Pixel</code>
 
 </div><!-- /.small-6.columns -->
 <div class="small-6 columns" markdown="1">
-<img src="{{ site.urlimg }}bild-2-1.png">
+<img src="{{ site.urlimg }}bild-2-1.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
@@ -92,7 +92,7 @@ Beispielbild: <code>666x375 Pixel</code>
 </div><!-- /.small-6.columns -->
 
 <div class="small-6 columns" markdown="1">
-<img src="{{ site.urlimg }}bild-16-9.png">
+<img src="{{ site.urlimg }}bild-16-9.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
@@ -105,7 +105,7 @@ Beispielbild: <code>666x400 Pixel</code>
 </div><!-- /.small-6.columns -->
 
 <div class="small-6 columns" markdown="1">
-<img src="{{ site.urlimg }}bild-5-3.png">
+<img src="{{ site.urlimg }}bild-5-3.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
@@ -118,7 +118,7 @@ Beispielbild: <code>666x444 Pixel</code>
 </div><!-- /.small-6.columns -->
 
 <div class="small-6 columns" markdown="1">
-<img src="{{ site.urlimg }}bild-3-2.png">
+<img src="{{ site.urlimg }}bild-3-2.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 
@@ -135,7 +135,7 @@ Beispielbild: <code>666x500 Pixel</code>
 
 
 <div class="small-6 columns" markdown="1">
-<img src="{{ site.urlimg }}bild-4-3.png">
+<img src="{{ site.urlimg }}bild-4-3.png">
 </div><!-- /.small-6.columns -->
 </div><!-- /.row -->
 

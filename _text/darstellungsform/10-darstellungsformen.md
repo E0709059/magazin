@@ -87,8 +87,8 @@ Hinweis: Zu den verlinkten Darstellungsformen finden Sie ausführliche Anleitung
 
 
 
- [1]: {{ site.url }}/text/meldung-nachricht-news/
- [2]: {{ site.url }}/text/interview/
+ [1]: {{ site.url }}/text/meldung-nachricht-news/
+ [2]: {{ site.url }}/text/interview/
  [3]: #
  [4]: #
  [5]: #

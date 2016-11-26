@@ -12,7 +12,7 @@ tags:
     - gesellschaft
 permalink: "/interview/marcel-weiss-blogs-und-gesellschaft/"
 ---
-Befragt wurden die vier Blogger <a href="{{ site.url }}/interview/marcel-weiss-blogs-und-gesellschaft">Marcel Weiß</a>, <a href="{{ site.url }}/interview/marcus-boesch-blogs-und-gesellschaft">Marcus Bösch</a>, <a href="{{ site.url }}/interview/stefan-schmidt-blogs-und-gesellschaft">Stefan Schmidt</a> und <a href="{{ site.url }}/interview/martin-wisniowski-blogs-und-gesellschaft">Martin Wisniowski</a>
+Befragt wurden die vier Blogger <a href="{{ site.url }}/interview/marcel-weiss-blogs-und-gesellschaft">Marcel Weiß</a>, <a href="{{ site.url }}/interview/marcus-boesch-blogs-und-gesellschaft">Marcus Bösch</a>, <a href="{{ site.url }}/interview/stefan-schmidt-blogs-und-gesellschaft">Stefan Schmidt</a> und <a href="{{ site.url }}/interview/martin-wisniowski-blogs-und-gesellschaft">Martin Wisniowski</a>
 
 
 ## Wie wichtig sind Blogs für die Gesellschaft?

@@ -60,7 +60,7 @@ Die oberste Regel beim Verfassen von Nachrichten lautet:
 Darum beachten Sie: **Das Wichtigste kommt zuerst.** Schließlich kommt es auf das Ereignis an. Die meisten gut gemachten Agentur- und Zeitungsmeldungen lassen sich darum auf drei klassische Sätze beziehungsweise drei inhaltliche Pakete zurückführen.
 
 
-![]({{ site.urlimg }}text-schreiben-nachricht.gif)
+![]({{ site.urlimg }}text-schreiben-nachricht.gif)
 
 ## Klassischer Aufbau einer News
 
@@ -143,8 +143,8 @@ Denken Sie vor jeder Nachricht kurz nach und fragen Sie sich:
 
 
 
- [1]: {{ site.url }}/text/meldung-nachricht-news/
- [2]: {{ site.url }}/soundcloud/
+ [1]: {{ site.url }}/text/meldung-nachricht-news/
+ [2]: {{ site.url }}/soundcloud/
  [3]: #
  [4]: #
  [5]: #

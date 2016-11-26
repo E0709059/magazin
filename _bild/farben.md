@@ -25,14 +25,14 @@ header:
 
 [Paletton.com][8] hilft bei der Erstellung von Farbschemata.
 
-![]({{ site.urlimg }}bild-paletton.jpg)
+![]({{ site.urlimg }}bild-paletton.jpg)
 
 
 ### Adobe Color CC
 
 [Adobe Color CC][10] generiert Farbpaletten, die Sie in Desktop-Programmen von Adobe wie Photoshop und Illustrator sowie in den neuen Adobe-Apps wie Illustrator Line, Illustrator Draw und Photoshop Sketch einsetzen können. Über den Farbpaletten-Generator erstellen Sie Paletten und extrahieren Sie Farben aus vorhandenen Bildern.
 
-![]({{ site.urlimg }}bild-adobe-color-cc.jpg)
+![]({{ site.urlimg }}bild-adobe-color-cc.jpg)
 
 
 
@@ -40,7 +40,7 @@ header:
 
 [Colorrotate][5] ist ein Color-Picker mit 3D-Ansatz, um neue Farbkombinationen zu entdecken.
 
-![]({{ site.urlimg }}bild-colorrotate.jpg)
+![]({{ site.urlimg }}bild-colorrotate.jpg)
 
 
 
@@ -63,7 +63,7 @@ Mit [hexcolortool][6] dunkelt man schnell Farben ab oder hellt sie auf. Eine Far
 
 [COLOURLovers][9] ist eine Community-Website, auf der Nutzer eigene Farbpaletten erstellen, vorstellen und remixen können.
 
-![]({{ site.urlimg }}bild-colourlovers.png)
+![]({{ site.urlimg }}bild-colourlovers.png)
 
 
 
@@ -71,7 +71,7 @@ Mit [hexcolortool][6] dunkelt man schnell Farben ab oder hellt sie auf. Eine Far
 
 Jessica Colaluca ist Farbspezialistin. In ihrem Blog [Design-Seeds.com][7]veröffentlicht Sie Farbpaletten, die Sie anhand von eindrucksvollen Bildern erstellt hat. Ihre Farbpaletten veröffentlicht Design Seeds utner einer Creative Commons Attribution, No commercial, No Derivative Works-Lizenz.
 
-![]({{ site.urlimg }}bild-design-seeds.jpg)
+![]({{ site.urlimg }}bild-design-seeds.jpg)
 
 
 

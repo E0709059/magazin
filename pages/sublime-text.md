@@ -63,7 +63,7 @@ Inhalt
 
 ### [Cobalt 2 Theme](https://github.com/wesbos/cobalt2)
 
-![]({{ site.urlimg }}sublime-text-theme-cobalt2.png)
+![]({{ site.urlimg }}sublime-text-theme-cobalt2.png)
 
 
 </div><!-- /.medium-6.columns -->
@@ -117,7 +117,7 @@ Text Pastry auf dem Mac über die Kommandozeile aufrufen:
 
 Mit [SideBarEnhancements][5] erweitern Sie Sublime Text um wichtige Funktionen, wie z.B. das Verschieben von Dateien über die Seitenleiste oder das Kopieren eines Pfades einer Datei.
 
-<div class="radius border-dotted text-center"><img src="{{ site.urlimg }}sublime_text_sidebarenhancements.png" alt=""></div>
+<div class="radius border-dotted text-center"><img src="{{ site.urlimg }}sublime_text_sidebarenhancements.png" alt=""></div>
 
 
 ### Sublimerge: Code vergleichen

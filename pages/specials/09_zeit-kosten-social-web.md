@@ -41,11 +41,11 @@ Die verschiedenen Werkzeuge unterstützen Sie je nach Wahl mal mehr, mal weniger
 </div><!-- /.medium-7 -->
 <div class="medium-5 columns">
   <div class="panel callout radius">
-      <h3 style="margin-top: 0;"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h3>
-      <p>Mehr Informationen, Software und Tipps und Tricks rund um soziale Netzwerke und soziale Apps in den <a href="{{ site.url }}/social-media/">Social Media Specials</a>.</p>
+      <h3 style="margin-top: 0;"><a href="{{ site.url }}/social-media/">Social Media Specials</a></h3>
+      <p>Mehr Informationen, Software und Tipps und Tricks rund um soziale Netzwerke und soziale Apps in den <a href="{{ site.url }}/social-media/">Social Media Specials</a>.</p>
       <ul class="side-nav">
         {% for page in site.pages reversed %}
-        {% if page.tags contains 'social media special' and page.url != '/zeit-kosten-social-web/' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+        {% if page.tags contains 'social media special' and page.url != '/zeit-kosten-social-web/' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
         {% endfor %}
         <li>&nbsp;</li>
       </ul>

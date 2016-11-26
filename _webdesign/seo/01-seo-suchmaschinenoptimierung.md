@@ -71,13 +71,13 @@ Gibt der Suchende in die Suchmaske zwei Begriffe ein, z.B. »Einstein« und »Re
 Es funktioniert aber auch die Anfrage: Such mir alles zum Thema »Relativitätstheorie«, aber nichts von »Einstein« heraus. In die Suchmaske tippt man dann in der Regel ein Minuszeichen vor das Wort, beispielsweise: »Relativitätstheorie -Einstein«. Ausführliche Erklärungen zur Recherche bietet unser [Recherche mit Suchmaschinen-Beitrag][2].
 
 
-[Teil 2: Artikel für Suchmaschinen optimieren ›]({{ site.url }}/artikel-suchmaschinen-schreiben/)
+[Teil 2: Artikel für Suchmaschinen optimieren ›]({{ site.url }}/artikel-suchmaschinen-schreiben/)
 {: .button.radius }
 
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
- [2]: {{ site.url }}/recherche/
+ [2]: {{ site.url }}/recherche/
  [3]: https://adwords.google.de/KeywordPlanner
  [4]: https://www.google.de/adwords/
  [5]: https://metager.de/klassik/asso/

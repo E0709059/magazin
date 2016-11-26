@@ -16,7 +16,7 @@ tags:
 
 ## Unaufdringliche Muster und Texturen
 
-[![]({{ site.urlimg }}muster-subtlepatterns_com.png)][1]
+[![]({{ site.urlimg }}muster-subtlepatterns_com.png)][1]
 
 Die Website [Subtle Patterns][1] bietet hochprofessionelle und verschiedenartige Texturen und Muster. Sämtliche Muster und Texturen funktionieren als Kacheln und lassen sich einfach einfärben, um Sie einer Website anzupassen. Sämtliche Muster darf man auch für kommerzielle Projekte nutzen. Die einzige Bedingung ist eine Namensnennung. Mehr [Informationen zur Verwendung][2] der Subtle Patter-Muster lesen Sie auf der Website.
 

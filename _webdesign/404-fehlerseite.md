@@ -22,7 +22,7 @@ header:
 Die bekannteste Fehlermeldung im Internet ist der 404-Fehler. Denn ein 404 Fehler tritt irgendwann immer einmal auf. Selbst wenn alle Dokumente innerhalb einer Website korrekt verlinkt sind, provoziert nur ein Tippfehler oder ein falsch gesetzter externer Link eine 404-Fehlerseite. Zum Glück lässt sich die Fehlerseite gestalten, um den Besucher auf den richtigen Pfad zu locken. Diese Anleitung zeigt wie.
 
 
-<img src="{{ site.urlimg }}webdesign-404-fehlerseite-github.png" alt="404 Fehlerseite von GitHub">
+<img src="{{ site.urlimg }}webdesign-404-fehlerseite-github.png" alt="404 Fehlerseite von GitHub">
 
 
 ## Machen Sie Besucher auf den 404-Fehler aufmerksam
@@ -36,7 +36,7 @@ Die bekannteste Fehlermeldung im Internet ist der 404-Fehler. Denn ein 404 Fehle
 
 Menschlich wie Besucher nun einmal sind, gehen Sie zuerst von der Annahme aus, nichts falsch gemacht zu haben, wenn Sie auf einer **Nicht-Gefunden-Webseite** landen. Ein kleiner vorsichtiger Hinweis, lässt sie da schon aufhorchen. Würzt man die 404-Fehlerseite sogar noch mit einer kleinen Prise Humor – z.B. mit einem witzigen Bild wie das Kochatelier Berlin – verpufft der erste Ärger oder die Enttäuschung schnell.
 
-<img src="{{ site.urlimg }}webdesign-404-fehlerseite-kochatelier-berlin.jpg" alt="404 Fehlerseite von Kochatelier Berlin">
+<img src="{{ site.urlimg }}webdesign-404-fehlerseite-kochatelier-berlin.jpg" alt="404 Fehlerseite von Kochatelier Berlin">
 
 **Gut aufgemachte 404-Fehlerseiten motivieren Besucher, das Gesuchte erneut zu finden.** Außerdem verleiht eine amüsante 404-Fehlermeldung ihrer Webpräsenz ein wenig Charme und Profil. Nüchterne Fehlermeldungen ohne Hilfestellung begegnen einem schließlich allzu oft.
 
@@ -56,7 +56,7 @@ Findet der Server eine gesuchte Webseite nicht, schaut er in der *.htaccess*-Dat
 
 
 
-<img src="{{ site.urlimg }}webdesign-404-fehlerseite-ninja.jpg" alt="404 Fehlerseite – Gestohlen von einem Ninja?">
+<img src="{{ site.urlimg }}webdesign-404-fehlerseite-ninja.jpg" alt="404 Fehlerseite – Gestohlen von einem Ninja?">
 
 ## Aufbau und Elemente einer 404-Fehlerseite
 
@@ -87,7 +87,7 @@ Kontaktformular einbauen, damit Benachrichtigungen entgegengenommen werden könn
 :    Nicht jeder Besucher hat Zeit zu helfen. Trotzdem gibt es Besucher, die einem gerne über ein Kontaktformular über fehlende oder falsch verlinkte Webseiten informieren. Verlinken Sie ihr Kontaktformular, um diese Rückmeldungen entgegenzunehmen.
 
 
-<img src="{{ site.urlimg }}webdesign-404-fehlerseite-a_list_apart.png" alt="404 Fehlerseite des englischsprachigen Webdesign Magazins A List Apart">
+<img src="{{ site.urlimg }}webdesign-404-fehlerseite-a_list_apart.png" alt="404 Fehlerseite des englischsprachigen Webdesign Magazins A List Apart">
 
 
 ## Eine 404-Fehlerseite für WordPress erstellen
@@ -124,7 +124,7 @@ Weitere hilfreiche Artikel zum Thema, findet man unter den folgenden Links:
 
 
  [1]: http://www.kochatelier-berlin.de/404-fehler/
- [2]: {{ site.url }}/wordpress/
+ [2]: {{ site.url }}/wordpress/
  [3]: #eine-404-fehlerseite-fr-wordpress-erstellen
  [4]: #
  [5]: http://codex.wordpress.org/Creating_an_Error_404_Page

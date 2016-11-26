@@ -59,7 +59,7 @@ defaults:
 
 
  [1]: http://de.wikipedia.org/wiki/Utf-8
- [2]: {{ site.url }}/jekyll/front-matter/
+ [2]: {{ site.url }}/jekyll/front-matter/
  [3]: #
  [4]: #
  [5]: #

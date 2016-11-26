@@ -90,7 +90,7 @@ Wurde das Projekt angelegt, öffnet man einfach seinen Editor und öffnet im Ver
  [2]: http://foundation.zurb.com/docs/index.html
  [3]: http://mo.phlow.de/sass-compass/
  [4]: http://foundation.zurb.com/develop/download.html
- [5]: {{ site.url }}/terminal/
+ [5]: {{ site.url }}/terminal/
 
 
 </div><!-- /.medium-7.columns -->

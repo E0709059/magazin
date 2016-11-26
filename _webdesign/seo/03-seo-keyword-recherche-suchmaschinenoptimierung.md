@@ -61,7 +61,7 @@ Selbstverständlich bringt es nichts, sich mit einem Suchwort zu platzieren, das
 
 Im Weiteren stelle ich Ihnen ein paar äußerst hilfreiche Werkzeuge vor, die Ihnen helfen, die geeigneten Keywords zu finden. Aber auch Textverarbeitungen wie Word unterstützen Sie mit dem Thesaurus dabei, mögliche interessante Synonyme zu finden.
 
-![Google AdWords Keyword-Planer]({{ site.urlimg }}seo-google_adwords_keyword-planer.png)
+![Google AdWords Keyword-Planer]({{ site.urlimg }}seo-google_adwords_keyword-planer.png)
 
 **Google AdWords Keyword-Planer:** Wer seine Inhalte für Suchmaschinen optimiert, kommt an Google nicht vorbei. Um ein wenig Liebe von der Suchkrake abzubekommen, lohnt sich ein genauerer Blick auf den [Google AdWords Keyword-Planer][3]. Dieses Werkzeug ist Teil des Google-Werbeprogramms und seit geraumer Zeit benötigen Sie ein [Google Adwords][4]-Konto, um den Google AdWords Keyword-Planer zu nutzen.
 
@@ -94,13 +94,13 @@ Sind Sie mit der Keyword-Recherche zufrieden und haben eine Auswahl getroffen, k
 
 
 
-[Teil 4: Die wichtigsten HTML-Befehle für die Suchmaschinenoptimierung ›]({{ site.url }}/keyword-recherche-suchmaschinenoptimierung/)
+[Teil 4: Die wichtigsten HTML-Befehle für die Suchmaschinenoptimierung ›]({{ site.url }}/keyword-recherche-suchmaschinenoptimierung/)
 {: .button.radius }
 
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
- [2]: {{ site.url }}/recherche/
+ [2]: {{ site.url }}/recherche/
  [3]: https://adwords.google.de/KeywordPlanner
  [4]: https://www.google.de/adwords/
  [5]: https://metager.de/klassik/asso/

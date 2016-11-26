@@ -13,7 +13,7 @@ image:
     thumb: text_cover_journalistisches_schreiben-thumb.jpg
 permalink: /buch-journalistisches-schreiben/
 ---
-![]({{ site.urlimg }}text_cover_journalistisches_schreiben.jpg)
+![]({{ site.urlimg }}text_cover_journalistisches_schreiben.jpg)
 {: .right }
 
 Das Buch fungiert als guter Leitfaden beim Schreiben von guten Pressetexten, Reportagen, Nachrichten und Meldungen für Zeitungen, Magazine und Zeitschriften.
@@ -31,5 +31,5 @@ ISBN 3-93290-925-9
 [Buch bei Amazon kaufen!](http://www.amazon.de/dp/3932909259?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3932909259&amp;adid=1H74XS0VEH8QW01Z8W5R&amp;)
 {: .button.radius.success }
 
-[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
+[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
 {: .button.radius.success }

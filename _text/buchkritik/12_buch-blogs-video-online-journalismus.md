@@ -13,7 +13,7 @@ image:
     thumb: text_cover_blogs_video_online_journalismus-thumb.jpg
 permalink: /buch-blogs-video-online-journalismus/
 ---
-![]({{ site.urlimg }}text_cover_blogs_video_online_journalismus.jpg)
+![]({{ site.urlimg }}text_cover_blogs_video_online_journalismus.jpg)
 {: .right }
 
 Das Internet hat eine Medienrevolution eingeleitet, die inzwischen richtig Fahrt aufgenommen hat. Während früher wenige Journalisten und Redakteure über Radio, Fernsehen und die Printmedien informierten, kann heute jeder zum Sender werden.
@@ -43,5 +43,5 @@ ISBN 978-3-89721-973-1
 [Buch bei Amazon kaufen!](https://www.amazon.de/dp/3897219735?tag=phlow-21&amp;camp=2906&amp;creative=19474&amp;linkCode=as4&amp;creativeASIN=3897219735&amp;adid=0ZS0JSGHEPP9MJ5D28YB&amp;)
 {: .button.radius.success }
 
-[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
+[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
 {: .button.radius.success }

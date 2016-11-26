@@ -38,8 +38,8 @@ Wie Sie Bilder verlustfrei optimieren, erklärt die Videoanleitung [»Bilder ver
 
 
 
- [1]: {{ site.url }}/video/imageoptim/
- [2]: {{ site.url }}/video/jpegmini/
+ [1]: {{ site.url }}/video/imageoptim/
+ [2]: {{ site.url }}/video/jpegmini/
  [3]: #
  [4]: #
  [5]: #

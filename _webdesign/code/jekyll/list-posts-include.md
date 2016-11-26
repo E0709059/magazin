@@ -43,13 +43,13 @@ The loop looks when you use all parameters. Single parameters are possible of co
     {% for post in site.posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
-      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>More ›</strong></a></li>
+      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>More ›</strong></a></li>
   {% elsif include.categories != empty %}
   {% assign category = include.categories %}
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
-      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>More ›</strong></a></li>
+      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>More ›</strong></a></li>
   {% endif %}
 </ul>
 {% endraw %}

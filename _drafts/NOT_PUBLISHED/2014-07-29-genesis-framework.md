@@ -9,7 +9,7 @@ tags:
   - webentwicklung
   - wordpress
 ---
-[<img class="size-full wp-image-3337 alignnone" src="{{ site.url }}/images/genesis-framework.png" alt="genesis-framework" width="470" height="446" />][1]
+[<img class="size-full wp-image-3337 alignnone" src="{{ site.url }}/images/genesis-framework.png" alt="genesis-framework" width="470" height="446" />][1]
 
 Das <a href="http://www.studiopress.com/" target="_blank">Genesis Framework</a>, ist das Framework für WordPress-Websites und hochoptimiert für Suchmaschinen. Bei Kunden wie <a href="http://Tarnkappe.info" target="_blank">Tarnkappe.info</a> und <a href="http://Nixdorf-Internatsberatung.de" target="_blank">Nixdorf-Internatsberatung.de</a> setze ich es bereits ein. Damit ich mit dem Framework noch besser umgehen kann, habe ich mein altes Theme gewechselt. Lernen am lebenden Objekt, dass hilft mir am Besten. Also nicht erschrecken, dass Design hier wir schrittweise verbessert.<!--more-->
 
@@ -70,4 +70,4 @@ function sp_search_text( $text ) {
 
 </pre>
 
- [1]: {{ site.url }}/images/genesis-framework.png
+ [1]: {{ site.url }}/images/genesis-framework.png

@@ -13,7 +13,7 @@ breadcrumb: true
 ---
 ## Voraussetzungen für Jekyll
 
-![Ruby Logo]({{ site.urlimg }}icon/icon-ruby-128x.png)
+![Ruby Logo]({{ site.urlimg }}icon/icon-ruby-128x.png)
 {: .right }
 Um Jekyll auf einem Mac OS X-, Windows- oder Linux-Rechner zu installieren benötigt man die folgende freie Software:
 
@@ -23,14 +23,14 @@ Um Jekyll auf einem Mac OS X-, Windows- oder Linux-Rechner zu installieren benö
 
 ### Jekyll auf Windows installieren
 
-![Windows Logo]({{ site.urlimg }}logo/logo-windows-mobile-128x120.png)
+![Windows Logo]({{ site.urlimg }}logo/logo-windows-mobile-128x120.png)
 {: .right }
 Die Installation von Ruby und Jekyll ist auf Windows-Rechnern ein wenig komplexer als die Installation auf Linux- oder OS X-Rechnern. Die Installationsanweisungen finden Sie in meinem Artikel [»Jekyll auf einem Windows-Rechner installieren«][10]. 
 
 
 ### Jekyll auf Linux installieren
 
-![Linux Logo]({{ site.urlimg }}logo/logo-linux-128x149.png)
+![Linux Logo]({{ site.urlimg }}logo/logo-linux-128x149.png)
 {: .right }
 Da ich nicht mit Linux vertraut bin, übergehe ich an dieser Stelle die Installation von Jekyll auf Linux-Systemen und verweise auf einen Artikel von Damian Thater: [»Jekyll auf Ubuntu installieren«][7].
 
@@ -44,7 +44,7 @@ Da ich nicht mit Linux vertraut bin, übergehe ich an dieser Stelle die Installa
 
 #### XCode installieren
 
-![Mac OS X Mavericks Logo]({{ site.urlimg }}icon/icon-xcode-128x.png)
+![Mac OS X Mavericks Logo]({{ site.urlimg }}icon/icon-xcode-128x.png)
 {: .right }
 
 Ruby ist auf Mac OS X-Rechnern bereits installiert. Um jedoch einwandfrei mit Jekyll und Ruby zu arbeiten, installiert man am Besten das von Apple zur Verfügung gestellte kostenlose [XCode][3]-Paket mit zahlreichen Entwicklerwerkzeugen. Für Jekyll brauchen Sie das Kommandozeilenwerkzeug, das Terminal.

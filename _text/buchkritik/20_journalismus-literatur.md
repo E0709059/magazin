@@ -14,11 +14,11 @@ permalink: /journalismus/literatur/
 <div class="alert-box info radius">Einfach auf das Buchcover für die Rezension klicken.</div>
 
 
-[![]({{ site.urlimg }}text_cover_texten_fuer_das_web.jpg)]({{ site.url }}/buch-texten-fuers-web/)
-[![]({{ site.urlimg }}text_cover_journalistisches_schreiben.jpg)]({{ site.url }}/buch-journalistisches-schreiben/)
-[![]({{ site.urlimg }}text_cover_deutsch_fuer_profis.jpg)]({{ site.url }}/buch-deutsch-profis/)
-[![]({{ site.urlimg }}text_cover_blogs_video_online_journalismus.jpg)]({{ site.url }}/buch-blogs-video-online-journalismus/)
-[![]({{ site.urlimg }}text_cover_abc_journalismus.jpg)]({{ site.url }}/buch-abc-des-zeitungs-und-zeitschriftenjournalismus/)
+[![]({{ site.urlimg }}text_cover_texten_fuer_das_web.jpg)]({{ site.url }}/buch-texten-fuers-web/)
+[![]({{ site.urlimg }}text_cover_journalistisches_schreiben.jpg)]({{ site.url }}/buch-journalistisches-schreiben/)
+[![]({{ site.urlimg }}text_cover_deutsch_fuer_profis.jpg)]({{ site.url }}/buch-deutsch-profis/)
+[![]({{ site.urlimg }}text_cover_blogs_video_online_journalismus.jpg)]({{ site.url }}/buch-blogs-video-online-journalismus/)
+[![]({{ site.urlimg }}text_cover_abc_journalismus.jpg)]({{ site.url }}/buch-abc-des-zeitungs-und-zeitschriftenjournalismus/)
 
 
 

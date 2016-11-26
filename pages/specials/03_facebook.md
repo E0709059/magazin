@@ -24,7 +24,7 @@ permalink: /facebook/
 
 ## Facebook Statistiken
 
-![Facebook Statistiken]({{ site.urlimg }}social_media_shutterstock_124904123-600x337.jpg  )
+![Facebook Statistiken]({{ site.urlimg }}social_media_shutterstock_124904123-600x337.jpg  )
 
 - [Facebook Audience Insights][3]
 - [Investor Relations – Facebook Einnahmen][4]
@@ -50,7 +50,7 @@ permalink: /facebook/
 
 Im Zentrum der Bücher von [Jürgen Todenhoefer][5] steht der Einsatz für Frieden durch Verhandlungen. Seine Facebook-Seite hat mehr Likes als so manche Stadt und Firma. Die Facebook-Seite nutzt er gekonnt für den Dialog mit Interessierten und Kritikern sowie für das Marketing seiner Bücher.
 
-![Facebok Beispiel Seite]({{ site.urlimg }}facebook-juergen-todenhoefer.jpg)
+![Facebok Beispiel Seite]({{ site.urlimg }}facebook-juergen-todenhoefer.jpg)
 
 
 

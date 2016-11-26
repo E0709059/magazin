@@ -120,7 +120,7 @@ Mit [TweetStats](http://www.tweetstats.com/) bereiten Sie Ihre eigenen Tweets na
 
 #### longreply.com
 
-[![LongReply.com ermöglicht lange Antworten auf kompliziertere Kundenfragen]({{ site.urlimg }}scr-longreply.png)]({{ site.urlimg }}scr-longreply.png)
+[![LongReply.com ermöglicht lange Antworten auf kompliziertere Kundenfragen]({{ site.urlimg }}scr-longreply.png)]({{ site.urlimg }}scr-longreply.png)
 
 
 [LongReply.com][1] ermöglicht lange Antworten auf kompliziertere Kundenfragen. Reichen 140 Zeichen für eine Antwort nicht aus, hilft LongReply mit einer URL zur ausführlichen Antwort aus – siehe Bildschirmfoto.
@@ -128,7 +128,7 @@ Mit [TweetStats](http://www.tweetstats.com/) bereiten Sie Ihre eigenen Tweets na
 
 #### One Shot
 
-<div class="border-dotted t15 b15 text-center"><img src="{{ site.urlimg }}scr-one-shot.jpg" alt="One Shot App für Twitter"></div>
+<div class="border-dotted t15 b15 text-center"><img src="{{ site.urlimg }}scr-one-shot.jpg" alt="One Shot App für Twitter"></div>
 
 Mit *One Shot* zitiert man unkompliziert Text, den man zuvor mittels Screenshot abgespeichert hat. One Shot extrahiert den Text und ermöglicht die Bearbeitung des Screenshots.
 

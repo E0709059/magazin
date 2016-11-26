@@ -82,7 +82,7 @@ Setzen Sie sich mit Ihrem Kalender hin und fragen Sie sich: Welche Taktung bzw. 
 Vermeiden Sie jedoch eine zu große Zeitspanne. Einige Ihrer Abonnenten könnten vergessen haben, dass Sie sich für Ihren Newsletter persönlich entschieden haben. Verschicken Sie auch Ihren Newsletter auch nicht in einer zu hohen Frequenz, da dass ein Gefühl von Spamming beim Empfänger hinterlässt.
 
 
-![]({{ site.urlimg }}text-email-marketing.jpg)
+![]({{ site.urlimg }}text-email-marketing.jpg)
 
 ### Schritt 5: Erstellen Sie einen Zeitplan
 
@@ -127,7 +127,7 @@ Tag 4
 ## Wie man den E-Mail-Verteiler weiter ausbaut
 
 <figure>
-<img src="{{ site.urlimg }}text-email-marketing-shutterstock_248957974.png">
+<img src="{{ site.urlimg }}text-email-marketing-shutterstock_248957974.png">
 <figcaption class="text-right"><a href="http://www.shutterstock.com/pic.mhtml?id=248957974&amp;src=id">»Newsletter illustration with laptop« von Shutterstock</a></figcaption>    
 </figure>
 
@@ -276,11 +276,11 @@ Trotz dieser offensichtlichen Nachteile setzen alle professionellen Services und
 
 
  [1]: http://www.eyedee-media.com/marketing/glossar.html
- [2]: {{ site.url }}/text/pr-meldung-pressemeldung/
+ [2]: {{ site.url }}/text/pr-meldung-pressemeldung/
  [3]: http://www.mailchimp.com/resources
  [4]: http://www.beautiful-email-newsletters.com
  [5]: http://www.spammeltdown.com
- [6]: {{ site.url }}/mailchimp/
+ [6]: {{ site.url }}/mailchimp/
  [7]: #
  [8]: #
  [9]: #

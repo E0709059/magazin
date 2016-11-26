@@ -21,7 +21,7 @@ So nutzen Sie die umgekehrte Bildersuche von [images.google.de][1].
 Öffnen Sie zuerst die [Bildersuche von Google][1]. Entweder über den obigen Link oder indem Sie in den Suche auf Bilder klicken – direkt unter dem Suchfeld. Klicken Sie anschließend auf das Kamera-Icon – siehe Abbildung.
 
 <figure>
-    <img src="{{ site.urlimg }}bild-recherche-1.png" alt="Bildrecherche Schritt 1">
+    <img src="{{ site.urlimg }}bild-recherche-1.png" alt="Bildrecherche Schritt 1">
     <figcaption>Ein Klick auf das Kamera-Icon öffnet die umgekehrte Bildsuche</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ So nutzen Sie die umgekehrte Bildersuche von [images.google.de][1].
 Um herauszufinden woher ein Bild stammt, benötigt die Googler Bildersuche entweder eine URL zum Bild oder Sie laden das Bild über die Google Bildersuche hoch.
 
 <figure>
-    <img src="{{ site.urlimg }}bild-recherche-2.png" alt="Bildrecherche Schritt 2">
+    <img src="{{ site.urlimg }}bild-recherche-2.png" alt="Bildrecherche Schritt 2">
     <figcaption>Geben Sie entweder eine Bild-URL an oder laden Sie ein Bild hoch.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Um herauszufinden woher ein Bild stammt, benötigt die Googler Bildersuche entwe
 
 ## 3. Ergebnis
 
-![Bildrecherche Schritt 3]({{ site.urlimg }}bild-recherche-3.png)
+![Bildrecherche Schritt 3]({{ site.urlimg }}bild-recherche-3.png)
 
 
 

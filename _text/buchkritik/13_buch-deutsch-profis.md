@@ -13,7 +13,7 @@ image:
     thumb: text_cover_deutsch_fuer_profis-thumb.jpg
 permalink: /buch-deutsch-profis/
 ---
-![]({{ site.urlimg }}text_cover_deutsch_fuer_profis.jpg)
+![]({{ site.urlimg }}text_cover_deutsch_fuer_profis.jpg)
 {: .right }
 
 Das Buch eignet sich hervorragend, um die eigenen Schreibtechniken zu verbessern und um ein Gefühl für die Sprache zu bekommen. Der Autor hilft dem Leser die eigenen sprachlichen Fähigkeiten auszubauen. Mit zahlreichen Beispielen analysiert Wolf Schneider mangelhafte Beiträge von Journalisten aus deutschen Zeitungen.
@@ -30,5 +30,5 @@ ISBN 3-442-16175-4
 [Buch bei Amazon kaufen!](http://www.amazon.de/dp/3442161754?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3442161754&amp;adid=1BXW3T42DZYT3CFRPN7Z&amp;)
 {: .button.radius.success }
 
-[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
+[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
 {: .button.radius.success }

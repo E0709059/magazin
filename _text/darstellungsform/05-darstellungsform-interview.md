@@ -67,7 +67,7 @@ Eine sorgfältige Arbeitsweise während jeder Phase garantiert, dass das Intervi
 Damit Interviews gelingen, ist eine [vorausgehende Recherche](http://suche-recherche.de/suchen-recherchieren/index.php) Pflicht. Dazu gehören die Online- und die Offline-Recherche. Je besser Sie für ein Interview gerüstet sind, desto flexibler können Sie mit den Befragten umgehen und das Gespräch vorsichtig steuern. Sind Sie gut vor­bereitet, merkt Ihr Gesprächspartner das und wird es Ihnen mit Respekt und einem interessanten Dialog danken.
 
 <figure>
-<img src="{{ site.urlimg }}text-schreiben-interview-144911782.jpg" alt="interview situation">
+<img src="{{ site.urlimg }}text-schreiben-interview-144911782.jpg" alt="interview situation">
 <figcaption><a href="http://www.shutterstock.com/pic.mhtml?id=144911782&src=id">»Beautiful young celebrity« von Shutterstock</a></figcaption>
 </figure>
 

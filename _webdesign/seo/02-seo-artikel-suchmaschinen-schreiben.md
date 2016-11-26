@@ -87,14 +87,14 @@ Wenn Sie einen neuen, längeren Artikel planen, lohnt sich folgende Vorgehenswei
 Insbesondere der letzte Punkt ist äußerst wichtig für die Suchmaschinen&shy;optimierung. Teilen Sie der Welt per Twitter, Newsletter oder E-Mail mit, dass es ihn gibt. Schreiben Sie Freunden und anderen Bloggern und bitten Sie sie um ein Urteil. Setzen Sie Links zum Artikel in Social Communities, Foren und überall dort ab, wo es Interessierte gibt. Diese Maßnahmen erzeugen in der Regel bei guten Inhalten Links für Ihre Inhalte. Das Wichtigste bei der Suchmaschinen&shy;optimierung sind Links, Links, Links auf Ihre Inhalte!
 
 
-[Teil 3: Keyword-Recherche für die Suchmaschinenoptimierung ›]({{ site.url }}/keyword-recherche-suchmaschinenoptimierung/)
+[Teil 3: Keyword-Recherche für die Suchmaschinenoptimierung ›]({{ site.url }}/keyword-recherche-suchmaschinenoptimierung/)
 {: .button.radius }
 
 
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
- [2]: {{ site.url }}/recherche/
+ [2]: {{ site.url }}/recherche/
  [3]: https://adwords.google.de/KeywordPlanner
  [4]: https://www.google.de/adwords/
  [5]: https://metager.de/klassik/asso/

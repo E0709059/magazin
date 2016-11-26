@@ -8,7 +8,7 @@ tags:
   - markdown
 format: link
 ---
-<img src="{{ site.url }}/images/word-markdown-converter-604x343.png" alt="word-markdown-converter" width="604" height="343" class="alignnone size-large wp-image-3169" />
+<img src="{{ site.url }}/images/word-markdown-converter-604x343.png" alt="word-markdown-converter" width="604" height="343" class="alignnone size-large wp-image-3169" />
 
 <div class="teaser">
   <p>

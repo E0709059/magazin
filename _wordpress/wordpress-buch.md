@@ -26,7 +26,7 @@ style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background
 
 Lust, eine eigene Website zu entwickeln, aber am liebsten, ohne tief in die dahinterliegende Technik einzusteigen? Dann kann's jetzt losgehen!
 
-![]({{ site.urlimg }}cover-das-wordpress-buch-2-auflage-500x.jpg)
+![]({{ site.urlimg }}cover-das-wordpress-buch-2-auflage-500x.jpg)
 
 WordPress ist das wohl beliebteste Redaktionssystem, das hinter Millionen von Websites und Blogs steht. Es ist insbesondere bei Einsteigern beliebt, die ihren ersten Webauftritt mit WordPress umsetzen möchten. Genau an diese Leser richtet sich auch Das WordPress-Buch: In verständlichen Worten und ohne viel technischen Jargon begleitet Sie der Autor Moritz "mo." Sauer bei allen wichtigen Schritten - von der Installation bis hin zum Sicherheits-Update Ihres fertigen Webauftritts. Das Buch richtet sich sowohl an Leser, die eine normale Website aufsetzen möchten, als auch an angehende Blogger.
 
@@ -53,9 +53,9 @@ ISBN-13: 978-3955618605
 
 ## Noch mehr über WordPress
 
-* [Tipps, Tricks und Neues rund um WordPress]({{ site.url }}/wordpress/)
-* [Hochwertige Auswahl an WordPress Themes]({{ site.url }}/wordpress/themes/)
-* [Hilfreiche und professionelle WordPress Plugins]({{ site.url }}/wordpress/plugins/)
+* [Tipps, Tricks und Neues rund um WordPress]({{ site.url }}/wordpress/)
+* [Hochwertige Auswahl an WordPress Themes]({{ site.url }}/wordpress/themes/)
+* [Hilfreiche und professionelle WordPress Plugins]({{ site.url }}/wordpress/plugins/)
 * [Website von O'Reilly zum Buch][4]
 
 
@@ -114,7 +114,7 @@ Siegmar Gebele auf siegmargebele.com
 
 
 [1]: http://www.amazon.de/gp/product/3955618609/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3955618609&linkCode=as2&tag=phlow-21&linkId=2MZKAARU43DMJ637
-[2]: {{ site.url }}/video/wordpress-installation/
-[3]: {{ site.url }}/video/filezilla/
+[2]: {{ site.url }}/video/wordpress-installation/
+[3]: {{ site.url }}/video/filezilla/
 [4]: http://www.oreilly.de/catalog/wordpressbuchger/
 

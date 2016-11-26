@@ -48,7 +48,7 @@ Damit Sie dieses Ziel erreichen, müssen Sie eine Menge Hürden nehmen, weil erf
 
 Bedenken Sie immer, dass Sie im besten Falle die Arbeit eines Redakteurs oder die eines Journalisten übernehmen. Redaktionen arbeiten oft unter Zeitdruck, ob im Online- oder im Printbereich. Besonders gegen Ende einer Heftproduktion fehlen bei Redaktionen im Magazin- und Zeitungsbereich noch Nachrichten - zum Beispiel im Produktbereich. Gähnt ein Loch in der Rubrik für elektronische Gadgets, so durchsuchen die Redakteure hastig auf der Suche nach einem interessanten Gerät die jeweiligen Newsletter.
 
-![]({{ site.urlimg }}text-pr-nachricht.gif)
+![]({{ site.urlimg }}text-pr-nachricht.gif)
 
 In der Hektik achten Redakteure dabei neben dem Nachrichtenwert außerdem auf die Verwertbarkeit des jeweiligen PR-Textes. Buhlen zwei interessante PR-Nachrichten um den gleichen Platz, entscheidet sich der Redakteur in der Regel für den qualitativ höheren PR-Text. Qualität bedeutet in diesem Zusammenhang für den Redakteur: Kann ich diese Meldung schnell einarbeiten und liegen mir alle relevanten Materialien wie Bilder und Links vor? So wird am Ende die PR-Nachricht ausgewählt, die nützlich und hilfreich aufgebaut wurde.
 
@@ -185,8 +185,8 @@ Obendrein wirken unvollständige Pressetexte unprofessionell und werden oft dire
 
 
 
- [1]: {{ site.url }}/text/meldung-nachricht-news/
- [2]: {{ site.url }}/soundcloud/
+ [1]: {{ site.url }}/text/meldung-nachricht-news/
+ [2]: {{ site.url }}/soundcloud/
  [3]: #
  [4]: #
  [5]: #

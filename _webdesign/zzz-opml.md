@@ -37,4 +37,4 @@ Als Beispiel habe ich Ihnen eine Vielzahl von Newstickern in verschiedenen OPML-
 
 
 
- [1]: {{ site.url }}/video/rss/
+ [1]: {{ site.url }}/video/rss/

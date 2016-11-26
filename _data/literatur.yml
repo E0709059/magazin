@@ -85,7 +85,7 @@
   publisher: O’Reilly
   isbn: 9780596102272
   date_published: 2006
-  amazon_link: 
+  amazon_link:
   download_link: http://www.oreilly.com/openbook/wemedia/book/
   website:
   category:
@@ -119,7 +119,7 @@
 - title: "Blogs, Video & Online-Journalismus"
   author: "Moritz »mo.« Sauer"
   publisher: O’Reilly Verlag
-  isbn: 978-3-89721-973-1  
+  isbn: 978-3-89721-973-1
   date_published: 2010
   amazon_link: https://www.amazon.de/dp/3897219735?tag=phlow-21&amp;camp=2906&amp;creative=19474&amp;linkCode=as4&amp;creativeASIN=3897219735&amp;adid=0ZS0JSGHEPP9MJ5D28YB&amp;
   website: http://magazin.phlow.de/buch-blogs-video-online-journalismus/
@@ -132,7 +132,7 @@
     - Recherche
     - Videoschnitt
     - Screencasting
-  review_url: /buch-blogs-video-online-journalismus/
+  review_url: "/buch-blogs-video-online-journalismus/"
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -141,7 +141,7 @@
   author: "Wolf Schneider"
   publisher: Goldmann Verlag
   isbn: 3-442-16175-4
-  date_published: 1999  
+  date_published: 1999
   amazon_link: http://www.amazon.de/dp/3442161754?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3442161754&amp;adid=1BXW3T42DZYT3CFRPN7Z&amp;
   category: Journalismus
   tags:
@@ -149,7 +149,7 @@
     - Sprache
     - Schreibregeln
     - Journalismus
-  review_url: /buch-deutsch-profis/
+  review_url: "/buch-deutsch-profis/"
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -168,7 +168,7 @@
     - Sprache
     - Schreibregeln
     - Journalismus
-  review_url: 
+  review_url:
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -176,7 +176,7 @@
 - title: "Journalistisches Schreiben"
   author: "Rene J. Cappon"
   publisher: Autorenhaus Verlag
-  isbn: 3-93290-925-9  
+  isbn: 3-93290-925-9
   date_published: 2005
   amazon_link: http://www.amazon.de/dp/3932909259?tag=phlow-21&amp;camp=1410&amp;creative=6378&amp;linkCode=as1&amp;creativeASIN=3932909259&amp;adid=1H74XS0VEH8QW01Z8W5R&amp;
   category: Journalismus
@@ -206,7 +206,7 @@
     - Journalismus
     - Darstellungsformen
   tags: 
-  review_url: /buch-abc-des-zeitungs-und-zeitschriftenjournalismus/
+  review_url: "/buch-abc-des-zeitungs-und-zeitschriftenjournalismus/"
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -215,7 +215,7 @@
   author: "Stefan Heinjk"
   publisher: "dpunkt.verlag"
   date_published: "2011 (2., überarbeitete und erweiterte Auflage)"
-  isbn: 978–3–89864–698–7  
+  isbn: 978–3–89864–698–7
   amazon_link: http://www.amazon.de/gp/product/389864698X/ref=as_li_ss_tl?ie=UTF8&tag=phlow-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=389864698X
   category: Journalismus
   tags:
@@ -225,15 +225,15 @@
     - Storytelling
     - Journalismus
   language: "Deutsch"
-  review_url: /buch-texten-fuers-web/
+  review_url: "/buch-texten-fuers-web/"
 
 # -----------------------------------------------
 #
 - title: "Einführung in den praktischen Journalismus"
   author: "Walther LaRoche"
   publisher: Econ Verlag
-  date_published: 2006  
-  isbn: 3-430-17681-6  
+  date_published: 2006
+  isbn: 3-430-17681-6
   amazon_link: http://www.amazon.de/gp/product/3430200458/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3430200458
   category: Journalismus
   tags:
@@ -248,8 +248,8 @@
 - title: "Das Interview"
   author: "Michael Haller"
   publisher: UVK Medien
-  date_published: 2001  
-  isbn: 9783896693044  
+  date_published: 2001
+  isbn: 9783896693044
   amazon_link: http://www.amazon.de/gp/product/3896693042/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693042
   category: Journalismus
   tags:
@@ -265,8 +265,8 @@
 - title: "Recherchieren"
   author: "Michael Haller"
   publisher: UVK Medien
-  date_published: 2004  
-  isbn: 9783896694348  
+  date_published: 2004
+  isbn: 9783896694348
   amazon_link: http://www.amazon.de/gp/product/3896694340/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896694340
   category: Journalismus
   tags:
@@ -280,7 +280,7 @@
 - title: "Die Reportage"
   author: "Michael Haller"
   publisher: UVK Medien
-  date_published: 2006  
+  date_published: 2006
   isbn: 9783896693051
   amazon_link: http://www.amazon.de/gp/product/3896693050/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3896693050
   category: Journalismus
@@ -295,7 +295,7 @@
 - title: "Die 50 Werkzeuge für gutes Schreiben"
   author: "Roy Peter Clark"
   publisher: Autorenhaus Verlag
-  date_published: 2009  
+  date_published: 2009
   isbn:: 3866710313
   amazon_link: http://www.amazon.de/gp/product/3866710313/ref=as_li_ss_tl?ie=UTF8&amp;tag=phlow-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3866710313
   category: Journalismus
@@ -313,7 +313,7 @@
     - "E. B. White"
     - "William I. Strunk"
   publisher: Pearson Longman
-  date_published: 1999  
+  date_published: 1999
   isbn: 978-0205309023
   amazon_link: http://www.amazon.de/gp/product/020530902X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=020530902X&linkCode=as2&tag=phlow-21&linkId=6EN7EQEABYYVFJPF
   category: Journalismus
@@ -341,7 +341,7 @@
     - Typograf
     - Typografiegesetze
     - Typografie
-  review_url: 
+  review_url:
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -356,7 +356,7 @@
   tags:
     - Typografie
     - Typografiegesetze
-  review_url: 
+  review_url:
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -372,7 +372,7 @@
   category: Typografie
   tags:
     - Typografie
-  review_url: 
+  review_url:
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -389,7 +389,7 @@
   tags:
     - Typografie
     - Gedanken zum Medium Buch
-  review_url: 
+  review_url:
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -400,7 +400,7 @@
   isbn: 978-3-8353-1355-2
   date_published: 2013
   amazon_link: http://www.amazon.de/gp/product/383531355X/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=383531355X&linkCode=as2&tag=phlow-21&linkId=F72BMCSDR6YRNCSS
-  download_link: 
+  download_link:
   website: http://www.wallstein-verlag.de/9783835313552-guenter-karl-bose-das-ende-einer-last.html
   category: Typografie
   tags:
@@ -412,7 +412,7 @@
 
 # -----------------------------------------------
 #
-- title: "Die perfekte Lesemaschine – Zur Ergonomie des Buches"
+- title: "Die perfekte Lesemaschine – Zur Ergonomie des Buches"
   author: "Roland Reuß"
   publisher: Wallstein Verlag
   isbn: 978-3-8353-1435-1
@@ -425,7 +425,7 @@
     - Typografie
     - Entwicklungsgeschichte
     - Medium Buch
-  review_url: 
+  review_url:
   language: "Deutsch"
 
 # -----------------------------------------------
@@ -436,10 +436,10 @@
   isbn: 978-3423345316
   date_published: 2009
   amazon_link: http://www.amazon.de/gp/product/3423345314/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3423345314&linkCode=as2&tag=phlow-21&linkId=JMJER45XY6TUONIU
-  download_link: 
-  website: 
+  download_link:
+  website:
   category: Medientheorie
-  tags: 
+  tags:
     - Medientheorie
     - digitale Ökonomie
     - eCommerce
@@ -453,10 +453,10 @@
   isbn: 978-0062063359
   date_published: 2010
   amazon_link: http://www.amazon.de/gp/product/0062063359/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0062063359&linkCode=as2&tag=phlow-21&linkId=OAP33NGTGI2PS4YV
-  download_link: 
+  download_link:
   website: http://buzzmachine.com/wwgd/
   category: Medientheorie
-  tags: 
+  tags:
     - Google
     - Social Media
     - Medientheorie
@@ -494,7 +494,7 @@
   tags: 
     - Typografie
     - Schrift
-#  review_url: 
+  review_url:
   language: Englisch
 
 # -----------------------------------------------
@@ -514,5 +514,5 @@
     - Webdesign
     - Responsive Webdesign
     - Responsive Typography
-  review_url: http://magazin.phlow.de/webdesign/responsive-typography/
+  review_url: "http://magazin.phlow.de/webdesign/responsive-typography/"
   language: Englisch

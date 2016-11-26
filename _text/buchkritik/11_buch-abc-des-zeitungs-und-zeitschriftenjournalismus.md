@@ -13,7 +13,7 @@ tags:
 image:
     thumb: text_cover_abc_journalismus-thumb.jpg
 ---
-![]({{ site.urlimg }}text_cover_abc_journalismus.jpg)
+![]({{ site.urlimg }}text_cover_abc_journalismus.jpg)
 {: .right }
 
 Volker Wolff schreibt sachlich und verständlich und reichert die einzelnen Kapiteln zum jeweiligen Textformat mit zahlreichen hilfreichen Beispielen an. Ein lohnenswertes Allround-Buch, dass sich auch als Nachschlagewerk für die einzelnen Textgattungen eignet.
@@ -28,5 +28,5 @@ ISBN 3-89669-578-9
 [Buch bei Amazon kaufen!](http://www.amazon.de/dp/3896695789?tag=phlow-21&camp=1410&creative=6378&linkCode=as1&creativeASIN=3896695789&adid=1GZAEEK2FV5X22F517YK&)
 {: .button.radius.success }
 
-[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
+[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
 {: .button.radius.success }

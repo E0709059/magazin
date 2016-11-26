@@ -49,6 +49,6 @@ Um die *includes* innerhalb von *default.html* aufzurufen, genügt der Befehl {%
 
 
 
- [1]: {{ site.url }}/jekyll/front-matter/
+ [1]: {{ site.url }}/jekyll/front-matter/
  [2]: #
  [3]: #

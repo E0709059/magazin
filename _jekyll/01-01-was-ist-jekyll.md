@@ -48,7 +48,7 @@ Jekyll bietet als Static Website Generator zahlreiche Vorteile, die Systeme wie 
  [1]: http://jekyllrb.com/
  [2]: http://de.wikipedia.org/wiki/WYSIWYG
  [3]: http://phlow.de/wordpress
- [5]: {{ site.url }}/terminal/
+ [5]: {{ site.url }}/terminal/
 
 
 

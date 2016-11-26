@@ -38,7 +38,7 @@ Logisch, dass dadurch die an den Empfänger gesendeten Daten weniger und die ein
 
 ## Websites auf Kompression testen
 
-<img src="{{ site.urlimg }}gzip_kompression.png" alt="gzip_kompression" width="585" height="204" />
+<img src="{{ site.urlimg }}gzip_kompression.png" alt="gzip_kompression" width="585" height="204" />
 
 Ist gibt einige Websites, über die man schnell testen kann, ob die eigene (oder eine andere) Website bereits gzip aktiviert hat und komprimierte Daten ausliefert.
 

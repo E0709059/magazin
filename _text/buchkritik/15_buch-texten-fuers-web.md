@@ -12,7 +12,7 @@ image:
     thumb: text_cover_texten_fuer_das_web-thumb.jpg
 permalink: /buch-texten-fuers-web/
 ---
-![]({{ site.urlimg }}text_cover_texten_fuer_das_web.jpg)
+![]({{ site.urlimg }}text_cover_texten_fuer_das_web.jpg)
 {: .right }
 
 Etwas irreleitend ist der Titel des Buches. Denn “Texten fürs Web”, das sich intensiv mit dem Thema Online-Journalismus auseinandersetzt, befasst sich mit mehr als nur Text. Der Professor für Print- und Online-Journalismus befasst sich in seinem Buch nicht nur mit Schreibmethoden, sondern erklärt vor allem, **wie man Inhalte generell konzipiert, plant, aufbaut und umsetzt**.
@@ -55,7 +55,7 @@ ISBN 978–3–89864–698–7
 [Buch bei Amazon kaufen ›](http://www.amazon.de/gp/product/389864698X/ref=as_li_ss_tl?ie=UTF8&tag=phlow-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=389864698X)
 {: .button.radius.success }
 
-[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
+[Zur Phlow Magazin Literaturliste ›]({{ site.url }}/journalismus/literatur/)
 {: .button.radius.success }
 
 

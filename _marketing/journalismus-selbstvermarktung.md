@@ -39,7 +39,7 @@ Bevor Sie aber Inhalte über Kanäle wie diese publizieren, lohnt es sich, zunä
 ## Branding &amp; Corporate Identity: der Journalist als Marke
 
 <figure>
-<img src="{{ site.urlimg }}social_media_shutterstock_189811238.jpg">
+<img src="{{ site.urlimg }}social_media_shutterstock_189811238.jpg">
 <figcaption>Soziale Medien helfen bei der Vermarkung – <a href="http://www.shutterstock.com/pic-189811238/stock-photo-people-connecting-and-sharing-social-media.html">Foto: People Connecting and Sharing Social Media von Shutterstock</a></figcaption>
 </figure>
 
@@ -84,11 +84,11 @@ Neben den Bestandteilen Ihrer Marke empfehle ich, in einem separaten Ordner Ihre
 ## Zeitaufwand versus Nutzen
 
 <figure>
-<img src="{{ site.urlimg }}social_media_shutterstock_124904123.jpg">
+<img src="{{ site.urlimg }}social_media_shutterstock_124904123.jpg">
 <figcaption>Arbeit mit sozialen Medien, bedeutet immer Zeitaufwand.</figcaption>
 </figure>
 
-<div class="alert-box info radius">Unsere <a href="{{ site.url }}/zeit-kosten-social-web/">tabellarische Aufstellung über Zeit versus Nutzen</a> vergleicht, wofür sich soziale Medien lohnen und wie viel Zeit der jeweilige Service für das Marketing verschluckt.</div>
+<div class="alert-box info radius">Unsere <a href="{{ site.url }}/zeit-kosten-social-web/">tabellarische Aufstellung über Zeit versus Nutzen</a> vergleicht, wofür sich soziale Medien lohnen und wie viel Zeit der jeweilige Service für das Marketing verschluckt.</div>
 
 Journalisten arbeiten sowohl in als auch für verschiedene Institutionen sowie mit verschiedenen Formaten. Dazu gehören Texte, Bilder, Audio, Videos und Präsentationen. Bei diesen unterschiedlichen Darstellungsformen bieten sich verschiedene Kanäle und Techniken für die Verbreitung im Internet an. Eine der wichtigsten Fragen auf der Suche nach dem effektivsten Marketingkanal lautet dabei: Wie viel Zeit wollen und können Sie für die Selbstvermarktung »opfern«? Gleichzeitig stellt sich die nächste Frage: Welcher Informationskanal eignet sich für die eigene Selbstvermarktung? Nutzen Sie besser Twitter, ein Blog, Podcasting oder vielleicht Facebook? Oder eine Kombination?
 
@@ -150,7 +150,7 @@ Einen nicht unerheblichen Nachteil hat jedoch auch eine Installation über WordP
 Newsletter gibt es, seit es das E-Mail-Format gibt. Newsletter werden zwar regelmäßig verschickt, doch im hektischen Web 2.0-Zeitalter bilden sie eher einen Ruhepol.
 
 <figure>
-<img src="{{ site.urlimg }}journalismus_scr_mailchimp.png">
+<img src="{{ site.urlimg }}journalismus_scr_mailchimp.png">
 <figcaption>Die Newsletter-Statistiken von Mailchimp helfen bei der Evaluierung des eigenen Marketings.</figcaption>
 </figure>
 
@@ -206,12 +206,12 @@ Machen Sie sich mit den Funktionen der verschiedenen Dienste vertraut und experi
 
 
  [1]: http://de.wikipedia.org/wiki/Corporate_Identity
- [2]: {{ site.url }}/video/rss/
+ [2]: {{ site.url }}/video/rss/
  [3]: http://www.slideshare.net/
- [4]: {{ site.url }}/soundcloud/
+ [4]: {{ site.url }}/soundcloud/
  [5]: http://facebook.com
  [6]: http://wordpress.org/
- [7]: {{ site.url }}/video/embedding/
- [8]: {{ site.url }}/mailchimp/
+ [7]: {{ site.url }}/video/embedding/
+ [8]: {{ site.url }}/mailchimp/
  [9]: #
  [10]: #

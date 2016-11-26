@@ -30,7 +30,7 @@ style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background
 
 ## Ist das Theme mit der neuesten Version von WordPress kompatibel?
 
-![]({{ site.urlimg }}wordpress-theme-aktuell.jpg)
+![]({{ site.urlimg }}wordpress-theme-aktuell.jpg)
 {: .border-dotted }
 
 ## Ist das Theme für Suchmaschinen optimiert?
@@ -81,7 +81,7 @@ Wenn es sich um ein Premium-Theme handelt,...
 
 ## Was schreiben Blogs/Nutzer über das Theme?
 
-![]({{ site.urlimg }}wordpress-theme-bewertung.jpg)
+![]({{ site.urlimg }}wordpress-theme-bewertung.jpg)
 {: .border-dotted }
 
 
@@ -90,7 +90,7 @@ Wenn es sich um ein Premium-Theme handelt,...
 
 Websites müssen heute auf dem PC genauso gut und übersichtlich aussehen wie auf dem Tablet oder dem Smartphone und sich überall flüssig bedienen lassen. Responsive Webdesign liefert an alle Geräte dieselben Inhalte aus. Je nach Gerät zeigt der Browser aber die Elemente einer Seite unterschiedlich angeordnet, verkleinert oder vergrößert an. Mitunter blenden sich Elemente auch komplett aus, große Banner auf kleinen Displays etwa. Viele WordPress-Themes bestehen bereits auf Responsive Webdesign – z.B. [Twenty Fourteen][9], [Twenty Thirteen][10] und andere.
 
-![]({{ site.urlimg }}wordpress-theme-responsive.jpg)
+![]({{ site.urlimg }}wordpress-theme-responsive.jpg)
 {: .border-dotted }
 
 
@@ -116,7 +116,7 @@ Websites müssen heute auf dem PC genauso gut und übersichtlich aussehen wie au
 
 
 
- [1]: {{ site.url }}/wordpress/themes/
+ [1]: {{ site.url }}/wordpress/themes/
  [2]: http://codex.wordpress.org/Shortcode
  [3]: http://wordpress.org/extend/themes/
  [4]: http://wp.smashingmagazine.com/2011/07/05/free-wordpress-themes-2011-edition/

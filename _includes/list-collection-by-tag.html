@@ -19,12 +19,12 @@
   {% for item in site.[include.collection] %}
   {% if item.published == false %}
   {% elsif item.tags contains include.tag and counter < limit %}
-  <li{% if item.url == page.url %} class="active"{% endif %}><span><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></span></li>
+  <li{% if item.url == page.url %} class="active"{% endif %}><span><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></span></li>
   {% assign counter=counter | plus:1 %}
   {% endif %}
   {% endfor %}
   {% if include.url %}
-  <li class="text-right"><a href="{{ site.url }}/{{ include.url | downcase }}/{{ include.tag | downcase }}/"><strong>Mehr ›</strong></a></li>
+  <li class="text-right"><a href="{{ site.url }}/{{ include.url | downcase }}/{{ include.tag | downcase }}/"><strong>Mehr ›</strong></a></li>
   {% else %}
   <li>&nbsp;</li>
   {% endif %}

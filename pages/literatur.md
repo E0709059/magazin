@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Journalismus – Webdesign – Social Media"
+subheadline: "Journalismus – Webdesign – Social Media"
 title: "Literatur"
 teaser: "Empfehlenswerte Literatur aus den Bereichen Journalismus, Webdesign, Social Media und Design. Verlinkte Buchtitel bieten eine Rezension auf Phlow Magazin."
 permalink: /literatur/
@@ -21,10 +21,10 @@ tags:
     {% elsif book.language contains 'Deutsch' %}
         <li class="b30">
             <span class="font-size-h5">
-                {% if book.review_url contains = 'http' %}
+                {% if book.review_url contains 'http' %}
                     <a href="{{ book.review_url }}">»{{ book.title }}«</a>
                 {% elsif book.review_url %}
-                    <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
+                    <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
                 {% else %}»{{ book.title }}«{% endif %}
             </span><br>
             Autor: {{ book.author | join: ', '}}<br>
@@ -53,10 +53,10 @@ tags:
     {% elsif book.language contains 'Englisch' %}
         <li class="b30">
             <span class="font-size-h5">
-                {% if book.review_url contains = 'http' %}
+                {% if book.review_url contains 'http' %}
                     <a href="{{ book.review_url }}">»{{ book.title }}«</a>
                 {% elsif book.review_url %}
-                    <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
+                    <a href="{{ site.url }}{{ book.review_url }}">»{{ book.title }}«</a>
                 {% else %}»{{ book.title }}«{% endif %}
             </span><br>
             Autor: {{ book.author | join: ', '}}<br>

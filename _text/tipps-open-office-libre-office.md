@@ -47,7 +47,7 @@ Das bedeutet konkret: **Reguläre Ausdrücke helfen verkorkste Dokumente schnell
 
 ### Texte mit Suchen und Ersetzen formatieren
 
-![]({{ site.urlimg }}software_suchen-ersetzen-open-office.png)
+![]({{ site.urlimg }}software_suchen-ersetzen-open-office.png)
 
 Texte lassen sich auf vielfältige Weise mit regulären Ausdrücken formatieren. Damit reguläre Ausdrücke als solche erkannt werden, muß im Suchen-Ersetzen-Dialog diese Option aktiviert werden (siehe Screenshot).
 

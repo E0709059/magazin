@@ -75,7 +75,7 @@ Deutsche Webseiten mit Seitwert.de durchleuchten: Richtig Vergnügen bereitet de
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
- [2]: {{ site.url }}/recherche/
+ [2]: {{ site.url }}/recherche/
  [3]: https://adwords.google.de/KeywordPlanner
  [4]: https://www.google.de/adwords/
  [5]: https://metager.de/klassik/asso/

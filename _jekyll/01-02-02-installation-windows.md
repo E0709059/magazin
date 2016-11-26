@@ -17,7 +17,7 @@ Dieser Beitrag ist eine modifizierte Übersetzung von [»Learn how to run Jekyll
 
 ## Voraussetzungen für Jekyll
 
-![Ruby Logo]({{ site.urlimg }}ruby-logo.png)
+![Ruby Logo]({{ site.urlimg }}ruby-logo.png)
 
 Um Jekyll auf einem Mac OS X-, Windows- oder Linux-Rechner zu installieren benötigt man die folgende freie Software:
 
@@ -27,7 +27,7 @@ Um Jekyll auf einem Mac OS X-, Windows- oder Linux-Rechner zu installieren benö
 
 ## #1 Ruby auf Windows installieren
 
-![Windows Logo]({{ site.urlimg }}windows-mobile-logo.png)
+![Windows Logo]({{ site.urlimg }}windows-mobile-logo.png)
 
 Um Ruby auf Windows-Rechnern zu nutzen, muss man es zuerst installieren. Dafür eignet sich am Besten der Ruby Installer. Die aktuelle Version des Ruby Installers findet man unter [rubyinstaller.org][1].
 

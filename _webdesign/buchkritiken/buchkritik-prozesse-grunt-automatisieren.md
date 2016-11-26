@@ -45,8 +45,8 @@ Release: P1.0 (2014-04-29)
 ISBN: 978-1-94122-211-9
 
  [1]: http://mo.phlow.de/grunt/
- [2]: {{ site.url }}/webdesign/
+ [2]: {{ site.url }}/webdesign/
  [3]: http://pragprog.com/book/bhgrunt/automate-with-grunt
- [4]: {{ site.url }}/images/automate_with_grunt_the_build_tool_for_javascript.jpg
+ [4]: {{ site.url }}/images/automate_with_grunt_the_build_tool_for_javascript.jpg
  [5]: http://www.amazon.de/gp/product/B00KQVXD20/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00KQVXD20&linkCode=as2&tag=phlow-21
  [6]: http://www.amazon.de/gp/product/1941222110/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1941222110&linkCode=as2&tag=phlow-21

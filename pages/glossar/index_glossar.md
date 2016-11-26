@@ -7,6 +7,6 @@ permalink: /glossar/
 ---
 <ul>
   {% for page in site.pages %}
-  {% if page.title contains 'Glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
+  {% if page.title contains 'Glossar' %}<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>{% endif %}
   {% endfor %}
 </ul>

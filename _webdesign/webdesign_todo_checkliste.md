@@ -121,8 +121,8 @@ permalink: /webdesign/checkliste/
 
 
 
- [1]: {{ site.url }}/video/imageoptim/
- [2]: {{ site.url }}/wordpress/plugins/#kaputte-links-finden-reparieren-und-lschen
+ [1]: {{ site.url }}/video/imageoptim/
+ [2]: {{ site.url }}/wordpress/plugins/#kaputte-links-finden-reparieren-und-lschen
  [3]: http://www.brokenlinkcheck.com/
  [4]: #
  [5]: #

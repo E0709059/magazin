@@ -40,7 +40,7 @@ permalink: /icon-fonts/
 
 ## Individuelle Icon Fonts zusammenklicken
 
-![flaticon]({{ site.urlimg }}webdesign-flaticon-icon-font.png)
+![flaticon]({{ site.urlimg }}webdesign-flaticon-icon-font.png)
 
 Es gibt zahlreiche Online-Services mit denen sich man individuelle Icon Fonts erstellen kann. Die meisten Services erlauben sogar den Upload von SVG-Vektor-Dateien, mit denen man seinen eigenen Font komplettieren kann.
 
@@ -63,7 +63,7 @@ Die Icons kann man sich als nach dem Zusammenklicken als Font, PNG oder als SVG 
 
 Entypo ist eine Icon-Bibliothek, die runde, harmonische Icons präsentiert. Ein Extra-Set ergänzt die Bibliothek um typische Social Media-Icons von z.B. Twitter, Facebook & Co. Der Designer Daniel Bruce erweitert Entypo kontinuierlich.
 
-![entypo font]({{ site.urlimg }}webdesign-entypo-icon_font.png)
+![entypo font]({{ site.urlimg }}webdesign-entypo-icon_font.png)
 
 *   Link: [www.entypo.com][3]
 *   Lizenz: [SIL Open Font License][6]/[Creative Commons – CC BY 3.0][7]
@@ -74,7 +74,7 @@ Entypo ist eine Icon-Bibliothek, die runde, harmonische Icons präsentiert. Ein 
 
 [Font Awesome][4] beschreibt sich selbst als *»the iconic font designed for use with Twitter Bootstrap«*. Font Awesome.
 
-![Font Awesome Icon Font]({{ site.urlimg }}webdesign-font_awesome_icon_font.png)
+![Font Awesome Icon Font]({{ site.urlimg }}webdesign-font_awesome_icon_font.png)
 
 *   Link: [Font Awesome][4]
 *   Lizenz: [SIL Open Font License][6]
@@ -85,7 +85,7 @@ Entypo ist eine Icon-Bibliothek, die runde, harmonische Icons präsentiert. Ein 
 
 > Iconic aims to be the most forward-thinking icon set around based on its support of forward facing display/deployment methods. Icons should not just be clear and attractive, they should be easy and flexible to work with.
 
-![Iconic Icon Font]({{ site.urlimg }}webdesign-font_awesome_icon_font.png)
+![Iconic Icon Font]({{ site.urlimg }}webdesign-font_awesome_icon_font.png)
 
 *   Link: [somerandomdude.com/work/iconic/][5]
 *   Formate: PNG, SVG, SWC, OFT/TTF/EOT and Omnigraffle stencil
@@ -97,7 +97,7 @@ Entypo ist eine Icon-Bibliothek, die runde, harmonische Icons präsentiert. Ein 
 
 > [Typicons][10] are free-to-use vector icons embedded in a webfont kit for easy use in your UI, whether it be on the web or in a native application.
 
-![Typicons vector icons]({{ site.urlimg }}webdesign-icon_font_typicons.png)
+![Typicons vector icons]({{ site.urlimg }}webdesign-icon_font_typicons.png)
 
 *   Link: [typicons.com][10]
 *   Formate: AI, EPS
@@ -109,7 +109,7 @@ Entypo ist eine Icon-Bibliothek, die runde, harmonische Icons präsentiert. Ein 
 
 [Ionicons][8] beinhaltet **351 Icons** in Version 1.1.
 
-![Ionicons – 351 Icons]({{ site.urlimg }}webdesign-iconfont-ionicons.png)
+![Ionicons – 351 Icons]({{ site.urlimg }}webdesign-iconfont-ionicons.png)
 
 *   Link: [Ionicons][8]
 *   Formate: SVG, EOT, TTF, WOFF

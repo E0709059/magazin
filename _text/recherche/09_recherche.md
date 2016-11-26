@@ -41,7 +41,7 @@ Diese [Video Strategien für die Internetsuche][4] helfen Ihnen auf die Sprünge
 
 ## Suchen und Finden mit Google
 
-![]({{ site.urlimg }}text-recherche-google_logo_animation.gif)
+![]({{ site.urlimg }}text-recherche-google_logo_animation.gif)
 
 Die Google-Suchmaske ist ein mächtiges Werkzeug, wenn man die wichtigsten Befehle bzw. Parameter kennt. Die Parameter müssen Sie sich nicht unbedingt auswendig können, dafür gibt es die [erweiterte Suche von Google mit mehr Suchoptionen][6].
 
@@ -141,7 +141,7 @@ Um den Traffic und die »Bonität« fremder Websites zu überprüfen, eignet sic
 
 ### Besitzer einer Website (Domain, Internetadresse) herausfinden
 
-![]({{ site.urlimg }}whois-domaintools.jpg)
+![]({{ site.urlimg }}whois-domaintools.jpg)
 
 Um den Besitzer einer deutschen Domain zu recherchieren, greift man auf die Datenbank der DENIC zurück. Die [DENIC](http://www.denic.de/) ist die zentrale Registrierungsstelle für alle deutschen Domains der Top Level Domain .de. Um den Besitzer einer Domain herauszufinden, müssen Sie lediglich den Domainnamen ohne *.de* in das Suchfeld eingeben. Bei Zeit.de wäre das einfach nur `zeit`. Anschließend müssen Sie nur noch ein Captcha lösen.
 

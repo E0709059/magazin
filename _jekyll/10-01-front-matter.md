@@ -64,7 +64,7 @@ published: true
 
  [1]: http://yaml.org/
  [2]: http://de.wikipedia.org/wiki/YAML
- [3]: {{ site.url }}/jekyll/konfiguration/#voreinstellungen-fr-beitrge-festlegen
+ [3]: {{ site.url }}/jekyll/konfiguration/#voreinstellungen-fr-beitrge-festlegen
  [4]: #
  [5]: #
  [6]: #

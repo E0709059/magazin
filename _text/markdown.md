@@ -14,7 +14,7 @@ tags:
 image:
     thumb: icon/icon-markdown.svg
 ---
-<img class="right" src="{{ site.urlimg }}icon/icon-markdown.svg" alt="Markdown Logo" width="128" height="128">
+<img class="right" src="{{ site.urlimg }}icon/icon-markdown.svg" alt="Markdown Logo" width="128" height="128">
 **Markdown ist eine leichtgewichtige vereinfachte Auszeichnungssprache**, die von [John Gruber] ins Leben gerufen und mit Hilfe von Aaron Swartz weiterentwickelt wurde. Ursprünglich als Übersetzungwerkzeug von Textdateien in HTML-Dateien gedacht, erlebt Markdown und seine Erweiterung MultiMarkdown derzeit eine Rennaissance. Markdown ähnelt Auszeichnungssprachen, wie [Textile] oder der [Wikipedia Syntax], die in der Wikipedia Anwendung findet.
 
 

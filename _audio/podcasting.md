@@ -91,9 +91,9 @@ Wie die meisten Weblog-Systeme generiert auch [WordPress][3] automa­tisch RSS-F
 </div><!-- /.row -->
 
 
- [1]: {{ site.url }}/video/rss/
- [2]: {{ site.url }}#podcast-software-und-podcatcher
- [3]: {{ site.url }}/wordpress/
+ [1]: {{ site.url }}/video/rss/
+ [2]: {{ site.url }}#podcast-software-und-podcatcher
+ [3]: {{ site.url }}/wordpress/
  [4]: http://audacity.sourceforge.net/
  [5]: http://www.chip.de/downloads/LAME_13003295.html
  [6]: http://www.google.de/search?q=lame_enc

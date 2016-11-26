@@ -14,7 +14,7 @@ tags:
     - feed
 permalink: /was-ist-rss/
 ---
-RSS ist ein strukturiertes Mikroformat für das Speichern von Inhalten nach einem exakten Schema/Protokoll. **Mit RSS kommen die Nachrichten zu Ihnen.** Denn auf zahlreichen Webseiten können Sie RSS-Feeds abonnieren, um diese über Programme oder Online-Services – die News-Aggregatoren – zu lesen. Wie das z.B. mit dem kostenlosen Online-Service Netvibes.com funktioniert, lernen Sie in unserer [Video-Anleitung »RSS Abonnieren«]({{ site.url }}/video/rss/).
+RSS ist ein strukturiertes Mikroformat für das Speichern von Inhalten nach einem exakten Schema/Protokoll. **Mit RSS kommen die Nachrichten zu Ihnen.** Denn auf zahlreichen Webseiten können Sie RSS-Feeds abonnieren, um diese über Programme oder Online-Services – die News-Aggregatoren – zu lesen. Wie das z.B. mit dem kostenlosen Online-Service Netvibes.com funktioniert, lernen Sie in unserer [Video-Anleitung »RSS Abonnieren«]({{ site.url }}/video/rss/).
 
 <div class="flex-video"><iframe width='970' height='546' src='//www.youtube.com/embed/AJxs019BscM' frameborder='0' allowfullscreen></iframe></div><!-- /.flex-video -->
 

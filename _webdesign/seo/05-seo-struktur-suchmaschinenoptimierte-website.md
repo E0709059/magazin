@@ -50,13 +50,13 @@ title="Tipps und Tricks für Twitter" height="276" width="597"/>
 **Heben Sie Schlagworte und Begriffe mit `<em>` und `<strong>` hervor:** Ein weiteres hilfreiches Stilmittel, um Texte zu gestalten, die schnell erfassbar sind, ist die Methode fette Schrift zu nutzen. Exzellent nutzt zum Beispiel das englischsprachige Smashing Magazine – *sowieso eine tolle Adresse für Webdesigntipps* – diese Textauszeichnung – unter anderem in diesem Artikel: [»Getting Started With Content Management Systems«][7].
 
 
-[Teil 6: Links richtig setzen ›]({{ site.url }}/links-setzen/)
+[Teil 6: Links richtig setzen ›]({{ site.url }}/links-setzen/)
 {: .button.radius }
 
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
- [2]: {{ site.url }}/recherche/
+ [2]: {{ site.url }}/recherche/
  [3]: https://adwords.google.de/KeywordPlanner
  [4]: https://www.google.de/adwords/
  [5]: https://metager.de/klassik/asso/

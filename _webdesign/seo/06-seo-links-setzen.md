@@ -99,12 +99,12 @@ Für diese Art von Links haben sich die Suchmaschinenbetreiber die beiden Linkat
 {% endhighlight %}
 
 
-[Teil 7: Programme und Services für die Suchmaschinenoptimierung ›]({{ site.url }}/programme-services-suchmaschinenoptimierung//)
+[Teil 7: Programme und Services für die Suchmaschinenoptimierung ›]({{ site.url }}/programme-services-suchmaschinenoptimierung//)
 {: .button.radius }
 
 
  [1]: http://de.wikipedia.org/wiki/Braillezeile
- [2]: {{ site.url }}/recherche/
+ [2]: {{ site.url }}/recherche/
  [3]: https://adwords.google.de/KeywordPlanner
  [4]: https://www.google.de/adwords/
  [5]: https://metager.de/klassik/asso/

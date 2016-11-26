@@ -20,12 +20,12 @@ show_meta: false
 
 
 		<ul class="no-bullet">
-			{% for text in site.[page.collection] %}
+			{% for text in site[page.collection] %}
 			{% unless text.published == false %}
 			<li class="clearfix b60">
 				{% if text.subheadline %}<p class="subheadline">{{ text.subheadline }}</p>{% endif %}
-				<h2><a href="{{ site.url }}{{ text.url }}">{{ text.title }}</a></h2>
-				<p>{% if text.image.thumb %}<a href="{{ site.url }}{{ text.url }}"><img class="left" src="{{ site.urlimg }}{{ text.image.thumb }}" alt="" width="128" height="128"></a>{% endif %}{{ text.teaser }} <a href="{{ site.url }}{{ text.url }}">Anschauen ›</a></p>
+				<h2><a href="{{ site.url }}{{ text.url }}">{{ text.title }}</a></h2>
+				<p>{% if text.image.thumb %}<a href="{{ site.url }}{{ text.url }}"><img class="left" src="{{ site.urlimg }}{{ text.image.thumb }}" alt="" width="128" height="128"></a>{% endif %}{{ text.teaser }} <a href="{{ site.url }}{{ text.url }}">Anschauen ›</a></p>
 			</li>
 			{% endunless %}
 			{% endfor %}

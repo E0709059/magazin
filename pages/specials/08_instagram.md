@@ -62,7 +62,7 @@ Marie von Behrens ist jung, schön – und sehr erfolgreich auf Instagram. Mehr 
 
 ### Gesichter New Yorks
 
-[![]({{ site.urlimg }}instagram-humans-of-new-york-600x.jpg)][8]
+[![]({{ site.urlimg }}instagram-humans-of-new-york-600x.jpg)][8]
 
 Mit [Humans of New York][8] startete 2010 der Fotograf und Blogger [Brandon Stanton][9] ein außergewöhliches Projekt, dass er bis heute durchzieht. Zuerst auf Facebook, dann in einem Fotoblog und seit längerem auch auf Instagram , veröffentlicht er Portraits von Menschen.
 
@@ -125,7 +125,7 @@ Sowohl die [Nachrichtenagentur Reuters][6] als auch [CNN][7] pflegen ein Instagr
 <div class="medium-6 columns" markdown="1">
 ### Fotocollagen erstellen
 
-[![]({{ site.urlimg }}instagram-app-pic-stitch.jpg)][3]
+[![]({{ site.urlimg }}instagram-app-pic-stitch.jpg)][3]
 
 Mit der kostenlosen und werbefinanzierten Software Pic Stitch können Sie auf einfache Weise Fotos kombinieren. Dazu bietet die App verschiedene Layouts – siehe Abbildung –, um die Fotos zu kombinieren. Anschließend lassen sich die zusammengesetzten Bilder exportieren oder direkt über die Instagram veröffentlichen.
 
@@ -143,7 +143,7 @@ Mit der kostenlosen und werbefinanzierten Software Pic Stitch können Sie auf ei
 <div class="medium-6 columns" markdown="1">
 ### Seitenverhältnisse beibehalten
 
-[![]({{ site.urlimg }}instagram-app-squareready.jpg)][5]
+[![]({{ site.urlimg }}instagram-app-squareready.jpg)][5]
 
 [Square FX with Shapes][13] und/oder [Squaready][5] lösen das Problem, dass Instagram nur quadratische Bilder veröffentlicht. Will man z.B. Bilder im 16:9-Format verbreiten, hat man ein Problem. Dieses Problem lösen Sie mit einer der beiden kostenlosen Apps. Anstelle Teile des Fotos zu beschneiden, behalten die Apps das Originalformat bei und fügen seitlich oder ober- und unterhalb  Balken hinzu – siehe Abbildung. Die Farbe der Balken lässt sich individuell anpassen.
 

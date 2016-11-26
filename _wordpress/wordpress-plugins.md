@@ -34,7 +34,7 @@ Um die eigene WordPress-Website gegen Hackerangriffe zu sichern – und davon g
 
 ## Kontaktformular(e)
 
-[![Kontaktformular]({{ site.urlimg }}wordpress-plugin-jetpack.jpg)][6]
+[![Kontaktformular]({{ site.urlimg }}wordpress-plugin-jetpack.jpg)][6]
 
 Um bei einer WordPress-Website ein Kontaktformular einzubauen, gibt es zwei Varianten: Sie nutzen eine Erweiterung oder bauen einen externen Formular-Service ein. Wir empfehlen Ihnen einen Service wie [Wufoo][4]. Seit Jahren nutzen wir den Service, der in der Grundvariante kostenlos ist und völlig ausreicht. Der Vorteil: Sie müssen das System nicht pflegen und Spam haben wir noch nie erhalten. Möchten Sie lieber eine Erweiterung nutzen, dann empfehlen wir das [Multiplugin Jetpack][6] der WordPress-Macher oder den Klassiker [Contact Form 7][5].
 
@@ -42,7 +42,7 @@ Um bei einer WordPress-Website ein Kontaktformular einzubauen, gibt es zwei Vari
 
 ## Suchmaschinenoptimierung
 
-[![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)][3]
+[![Suchmaschinenoptimierung]({{ site.urlimg }}wordpress-plugin-seo.jpg)][3]
 
 Die beste und beliebteste Erweiterung, um WordPress professinell für Suchmaschinen zu optimieren ist [WordPress SEO][3] des SEO-Experten Yoast. Das umfangreiche Plugin löst sämtliche Anforderungen für die Suchmaschinenoptimierung und erweitert den Editor für Beiträge und Seiten um wichtige Funktionen. Die Einstellungsmöglichkeiten sind superb, einfach und umfangreich. Das Plugin deckt nicht nur die schlichte Optimierung von Beiträgen und Seiten ab, sondern bietet unter anderem auch die automatische Generierung einer Sitemap, Facebook- und Google Plus-Optimierung, einen hervorragenden Editor für Beiträge und Seiten und zahlreiche weitere Möglichkeiten.
 
@@ -64,7 +64,7 @@ Das großartige an diesem Plugin ist es, dass es einem keine zusätzliche Arbeit
 
 ## WordPress mit Caching-Plugin beschleunigen
 
-[![Caching]({{ site.urlimg }}wordpress-plugin-caching.jpg)][7]
+[![Caching]({{ site.urlimg }}wordpress-plugin-caching.jpg)][7]
 
 Mit jedem Webseitenaufruf arbeitet WordPress. Schließlich baut WordPress in der Regel jede Webseite dynamisch zusammen, bevor Sie im HTML-Format den Besucher erreicht. Steigen die Webseiten-Aufrufe, steigen die Anforderungen an WordPress, die Datenbank und den ackernden Server-Computer.
 
@@ -90,7 +90,7 @@ Mit [WP-Optimize][11] optimiert man WordPress, indem Sie mit Hilfe der Erweiteru
 
 ## Kaputte Links finden, reparieren und löschen
 
-[![]({{ site.urlimg }}wordpress-broken_link_checker.png)][10]
+[![]({{ site.urlimg }}wordpress-broken_link_checker.png)][10]
 {: .border-dotted }
 
 Wächst eine Website, wächst mit ihr auch die Wahrscheinlickeit, dass sich ins Nirvana führende zerbrochene Links ausbreiten. Im besten Fall federt eine 404-Fehlerseiten irregeführte Besucher ab. Mit dem Linkchecker-Plugin für WordPress lässt man automatisch sein System nach kaputten Links durchsuchen. 
@@ -101,7 +101,7 @@ Auf Wunsch informiert das Plugin per Email über neue zerbrochene Links. Oder es
 
 ## Baustellenschild oder Platzhalter-Webseite
 
-[![Erweiterung für Baustellenschild]({{ site.urlimg }}wordpress-maintenance.jpg)][13]
+[![Erweiterung für Baustellenschild]({{ site.urlimg }}wordpress-maintenance.jpg)][13]
 
 
 Baut man seine Website auf oder um, will man nicht unbedingt immer, dass die Welt das mitbekommt. In einem solchen Falle helfen Erweiterungen, die für nicht eingeloggte Nutzer eine Platzhalter-Website anzeigen. Ein beliebtes Plugin unter den vielen Maintenance Mode-Erweiterungen ist [Maintenance][13]. Einmal aktiviert, können Sie eingeloggt die Website sehen und diese umbauen. Alle anderen sehen eine von Ihnen gestaltete Baustellen-Website.
