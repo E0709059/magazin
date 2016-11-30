@@ -27,6 +27,7 @@ Inhalt
 </div><!-- /.medium-5.columns -->
 <div class="medium-7 medium-pull-5 columns" markdown="1">
 
+{% include info terminal='Die Sammlung <a href="http://magazin.phlow.de/terminal-befehle/">»Die häufigsten Terminal-Befehle«</a> versammelt, Terminal-Befehle, die man ab und zu mal nachschlagen muss.' %}
 
 ## Die wichtigsten Terminal Befehle
 
@@ -91,23 +92,6 @@ Um die obigen Farbschemata abzuspeichern, geht man wie folgt vor:
 3. Eventuell muss man die Sicherheitseinstellungen des Rechners kurz für die Installation außer Kraft setzen.
 4. Nachdem sich das Terminal-Fenster mit dem neuen Farbschemata geöffnet hat, öffnet man die Einstellungen (siehe oben).
 5. Ein Klick auf *Standard* macht es zum neuen Standardfarbschemata.
-
-
-
-
-
-
-## Verzeichnis mit Inhalt löschen
-
-{% include alert terminal='rm -rf verzeichnisname' %}
-
-
-
-## Versteckte Ordner & Dateien mit Terminal anzeigen
-
-Mit <kbd>ls</kbd> listet man die Dateien in einem Ordner auf. Um auch versteckte Dateien anzeigen zu lassen, muss man den Parameter <kbd>-all</kbd> oder in der Kurzvariante <kbd>-a</kbd> hinzufügen. Der Befehl lautet dann:
-
-{% include alert terminal='ls -a' %}
 
 
 
@@ -180,28 +164,12 @@ Wenn Sie nur eine Datei mit einer neuen Dateiendung zu erstellen – z.B. *.jpg*
 
 
 
-
-
-
-
 <small>Quelle <http://www.apfelquak.de/2007/11/19/sips-bildbearbeitung-via-terminal/></small>
 
 
 ### Dateiformat der Bilder konvertieren
 
 {% include alert terminal='for i in *.png; do sips -s format jpeg $i --out konvertiert/$i.jpg;done;' %}
-
-
-## Dateien runterladen
-
-### Downloads mit curl
-
-{% include alert terminal='wget https://archive.org/compress/kpu001' %}
-
-
-### WordPress runterladen, entpacken und Archiv löschen
-
-{% include alert terminal='wget http://wordpress.org/latest.tar.gz && tar xfz latest.tar.gz && rm -f latest.tar.gz' %}
 
 
 
