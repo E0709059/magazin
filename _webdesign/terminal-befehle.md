@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Terminal Befehle"
-teaser: ""
+teaser: "Nachschlagewerk: Eine Sammlung der Terminal-Befehle, die man öfters braucht, schnell aber vergisst."
 categories:
     - development
 tags:

@@ -27,7 +27,7 @@ Inhalt
 </div><!-- /.medium-5.columns -->
 <div class="medium-7 medium-pull-5 columns" markdown="1">
 
-{% include info terminal='Die Sammlung <a href="http://magazin.phlow.de/terminal-befehle/">»Die häufigsten Terminal-Befehle«</a> versammelt, Terminal-Befehle, die man ab und zu mal nachschlagen muss.' %}
+{% include alert info='Die Sammlung <a href="http://magazin.phlow.de/terminal-befehle/">»Die häufigsten Terminal-Befehle«</a> versammelt, Terminal-Befehle, die man ab und zu mal nachschlagen muss.' %}
 
 ## Die wichtigsten Terminal Befehle
 
