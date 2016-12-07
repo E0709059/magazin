@@ -44,6 +44,8 @@ Inhalt
 
 Pressetexte für Public Relations, kurz PR genannt, ähneln vom Aufbau sehr stark dem Nachrichtengenre. In erster Linie müssen PR-Texte interessante Informationen für Journalisten und Redakteure bieten, die die Pressetexte für eigene Artikel gebrauchen oder gar direkt als News verwerten. Gelingt Ihnen letzteres, sind Sie der Gewinner. Gewonnen haben Sie aber auch, wenn Sie das Hauptziel erreichen: Ihre Nachricht wurde als News in den Medien verwendet und die darin enthaltenen Nachrichten abgedruckt.
 
+{% include ad/werbung-nachricht-pressemeldung-content-de.html %}
+
 Damit Sie dieses Ziel erreichen, müssen Sie eine Menge Hürden nehmen, weil erfolgreiche PR-Texte nicht mal eben aus dem Handgelenk geschüttelt werden. Wichtig bei Pressetexten ist eben dem Nachrichtenwert die Aufbereitung. Wie News auch, dürfen Pressetexte nicht zu lang sein. Außerdem muss Ihnen bewusst sein, an wen sich Ihr PR-Text richtet. Richtet Sich Ihr Text an Musikredaktionen, so empfiehlt sich ein lockerer Stil, wohingegen zum Beispiel ein PR-Schreiben an Computermagazine über ein neues Software-Programm nüchtern und sachlich verfasst sein sollte.
 
 Bedenken Sie immer, dass Sie im besten Falle die Arbeit eines Redakteurs oder die eines Journalisten übernehmen. Redaktionen arbeiten oft unter Zeitdruck, ob im Online- oder im Printbereich. Besonders gegen Ende einer Heftproduktion fehlen bei Redaktionen im Magazin- und Zeitungsbereich noch Nachrichten - zum Beispiel im Produktbereich. Gähnt ein Loch in der Rubrik für elektronische Gadgets, so durchsuchen die Redakteure hastig auf der Suche nach einem interessanten Gerät die jeweiligen Newsletter.
