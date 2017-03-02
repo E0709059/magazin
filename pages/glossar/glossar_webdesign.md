@@ -57,6 +57,12 @@ Ein *Permalink* ist die Internetadresse (URL) einer Webseite, unter der ein Beit
 
 
 
+## Podcast
+
+Ein Podcast überträgt eine Sendung nicht live, sondern liefert den Audiomitschnitt als MP3, das im Internet auf den Download wartet. Gleichzeitig ermöglicht die  Podcasting-Technik den Aufbau von Abonnenten, die automatisch den Podcast über Musikprogramme wie iTunes empfangen. Der Vorteil gegenüber dem Radio liegt auf der Hand: Einen Podcast hört der Zuhörer dann, wenn er Zeit hat.
+
+
+
 ## Ping
 
 Per Ping testet und misst man die Zuverlässigkeit einer Netzverbindung und die Reaktionszeit eines Servers.

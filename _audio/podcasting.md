@@ -67,7 +67,7 @@ Wie die meisten Weblog-Systeme generiert auch [WordPress][3] automa­tisch RSS-F
 
 ### RSS-Podcast Generatoren
 
-- [Podcast Generator Script (PHP)](http://podcastgen.sourceforge.net/)
+- [Podcast Generator](http://www.podcastgenerator.net/)
 - [RSS-Validator](http://feedvalidator.org/)
 - [Jekyll Powered Podcast XML Generator](https://github.com/DevTips/Jekyll-Powered-Podcast-XML-Generator)
 
@@ -94,10 +94,6 @@ Wie die meisten Weblog-Systeme generiert auch [WordPress][3] automa­tisch RSS-F
  [1]: {{ site.url }}/video/rss/
  [2]: {{ site.url }}#podcast-software-und-podcatcher
  [3]: {{ site.url }}/wordpress/
- [4]: http://audacity.sourceforge.net/
+ [4]: http://www.audacityteam.org/
  [5]: http://www.chip.de/downloads/LAME_13003295.html
  [6]: http://www.google.de/search?q=lame_enc
- [7]: #
- [8]: #
- [9]: #
- [10]: #
