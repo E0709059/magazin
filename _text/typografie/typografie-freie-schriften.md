@@ -29,7 +29,7 @@ permalink: /typografie/freie-schriften/
 
 * [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) (Google Fonts)
 * [Gentium Basic](https://fonts.google.com/specimen/Gentium+Basic)
-* [Merriweather Sans][17] (Google Fonts)
+* [Merriweather Sans](https://fonts.google.com/specimen/Merriweather+Sans) (Google Fonts)
 * [Droid Serif](https://fonts.google.com/specimen/specimen/Droid+Serif) (Google Fonts)
 * [Neuton](https://fonts.google.com/specimen/specimen/Neuton) (Google Fonts)
 * [Arvo](https://fonts.google.com/specimen/specimen/Arvo) (Google Fonts)
