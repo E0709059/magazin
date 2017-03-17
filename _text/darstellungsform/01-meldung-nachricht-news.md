@@ -2,7 +2,7 @@
 layout:         page-fullwidth
 subheadline:    "Die Nachricht"
 title:          "Wie man eine Nachricht (Meldung, News) schreibt!"
-teaser:         "Dieser Artikel erklärt, wie man eine Nachricht (Meldung, News) professionell aufbaut und journalistisch verfasst."
+teaser:         "Dieser Artikel erklärt, wie man eine Nachricht (Meldung, News) professionell aufbaut und spannend schreibt und dazu Du die sieben W-Fragen nutzt."
 image:
     thumb: text-news-nachricht-meldung-128x-158718434.jpg
 header:
